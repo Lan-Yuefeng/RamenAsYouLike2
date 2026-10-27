@@ -12,7 +12,7 @@
 | `flux2_base_cfg4_negnocond` | 同上 | 20 ステップ、CFG 4.0、**ネガティブ側の cond なし（新既定）** | 349 秒（6.3 秒/枚） |
 | `flux2_distilled` | FLUX.2 klein-4B（蒸留版）+ 同じ LoRA | 4 ステップ、CFG なし | 208 秒（3.8 秒/枚。ほぼロード時間） |
 
-## 指標（`flux2_eval_val55.py`）
+## 指標（`scripts/flux2_eval_val55.py`）
 - **境界 recall / precision**：マスク境界と生成画像の Canny エッジの一致度（`utils/boundary_metric.py`。許容 3px）
 - **CLIP-T**：global caption と生成画像の CLIP（ViT-L/14）類似度 ×100。caption に沿っているか
 - **CLIP-I**：同じマスクの元写真と生成画像の CLIP 画像埋め込みの類似度 ×100。元写真に近い見た目か

@@ -1,9 +1,12 @@
 """train_flux2.py が tensorboard に書いた validation 画像を、指定ステップぶん 1 枚の一覧にする。
 
-    .venv-flux2/bin/python flux2_val_panel.py --step 1000 [--logdir ckpt/ramen_flux2/logs]
+    .venv-flux2/bin/python scripts/flux2_val_panel.py --step 1000 [--logdir ckpt/ramen_flux2/logs]
 
 各行: 元写真 | マスク + caption | 生成画像。再開でイベントファイルが複数あっても全部探す。
 """
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent.parent))  # リポジトリ直下 (src/ dataset/ utils/ infer.py) を import できるように
 import argparse
 import glob
 import io

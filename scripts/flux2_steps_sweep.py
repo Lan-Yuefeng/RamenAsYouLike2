@@ -1,7 +1,7 @@
 """FLUX.2 klein-base-4B + 学習済み LoRA で、推論ステップ数を変えたときの生成結果と生成時間を比べる。
 
     HF_HOME=/export/ssd3/lan-y/huggingface HF_HUB_OFFLINE=1 CUDA_VISIBLE_DEVICES=3 \
-        .venv-flux2/bin/python flux2_steps_sweep.py --lora_ckpt_path ckpt/ramen_flux2/checkpoint-3000
+        .venv-flux2/bin/python scripts/flux2_steps_sweep.py --lora_ckpt_path ckpt/ramen_flux2/checkpoint-3000
 
 出力 (既定 result_f2/flux2_steps_sweep/):
   steps{N}/ramen_XXXX.jpg   各ステップ数の生成画像
@@ -10,6 +10,9 @@
   README.md                 条件と結果の表
 モデルは 1 回だけ読み込み、本番の前に 1 枚ウォームアップしてから測る (初回の CUDA 初期化を含めないため)。
 """
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent.parent))  # リポジトリ直下 (src/ dataset/ utils/ infer.py) を import できるように
 import argparse
 import csv
 import json
@@ -127,7 +130,7 @@ lines = [
     f"- 入力: `{args.seg_mask_path}` の {len(samples)} 例 (seed は各 json)。512×512、CFG {args.guidance_scale}、"
     f"`attention_mask_method={args.attention_mask_method}`",
     f"- GPU: {gpu} 1 枚。時間はテキストエンコード〜VAE デコードまでを含む 1 枚あたりの時間 (ウォームアップ 1 枚は除外)",
-    f"- 作成: `flux2_steps_sweep.py`", "",
+    f"- 作成: `scripts/flux2_steps_sweep.py`", "",
     "| ステップ数 | 平均 (秒/枚) | 最小 | 最大 | 1 ステップあたり | 50 ステップ比 |",
     "|---|---|---|---|---|---|",
 ]

@@ -1,10 +1,13 @@
 """1024² 推論 (学習は 512²) を val の先頭 10 枚で 512² 推論と比べる。
 
-    HF_HOME=/export/ssd3/lan-y/huggingface .venv-flux3/bin/python flux3_eval_val10_1024.py
+    HF_HOME=/export/ssd3/lan-y/huggingface .venv-flux3/bin/python scripts/flux3_eval_val10_1024.py
 
-指標は flux2_eval_val55.py と同じ (生成画像は 512 に縮めて、512 の mask と比べる)。10 枚なので KID / FID は出さない。
+指標は scripts/flux2_eval_val55.py と同じ (生成画像は 512 に縮めて、512 の mask と比べる)。10 枚なので KID / FID は出さない。
 パネルは例ごとに 1 枚 (panel_<stem>.jpg)。1 マス 1024 px で、1024² の生成画像は縮小しない (512² のものは拡大して並べる)
 """
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent.parent))  # リポジトリ直下 (src/ dataset/ utils/ infer.py) を import できるように
 import argparse
 import json
 import os

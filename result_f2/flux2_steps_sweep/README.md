@@ -3,7 +3,7 @@
 - モデル: `black-forest-labs/FLUX.2-klein-base-4B` + LoRA `ckpt/ramen_flux2/checkpoint-3000`
 - 入力: `examples_Ramen` の 10 例 (seed は各 json)。512×512、CFG 4.0、`attention_mask_method=hard`
 - GPU: NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition 1 枚。時間はテキストエンコード〜VAE デコードまでを含む 1 枚あたりの時間 (ウォームアップ 1 枚は除外)
-- 作成: `flux2_steps_sweep.py`
+- 作成: `scripts/flux2_steps_sweep.py`
 
 | ステップ数 | 平均 (秒/枚) | 最小 | 最大 | 1 ステップあたり | 50 ステップ比 |
 |---|---|---|---|---|---|

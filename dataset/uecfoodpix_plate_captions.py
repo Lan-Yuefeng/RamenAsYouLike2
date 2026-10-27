@@ -9,7 +9,7 @@ FLUX.1 版 / 最初の FLUX.2 版 (dataset/uecfoodpix_captions.py) では id 0 �
     1..102 : 料理 (名前は uecfoodpix_captions と同じ、"others" -> "food")
 
 マスクは dataset/make_uecfoodpix_plate_masks.py で前処理済みの 1ch PNG (画素値 = 上の id)。
-学習 (dataset/uecfoodpix_plate_flux2_dataset.py) と推論 (gen_uecfoodpix_flux2_test.py --plate) の両方がここを import する。
+学習 (dataset/uecfoodpix_plate_flux2_dataset.py) と推論 (scripts/gen_uecfoodpix_flux2_test.py --plate) の両方がここを import する。
 文言を変えたら学習し直すこと。
 """
 from dataset.uecfoodpix_captions import CLASS_ID_TO_NAME as FOOD_ID_TO_NAME

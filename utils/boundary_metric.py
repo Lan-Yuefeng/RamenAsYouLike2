@@ -1,4 +1,4 @@
-"""マスクの境界と生成画像のエッジの一致度 (flux2_cfg_sweep.py / flux2_eval_val55.py で共通に使う)。
+"""マスクの境界と生成画像のエッジの一致度 (scripts/flux2_cfg_sweep.py / scripts/flux2_eval_val55.py で共通に使う)。
 
 recall    : マスクの境界画素のうち、画像の Canny エッジが tol px 以内にある割合 (境界の位置に実際の境目があるか)
 precision : 画像のエッジのうち、マスク境界の tol px 以内にある割合 (麺などの模様のエッジも数えるので低めに出る)

@@ -1,6 +1,6 @@
 """val 55 枚での評価。result_f2/run_val55_gen.sh で生成した各条件を、同じ指標で比べる。
 
-    HF_HOME=/export/ssd3/lan-y/huggingface HF_HUB_OFFLINE=1 .venv-flux2/bin/python flux2_eval_val55.py
+    HF_HOME=/export/ssd3/lan-y/huggingface HF_HUB_OFFLINE=1 .venv-flux2/bin/python scripts/flux2_eval_val55.py
 
 指標:
   boundary recall / precision : マスク境界と画像エッジの一致度 (utils/boundary_metric.py)。recall が主指標
@@ -10,6 +10,9 @@
               55 枚では FID はばらつきが大きいので参考値、少数サンプル向きの KID を主に見る
 出力: result_f2/val55/metrics_per_image.csv, summary.json, README.md, panel.jpg
 """
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent.parent))  # リポジトリ直下 (src/ dataset/ utils/ infer.py) を import できるように
 import argparse
 import csv
 import json

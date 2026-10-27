@@ -1,6 +1,6 @@
-"""UECFoodPix 皿版 test10 の境界 recall / precision (utils/boundary_metric.py、flux2_eval_val55.py と同じ指標)。
+"""UECFoodPix 皿版 test10 の境界 recall / precision (utils/boundary_metric.py、scripts/flux2_eval_val55.py と同じ指標)。
 
-    /export/ssd2/lan-y/venvs/Seg2Any/.venv-flux3/bin/python eval_uecfoodpix_flux3_boundary.py
+    /export/ssd2/lan-y/venvs/Seg2Any/.venv-flux3/bin/python scripts/eval_uecfoodpix_flux3_boundary.py
 
 - 比べる mask は学習・生成の入力と同じ 512² (id マップを nearest-exact で縮小。Dataset と同じ)
 - recall は境界の種類別にも出す: food = 料理 (1..102) が接する境界、plate|table = 皿 (103) とテーブル (0) の境界だけ
@@ -8,6 +8,9 @@
 - 参考に GT 写真 (512² に縮小) も同じ指標で測る
 出力: result_f3/UECFOODPIX_flux3/compare_test10/boundary.json と boundary_<stem>.jpg (生成画像に mask 境界を赤で重ねたもの、512² のまま)
 """
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent.parent))  # リポジトリ直下 (src/ dataset/ utils/ infer.py) を import できるように
 import json
 import os
 import statistics

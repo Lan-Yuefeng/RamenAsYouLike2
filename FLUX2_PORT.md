@@ -79,7 +79,7 @@ bash train_ramen_flux2.sh --trainer.gradient_checkpointing=True   # 48 GB 級の
 - 出力先は `ckpt/ramen_flux2/checkpoint-N/{default,cond}/`（`ckpt` は space0 へのシンボリックリンク）
 - 学習中の validation 画像は tensorboard のログにしか出ない。1 枚の一覧画像として取り出すには次のようにする。
   ```bash
-  .venv-flux2/bin/python flux2_val_panel.py --step 1500     # → result_f2/flux2_val/step1500.jpg
+  .venv-flux2/bin/python scripts/flux2_val_panel.py --step 1500     # → result_f2/flux2_val/step1500.jpg
   ```
 
 ### テスト（実装を触ったら回す）
@@ -106,12 +106,12 @@ bash train_ramen_flux2.sh --trainer.gradient_checkpointing=True   # 48 GB 級の
 | `flux2_step2_test.py` / `flux2_step3_test.py` / `flux2_step4_test.py` | 各ステップの検証 |
 | `flux2_step3_compare.py` | LoRA なしで、テキスト位置の付け方 2 通りを見比べる一覧を作る |
 | `flux2_step5_compare.py` | 学習後の比較一覧（FLUX.1 / FLUX.2 Base / FLUX.2 蒸留版）を作る |
-| `flux2_steps_sweep.py` | Base 版でステップ数を変えて、生成結果と生成時間を記録する |
-| `flux2_cfg_sweep.py` | CFG の強さを変えて生成し、境界の一致度（Canny エッジとの recall）を測る |
-| `flux2_eval_val55.py` | val 55 枚の各条件を、境界・CLIP-T・CLIP-I・KID/FID で評価する |
-| `result_f2/run_val55_gen.sh` | `flux2_eval_val55.py` 用の生成（4 条件） |
+| `scripts/flux2_steps_sweep.py` | Base 版でステップ数を変えて、生成結果と生成時間を記録する |
+| `scripts/flux2_cfg_sweep.py` | CFG の強さを変えて生成し、境界の一致度（Canny エッジとの recall）を測る |
+| `scripts/flux2_eval_val55.py` | val 55 枚の各条件を、境界・CLIP-T・CLIP-I・KID/FID で評価する |
+| `result_f2/run_val55_gen.sh` | `scripts/flux2_eval_val55.py` 用の生成（4 条件） |
 | `utils/boundary_metric.py` | 境界の一致度の計算（上の 2 つのスクリプトで共通に使う） |
-| `flux2_val_panel.py` | tensorboard から validation 画像を取り出す |
+| `scripts/flux2_val_panel.py` | tensorboard から validation 画像を取り出す |
 | `.venv-flux2/` | FLUX.2 用の venv |
 
 ### 出力物
@@ -486,7 +486,7 @@ LoRA のパラメータ数は **合計 45M**（全体 3.92B の 1.15%）。
 - スープの色や器の見た目は、モデルごとにかなり違う。どれが caption に忠実かは、目視だけでは判断しきれない。定量評価（§14）で確かめたい。
 
 ### 11.3 Base 版の推論ステップ数を変えた比較（50 / 40 / 30 / 20 / 10）
-結果は `result_f2/flux2_steps_sweep/` にまとめた（作成は `flux2_steps_sweep.py`）。
+結果は `result_f2/flux2_steps_sweep/` にまとめた（作成は `scripts/flux2_steps_sweep.py`）。
 
 | 置き場所 | 中身 |
 |---|---|
@@ -515,7 +515,7 @@ LoRA のパラメータ数は **合計 45M**（全体 3.92B の 1.15%）。
 
 
 ### 11.4 境界への忠実さと CFG（`result_f2/flux2_cfg_sweep/`）
-「FLUX.1 版より境界に忠実でない」という指摘を受け、CFG の強さを変えて調べた（作成は `flux2_cfg_sweep.py`、詳細は同じディレクトリの `README.md`）。条件は 10 例、20 ステップ、hard マスク、gp13（RTX 6000 Ada）。
+「FLUX.1 版より境界に忠実でない」という指摘を受け、CFG の強さを変えて調べた（作成は `scripts/flux2_cfg_sweep.py`、詳細は同じディレクトリの `README.md`）。条件は 10 例、20 ステップ、hard マスク、gp13（RTX 6000 Ada）。
 
 **境界の指標**：マスクの境界画素のうち、生成画像の Canny エッジが 3px 以内にある割合（recall）。指標が効くことは、元写真とそのマスクで 0.59、別の写真のマスクと組み合わせると 0.25 になることで確かめた。
 
@@ -538,7 +538,7 @@ LoRA のパラメータ数は **合計 45M**（全体 3.92B の 1.15%）。
 
 
 ### 11.5 val 55 枚での最終評価（`result_f2/val55/`）
-§11.4 の結果が 10 例だけでなく val 全体でも成り立つか、画質を落としていないかを確かめた（生成は `result_f2/run_val55_gen.sh`、評価は `flux2_eval_val55.py`、詳細は `result_f2/val55/README.md`）。
+§11.4 の結果が 10 例だけでなく val 全体でも成り立つか、画質を落としていないかを確かめた（生成は `result_f2/run_val55_gen.sh`、評価は `scripts/flux2_eval_val55.py`、詳細は `result_f2/val55/README.md`）。
 
 - 入力：学習に使っていない val 55 枚すべて（`examples_Ramen_val55`。caption は学習時と同じ文言）。512²、gp13（RTX 6000 Ada）
 - **FLUX.1 も同じ入力で生成し直した**（`infer.py` の既定：32 ステップ、guidance 3.5、cond_scale_factor 1）。§11.1 のように以前の出力を流用していないので、条件がそろっている。

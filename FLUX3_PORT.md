@@ -187,7 +187,7 @@ CUDA_VISIBLE_DEVICES=0,1 NUM_PROCESSES=2 ACCEL_CONFIG=accelerate_2gpu_config.yam
 | flux3_base_cfg35_20step | 366 秒 |
 | flux3_distilled（16 ステップ、CFG なし） | 231 秒 |
 
-### 評価（`flux2_eval_val55.py --result_root result_f3/val55_flux3`）
+### 評価（`scripts/flux2_eval_val55.py --result_root result_f3/val55_flux3`）
 FLUX.1 / FLUX.2 は `result_f2/val55` の生成物をリンクして同じ条件で再計算した。
 
 | 条件 | 境界 recall | 境界 precision | CLIP-T | CLIP-I | KID×1000 | FID |
@@ -219,7 +219,7 @@ FLUX.1 より recall が高い画像の数（55 枚中）：FLUX.2 Base 23、FLU
 ## 8. 1024² で推論（学習は 512² のまま）
 
 UEC-Ramen555 は短辺の中央値が 450 px（1024 以上は 555 枚中 3 枚）なので、1024² の学習はせず、512² で学習した checkpoint-3000 を 1024² で推論した。
-val55 の先頭 10 枚だけで比べる（`result_f3/run_val10_flux3_1024_gen.sh` → `result_f3/val10_flux3_1024`、評価は `flux3_eval_val10_1024.py`。生成画像は 512 に縮めて 512 の mask と比べる。10 枚なので KID / FID は出さない）。
+val55 の先頭 10 枚だけで比べる（`result_f3/run_val10_flux3_1024_gen.sh` → `result_f3/val10_flux3_1024`、評価は `scripts/flux3_eval_val10_1024.py`。生成画像は 512 に縮めて 512 の mask と比べる。10 枚なので KID / FID は出さない）。
 mask は 512 の mask を最近傍で 2 倍にしたもの（`examples_Ramen_val10_1024`）。csf2 は `--cond_scale_factor 2`（輪郭画像を 512 で作り、位置 id を 2 倍して 1024 の格子に合わせる）。
 
 | 条件 | 境界 recall | precision | CLIP-T | CLIP-I | 10 枚の時間 |
@@ -342,12 +342,12 @@ bash train_uecfoodpix_plate_flux3.sh --resume_from_checkpoint=latest  # 再開
 
 ### 生成と比較（test 10 枚、checkpoint-5500）
 
-- 生成：`gen_uecfoodpix_flux3_test.py`（入力は学習と同じ Dataset の test、512² 正方、seed = stem、attention base）
+- 生成：`scripts/gen_uecfoodpix_flux3_test.py`（入力は学習と同じ Dataset の test、512² 正方、seed = stem、attention base）
   - Base + LoRA 20 ステップ CFG 3.5 → `result_f3/UECFOODPIX_flux3/plate_test10_base20/gen`
   - 蒸留版 + LoRA 16 ステップ → `result_f3/UECFOODPIX_flux3/plate_test10_distill16/gen`
   - 速度（gp41 A40、1 枚）：Base 20 ステップ CFG 約 17 秒、蒸留版 16 ステップ 約 8 秒
 - FLUX.2 皿版は既存の `result_f2/UECFOODPIX_flux2/uecfoodpix_plate_flux2_test10_base`（自作マスク、Base 20 ステップ CFG 4、base）を流用。この 10 枚では自作マスクと共有マスクの一致率 99.8% 以上・クラス構成も同じなので、入力はほぼ同じ
-- パネル：`make_uecfoodpix_flux3_compare.py` → `result_f3/UECFOODPIX_flux3/compare_test10/panel_<stem>.jpg`、`all_panels.jpg`（マスク | GT | FLUX.2 Base | FLUX.3 Base | FLUX.3 蒸留版、縮小なし）
+- パネル：`scripts/make_uecfoodpix_flux3_compare.py` → `result_f3/UECFOODPIX_flux3/compare_test10/panel_<stem>.jpg`、`all_panels.jpg`（マスク | GT | FLUX.2 Base | FLUX.3 Base | FLUX.3 蒸留版、縮小なし）
 - 見た目：
   - 3 条件ともマスクの配置・皿の形にはよく従う
   - FLUX.3 は料理の描写が caption に忠実：照り焼き魚のタレ（4357。FLUX.2 はカツ・ステーキ風）、エビフライ・ハンバーグのソース（16164）、納豆の豆粒（3061）、マカロニサラダ（4357）
@@ -355,9 +355,9 @@ bash train_uecfoodpix_plate_flux3.sh --resume_from_checkpoint=latest  # 再開
   - 蒸留版は Base とほぼ同じ構図・品質で、少し彩度・コントラストが低い
   - "food"（others）クラスは曖昧で、モデルごとに中身がばらばら（6910 は GT が海苔のパック、FLUX.2 はきゅうり、FLUX.3 は揚げ物）
 
-### 境界 recall（test 10 枚、`eval_uecfoodpix_flux3_boundary.py`）
+### 境界 recall（test 10 枚、`scripts/eval_uecfoodpix_flux3_boundary.py`）
 
-指標は `utils/boundary_metric.py`（flux2_eval_val55.py と同じ。Canny エッジがマスク境界の 3 px 以内にある割合、512²）。マスクは入力と同じ 512²（nearest-exact）。
+指標は `utils/boundary_metric.py`（scripts/flux2_eval_val55.py と同じ。Canny エッジがマスク境界の 3 px 以内にある割合、512²）。マスクは入力と同じ 512²（nearest-exact）。
 境界を「料理が接する境界（food）」と「皿とテーブルの境界（plate|table）」に分けても集計した。FLUX.2 は入力に使った自作マスクで測る（共有マスクで測っても 0.748 でほぼ同じ）。
 
 | 条件 | recall | food | plate\|table | precision | エッジ密度 |
@@ -374,10 +374,10 @@ bash train_uecfoodpix_plate_flux3.sh --resume_from_checkpoint=latest  # 再開
 - GT 写真の recall が 0.56 と低いのは、マスクの皿・テーブル境界が粗い（細かいギザギザ・飛び地がある）ため。生成モデルはマスクどおりに輪郭を描くので GT より高く出る
 - 重ね描き：`result_f3/UECFOODPIX_flux3/compare_test10/boundary_<stem>.jpg`（マスク境界を赤で重ねた 512² 画像、GT | FLUX.2 | FLUX.3 Base | 蒸留版）、数値は `boundary.json`
 
-### cond を序盤のステップだけ入れる（test 10 枚、`eval_uecfoodpix_flux3_condsteps.py`）
+### cond を序盤のステップだけ入れる（test 10 枚、`scripts/eval_uecfoodpix_flux3_condsteps.py`）
 
 `Flux3RegionalPipeline(cond_steps=k)` を追加した：cond（輪郭）トークンは最初の k ステップだけ入れ、それ以降は cond なし（領域アテンションマスク・regional caption はそのまま）。None（既定）は全ステップで、従来と同じ。
-生成は `gen_uecfoodpix_flux3_test.py --cond_steps k` → `result_f3/UECFOODPIX_flux3/cond_steps/{base20_cs<k>,distill16_cs<k>}`、パネル `cond_steps/panel_<stem>.jpg`（上段 Base 20/10/5/2/0、下段 蒸留版 16/8/4）。
+生成は `scripts/gen_uecfoodpix_flux3_test.py --cond_steps k` → `result_f3/UECFOODPIX_flux3/cond_steps/{base20_cs<k>,distill16_cs<k>}`、パネル `cond_steps/panel_<stem>.jpg`（上段 Base 20/10/5/2/0、下段 蒸留版 16/8/4）。
 
 | 条件 | recall (3px) | food | plate\|table | recall (8px) | precision |
 |---|---|---|---|---|---|

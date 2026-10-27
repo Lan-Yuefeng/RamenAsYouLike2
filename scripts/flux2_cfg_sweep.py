@@ -1,7 +1,7 @@
 """FLUX.2 klein-base-4B + LoRA で CFG の強さを変え、マスクの境界への忠実さがどう変わるかを調べる。
 
     HF_HOME=/export/ssd3/lan-y/huggingface HF_HUB_OFFLINE=1 \
-        .venv-flux2/bin/python flux2_cfg_sweep.py --lora_ckpt_path ckpt/ramen_flux2/checkpoint-3000
+        .venv-flux2/bin/python scripts/flux2_cfg_sweep.py --lora_ckpt_path ckpt/ramen_flux2/checkpoint-3000
 
 条件 (既定):
   cfg{1.0,1.5,2.0,3.0,4.0}     ネガティブ側にも cond を入れる (これまでの設定)。1.0 は CFG なし
@@ -12,6 +12,9 @@
   元写真と FLUX.1 の既存出力 (result/ramen_3000) も同じ指標で測り、目安にする。
 出力: result_f2/flux2_cfg_sweep/ (画像、metrics.csv、timing、panel.jpg、README.md)
 """
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent.parent))  # リポジトリ直下 (src/ dataset/ utils/ infer.py) を import できるように
 import argparse
 import csv
 import json

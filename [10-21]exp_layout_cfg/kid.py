@@ -1,4 +1,4 @@
-"""KID / FID (val の実写 55 枚、512² に変形したものとの分布の距離)。flux2_eval_val55.py と同じ設定 (clean-fid)。
+"""KID / FID (val の実写 55 枚、512² に変形したものとの分布の距離)。scripts/flux2_eval_val55.py と同じ設定 (clean-fid)。
 
     cd ~/Seg2Any/"[10-21]exp_layout_cfg" && CUDA_VISIBLE_DEVICES=0 ../.venv-flux3/bin/python kid.py --root results_val55 --conditions a,b,...
 55 枚では FID はばらつきが大きいので参考値。少数サンプル向きの KID を主に見る。出力: <root>/kid.csv

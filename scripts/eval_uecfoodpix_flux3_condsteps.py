@@ -1,11 +1,14 @@
 """cond (輪郭) を最初の k ステップだけ入れたときの境界 recall と見た目 (UECFoodPix 皿版 test10)。
 
-    /export/ssd2/lan-y/venvs/Seg2Any/.venv-flux3/bin/python eval_uecfoodpix_flux3_condsteps.py
+    /export/ssd2/lan-y/venvs/Seg2Any/.venv-flux3/bin/python scripts/eval_uecfoodpix_flux3_condsteps.py
 
-生成は gen_uecfoodpix_flux3_test.py --cond_steps k (result_f3/UECFOODPIX_flux3/cond_steps/)。全ステップの分は既存の生成を使う。
-指標は eval_uecfoodpix_flux3_boundary.py と同じ (tol 3 px) に加えて、tol 8 px の recall (おおまかな配置が合っているかの目安)。
+生成は scripts/gen_uecfoodpix_flux3_test.py --cond_steps k (result_f3/UECFOODPIX_flux3/cond_steps/)。全ステップの分は既存の生成を使う。
+指標は scripts/eval_uecfoodpix_flux3_boundary.py と同じ (tol 3 px) に加えて、tol 8 px の recall (おおまかな配置が合っているかの目安)。
 出力: result_f3/UECFOODPIX_flux3/cond_steps/summary.json、panel_<stem>.jpg (512² のまま横に並べる。上段 Base 20/18/16/14/12/10/5/2/0、下段 蒸留版 16/8/4)
 """
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent.parent))  # リポジトリ直下 (src/ dataset/ utils/ infer.py) を import できるように
 import json
 import statistics
 

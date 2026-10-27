@@ -2,15 +2,18 @@
 
     # GPU ごとに shard を分けて生成 (gp36 の A100 = GPU 4,5)
     HF_HOME=/export/ssd3/lan-y/huggingface HF_HUB_OFFLINE=1 CUDA_VISIBLE_DEVICES=4 \
-        .venv-flux2/bin/python gen_uecfoodpix_flux2_test.py --shard 0 --num_shards 2
+        .venv-flux2/bin/python scripts/gen_uecfoodpix_flux2_test.py --shard 0 --num_shards 2
     # パネルだけ作り直す
-    .venv-flux2/bin/python gen_uecfoodpix_flux2_test.py --panels_only
+    .venv-flux2/bin/python scripts/gen_uecfoodpix_flux2_test.py --panels_only
 
 --plate を付けると皿マスク版 (UECFoodPixPlateFlux2Dataset、global caption あり) で生成する。
 入力は学習と同じ Dataset (val 設定) から取るので、caption・マスク・cond 輪郭は学習時と完全に一致する。
 生成は学習と同じ 512x512 正方。パネルでは GT の元アスペクトに戻して並べる。
 出力: <out>/gen/<stem>.jpg (512² の生成そのもの), <out>/panel/<stem>.jpg
 """
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent.parent))  # リポジトリ直下 (src/ dataset/ utils/ infer.py) を import できるように
 import argparse
 import colorsys
 import os

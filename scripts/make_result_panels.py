@@ -1,12 +1,15 @@
 """infer_flux2.py の出力ディレクトリから、マスクの重ね合わせと比較パネルを作る。
 
-    .venv-flux2/bin/python make_result_panels.py result_f2/cfg3.0_steps16 [--title "CFG 3.0, 16 steps"]
+    .venv-flux2/bin/python scripts/make_result_panels.py result_f2/cfg3.0_steps16 [--title "CFG 3.0, 16 steps"]
 
 <dir>/input/*.png (マスク) と <dir>/generated/*_0.jpg (生成) を読み、次を書き出す:
   overlay/<stem>_overlay.jpg : 生成画像にマスク色を 45% で重ね、領域境界を白線で描いたもの
   panel_mask_gt_gen.jpg      : 各行 マスク | GT (元写真, 生成と同じサイズに変形) | 生成  (GT が無い入力では作らない)
   panel_overlay.jpg          : 各行 マスク | 生成 | マスクを重ねた生成
 """
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent.parent))  # リポジトリ直下 (src/ dataset/ utils/ infer.py) を import できるように
 import argparse
 import glob
 import os

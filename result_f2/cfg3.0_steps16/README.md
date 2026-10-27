@@ -9,7 +9,7 @@
       --seg_mask_path result_f2/cfg3.0_steps16/input --lora_ckpt_path ckpt/ramen_flux2/checkpoint-3000 --output_path result_f2/cfg3.0_steps16/generated \
       --pretrained_model_name_or_path black-forest-labs/FLUX.2-klein-base-4B --guidance_scale 3.0 --num_inference_steps 16 --cond_scale_factor 1
   ```
-- パネル作成：`.venv-flux2/bin/python make_result_panels.py result_f2/cfg3.0_steps16 --title "CFG 3.0, 16 steps"`
+- パネル作成：`.venv-flux2/bin/python scripts/make_result_panels.py result_f2/cfg3.0_steps16 --title "CFG 3.0, 16 steps"`
 - GPU：gp13
 
 ## ファイル

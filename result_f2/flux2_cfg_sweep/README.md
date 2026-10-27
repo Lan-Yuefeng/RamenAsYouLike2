@@ -3,7 +3,7 @@
 ## 条件
 - モデル：`black-forest-labs/FLUX.2-klein-base-4B` + LoRA `ckpt/ramen_flux2/checkpoint-3000`
 - 入力：`examples_Ramen` の 10 例（seed は各 json）。512×512、20 ステップ、hard マスク
-- GPU：RTX 6000 Ada 1 枚（gp13）。作成は `flux2_cfg_sweep.py`
+- GPU：RTX 6000 Ada 1 枚（gp13）。作成は `scripts/flux2_cfg_sweep.py`
 - 条件名
   - `cfgX`：ネガティブ側にも cond（輪郭）を入れる。**これまでの設定**。`cfg1.0` は CFG なし
   - `cfgX_negnocond`：ネガティブ側から cond を外す（新しく追加したオプション `negative_use_cond=False`）

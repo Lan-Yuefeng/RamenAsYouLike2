@@ -1,15 +1,18 @@
 """UECFOODPIXCOMPLETE test を FLUX.3 皿版 LoRA (config/seg2any_uecfoodpix_plate_flux3.yaml) で生成する。
 
-gen_uecfoodpix_flux2_test.py --plate の FLUX.3 版。入力は学習と同じ Dataset (UECFoodPixPlateFlux3Dataset, val 設定) から取るので、
+scripts/gen_uecfoodpix_flux2_test.py --plate の FLUX.3 版。入力は学習と同じ Dataset (UECFoodPixPlateFlux3Dataset, val 設定) から取るので、
 caption・マスク・cond 輪郭は学習時と一致する。生成は学習と同じ 512x512 正方、seed は stem (FLUX.2 版と同じ)。
-パネルは make_uecfoodpix_flux3_compare.py で作る。
+パネルは scripts/make_uecfoodpix_flux3_compare.py で作る。
 
     HF_HOME=/export/ssd2/lan-y/huggingface CUDA_VISIBLE_DEVICES=0 /export/ssd2/lan-y/venvs/Seg2Any/.venv-flux3/bin/python \
-        gen_uecfoodpix_flux3_test.py --stems 16164,3061 --output_path result_f3/UECFOODPIX_flux3/plate_test10_base20
+        scripts/gen_uecfoodpix_flux3_test.py --stems 16164,3061 --output_path result_f3/UECFOODPIX_flux3/plate_test10_base20
     # 蒸留版 (16 step, CFG なし)
-    ... gen_uecfoodpix_flux3_test.py --pretrained_model_name_or_path black-forest-labs/flux-3-image-klein --num_inference_steps 16 ...
+    ... scripts/gen_uecfoodpix_flux3_test.py --pretrained_model_name_or_path black-forest-labs/flux-3-image-klein --num_inference_steps 16 ...
 出力: <out>/gen/<stem>.jpg
 """
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent.parent))  # リポジトリ直下 (src/ dataset/ utils/ infer.py) を import できるように
 import argparse
 import os
 

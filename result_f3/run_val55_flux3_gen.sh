@@ -1,6 +1,6 @@
 #!/bin/bash
 # val 55 枚の FLUX.3 評価用生成 (3 条件を GPU 0,1,2 で並列)。FLUX.1 / FLUX.2 の生成物は result_f2/val55 のものをリンクして使う。
-# 評価: .venv-flux3/bin/python flux2_eval_val55.py --result_root result_f3/val55_flux3 --conditions ...
+# 評価: .venv-flux3/bin/python scripts/flux2_eval_val55.py --result_root result_f3/val55_flux3 --conditions ...
 set -u
 cd ~/Seg2Any
 export HF_HOME=/export/ssd3/lan-y/huggingface

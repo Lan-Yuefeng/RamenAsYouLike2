@@ -1,5 +1,5 @@
 #!/bin/bash
-# val55 に広げた評価。4090 x4 で 4 条件を並列に生成 → mIoU / CLIP (eval.py)、bIoU (boundary_iou.py)、KID / FID (flux2_eval_val55.py)
+# val55 に広げた評価。4090 x4 で 4 条件を並列に生成 → mIoU / CLIP (eval.py)、bIoU (boundary_iou.py)、KID / FID (scripts/flux2_eval_val55.py)
 # 出力は角括弧のないパス ~/Seg2Any/result_f3/val55_selfdistill (cleanfid の glob 対策)。tmux から起動する
 set -u
 cd "$(dirname "$0")"
@@ -22,6 +22,6 @@ CUDA_VISIBLE_DEVICES=0 $PY/python eval.py --inputs $IN --root $OUT --conditions 
   --seg_model /export/ssd3/lan-y/seg2any_ckpt/ramen_segformer_b4 --panel_n 12 > $OUT/eval.log 2>&1 &
 CUDA_VISIBLE_DEVICES=1 $PY/python boundary_iou.py --inputs $IN --root $OUT --conditions $CONDS > $OUT/biou.log 2>&1 &
 cd ~/Seg2Any
-CUDA_VISIBLE_DEVICES=2 $PY/python flux2_eval_val55.py --seg_mask_path $IN --result_root $OUT --conditions $CONDS > $OUT/kid.log 2>&1 &
+CUDA_VISIBLE_DEVICES=2 $PY/python scripts/flux2_eval_val55.py --seg_mask_path $IN --result_root $OUT --conditions $CONDS > $OUT/kid.log 2>&1 &
 wait
 echo "ALL DONE $(date)"

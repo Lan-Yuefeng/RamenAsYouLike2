@@ -9,6 +9,7 @@
 - `src/`, `train_flux*.py`, `infer_flux*.py` — Seg2Any の FLUX.2 / FLUX.3 版
 - `dataset/` — UEC-Ramen555 / UECFoodPix / SACap-1M 用のデータローダと caption
 - `config/`, `train_*.sh` — 学習設定
+- `scripts/` — 評価・比較・パネル作成などの単発スクリプト（リポジトリ直下から `python scripts/xxx.py` で実行）
 - `[MM-DD]exp_*/` — 個別の実験（レイアウト CFG、切除実験、VLM caption、高速化、自己蒸留など）
 - `FLUX2_PORT.md`, `FLUX3_PORT.md` — 移植の記録
 

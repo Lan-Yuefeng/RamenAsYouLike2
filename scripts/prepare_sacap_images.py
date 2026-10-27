@@ -3,11 +3,14 @@
 tar 全体 (1 個 ~11GB) はディスクに置かない。curl の出力を tarfile のストリームモードで読み、
 anno_train.parquet に載っている imagename の .jpg / .json だけを <out_root>/<image_group>/ に書く。
 
-    python prepare_sacap_images.py --links sa1b_links.txt --anno anno_train.parquet \
+    python scripts/prepare_sacap_images.py --links sa1b_links.txt --anno anno_train.parquet \
         --out_root /export/ssd3/lan-y/SACap-1M/raw --groups sa_000000 sa_000001 ...
 
 完了した group は <out_root>/<group>/.done を置き、再実行時はスキップする。
 """
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent.parent))  # リポジトリ直下 (src/ dataset/ utils/ infer.py) を import できるように
 import argparse
 import os
 import subprocess

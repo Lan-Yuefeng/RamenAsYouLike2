@@ -1,5 +1,5 @@
 #!/bin/bash
-# val 55 枚の評価用生成 (flux2_eval_val55.py で評価する)。各条件の所要時間も記録する
+# val 55 枚の評価用生成 (scripts/flux2_eval_val55.py で評価する)。各条件の所要時間も記録する
 set -u
 cd ~/Seg2Any
 export HF_HOME=/export/ssd3/lan-y/huggingface HF_HUB_OFFLINE=1

@@ -2,7 +2,7 @@
 
     cd ~/Seg2Any/"[10-21]exp_layout_cfg" && ../.venv-flux3/bin/python eval.py --conditions base_s3.5,oldneg_s3.5,...
 
-指標は flux2_eval_val55.py と同じ：境界 recall / precision、CLIP-T (global caption)、CLIP-I (元写真)。
+指標は scripts/flux2_eval_val55.py と同じ：境界 recall / precision、CLIP-T (global caption)、CLIP-I (元写真)。
 mIoU (--seg_model を渡したとき)：生成画像を seg_train.py のラーメン用 SegFormer で分割し、入力マスクと比べる。
   データセット全体の混同行列から求める mIoU と、クラスごとの IoU。real_photo 行は実写での値 (評価器の上限の目安)
 秒/枚は gen.py の times*.json (各ジョブの 1 枚目はウォームアップ込みなので除く)。

@@ -4,9 +4,12 @@
 FLUX.2 は自作の皿マスクで生成した既存の result_f2/UECFOODPIX_flux2/uecfoodpix_plate_flux2_test10_base を使う。
 この 10 枚では自作マスクと共有マスク (FLUX.3 が使う) の一致率は 99.8% 以上、クラス構成も同じ。
 
-    /export/ssd2/lan-y/venvs/Seg2Any/.venv-flux3/bin/python make_uecfoodpix_flux3_compare.py
+    /export/ssd2/lan-y/venvs/Seg2Any/.venv-flux3/bin/python scripts/make_uecfoodpix_flux3_compare.py
 出力: result_f3/UECFOODPIX_flux3/compare_test10/panel_<stem>.jpg と all_panels.jpg
 """
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).resolve().parent.parent))  # リポジトリ直下 (src/ dataset/ utils/ infer.py) を import できるように
 import colorsys
 import os
 
@@ -27,7 +30,7 @@ OUT = "result_f3/UECFOODPIX_flux3/compare_test10"
 
 
 def colour(class_id):
-    """gen_uecfoodpix_flux2_test.py と同じ配色。0 (テーブル) は黒、103 (皿) は薄い灰色"""
+    """scripts/gen_uecfoodpix_flux2_test.py と同じ配色。0 (テーブル) は黒、103 (皿) は薄い灰色"""
     if class_id == 0:
         return (0, 0, 0)
     if class_id == plate_vocab.PLATE_ID:
