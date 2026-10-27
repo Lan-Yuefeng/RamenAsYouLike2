@@ -1,0 +1,31 @@
+{
+ "image": "0018.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "dark table",
+   "short": "dark reflective table",
+   "detail": "dark smooth slightly scratched table"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "speckled rim bowl",
+   "detail": "white ceramic bowl with orange rim"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "spicy red-orange broth",
+   "detail": "thick spicy red-orange ramen broth"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "crispy chashu pork",
+   "detail": "pinkish pork with crispy edges"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "caramelized bamboo shoots",
+   "detail": "thin pale beige bamboo slices"
+  }
+ }
+}

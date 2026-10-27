@@ -1,0 +1,12 @@
+{
+ "image": "0441.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen with vibrant orange broth, topped with shredded cabbage and thin noodles. The white ceramic bowl sits on a wooden table, softly lit, with a spoon resting inside, ready for a hearty meal.",
+ "regions": {
+  "background": "Light wood grain table surface with visible texture and natural wood coloration.",
+  "bowl": "White ceramic ramen bowl with smooth, slightly glossy surface and subtle brownish residue along its rim.",
+  "soup": "The spicy broth is orange-red, glossy, and contains thin noodles and shredded cabbage on its surface.",
+  "spoon": "A white ceramic spoon with a smooth, slightly curved surface and faint brownish residue along its edge."
+ },
+ "redone": "soup"
+}

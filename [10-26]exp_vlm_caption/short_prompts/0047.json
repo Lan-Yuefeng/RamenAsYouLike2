@@ -1,0 +1,31 @@
+{
+ "image": "0047.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "black textured table",
+   "short": "black textured table surface",
+   "detail": "black textured table with grid pattern"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "white bowl with blue rim",
+   "detail": "white ceramic bowl with blue stripes"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "creamy miso broth surface",
+   "detail": "orange creamy miso broth with noodles"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "white spoon with yellow stain",
+   "detail": "white ceramic spoon with faint stain"
+  },
+  "menma": {
+   "name": "golden-brown menma",
+   "short": "golden menma bamboo shoots",
+   "detail": "golden translucent layered bamboo"
+  }
+ }
+}

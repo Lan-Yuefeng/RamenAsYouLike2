@@ -1,0 +1,11 @@
+{
+ "image": "0410.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, light broth with tender chashu pork and crisp cabbage, topped with a vibrant red chili oil swirl. Served in a white bowl with black Greek key trim, it rests on a red table under warm, inviting light.",
+ "regions": {
+  "background": "The table is a smooth, solid red surface with a slight sheen and visible grain pattern near the edge.",
+  "bowl": "White ceramic ramen bowl with black Greek key pattern and Japanese text along its rim.",
+  "soup": "Shio ramen broth with noodles, pale yellow liquid, thin noodles, white chunks, red chili oil, floating ingredients.",
+  "meat": "Chashu pork appears as tender, thinly sliced pieces with a slightly glistening surface, some edges curled, and speckled with red chili oil."
+ }
+}

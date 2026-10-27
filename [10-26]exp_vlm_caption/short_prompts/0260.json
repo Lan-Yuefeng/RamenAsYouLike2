@@ -1,0 +1,41 @@
+{
+ "image": "0260.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "smooth wooden table",
+   "detail": "warm lit red wooden table"
+  },
+  "bowl": {
+   "name": "decorative ramen bowl",
+   "short": "blue floral ceramic bowl",
+   "detail": "white bowl with blue floral rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "creamy miso broth",
+   "detail": "golden-brown glossy miso broth"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "white curved ceramic spoon",
+   "detail": "smooth white spoon resting in bowl"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "runny yolk egg half",
+   "detail": "glossy orange yolk in white"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "curled dark green seaweed",
+   "detail": "textured triangular nori leaf"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled seared pork slice",
+   "detail": "golden-brown fat-marbled chashu"
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "image": "0025.png",
+ "soup": "porkbone",
+ "global": "A steaming bowl of tonkotsu ramen features rich, creamy broth with tender pork slices, chopped green onions, and sesame seeds. The white ceramic bowl, adorned with blue script, sits on a vibrant red surface under bright, even lighting.",
+ "regions": {
+  "background": "The table is a smooth, solid orange surface with subtle light reflections and faint texture near the edge.",
+  "bowl": "White ceramic bowl with blue floral and character patterns, smooth glossy surface, slightly raised rim.",
+  "soup": "The tonkotsu (pork bone) broth is creamy, pale yellow, with visible noodles and toppings floating on its surface."
+ },
+ "redone": "soup"
+}

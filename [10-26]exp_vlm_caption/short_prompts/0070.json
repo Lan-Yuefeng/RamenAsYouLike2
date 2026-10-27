@@ -1,0 +1,36 @@
+{
+ "image": "0070.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "smooth wooden table",
+   "detail": "light wood-grain table surface"
+  },
+  "bowl": {
+   "name": "decorative ramen bowl",
+   "short": "patterned ramen bowl",
+   "detail": "white bowl with dragon and red patterns"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy shoyu broth",
+   "detail": "amber-brown shoyu broth swirling"
+  },
+  "cut_egg": {
+   "name": "halved boiled egg",
+   "short": "firm yolk egg half",
+   "detail": "translucent white and yellow yolk"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening chashu pork",
+   "detail": "browned tender slightly fatty meat"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "swirled naruto cake",
+   "detail": "translucent orange swirls white core"
+  }
+ }
+}

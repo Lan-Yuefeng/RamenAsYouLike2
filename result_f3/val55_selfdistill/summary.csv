@@ -1,0 +1,6 @@
+condition,recall,precision,clip_t,clip_i,miou,n_recall_up_vs_first,sec_per_img
+base,0.6865,0.2654,27.65,89.4,0.8927,0,nan
+ref_fuse,0.6857,0.265,27.71,89.36,0.8937,29,nan
+sd_0,0.4764,0.1098,27.81,85.14,0.4368,4,nan
+sd_2000,0.6764,0.2566,27.83,89.31,0.89,23,nan
+real_photo,0.6515,0.2612,26.34,100.0,0.8849,20,nan

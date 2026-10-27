@@ -1,0 +1,41 @@
+{
+ "image": "0443.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "polished wooden table",
+   "detail": "dark polished wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "speckled ceramic ramen bowl",
+   "detail": "white speckled ceramic ramen bowl"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "vibrant spicy ramen broth",
+   "detail": "glossy spicy ramen broth with noodles"
+  },
+  "spoon": {
+   "name": "wooden spoon",
+   "short": "glossy wooden spoon",
+   "detail": "smooth worn wooden spoon bowl"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "runny yolk egg half",
+   "detail": "firm white runny orange yolk"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "curled dark green seaweed",
+   "detail": "textured curled dark green nori"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glossy marbled chashu",
+   "detail": "tender glazed chashu pork slices"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+  "caption": "A vibrant, spicy ramen broth glows beneath a generous mound of shredded cabbage and chopped green onions. Served in a blue-and-white patterned bowl, it rests on a warm wooden table under soft, ambient lighting.",
+  "seed": 1258,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The spicy broth is vibrant red, glossy, and contains visible noodles and scattered green onions and garlic."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with blue geometric pattern and cartoon characters along its rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth, glossy surface and slightly curved, tapered shape."
+    }
+  ]
+}

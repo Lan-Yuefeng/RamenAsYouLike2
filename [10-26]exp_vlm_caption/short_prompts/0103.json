@@ -1,0 +1,26 @@
+{
+ "image": "0103.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "red scratched table",
+   "short": "worn red table surface",
+   "detail": "smooth red table with scratches"
+  },
+  "bowl": {
+   "name": "light blue ceramic bowl",
+   "short": "glossy blue ceramic bowl",
+   "detail": "smooth blue bowl with raised rim"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "glossy tonkotsu broth",
+   "detail": "amber-brown tonkotsu broth with noodles"
+  },
+  "spoon": {
+   "name": "light blue spoon",
+   "short": "worn blue spoon in broth",
+   "detail": "curved blue spoon partially submerged"
+  }
+ }
+}

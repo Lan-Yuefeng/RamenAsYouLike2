@@ -1,0 +1,46 @@
+{
+  "caption": "This shio broth, clear and golden-brown with gentle ripples, sits in a white ceramic bowl with red rim and green dragon pattern. Tender chashu pork and a pink spiral naruto fish cake float in the glossy soup on a wooden table with warm brown tones.",
+  "seed": 1102,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows warm brown tones, smooth grain patterns, and subtle light reflections."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows tender, pale pink meat with slight fat marbling and a glossy surface, cut into a curved, irregular shape."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shio (salt) broth is clear, golden-brown, and glossy, with thin noodles submerged and floating, showing gentle ripples on its surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with red rim, green dragon pattern, and red Chinese characters around its edge."
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "Naruto fish cake: white base with pink spiral swirl, scalloped edge, smooth surface, slightly translucent."
+    }
+  ]
+}

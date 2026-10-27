@@ -1,0 +1,22 @@
+{
+ "image": "0383.png",
+ "level": "short",
+ "short": {
+  "background": "smooth red table surface",
+  "bowl": "white bowl with red rim",
+  "soup": "glossy shoyu broth with noodles",
+  "spoon": "glossy white ceramic spoon",
+  "cut_egg": "runny orange-red yolk",
+  "menma": "translucent pale yellow menma"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a smooth red table. The glossy soup, noodles, and fresh ingredients create a warm, inviting scene.",
+ "regions": {
+  "background": "Smooth red table surface",
+  "bowl": "White bowl with red rim",
+  "soup": "The shoyu broth glossy with noodles",
+  "spoon": "Glossy white ceramic spoon",
+  "cut_egg": "Runny orange-red yolk",
+  "menma": "Translucent pale yellow menma"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "image": "0331.png",
+ "soup": "miso",
+ "global": "This miso ramen boasts a rich, amber broth with a soft-boiled egg, shredded daikon, and chopped green onions artfully arranged. Served in a blue-patterned bowl, it gleams under warm light, with a glass and silverware subtly visible in the background.",
+ "regions": {
+  "background": "The table surface is smooth, light-colored, and slightly reflective, showing subtle shadows and faint reflections.",
+  "bowl": "The ceramic bowl has a blue and white patterned rim with a smooth, glossy finish and slightly raised edge.",
+  "soup": "The miso broth is amber-orange, textured with bubbles and green onions, topped with white bean sprouts and a soft-boiled egg.",
+  "cut_egg": "A halved boiled egg shows a vibrant orange yolk surrounded by pale, creamy white, with a smooth, slightly glossy surface."
+ },
+ "redone": "soup"
+}

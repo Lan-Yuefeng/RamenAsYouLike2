@@ -1,0 +1,20 @@
+{
+ "image": "0102.png",
+ "level": "short",
+ "short": {
+  "background": "smooth wooden table surface",
+  "bowl": "white bowl with red rim",
+  "soup": "clear shio broth swirling",
+  "meat": "glistening sliced chashu",
+  "naruto": "pink swirl fish cake"
+ },
+ "parsed": true,
+ "global": "This shio ramen boasts a clear, golden broth, topped with tender chashu, a pink naruto fish cake, and vibrant green scallions. Served in a white bowl with red trim, it rests on a wooden table under warm, inviting light.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth grain pattern, and subtle light reflections.",
+  "bowl": "White ceramic ramen bowl with red rim, smooth surface, slightly glossy finish, and faint speckles visible.",
+  "soup": "The shio (salt) broth is clear golden, holding thin noodles, bean sprouts, and green onions in a gentle, swirling motion.",
+  "meat": "Chashu pork slice shows tender, pale pink meat with slight fat marbling and a glistening surface from broth.",
+  "naruto": "Naruto fish cake: pink swirl center, white outer layer, scalloped edge, smooth surface with subtle texture."
+ }
+}

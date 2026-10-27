@@ -1,0 +1,41 @@
+{
+ "image": "0512.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "red table surface",
+   "short": "vibrant red table",
+   "detail": "smooth red table with light reflections"
+  },
+  "bowl": {
+   "name": "gray ceramic bowl",
+   "short": "glossy gray bowl with red rim",
+   "detail": "light gray bowl with subtle red pattern"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth with noodles",
+   "detail": "pale yellow glossy shio broth"
+  },
+  "spoon": {
+   "name": "translucent spoon",
+   "short": "glossy translucent spoon",
+   "detail": "pale spoon with embossed pattern"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "firm white yolk egg",
+   "detail": "halved egg with green onion garnish"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green curled seaweed",
+   "detail": "textured dark green nori with veins"
+  },
+  "meat": {
+   "name": "chashu pork slice",
+   "short": "marbled pink pork slice",
+   "detail": "glossy chashu with white marbling"
+  }
+ }
+}

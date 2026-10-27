@@ -1,0 +1,38 @@
+{
+  "caption": "A rich, amber miso ramen broth glistens beneath a mound of shredded cabbage and green onions. Served in a black bowl with a white sticker, it rests on a wooden table under warm, inviting light.",
+  "seed": 1519,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows tender, marbled texture with browned edges and visible fat, appearing juicy and cooked."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is rich amber, glossy, and contains visible noodles and toppings beneath the shredded cabbage."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Black ceramic bowl with smooth, glossy surface, subtle speckled pattern, and slightly raised, rounded rim."
+    }
+  ]
+}

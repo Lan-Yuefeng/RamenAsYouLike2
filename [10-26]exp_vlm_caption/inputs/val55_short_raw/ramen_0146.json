@@ -1,0 +1,54 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: smooth wooden table, blue floral bowl, glossy shoyu broth, dark green nori, crispy chashu pork, glossy menma shoots.",
+  "seed": 1146,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "smooth wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "crispy chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark green nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "glossy shoyu broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "glossy menma shoots"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "blue floral bowl"
+    }
+  ]
+}

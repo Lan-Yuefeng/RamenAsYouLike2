@@ -1,0 +1,36 @@
+{
+ "image": "0078.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "glossy white bowl",
+   "detail": "smooth white ceramic bowl rim"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy orange-red broth",
+   "detail": "spicy broth with noodles and egg"
+  },
+  "spoon": {
+   "name": "dark glossy spoon",
+   "short": "curved dark spoon",
+   "detail": "glossy dark spoon curved shape"
+  },
+  "chopsticks": {
+   "name": "light beige chopsticks",
+   "short": "smooth wooden chopsticks",
+   "detail": "light beige wooden chopsticks"
+  },
+  "egg": {
+   "name": "boiled egg",
+   "short": "speckled boiled egg",
+   "detail": "orange-yellow boiled egg speckled"
+  }
+ }
+}

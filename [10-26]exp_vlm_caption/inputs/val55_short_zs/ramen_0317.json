@@ -1,0 +1,38 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a dark textured surface with a gold edge. The spicy broth fills the white bowl with red stripes, topped by a glossy white ceramic spoon.",
+  "seed": 1317,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark textured surface with gold edge"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The spicy reddish-brown broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White bowl with red stripes"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "Glossy white ceramic spoon"
+    }
+  ]
+}

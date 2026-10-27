@@ -1,0 +1,14 @@
+{
+ "image": "0405.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy yellow broth, topped with tender chashu pork, crisp menma, and bean sprouts. Served in a white bowl with blue floral trim, it rests on a wooden table under soft, natural light.",
+ "regions": {
+  "background": "Light brown wooden table with visible grain patterns and subtle texture, showing natural wood surface details.",
+  "bowl": "White ceramic bowl with blue floral pattern, glossy surface, and slightly raised rim.",
+  "soup": "The broth with noodles shows creamy yellow liquid, thin noodles, bean sprouts, and sliced meat, all floating in a rich, textured surface.",
+  "spoon": "A curved, glossy red spoon handle with smooth, reflective surface and subtle light highlights.",
+  "chopsticks": "The chopsticks are light-colored, smooth, slender, and slightly tapered with a matte finish.",
+  "meat": "The chashu pork is a thick, pale pink slice with a slightly textured, tender surface and visible fat marbling.",
+  "menma": "Menma bamboo shoots appear light brown, sliced, with visible fibrous texture and yellowish strands wrapped around them."
+ }
+}

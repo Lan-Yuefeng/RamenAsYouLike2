@@ -1,0 +1,62 @@
+{
+  "caption": "This tonkotsu broth, golden-brown and glossy, floats with noodles and green onions. In a blue and white ceramic bowl with floral patterns, dark nori, pink chashu pork, pale yellow menma, and pale pink naruto fish cake rest on a light brown wooden table.",
+  "seed": 1246,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Light brown wooden table with visible grain patterns and subtle texture, oval-shaped surface."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "The chashu pork is a round, sliced piece with pinkish meat, white fat, and a slightly crispy, browned edge."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "The nori seaweed is dark, crinkled, and irregularly shaped with a slightly glossy, textured surface."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth is golden-brown, glossy, and contains visible noodles and green onions floating on its surface."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear pale yellow, slightly translucent, with a soft texture and visible fibrous strands, curled into a gentle arc."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Blue and white ceramic bowl with intricate floral pattern and raised rim, glossy finish, ornate detailing along the edge."
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "Naruto fish cake: pale pink swirls in translucent white, smooth surface with faint speckles, round shape."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+ "image": "0335.png",
+ "soup": "miso",
+ "global": "This is a bowl of miso ramen, its rich, amber broth cradling tender chashu pork, crisp nori, and menma. The toppings rest atop noodles in a white bowl with red trim, set against a vibrant red table under warm, inviting light.",
+ "regions": {
+  "background": "The table is a smooth, glossy red surface with subtle light reflections and faint texture.",
+  "bowl": "The ramen bowl is white ceramic with a red geometric patterned rim and smooth, glossy surface.",
+  "soup": "Miso ramen broth with noodles, golden-brown, glossy, swirling, partially covering ingredients beneath.",
+  "spoon": "A white ceramic spoon with a gold handle, smooth surface, and slightly curved bowl shape.",
+  "seaweed": "Dark green nori seaweed pieces, irregularly shaped with rough, slightly curled edges and visible texture.",
+  "meat": "Chashu pork slice shows pinkish-brown meat with visible fat marbling and a glossy surface from broth.",
+  "menma": "Menma bamboo shoots appear as pale yellow, slightly translucent, curled pieces with a soft, fibrous texture."
+ }
+}

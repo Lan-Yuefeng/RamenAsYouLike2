@@ -1,0 +1,15 @@
+{
+ "image": "0141.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen boasts a rich, amber broth, topped with glossy chashu pork, a square nori sheet, and a naruto fish cake. Served in a patterned bowl with a spoon, it rests on a dark table under warm, focused lighting.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain patterns and smooth finish, slightly reflective under ambient light.",
+  "bowl": "White ceramic bowl with red geometric pattern, smooth glossy surface, circular rim with repeating square motif.",
+  "soup": "The shoyu (soy sauce) broth is amber-brown, glossy, and contains visible noodles and green garnish beneath a dark nori sheet.",
+  "spoon": "A white ceramic spoon with smooth, curved surface and slightly tapered end, showing subtle gloss.",
+  "seaweed": "The nori seaweed is dark green, textured, rectangular, and slightly curled with visible surface ridges and uneven edges.",
+  "meat": "Chashu pork: glossy, caramelized brown with tender white interior, irregularly shaped, slightly curled edges.",
+  "naruto": "Naruto fish cake: pale pink center, translucent edges, irregular shape, smooth surface with subtle sheen."
+ },
+ "redone": "soup"
+}

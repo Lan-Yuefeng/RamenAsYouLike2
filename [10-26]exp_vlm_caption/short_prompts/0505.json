@@ -1,0 +1,36 @@
+{
+ "image": "0505.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "light brown wooden table",
+   "detail": "light brown textured wooden surface"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "light blue ceramic bowl",
+   "detail": "glossy light blue ceramic bowl"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "amber shoyu broth clear",
+   "detail": "glossy amber shoyu broth with noodles"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "light beige ceramic spoon",
+   "detail": "glossy light beige ceramic spoon"
+  },
+  "chopsticks": {
+   "name": "black chopsticks",
+   "short": "black glossy chopsticks",
+   "detail": "smooth black chopsticks with wood grain"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork slices",
+   "detail": "tender light brown marbled pork"
+  }
+ }
+}

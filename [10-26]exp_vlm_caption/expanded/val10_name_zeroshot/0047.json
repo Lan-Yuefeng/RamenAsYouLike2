@@ -1,0 +1,20 @@
+{
+ "image": "0047.png",
+ "level": "name",
+ "short": {
+  "background": "black textured table",
+  "bowl": "white ceramic bowl",
+  "soup": "miso broth",
+  "spoon": "white ceramic spoon",
+  "menma": "golden-brown menma"
+ },
+ "parsed": true,
+ "global": "A white ceramic bowl holds rich miso broth with golden-brown menma. The scene rests on a black textured table, clean and simple.",
+ "regions": {
+  "background": "Black textured table",
+  "bowl": "White ceramic bowl",
+  "soup": "The miso broth",
+  "spoon": "White ceramic spoon",
+  "menma": "Golden-brown menma"
+ }
+}

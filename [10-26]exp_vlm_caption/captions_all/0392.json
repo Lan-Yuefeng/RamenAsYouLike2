@@ -1,0 +1,11 @@
+{
+ "image": "0392.png",
+ "soup": "miso",
+ "global": "A steaming bowl of miso ramen features a rich, orange broth with tender noodles, shredded cabbage, and minced pork. Garnished with chili flakes, it sits in a white bowl against a dark background, warmly lit to highlight the vibrant toppings.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and slight texture under dim lighting.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, slightly flared rim, and subtle inner yellowish stain.",
+  "soup": "The miso broth is vibrant orange, glossy, and rich, swirling around noodles and toppings with visible chili flakes and green vegetables."
+ },
+ "redone": "soup"
+}

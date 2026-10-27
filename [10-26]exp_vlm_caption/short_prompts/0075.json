@@ -1,0 +1,26 @@
+{
+ "image": "0075.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "glossy white bowl",
+   "detail": "white ceramic bowl with stains"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "vibrant red spicy broth",
+   "detail": "thick glossy spicy broth swirls"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "crispy chashu pork",
+   "detail": "golden crust tender pork slice"
+  }
+ }
+}

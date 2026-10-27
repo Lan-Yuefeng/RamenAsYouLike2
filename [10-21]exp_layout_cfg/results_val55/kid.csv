@@ -1,0 +1,9 @@
+condition,kid_x1000,fid
+base_s3.5,11.65,75.77
+txt3.5_lay7,12.74,82.05
+txt3.5_lay10,15.04,86.35
+ref_flux3_distilled,16.08,81.42
+ref_flux1,18.84,84.67
+ref_flux2_base_cfg4,17.91,85.54
+ref_flux2_base_cfg4_oldneg,17.44,79.86
+ref_flux2_distilled,44.36,109.57

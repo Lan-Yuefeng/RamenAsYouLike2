@@ -1,0 +1,12 @@
+{
+ "image": "0345.png",
+ "soup": "porkbone",
+ "global": "A rich, creamy tonkotsu ramen broth fills a blue patterned bowl, topped with tender chashu slices and chopped green onions. The warm, rustic wooden table and soft lighting enhance the inviting, comforting appearance of this classic ramen dish.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain patterns and subtle texture with natural wood finish.",
+  "bowl": "Blue ceramic bowl with intricate floral pattern and raised rim, glossy finish, ornate detailing along the edge.",
+  "soup": "The tonkotsu (pork bone) broth is creamy beige, glossy, with visible noodles and green onions floating on its surface.",
+  "meat": "Chashu pork slices show marbled texture with pinkish-brown meat, white fat, and slight char, cut into thick, round pieces."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,62 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a dark wooden table. The rich flavors and textures highlight a balanced, hearty meal.",
+  "seed": 1439,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Caramelized chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Dark green nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The glossy shoyu broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Golden menma shoots"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "White ceramic spoon"
+    }
+  ]
+}

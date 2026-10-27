@@ -1,0 +1,62 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a grainy wooden table. Golden tonkotsu broth, marbled pork, and fresh ingredients create a rich, textured scene.",
+  "seed": 1246,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Grainy wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Marbled chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Dark crinkled nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The golden tonkotsu (pork bone) broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Glossy segmented menma"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Blue white floral bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "Pink swirl naruto"
+    }
+  ]
+}

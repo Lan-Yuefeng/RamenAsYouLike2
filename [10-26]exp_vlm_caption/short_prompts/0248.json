@@ -1,0 +1,26 @@
+{
+ "image": "0248.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "white glossy ceramic ramen bowl"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "golden tonkotsu broth",
+   "detail": "rich golden tonkotsu ramen broth"
+  },
+  "egg": {
+   "name": "boiled egg",
+   "short": "white boiled egg",
+   "detail": "smooth white boiled egg with brown spots"
+  }
+ }
+}

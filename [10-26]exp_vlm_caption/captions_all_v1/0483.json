@@ -1,0 +1,11 @@
+{
+ "image": "0483.png",
+ "soup": "porkbone",
+ "global": "This ramen features a rich, reddish broth, topped with halved boiled eggs, bean sprouts, and chopped green onions. Served in a white bowl with red accents, it rests on a dark surface under warm, inviting light.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture beneath the bowl.",
+  "bowl": "White ceramic ramen bowl with glossy finish, red brushstroke rim, and black Japanese characters on exterior.",
+  "soup": "Rich, orange-brown tonkotsu broth with noodles, topped with bean sprouts, green onions, and soft-boiled eggs.",
+  "cut_egg": "A halved boiled egg shows a firm, pale white surrounding a glossy, amber-orange yolk with a smooth, slightly viscous surface."
+ }
+}

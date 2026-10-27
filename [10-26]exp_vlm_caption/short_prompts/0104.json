@@ -1,0 +1,21 @@
+{
+ "image": "0104.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark reddish-brown wooden table"
+  },
+  "bowl": {
+   "name": "blue floral bowl",
+   "short": "white bowl with blue flowers",
+   "detail": "white ceramic bowl with blue floral rim"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "steaming shoyu broth",
+   "detail": "amber-brown steaming shoyu broth"
+  }
+ }
+}

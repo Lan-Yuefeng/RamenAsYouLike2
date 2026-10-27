@@ -1,0 +1,11 @@
+{
+ "image": "0362.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy broth with tender noodles, topped with crisp greens, bean sprouts, and sesame seeds. A white ceramic bowl holds the steaming dish, set on a wooden table under warm, natural light.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth grain patterns, and subtle natural texture under soft lighting.",
+  "bowl": "White ceramic bowl with blue rim, smooth glazed surface, slightly chipped edge, circular shape.",
+  "soup": "The tonkotsu ramen broth is rich, golden-brown, with visible noodles and toppings floating on its glossy, textured surface.",
+  "spoon": "White ceramic spoon holds red sauce, bean sprouts, and green onions, with smooth surface and small hole at handle end."
+ }
+}

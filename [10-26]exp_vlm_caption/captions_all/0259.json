@@ -1,0 +1,12 @@
+{
+ "image": "0259.png",
+ "soup": "spicy",
+ "global": "A vibrant, spicy ramen broth fills a white ceramic bowl, topped with chopped green onions and a whole boiled egg. The rich, reddish-orange broth glistens under warm lighting, set against a dark wooden table with a glass of water nearby.",
+ "regions": {
+  "background": "Dark wooden table with visible grain patterns and subtle texture, showing natural wood surface details.",
+  "bowl": "White ceramic ramen bowl with subtle speckles, smooth surface, and slightly raised rim with faint orange residue.",
+  "soup": "The spicy broth is vibrant orange-red, glossy, and contains visible noodles, green onions, and a soft-boiled egg.",
+  "egg": "A whole boiled egg, white with speckled orange seasoning, sits nestled in the ramen broth."
+ },
+ "redone": "soup"
+}

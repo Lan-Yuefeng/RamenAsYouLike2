@@ -1,0 +1,20 @@
+{
+ "image": "0047.png",
+ "level": "detail",
+ "short": {
+  "background": "black textured table with grid pattern",
+  "bowl": "white ceramic bowl with blue stripes",
+  "soup": "orange creamy miso broth with noodles",
+  "spoon": "white ceramic spoon with faint stain",
+  "menma": "golden translucent layered bamboo"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a black grid-patterned table. The orange miso broth and golden menma create a warm, textured scene with delicate details.",
+ "regions": {
+  "background": "Black textured table with grid pattern",
+  "bowl": "White ceramic bowl with blue stripes",
+  "soup": "The orange creamy miso broth",
+  "spoon": "White ceramic spoon with faint stain",
+  "menma": "Golden translucent layered bamboo"
+ }
+}

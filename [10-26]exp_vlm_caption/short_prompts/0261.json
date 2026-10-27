@@ -1,0 +1,26 @@
+{
+ "image": "0261.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "grainy wooden table",
+   "detail": "light brown wooden table surface"
+  },
+  "bowl": {
+   "name": "decorative ramen bowl",
+   "short": "floral patterned ramen bowl",
+   "detail": "white ceramic bowl with green design"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy tonkotsu broth",
+   "detail": "thick glossy tonkotsu ramen broth"
+  },
+  "cut_egg": {
+   "name": "halved boiled egg",
+   "short": "runny yolk egg half",
+   "detail": "amber yolk with firm white"
+  }
+ }
+}

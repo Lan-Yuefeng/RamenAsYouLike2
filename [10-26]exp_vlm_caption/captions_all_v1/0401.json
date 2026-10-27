@@ -1,0 +1,11 @@
+{
+ "image": "0401.png",
+ "soup": "miso",
+ "global": "A rich, orange miso ramen broth fills a white bowl, topped with shredded cabbage and a slice of chashu pork. The bowl rests on a dark wooden table under soft, ambient lighting, with a glass and tray faintly visible in the background.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture, appearing smooth and slightly reflective.",
+  "bowl": "White ceramic ramen bowl with smooth, slightly glossy surface and thin, subtly textured rim.",
+  "soup": "Miso ramen broth, rich orange-red, glossy surface with visible noodles, bean sprouts, and garnishes floating within.",
+  "meat": "The chashu pork is browned, tender-looking, with a slightly crispy surface and visible seasoning specks."
+ }
+}

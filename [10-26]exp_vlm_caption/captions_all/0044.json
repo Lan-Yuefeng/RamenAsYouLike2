@@ -1,0 +1,14 @@
+{
+ "image": "0044.png",
+ "soup": "spicy",
+ "global": "This is a spicy ramen bowl with a rich, reddish broth. Topped with chashu pork, menma, bean sprouts, green onions, and a single pea, it sits in a white ceramic bowl on a wooden table, lit warmly from above.",
+ "regions": {
+  "background": "Wooden table surface shows dark brown grain patterns and subtle texture with visible wood grain lines.",
+  "bowl": "White ceramic ramen bowl with thin dark blue rim, smooth glossy surface, slightly chipped edge visible.",
+  "soup": "The spicy broth is deep red, glossy, and speckled with chili flakes, cradling noodles and toppings.",
+  "spoon": "A white ceramic spoon with smooth, slightly curved surface and rounded tip, showing subtle glaze texture.",
+  "meat": "Chashu pork slice shows pinkish meat with caramelized, crispy browned edges and visible fat marbling.",
+  "menma": "Menma bamboo shoots appear as golden-brown, sliced, slightly curled pieces with a glossy, tender texture."
+ },
+ "redone": "soup"
+}

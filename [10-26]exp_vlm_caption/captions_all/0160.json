@@ -1,0 +1,12 @@
+{
+ "image": "0160.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, dark broth with tender noodles, topped with crisp green onions and a savory meat garnish. It sits in a patterned bowl on a wooden table, illuminated by warm, natural light.",
+ "regions": {
+  "background": "The wooden table has a smooth, warm brown surface with subtle grain patterns and slight reflections.",
+  "bowl": "The ceramic bowl has a glossy white surface with colorful floral and geometric patterns along its rim.",
+  "soup": "The shoyu (soy sauce) broth is amber-brown, glossy, and rich, swirling around noodles and green onions with a textured, savory surface.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl, showing subtle light reflections."
+ },
+ "redone": "soup"
+}

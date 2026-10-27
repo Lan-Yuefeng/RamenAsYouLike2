@@ -1,0 +1,26 @@
+{
+ "image": "0416.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm grain wood",
+   "detail": "natural brown wood grain texture"
+  },
+  "bowl": {
+   "name": "blue white patterned bowl",
+   "short": "blue rimmed ceramic bowl",
+   "detail": "blue white rim with 'Shin' text"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy tonkotsu broth",
+   "detail": "creamy beige tonkotsu with scallions"
+  },
+  "spoon": {
+   "name": "black spoon",
+   "short": "glossy black spoon",
+   "detail": "smooth black spoon in broth"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "image": "0555.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark smooth wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "light green ceramic bowl",
+   "detail": "light green glazed ceramic bowl"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy shoyu broth",
+   "detail": "amber-brown shoyu broth swirling"
+  },
+  "cut_egg": {
+   "name": "boiled egg",
+   "short": "halved boiled egg",
+   "detail": "firm pale yolk white egg"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori",
+   "detail": "textured square nori sheet"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork",
+   "detail": "tender light brown pork slice"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "golden menma strips",
+   "detail": "glossy curved bamboo shoots"
+  },
+  "naruto": {
+   "name": "fish cake",
+   "short": "pink swirl fish cake",
+   "detail": "pale beige scalloped fish cake"
+  }
+ }
+}

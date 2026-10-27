@@ -1,0 +1,31 @@
+{
+ "image": "0061.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "orange wooden table",
+   "short": "smooth orange wood surface",
+   "detail": "smooth orange table with wood grain"
+  },
+  "bowl": {
+   "name": "decorative white ceramic bowl",
+   "short": "white bowl with red green pattern",
+   "detail": "glossy white bowl with red green floral rim"
+  },
+  "soup": {
+   "name": "tonkotsu ramen broth",
+   "short": "creamy golden tonkotsu broth",
+   "detail": "rich creamy golden tonkotsu broth with green onions"
+  },
+  "meat": {
+   "name": "chashu pork slices",
+   "short": "marbled chashu pork slices",
+   "detail": "tender light brown marbled pork with green onions"
+  },
+  "menma": {
+   "name": "menma bamboo shoots",
+   "short": "glossy pale yellow menma",
+   "detail": "moist pale yellow sliced bamboo shoots"
+  }
+ }
+}

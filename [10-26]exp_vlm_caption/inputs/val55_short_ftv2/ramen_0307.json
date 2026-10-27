@@ -1,0 +1,46 @@
+{
+  "caption": "Creamy yellow, glossy tonkotsu broth with floating noodles and meat, served in a white ceramic bowl with red checkered pattern and \"Sugakiya\" logo. On a light orange tray with rounded corners, a metallic spoon with worn edges and a hole rests nearby.",
+  "seed": 1307,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Light orange tray with smooth, slightly glossy surface, rectangular shape with rounded corners."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows tender, pale pink meat with a slightly glossy surface and irregular, cooked edges."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth is creamy yellow, glossy, and clear, with visible noodles and toppings floating on its surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with red checkered pattern and \"Sugakiya\" logo on its rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A metallic spoon with a reflective surface, slightly worn edges, and a small hole near the handle."
+    }
+  ]
+}

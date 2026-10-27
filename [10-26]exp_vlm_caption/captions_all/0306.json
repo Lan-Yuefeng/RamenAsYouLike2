@@ -1,0 +1,11 @@
+{
+ "image": "0306.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth cradling noodles, topped with vibrant red peppers, green pickles, and a mound of white radish, all garnished with sesame seeds and green onions. The white bowl rests on a dark surface, illuminated by soft, even lighting that highlights the dish’s appetizing textures.",
+ "regions": {
+  "background": "Dark speckled table surface, smooth and uniform, with subtle grain texture visible under even lighting.",
+  "bowl": "White ceramic ramen bowl with glossy finish, smooth curved rim, and red Japanese characters on its edge.",
+  "soup": "The shoyu (soy sauce) broth is amber-brown, glossy, and clear, with visible noodles and toppings floating within."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,21 @@
+{
+ "image": "0140.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "yellow-orange surface",
+   "short": "yellow-orange textured surface",
+   "detail": "yellow-orange surface with faint scratches"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "white glossy ceramic bowl",
+   "detail": "white ceramic bowl with stained rim"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy orange-red broth",
+   "detail": "spicy orange-red glossy broth"
+  }
+ }
+}

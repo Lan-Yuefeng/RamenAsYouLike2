@@ -1,0 +1,10 @@
+{
+ "image": "0412.png",
+ "soup": "spicy",
+ "global": "A vibrant, fiery red ramen broth fills a white bowl, crowned with a generous mound of shredded cabbage. The warm, dim lighting highlights the rich color and steam rising from the hot, spicy soup, set against a dark wooden table.",
+ "regions": {
+  "background": "Dark wooden table with glossy finish, showing grain patterns and subtle reflections.",
+  "bowl": "White ceramic ramen bowl with smooth, slightly glossy surface and thin, unadorned rim showing faint orange residue.",
+  "soup": "Spicy ramen broth with noodles, topped with shredded cabbage, vibrant red, glossy surface, visible noodle strands beneath."
+ }
+}

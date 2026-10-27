@@ -1,0 +1,31 @@
+{
+ "image": "0136.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm wooden table",
+   "detail": "warm brown wooden table surface"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "glossy white ceramic bowl",
+   "detail": "smooth glossy white ceramic bowl"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy shoyu broth",
+   "detail": "amber-brown glossy shoyu broth"
+  },
+  "egg": {
+   "name": "boiled egg",
+   "short": "glossy boiled egg",
+   "detail": "smooth pale beige boiled egg"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "shiny chashu pork",
+   "detail": "pinkish-brown sliced chashu pork"
+  }
+ }
+}

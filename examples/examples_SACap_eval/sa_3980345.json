@@ -1,0 +1,38 @@
+{
+  "caption": "The image shows a vintage blue three-wheeled vehicle, likely a Mazda R360, displayed in a museum or exhibition. The vehicle has a distinctive front grille and round headlights. A sign next to it indicates it is from the year 1960. The background features a clean, tiled floor and a wall with geometric patterns.",
+  "seed": 6235,
+  "segments_info": [
+    {
+      "color": [
+        195,
+        168,
+        148
+      ],
+      "text": "A light-colored floor with a vehicle's shadow and a sign displaying \"T2000\" information."
+    },
+    {
+      "color": [
+        110,
+        232,
+        97
+      ],
+      "text": "A vintage blue three-wheeled vehicle with the word \"MAZDA\" on the front, displayed in a museum or showroom setting."
+    },
+    {
+      "color": [
+        112,
+        204,
+        124
+      ],
+      "text": "A blue vehicle with a windshield and side mirrors is displayed in a room with a tiled floor."
+    },
+    {
+      "color": [
+        89,
+        194,
+        174
+      ],
+      "text": "A display sign with information about the vehicle."
+    }
+  ]
+}

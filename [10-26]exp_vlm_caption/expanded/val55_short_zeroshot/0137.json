@@ -1,0 +1,16 @@
+{
+ "image": "0137.png",
+ "level": "short",
+ "short": {
+  "background": "light brown wooden table",
+  "bowl": "white bowl with black pattern",
+  "soup": "creamy tonkotsu ramen broth"
+ },
+ "parsed": true,
+ "global": "A creamy tonkotsu ramen broth sits in a white bowl with black pattern. The scene is set on a light brown wooden table, warm and inviting.",
+ "regions": {
+  "background": "Light brown wooden table",
+  "bowl": "White bowl with black pattern",
+  "soup": "The creamy tonkotsu (pork bone) broth"
+ }
+}

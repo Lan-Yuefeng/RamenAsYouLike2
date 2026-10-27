@@ -1,0 +1,16 @@
+{
+ "image": "0137.png",
+ "level": "short",
+ "short": {
+  "background": "light brown wooden table",
+  "bowl": "white bowl with black pattern",
+  "soup": "creamy tonkotsu ramen broth"
+ },
+ "parsed": true,
+ "global": "This tonkotsu ramen features a creamy yellow, glossy broth with visible noodles and toppings. Served in a white ceramic bowl with black geometric pattern and Japanese text, it rests on a wooden table with a light brown grain pattern.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain pattern with subtle texture and natural wood finish.",
+  "bowl": "White ceramic ramen bowl with black geometric pattern and Japanese text along its rim.",
+  "soup": "The tonkotsu (pork bone) broth is creamy yellow, glossy, and contains visible noodles and toppings."
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "image": "0317.png",
+ "level": "short",
+ "short": {
+  "background": "dark textured surface with gold edge",
+  "bowl": "white bowl with red stripes",
+  "soup": "spicy reddish-brown broth",
+  "spoon": "glossy white ceramic spoon"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a dark textured surface with a gold edge. The spicy broth fills the white bowl with red stripes, topped by a glossy white ceramic spoon.",
+ "regions": {
+  "background": "Dark textured surface with gold edge",
+  "bowl": "White bowl with red stripes",
+  "soup": "The spicy reddish-brown broth",
+  "spoon": "Glossy white ceramic spoon"
+ }
+}

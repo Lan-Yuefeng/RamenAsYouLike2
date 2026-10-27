@@ -1,0 +1,13 @@
+{
+ "image": "0529.png",
+ "soup": "salt",
+ "global": "This shio ramen boasts a clear, golden broth, topped with chashu pork, nori seaweed, and menma bamboo shoots arranged neatly. Served in a rustic white bowl, it rests on a dark wooden table under warm, inviting light.",
+ "regions": {
+  "background": "Dark brown wooden table with visible grain patterns and subtle texture, forming a circular boundary around the bowl.",
+  "bowl": "White ceramic bowl with speckled glaze, smooth rounded rim, and subtle brownish discoloration along its inner edge.",
+  "soup": "Shio ramen broth with noodles, pale yellow, glossy, swirling, surface bubbles, thin strands, green scallions, white bean sprouts, dark seaweed.",
+  "seaweed": "The nori seaweed is dark green, crinkled, and irregularly shaped with a slightly glossy, textured surface.",
+  "meat": "Chashu pork slice shows layered fat and lean meat, glistening surface with visible marbling and slight char.",
+  "menma": "Menma bamboo shoots appear pale yellow, sliced into thick pieces with visible fibrous texture and slight sheen."
+ }
+}

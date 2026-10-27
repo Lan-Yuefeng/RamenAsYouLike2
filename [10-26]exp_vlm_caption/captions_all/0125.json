@@ -1,0 +1,13 @@
+{
+ "image": "0125.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy broth, topped with halved soft-boiled eggs and nori seaweed, arranged neatly. It sits in a blue-patterned bowl against a vibrant red background, illuminated by warm, inviting light.",
+ "regions": {
+  "background": "The table is a smooth, solid red surface with subtle light reflections and faint circular texture near the plate's edge.",
+  "bowl": "White ceramic bowl with blue geometric and circular patterns, smooth glossy surface, slightly raised rim.",
+  "soup": "The tonkotsu (pork bone) broth is creamy white, smooth, and slightly viscous, with visible noodles and toppings partially submerged.",
+  "cut_egg": "A halved boiled egg shows a runny orange yolk with speckles, surrounded by a firm white, both glistening under light.",
+  "seaweed": "Dark, crinkled nori seaweed with glossy, uneven surface and visible texture from its shredded, layered structure."
+ },
+ "redone": "soup"
+}

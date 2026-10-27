@@ -1,0 +1,12 @@
+{
+ "image": "0173.png",
+ "soup": "porkbone",
+ "global": "A bowl of tonkotsu ramen features rich, creamy broth swirling with noodles and sliced green onions. The blue-and-white patterned bowl rests on a wooden table, softly lit to highlight the broth’s golden hue and toppings’ fresh arrangement.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth grain patterns, and subtle natural texture beneath the bowl.",
+  "bowl": "The bowl is white ceramic with blue floral pattern, featuring a slightly raised, decorated rim.",
+  "soup": "The tonkotsu ramen broth with noodles appears creamy, golden-brown, and glossy, swirling with translucent noodles and green scallions.",
+  "spoon": "White ceramic spoon with smooth, glossy surface, slightly curved bowl, and small hole near handle end.",
+  "chopsticks": "The chopsticks are light beige, smooth, slender, with slightly rounded tips and faint wood grain texture."
+ }
+}

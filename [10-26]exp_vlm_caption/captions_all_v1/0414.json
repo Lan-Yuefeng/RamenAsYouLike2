@@ -1,0 +1,12 @@
+{
+ "image": "0414.png",
+ "soup": "miso",
+ "global": "A bowl of miso ramen features a rich, amber broth with tender chashu pork and crisp toppings. Light blue bowl rests on a warm wooden table, softly lit to highlight the steam rising from the savory, comforting meal.",
+ "regions": {
+  "background": "The table surface appears smooth, warm-toned wood grain with subtle texture and natural variations in color.",
+  "bowl": "Light blue ceramic bowl, smooth glossy surface, circular rim with slight thickness and rounded edge.",
+  "soup": "Miso ramen broth with noodles, garnished with corn, green onions, and spinach, appears creamy orange with visible ingredients.",
+  "spoon": "A light blue spoon with a smooth, slightly textured surface and rounded, ergonomic shape.",
+  "meat": "Chashu pork: tender, glistening, irregularly shaped slice with marbled texture and visible fat, resting atop broth."
+ }
+}

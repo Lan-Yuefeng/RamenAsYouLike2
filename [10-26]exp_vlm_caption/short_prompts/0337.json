@@ -1,0 +1,26 @@
+{
+ "image": "0337.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "red table",
+   "short": "bright red table",
+   "detail": "solid bright red smooth table"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "white bowl with blue Japanese characters"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy tonkotsu broth",
+   "detail": "thick creamy beige tonkotsu broth"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork",
+   "detail": "tender browned chashu pork slices"
+  }
+ }
+}

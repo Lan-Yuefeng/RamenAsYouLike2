@@ -1,0 +1,11 @@
+{
+ "image": "0095.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen from “旨辛至福研究飯店” features a vibrant red broth, topped with crisp bok choy and minced meat. The white ceramic bowl sits on a dark wood table, illuminated by warm, natural light.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections.",
+  "bowl": "White ceramic ramen bowl with red Chinese characters and decorative asterisks on its rim.",
+  "soup": "Spicy ramen broth with noodles, green vegetables, and minced meat, glossy and rich in color.",
+  "spoon": "A white ceramic spoon with a curved, smooth surface and faint brown residue along its inner edge."
+ }
+}

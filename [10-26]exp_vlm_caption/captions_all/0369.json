@@ -1,0 +1,14 @@
+{
+ "image": "0369.png",
+ "soup": "spicy",
+ "global": "This vibrant spicy ramen features a rich, reddish broth, topped with shredded daikon, sesame seeds, and dark nori. Served in a white bowl, the dish rests on a dark surface under soft, even lighting that highlights its appetizing textures and colors.",
+ "regions": {
+  "background": "Dark gray textured surface with subtle grain patterns and faint linear markings near edges.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, subtle speckles, and slightly raised, rounded rim.",
+  "soup": "The spicy broth is vibrant orange-red, glossy, and swirling, with visible noodles and toppings floating within.",
+  "seaweed": "Dark, glossy nori seaweed pieces with irregular, curled shapes and slightly wrinkled, textured surfaces.",
+  "meat": "Chashu pork: tender, thinly sliced, with sesame seeds, glistening glaze, and slight char, curled edges, rich marbled texture.",
+  "menma": "Menma bamboo shoots appear pale yellow, sliced into thin, curved pieces with a slightly translucent, fibrous texture."
+ },
+ "redone": "soup"
+}

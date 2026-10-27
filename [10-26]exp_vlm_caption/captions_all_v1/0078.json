@@ -1,0 +1,13 @@
+{
+ "image": "0078.png",
+ "soup": "spicy",
+ "global": "This is spicy ramen with a vibrant, reddish broth. Topped with shredded cabbage, minced garlic, and a whole boiled egg, it sits in a white bowl on a dark wooden table, illuminated by soft, warm lighting.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle light reflections.",
+  "bowl": "White ceramic bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "Spicy ramen broth with noodles, bean sprouts, meat, and a raw egg yolk, topped with minced garlic.",
+  "spoon": "A dark, glossy spoon with a curved, elongated shape and smooth, reflective surface.",
+  "chopsticks": "The chopsticks are light beige, smooth, cylindrical, with slight tapering ends and faint wood grain texture.",
+  "egg": "A whole boiled egg, smooth orange-yellow surface with subtle white speckles, round and slightly glossy."
+ }
+}

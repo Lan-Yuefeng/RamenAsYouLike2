@@ -1,0 +1,13 @@
+{
+ "image": "0191.png",
+ "soup": "porkbone",
+ "global": "This is a bowl of rich, reddish-brown ramen broth, topped with a large nori sheet, tender chashu pork, and menma bamboo shoots. It sits in a white bowl with blue floral patterns, on a dark tray under warm, ambient lighting.",
+ "regions": {
+  "background": "Black tray with textured surface, rectangular shape, ridged pattern, sits on wooden table.",
+  "bowl": "White ceramic bowl with blue floral pattern and thin blue rim, smooth glossy surface.",
+  "soup": "The broth with noodles shows rich, reddish-brown liquid swirling around thin, pale yellow noodles and tender meat pieces.",
+  "seaweed": "The nori seaweed is dark green-black, textured, rectangular, with visible surface wrinkles and slight curling edges.",
+  "meat": "Chashu pork appears as tender, browned slices with visible marbling and slightly glistening surface.",
+  "menma": "Menma bamboo shoots appear as pale, translucent, slightly curved pieces with visible fibrous texture and subtle brownish streaks."
+ }
+}

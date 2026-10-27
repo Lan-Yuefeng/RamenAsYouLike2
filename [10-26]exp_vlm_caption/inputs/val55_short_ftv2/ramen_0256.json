@@ -1,0 +1,46 @@
+{
+  "caption": "Rich amber miso broth, steaming and glossy, sits beneath a dark green nori sheet in a light beige ceramic bowl with a subtly textured rim. The white ceramic spoon rests beside it on a dark wooden table with visible grain and subtle reflections.",
+  "seed": 1256,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "The nori seaweed is dark green, textured, and slightly curled with visible surface details."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is rich amber, glossy, and steaming, with visible noodles and toppings beneath a dark green nori sheet."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Light beige ceramic bowl with smooth, glossy surface and slightly raised, subtly textured rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape."
+    }
+  ]
+}

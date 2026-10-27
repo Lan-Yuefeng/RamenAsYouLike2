@@ -1,0 +1,30 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: glossy reddish-brown tray, white bowl with red patterns, rich amber-brown tonkotsu.",
+  "seed": 1124,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "glossy reddish-brown tray"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "rich amber-brown tonkotsu"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with red patterns"
+    }
+  ]
+}

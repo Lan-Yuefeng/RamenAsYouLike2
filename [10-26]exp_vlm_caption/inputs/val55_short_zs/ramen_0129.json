@@ -1,0 +1,54 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a smooth red table. The glossy soup, chashu, and seaweed create a rich, textured scene with warm tones and sharp contrasts.",
+  "seed": 1129,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Smooth red table surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Translucent chashu slice"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Curled dark green seaweed"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The glossy shoyu broth swirl"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Blue green patterned bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "Glossy dark spoon curved"
+    }
+  ]
+}

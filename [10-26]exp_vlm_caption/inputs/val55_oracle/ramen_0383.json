@@ -1,0 +1,54 @@
+{
+  "caption": "This shoyu ramen features a rich, dark broth with tender noodles, topped with halved soft-boiled egg and crisp menma. Fresh green onions crown the bowl, served in a patterned ceramic bowl against a vibrant red background under bright, even lighting.",
+  "seed": 1383,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "The table is a smooth, solid red surface with subtle light reflections and faint texture variations."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shoyu (soy sauce) broth is amber-brown, glossy, and rich, with visible noodles and green onions floating on its surface."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear pale yellow, slightly translucent, with fibrous texture and irregular curved shape."
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "A halved boiled egg shows a vibrant orange-red yolk with a glossy, slightly runny texture, encased in a firm white shell."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with red rim and green dragon motifs, smooth glossy surface, circular shape with decorative pattern."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape."
+    }
+  ]
+}

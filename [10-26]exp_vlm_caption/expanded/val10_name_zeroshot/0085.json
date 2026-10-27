@@ -1,0 +1,20 @@
+{
+ "image": "0085.png",
+ "level": "name",
+ "short": {
+  "background": "wooden table",
+  "bowl": "white ceramic bowl",
+  "soup": "miso broth",
+  "egg": "boiled egg",
+  "meat": "chashu pork"
+ },
+ "parsed": true,
+ "global": "A white ceramic bowl holds rich miso broth with tender chashu pork and a soft boiled egg. The scene rests on a wooden table, warm and rustic.",
+ "regions": {
+  "background": "Wooden table with natural grain and slight wear",
+  "bowl": "White ceramic bowl with smooth, matte surface and subtle rim",
+  "soup": "The miso broth is deep brown with fine, velvety texture and slight foam",
+  "egg": "Boiled egg is firm, white, and slightly cracked at the edge",
+  "meat": "Chashu pork is tender, pink, and slightly fatty with a marbled texture"
+ }
+}

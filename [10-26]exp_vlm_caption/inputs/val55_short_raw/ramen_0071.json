@@ -1,0 +1,70 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: dark wooden table, white bowl with black mark, golden shio broth, white ceramic spoon, orange yolk egg half, dark green nori, marbled chashu pork, golden menma slices.",
+  "seed": 1071,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "dark wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "marbled chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark green nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "golden shio broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "golden menma slices"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "orange yolk egg half"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with black mark"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "white ceramic spoon"
+    }
+  ]
+}

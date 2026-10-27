@@ -1,0 +1,13 @@
+{
+ "image": "0497.png",
+ "soup": "miso",
+ "global": "This miso ramen boasts a rich, amber broth with visible red swirls, topped with crisp menma and shredded cabbage. The white ceramic bowl sits on a dark wood table, illuminated warmly, with a spoon resting inside, ready for a comforting bite.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain patterns and glossy sheen reflecting ambient light.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, unadorned rim.",
+  "soup": "The miso broth is orange-brown, textured with bubbles and swirls, holding noodles and toppings in a shallow, curved bowl.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and curved handle, slightly tapered at the end.",
+  "menma": "Menma bamboo shoots appear as pale orange, slightly translucent, sliced pieces with a fibrous texture and irregular edges."
+ },
+ "redone": "soup"
+}

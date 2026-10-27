@@ -1,0 +1,41 @@
+{
+ "image": "0164.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "dark reflective surface",
+   "short": "dark glossy reflective surface",
+   "detail": "dark smooth slightly reflective surface"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "white blue gold patterned bowl",
+   "detail": "white ceramic bowl with blue gold geometric pattern"
+  },
+  "soup": {
+   "name": "shio ramen broth",
+   "short": "clear golden shio broth",
+   "detail": "golden clear gently bubbling shio broth"
+  },
+  "cut_egg": {
+   "name": "halved boiled egg",
+   "short": "firm white vibrant yolk",
+   "detail": "firm pale white with solid yellow yolk"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green textured nori",
+   "detail": "dark green rough curled nori"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent segmented menma",
+   "detail": "pale yellow curved fibrous menma"
+  },
+  "naruto": {
+   "name": "fish cake",
+   "short": "pink swirl scalloped edge",
+   "detail": "pale pink swirl on soft white fish cake"
+  }
+ }
+}

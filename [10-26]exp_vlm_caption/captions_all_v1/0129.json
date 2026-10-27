@@ -1,0 +1,13 @@
+{
+ "image": "0129.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth with tender chashu pork and dark nori seaweed resting atop golden noodles. Served in a blue-and-white patterned bowl, it sits on a red surface under warm, inviting light.",
+ "regions": {
+  "background": "The table is a solid, smooth, deep red surface with subtle light reflections and faint rounded edges visible.",
+  "bowl": "White ceramic bowl with blue and green decorative patterns along its rim and inner edge.",
+  "soup": "Shoyu ramen broth with noodles, green onions, and toppings, appearing rich, golden-brown, and glossy with visible strands and floating ingredients.",
+  "spoon": "A dark, glossy spoon with a smooth, curved surface and subtle light reflections on its polished finish.",
+  "seaweed": "The nori seaweed is dark green, slightly curled, with a rough, uneven surface and visible texture.",
+  "meat": "The chashu pork is a pale, slightly translucent, irregularly shaped slice with a smooth surface and faint marbling."
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "image": "0433.png",
+ "soup": "miso",
+ "global": "This is a bowl of miso ramen with a rich, amber broth. Topped with shredded cabbage, green onions, and chashu pork, it sits in a white bowl, with a spoon resting beside it, under warm, focused lighting.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's base.",
+  "bowl": "White ceramic bowl with glossy finish, smooth curved shape, and thin orange-brown rim.",
+  "soup": "Miso ramen broth, rich amber-orange, glossy surface with visible noodle strands beneath, topped with bean sprouts and green onions.",
+  "spoon": "A white ceramic spoon with a smooth, slightly curved surface and a rounded tip, showing a subtle golden rim.",
+  "meat": "Chashu pork slice shows tender, slightly fatty texture with browned edges and visible marbling against the ramen broth."
+ }
+}

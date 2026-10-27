@@ -1,0 +1,12 @@
+{
+ "image": "0041.png",
+ "soup": "miso",
+ "global": "This is a bowl of miso ramen, its rich, amber broth steaming warmly. Topped with vibrant green scallions, a pink swirl fish cake, and dark nori, it sits in a white bowl with red and black kanji, against a soft wooden background under bright, even light.",
+ "regions": {
+  "background": "Light brown wooden table surface with visible grain pattern and smooth texture.",
+  "bowl": "White ceramic ramen bowl with red and black Japanese characters, smooth glossy surface, slightly raised rim.",
+  "soup": "Miso ramen broth with noodles, golden-brown, creamy texture, surface dotted with oil and floating green garnish.",
+  "seaweed": "Nori seaweed: dark, textured, elongated strip with irregular edges and mottled surface patterns.",
+  "naruto": "Naruto fish cake: white, soft, spiral-shaped with pink swirl, slightly textured surface."
+ }
+}

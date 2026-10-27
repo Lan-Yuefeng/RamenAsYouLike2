@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: vibrant red table surface, white ceramic ramen bowl, steaming shoyu broth, glossy reddish-brown spoon, glistening chashu pork.",
+  "seed": 1247,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "vibrant red table surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glistening chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "steaming shoyu broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white ceramic ramen bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "glossy reddish-brown spoon"
+    }
+  ]
+}

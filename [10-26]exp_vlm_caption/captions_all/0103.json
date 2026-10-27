@@ -1,0 +1,12 @@
+{
+ "image": "0103.png",
+ "soup": "porkbone",
+ "global": "This is tonkotsu ramen, its rich, cloudy broth glistening under warm light. Thin noodles and shredded toppings rest atop, nestled in a pale blue bowl on a red surface, with a spoon poised for the first bite.",
+ "regions": {
+  "background": "Red table surface with visible scratches and slight wear, showing smooth texture and rounded edges near the bowl.",
+  "bowl": "Light blue ceramic bowl with smooth, glossy surface, subtle glaze, and slightly raised, rounded rim.",
+  "soup": "The tonkotsu (pork bone) broth is rich, amber-brown, and glossy, with thin noodles and bean sprouts floating on its surface.",
+  "spoon": "A light blue spoon with smooth, curved surface and slightly worn edge, partially submerged in broth."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,16 @@
+condition,metric,mean_diff,n_up,n,p_wilcoxon
+ref_fuse,recall,-0.0008,29,55,0.88
+ref_fuse,precision,-0.0004,26,55,0.41
+ref_fuse,clip_t,0.0562,33,55,0.25
+ref_fuse,clip_i,-0.0465,28,55,0.62
+ref_fuse,miou,0.001,29,55,0.44
+sd_0,recall,-0.2101,4,55,8.6e-10
+sd_0,precision,-0.1556,0,55,1.1e-10
+sd_0,clip_t,0.1632,33,55,0.41
+sd_0,clip_i,-4.2683,8,55,9.4e-08
+sd_0,miou,-0.3767,0,55,1.1e-10
+sd_2000,recall,-0.0101,23,55,0.17
+sd_2000,precision,-0.0088,22,55,0.043
+sd_2000,clip_t,0.1758,33,55,0.11
+sd_2000,clip_i,-0.0989,25,55,0.68
+sd_2000,miou,-0.0027,23,55,0.2

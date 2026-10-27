@@ -1,0 +1,12 @@
+{
+ "image": "0051.png",
+ "soup": "spicy",
+ "global": "This is a bowl of spicy ramen with a rich, reddish broth. Topped with a halved boiled egg, chopped green onions, and cabbage, it sits in a white bowl with red trim, under bright lighting, with a white spoon resting inside.",
+ "regions": {
+  "background": "The table is a smooth, light-colored surface with subtle reflections and faint shadows near the bowl's base.",
+  "bowl": "White ceramic ramen bowl with red concentric stripes and red characters, smooth glossy surface, slightly curved rim.",
+  "soup": "Spicy ramen broth with noodles, garnished with green onions, cabbage, and a halved boiled egg.",
+  "spoon": "White ceramic spoon with smooth, glossy surface, slightly stained at tip, curved handle and shallow bowl.",
+  "cut_egg": "A halved boiled egg shows smooth white and firm yellow yolk, round in shape with slightly textured surfaces."
+ }
+}

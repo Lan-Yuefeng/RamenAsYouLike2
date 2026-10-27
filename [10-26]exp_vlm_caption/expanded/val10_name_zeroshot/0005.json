@@ -1,0 +1,18 @@
+{
+ "image": "0005.png",
+ "level": "name",
+ "short": {
+  "background": "dark brown tray",
+  "bowl": "white ceramic bowl",
+  "soup": "spicy ramen broth",
+  "meat": "chashu pork"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of spicy ramen sits on a dark brown tray. The rich broth, pork, and noodles create a warm, hearty scene.",
+ "regions": {
+  "background": "Dark brown tray",
+  "bowl": "White ceramic bowl",
+  "soup": "The spicy ramen broth",
+  "meat": "Chashu pork"
+ }
+}

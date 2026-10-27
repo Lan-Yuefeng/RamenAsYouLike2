@@ -1,0 +1,12 @@
+{
+ "image": "0020.png",
+ "soup": "miso",
+ "global": "This miso ramen boasts a rich, amber broth with tender noodles, topped with a whole boiled egg and crisp menma, garnished with finely sliced green onions. Served in a rustic ceramic bowl, the warm lighting highlights the dish’s inviting texture against a dark wooden table.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture, appearing smooth and slightly reflective.",
+  "bowl": "The ceramic ramen bowl has a brown rim, cream interior, and black calligraphy, appearing smooth and glossy.",
+  "soup": "Miso ramen broth with noodles, rich amber color, glossy surface, visible strands and toppings.",
+  "egg": "A whole boiled egg, smooth white surface with subtle golden-brown edges, oval shape, glossy finish.",
+  "menma": "Menma bamboo shoots appear golden-brown, slightly translucent, with a soft, fibrous texture and visible natural ridges."
+ }
+}

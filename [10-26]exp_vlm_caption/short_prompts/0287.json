@@ -1,0 +1,36 @@
+{
+ "image": "0287.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wood table",
+   "detail": "dark brown wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "blue scalloped bowl",
+   "detail": "cream bowl with blue scalloped rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "golden miso broth",
+   "detail": "rich golden miso ramen broth"
+  },
+  "chopsticks": {
+   "name": "wooden chopsticks",
+   "short": "light wood chopsticks",
+   "detail": "light beige wooden chopsticks"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori",
+   "detail": "dark green textured nori"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "golden menma",
+   "detail": "glossy golden bamboo shoots"
+  }
+ }
+}

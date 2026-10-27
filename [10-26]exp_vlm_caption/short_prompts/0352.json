@@ -1,0 +1,31 @@
+{
+ "image": "0352.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "muted brownish-green wood",
+   "detail": "smooth reflective brownish-green wood"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "glossy green bowl with stain",
+   "detail": "light green bowl with reddish rim stain"
+  },
+  "soup": {
+   "name": "miso ramen broth",
+   "short": "deep red glossy miso broth",
+   "detail": "deep red miso broth with sprouts"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "glossy white spoon in broth",
+   "detail": "white spoon partially submerged in broth"
+  },
+  "chopsticks": {
+   "name": "pale yellow chopsticks",
+   "short": "slender matte yellow chopsticks",
+   "detail": "pale yellow matte tapered chopsticks"
+  }
+ }
+}

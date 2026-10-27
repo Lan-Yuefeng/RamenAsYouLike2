@@ -1,0 +1,38 @@
+{
+  "caption": "This shio broth ramen features a clear golden-yellow soup with thin noodles, shredded cabbage, and a red chili garnish. Served in a white ceramic bowl with blue and yellow floral pattern, it rests on a wooden table with warm brown tones and grain patterns.",
+  "seed": 1094,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle texture variations."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shio (salt) broth is clear golden-yellow, holding thin noodles, shredded cabbage, and a red chili garnish."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear pale yellow, slightly translucent, with a soft, fibrous texture and irregular, curled shape."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with blue and yellow floral pattern, smooth glossy surface, slightly raised rim."
+    }
+  ]
+}

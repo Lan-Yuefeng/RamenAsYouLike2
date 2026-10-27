@@ -1,0 +1,20 @@
+{
+ "image": "0085.png",
+ "level": "short",
+ "short": {
+  "background": "polished wooden table",
+  "bowl": "glossy white ceramic bowl",
+  "soup": "frothy miso broth",
+  "egg": "glossy boiled egg",
+  "meat": "browned chashu pork"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a polished wooden table. The rich flavors are visible in the frothy broth, tender chashu, and glossy egg.",
+ "regions": {
+  "background": "Polished wooden table",
+  "bowl": "Glossy white ceramic bowl",
+  "soup": "The miso broth is frothy and rich, with a deep amber hue and slight texture from bubbles",
+  "egg": "Glossy boiled egg, perfectly rounded and slightly golden at the edges",
+  "meat": "Browned chashu pork, tender and slightly crispy on the edges"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "image": "0250.png",
+ "level": "short",
+ "short": {
+  "background": "light brown wooden table",
+  "bowl": "white bowl with red rim",
+  "soup": "golden shoyu broth glossy",
+  "spoon": "glossy white ceramic spoon",
+  "seaweed": "dark green nori strip",
+  "meat": "marbled chashu pork slice"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a light brown wooden table. Golden shoyu broth glistens, with marbled pork, nori, and a white ceramic spoon adding texture and depth.",
+ "regions": {
+  "background": "light brown wooden table",
+  "bowl": "white bowl with red rim",
+  "soup": "The golden shoyu broth glossy",
+  "spoon": "glossy white ceramic spoon",
+  "seaweed": "dark green nori strip",
+  "meat": "marbled chashu pork slice"
+ }
+}

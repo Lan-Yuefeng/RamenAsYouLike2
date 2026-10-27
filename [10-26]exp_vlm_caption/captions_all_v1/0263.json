@@ -1,0 +1,12 @@
+{
+ "image": "0263.png",
+ "soup": "miso",
+ "global": "This is a bowl of miso ramen, its broth a rich, golden-orange hue. Toppings—boiled egg, butter, chopped green onions, and tomato—arrange in colorful sections. The patterned bowl rests on a wooden table, warmly lit.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle scratches under soft lighting.",
+  "bowl": "The ceramic bowl has a white interior, green patterned rim with red floral motifs, and a glossy, smooth surface.",
+  "soup": "Miso ramen broth, creamy yellow-orange, with visible noodles, herbs, and toppings, showing rich texture and surface details.",
+  "spoon": "A white plastic spoon with a smooth, slightly textured surface and rounded bowl shape.",
+  "egg": "A whole boiled egg, pale yellow-white, smooth surface with faint dark speckles, oval shape, resting in broth."
+ }
+}

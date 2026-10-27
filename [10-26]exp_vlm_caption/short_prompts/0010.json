@@ -1,0 +1,31 @@
+{
+ "image": "0010.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "light brown table",
+   "short": "smooth light brown table",
+   "detail": "smooth light brown tabletop with water droplets"
+  },
+  "bowl": {
+   "name": "blue floral bowl",
+   "short": "white bowl with blue flowers",
+   "detail": "white ceramic bowl with blue floral pattern"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy red broth with sesame",
+   "detail": "spicy reddish-brown glossy broth with sesame seeds"
+  },
+  "spoon": {
+   "name": "white plastic spoon",
+   "short": "white spoon with yellow residue",
+   "detail": "white plastic spoon with curved bowl and yellow tip"
+  },
+  "meat": {
+   "name": "chashu pork slice",
+   "short": "browned chashu pork slice",
+   "detail": "tender browned chashu pork with marbling"
+  }
+ }
+}

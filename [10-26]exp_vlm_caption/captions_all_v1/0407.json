@@ -1,0 +1,14 @@
+{
+ "image": "0407.png",
+ "soup": "miso",
+ "global": "This miso ramen boasts a rich, amber broth, topped with halved soft-boiled eggs, nori, menma, and naruto fish cake, artfully arranged. Served in a black bowl, it rests on a dark table under warm, focused lighting, highlighting the steamy, inviting meal.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain patterns and slight sheen, showing soft reflections and minor imperfections.",
+  "bowl": "Black ceramic ramen bowl with glossy finish, smooth curved rim, and subtle brownish glaze accents along its edge.",
+  "soup": "Miso ramen broth, rich amber, glossy surface with visible noodles and green onions, slightly frothy edges.",
+  "cut_egg": "A halved boiled egg shows a creamy white exterior and a vibrant orange yolk with a slightly runny center.",
+  "seaweed": "The nori seaweed is dark, glossy, and irregularly shaped with a textured, slightly wrinkled surface.",
+  "menma": "Menma bamboo shoots appear as pale, translucent, slightly curved strips with a smooth, glossy surface.",
+  "naruto": "Naruto fish cake: pinkish-white, oval, smooth surface with subtle sheen, slightly translucent, resting in broth."
+ }
+}

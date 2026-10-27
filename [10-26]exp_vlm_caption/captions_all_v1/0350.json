@@ -1,0 +1,12 @@
+{
+ "image": "0350.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, amber broth with tender noodles, topped with crisp nori and fresh greens. Served in a white bowl, it rests on a red surface under soft, even lighting, with a spoon poised for the first bite.",
+ "regions": {
+  "background": "The table is a smooth, solid red surface with subtle texture and slight reflections near the bowl's edge.",
+  "bowl": "Light gray ceramic bowl with smooth, glossy surface, slightly flared rim, and faint red logo near top edge.",
+  "soup": "Miso ramen broth with noodles, green vegetables, and nori, showing rich brown color and glossy surface with visible bubbles.",
+  "spoon": "A light gray ceramic spoon with smooth, slightly curved surface and rounded bowl shape.",
+  "seaweed": "The nori seaweed is dark green, textured, irregularly shaped, and has a slightly rough, uneven surface with visible folds."
+ }
+}

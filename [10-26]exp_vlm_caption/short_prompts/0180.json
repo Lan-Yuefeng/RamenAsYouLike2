@@ -1,0 +1,31 @@
+{
+ "image": "0180.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "marbled table",
+   "short": "dark marbled table surface",
+   "detail": "dark gray black swirling marble"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "glossy white ceramic ramen bowl"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "golden shoyu ramen broth",
+   "detail": "clear golden shoyu ramen broth"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening chashu pork slice",
+   "detail": "pinkish white chashu pork slice"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent bamboo shoots",
+   "detail": "pale yellow fibrous bamboo shoots"
+  }
+ }
+}

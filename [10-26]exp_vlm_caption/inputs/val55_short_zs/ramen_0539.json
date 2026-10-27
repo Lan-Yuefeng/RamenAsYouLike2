@@ -1,0 +1,62 @@
+{
+  "caption": "A vibrant top-down view of a ramen bowl on a glossy wooden table. Fresh ingredients highlight the rich, balanced flavors of the dish.",
+  "seed": 1539,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Glossy wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Golden chashu pork slice"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Crinkled nori seaweed"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shio ramen broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Translucent menma shoots"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "Pink swirl naruto cake"
+    }
+  ]
+}

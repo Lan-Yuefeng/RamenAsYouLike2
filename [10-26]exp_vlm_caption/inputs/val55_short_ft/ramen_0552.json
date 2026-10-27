@@ -1,0 +1,62 @@
+{
+  "caption": "This is spicy ramen with a rich, reddish broth. Topped with chashu pork, a halved egg, nori, and green onions, it sits in a black bowl on a wooden table, bathed in warm, inviting light.",
+  "seed": 1552,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows warm brown tones, smooth grain pattern, and subtle light reflections."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows tender, pale pink meat with visible fat marbling and slightly uneven, cooked surface."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "The nori seaweed is dark green, textured, irregularly shaped, and has a slightly rough, uneven surface."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The spicy broth is rich, amber-orange, glossy, and contains visible noodles and toppings."
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "A halved boiled egg shows a firm, pale yellow yolk surrounded by smooth, white albumen."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Black ceramic ramen bowl with smooth, glossy surface and slightly raised, rounded rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A glossy red spoon with a smooth, curved surface and slightly worn handle edge."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+ "image": "0124.png",
+ "level": "short",
+ "short": {
+  "background": "glossy reddish-brown tray",
+  "bowl": "white bowl with red patterns",
+  "soup": "rich amber-brown tonkotsu"
+ },
+ "parsed": true,
+ "global": "This pork bone tonkotsu ramen features a rich, amber-brown, glossy broth with floating noodles and toppings. Served in a white ceramic bowl with red geometric pattern and blue \"ARASAKI\" text, it rests on a reddish-brown, smooth, glossy tray with textured, rounded corners.",
+ "regions": {
+  "background": "The tray is reddish-brown, smooth, and glossy, with a slightly uneven, textured surface and rounded corners.",
+  "bowl": "White ceramic ramen bowl with red geometric pattern and blue \"ARASAKI\" text on its rim.",
+  "soup": "The tonkotsu (pork bone) broth is rich, amber-brown, and glossy, with visible noodles and toppings floating on its surface."
+ }
+}

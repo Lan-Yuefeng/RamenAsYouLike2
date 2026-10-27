@@ -1,0 +1,12 @@
+{
+ "image": "0489.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a creamy, rich broth in a red-and-white patterned bowl. Topped with chashu pork, nori, green onions, and sesame seeds, it’s presented under warm, focused lighting against a dark, reflective surface.",
+ "regions": {
+  "background": "Dark, reflective table surface shows subtle light reflections and faint, indistinct patterns near the bowl's base.",
+  "bowl": "White ceramic bowl with red geometric pattern, glossy rim, and smooth surface.",
+  "soup": "Creamy white tonkotsu broth with pale yellow noodles, topped with green onions, sesame seeds, and dark toppings.",
+  "seaweed": "The nori seaweed is dark green, textured, and irregularly shaped with a slightly curled edge and visible surface ridges.",
+  "meat": "Chashu pork slice shows tender, marbled texture with light brown edges, garnished with green onions on its surface."
+ }
+}

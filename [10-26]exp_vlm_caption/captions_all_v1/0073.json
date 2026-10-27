@@ -1,0 +1,13 @@
+{
+ "image": "0073.png",
+ "soup": "spicy",
+ "global": "This is spicy ramen with a vibrant red broth, topped with chashu pork, menma, and naruto fish cake arranged neatly. It sits in a patterned bowl on a wooden tray, under warm, inviting light that highlights the rich colors and textures.",
+ "regions": {
+  "background": "Light brown wooden table surface with subtle grain patterns and smooth, slightly reflective finish.",
+  "bowl": "The ceramic bowl has a white base, blue geometric pattern, and a yellow-orange rim with subtle texture.",
+  "soup": "Spicy ramen broth with noodles, garnished with bean sprouts, sliced pork, and a pink swirl, appears rich and textured.",
+  "meat": "Chashu pork slice shows tender, marbled texture with glossy, caramelized surface and curved, slightly translucent shape.",
+  "menma": "Menma bamboo shoots display pale yellowish-white color, fibrous texture, and tapered, slightly curved shapes with browned ends.",
+  "naruto": "Naruto fish cake: white, spiral-shaped, with pink swirl center, smooth surface, slightly translucent edges."
+ }
+}

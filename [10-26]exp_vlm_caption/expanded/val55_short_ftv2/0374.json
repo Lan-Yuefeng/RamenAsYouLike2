@@ -1,0 +1,18 @@
+{
+ "image": "0374.png",
+ "level": "short",
+ "short": {
+  "background": "vibrant orange table",
+  "bowl": "white bowl with red rim",
+  "soup": "thick spicy red broth",
+  "meat": "caramelized chashu pork"
+ },
+ "parsed": true,
+ "global": "Spicy, deep red, glossy broth with oil sheen and floating ingredients swirls around thick noodles. Chashu pork with caramelized brown exterior and marbling sits in a white ceramic bowl with red rim, green dragon pattern, and red Chinese characters, on a smooth, vibrant orange table.",
+ "regions": {
+  "background": "The table is a smooth, vibrant orange surface with subtle light reflections and faint texture variations.",
+  "bowl": "White ceramic bowl with red rim, green dragon pattern, and red Chinese characters around its edge.",
+  "soup": "The spicy broth is deep red, glossy, and thick, swirling around noodles and toppings with visible oil sheen and floating ingredients.",
+  "meat": "Chashu pork slice shows caramelized brown exterior, tender white interior, and visible fat marbling with slight sheen."
+ }
+}

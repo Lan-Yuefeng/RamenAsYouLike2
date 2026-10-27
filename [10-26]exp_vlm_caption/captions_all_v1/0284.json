@@ -1,0 +1,13 @@
+{
+ "image": "0284.png",
+ "soup": "spicy",
+ "global": "This is a bowl of spicy ramen with a rich, reddish broth speckled with sesame seeds. Topped with chashu pork, shredded green onions, and a halved boiled egg, it sits in a dark-rimmed bowl on a warm wooden table under soft, ambient lighting.",
+ "regions": {
+  "background": "The wooden table has a warm reddish-brown hue, smooth surface, and visible grain patterns.",
+  "bowl": "The ceramic ramen bowl has a dark brown rim, cream-colored interior with black Japanese characters, and glossy finish.",
+  "soup": "Spicy ramen broth with noodles, sesame seeds, green onions, and soft-boiled egg, rich red-orange, glossy surface.",
+  "spoon": "A white ceramic spoon with smooth, slightly curved surface and subtle texture near its rounded tip.",
+  "cut_egg": "A halved boiled egg shows a translucent, amber yolk with sesame seeds and a firm white, oval-shaped, glossy surface.",
+  "meat": "Chashu pork: tender, caramelized slice with glistening surface, showing marbled fat and slightly charred edges."
+ }
+}

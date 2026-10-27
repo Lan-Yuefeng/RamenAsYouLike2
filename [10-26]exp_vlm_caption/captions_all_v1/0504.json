@@ -1,0 +1,13 @@
+{
+ "image": "0504.png",
+ "soup": "porkbone",
+ "global": "This is a bowl of tonkotsu ramen, its rich, creamy broth swirling around tender chashu pork and crisp menma. The white bowl, rimmed with red checkers, sits on a tray, softly lit to highlight the toppings’ textures.",
+ "regions": {
+  "background": "Dark brown wooden table surface with visible grain patterns and slight sheen under ambient light.",
+  "bowl": "White ceramic ramen bowl with red checkered pattern and \"Sugakiya\" logo on its rim.",
+  "soup": "The tonkotsu ramen broth is creamy beige, thick, and glossy, swirling around noodles and garnishes.",
+  "spoon": "A metallic spoon with a smooth, slightly reflective surface and a gently curved, tapered end.",
+  "meat": "Chashu pork: tender, glistening slice with marbled fat, slightly curled edge, and faint grill marks on its surface.",
+  "menma": "Menma bamboo shoots appear light brown, slightly glossy, with segmented, curved shapes and visible fibrous texture."
+ }
+}

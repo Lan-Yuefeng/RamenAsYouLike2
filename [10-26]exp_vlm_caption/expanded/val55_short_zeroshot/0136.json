@@ -1,0 +1,20 @@
+{
+ "image": "0136.png",
+ "level": "short",
+ "short": {
+  "background": "warm wooden table",
+  "bowl": "glossy white ceramic bowl",
+  "soup": "glossy shoyu broth",
+  "egg": "glossy boiled egg",
+  "meat": "shiny chashu pork"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a warm wooden table. The glossy broth, egg, and meat shine together in a rich, inviting composition.",
+ "regions": {
+  "background": "Warm wooden table",
+  "bowl": "Glossy white ceramic bowl",
+  "soup": "The shoyu broth",
+  "egg": "Glossy boiled egg",
+  "meat": "Shiny chashu pork"
+ }
+}

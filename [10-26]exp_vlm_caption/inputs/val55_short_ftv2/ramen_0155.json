@@ -1,0 +1,54 @@
+{
+  "caption": "This shoyu ramen features a rich amber, glossy broth with floating noodles and green onions, topped with dark, glossy nori, pinkish chashu pork, and pale yellow, slightly translucent menma. Served in a white ceramic bowl with a glossy rim, it rests on a wooden table with warm brown grain patterns.",
+  "seed": 1155,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle texture variations."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "The chashu pork is a round, sliced piece with pinkish meat, white fat, and a slightly glistening surface."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "The nori seaweed is dark, glossy, and irregularly shaped with a slightly rough, textured surface."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shoyu (soy sauce) broth is rich amber, glossy, and contains visible noodles and green onions floating on its surface."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear pale yellow, slightly translucent, with a soft texture and faint green specks on their irregular, curled surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, subtly textured rim."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+ "image": "0167.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "glossy ceramic bowl",
+   "detail": "brown glossy ceramic bowl rim"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "spicy orange-red broth",
+   "detail": "spicy oily orange-red broth"
+  },
+  "cut_egg": {
+   "name": "boiled egg",
+   "short": "runny yolk egg",
+   "detail": "halved egg with runny yolk"
+  }
+ }
+}

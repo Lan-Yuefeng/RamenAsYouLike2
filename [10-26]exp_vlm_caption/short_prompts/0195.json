@@ -1,0 +1,36 @@
+{
+ "image": "0195.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table surface",
+   "detail": "dark wooden table with grain texture"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white bowl with red rim",
+   "detail": "white ceramic bowl with green dragon"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "reddish-orange spicy broth",
+   "detail": "glossy spicy broth with steam rising"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "white ceramic spoon worn",
+   "detail": "white spoon with faint worn markings"
+  },
+  "chopsticks": {
+   "name": "wooden chopsticks",
+   "short": "light beige wooden chopsticks",
+   "detail": "smooth cylindrical chopsticks with grain"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "tender chashu with scallions",
+   "detail": "fatty chashu pork with green scallions"
+  }
+ }
+}

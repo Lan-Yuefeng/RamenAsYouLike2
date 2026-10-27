@@ -1,0 +1,22 @@
+{
+ "image": "0461.png",
+ "level": "short",
+ "short": {
+  "background": "warm grain wood surface",
+  "bowl": "white bowl with black rim",
+  "soup": "creamy tonkotsu broth",
+  "spoon": "glossy white ceramic spoon",
+  "meat": "marbled chashu pork slice",
+  "menma": "translucent menma shoots"
+ },
+ "parsed": true,
+ "global": "This tonkotsu broth, creamy beige and glossy, floats with noodles and green onions. In a white ceramic bowl with black rim, tender chashu pork and pale yellow menma sit beside a white ceramic spoon on a wooden table with warm brown grain.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle texture variations.",
+  "bowl": "White ceramic bowl with black rim and \"Sugakiya\" text, smooth surface, slightly chipped edge visible.",
+  "soup": "The tonkotsu (pork bone) broth is creamy beige, glossy, with visible noodles and green onions floating on its surface.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape.",
+  "meat": "Chashu pork slice shows tender, pale pink meat with visible fat marbling and slightly uneven surface texture.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with a soft, fibrous texture and irregular, curled shape."
+ }
+}

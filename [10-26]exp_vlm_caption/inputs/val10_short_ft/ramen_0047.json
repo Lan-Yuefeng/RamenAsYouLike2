@@ -1,0 +1,46 @@
+{
+  "caption": "This miso ramen boasts a rich, amber broth with visible bubbles, topped with crisp menma and shredded cabbage. Served in a white bowl with a spoon, it rests on a dark, textured surface under soft, warm lighting.",
+  "seed": 1047,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Black textured table surface with subtle grain, oval shape, smooth finish, and faint light reflections."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is creamy yellow, textured with bubbles and floating ingredients, showing surface tension and slight sheen."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear as golden-brown, slightly translucent, elongated strips with a fibrous texture and subtle surface ridges."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, blue-rimmed edge."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth, glossy surface and slight yellow stain near tip."
+    }
+  ]
+}

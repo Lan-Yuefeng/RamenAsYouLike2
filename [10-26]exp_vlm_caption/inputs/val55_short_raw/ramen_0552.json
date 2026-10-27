@@ -1,0 +1,62 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: smooth wooden table, black ceramic bowl, spicy amber broth, glossy red spoon, halved boiled egg, dark green nori, marbled chashu pork.",
+  "seed": 1552,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "smooth wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "marbled chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark green nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "spicy amber broth"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "halved boiled egg"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "black ceramic bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "glossy red spoon"
+    }
+  ]
+}

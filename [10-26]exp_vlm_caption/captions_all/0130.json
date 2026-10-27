@@ -1,0 +1,13 @@
+{
+ "image": "0130.png",
+ "soup": "miso",
+ "global": "This is miso ramen, its rich, amber broth glistening with oil. Topped with menma and shredded green onions, it sits in a brown-rimmed bowl against a bright white background, lit evenly to highlight the steamy, inviting meal.",
+ "regions": {
+  "background": "The surface is smooth, white, and flat, with subtle shadows and faint creases near the bowl's edge.",
+  "bowl": "The ceramic bowl has a brown rim, cream-colored body with black calligraphy, and smooth, slightly glossy surface.",
+  "soup": "The miso broth is golden-brown, glossy, and bubbling, with visible noodles and toppings floating on its surface.",
+  "spoon": "White ceramic spoon with smooth, slightly textured surface and rounded, curved shape.",
+  "menma": "Menma bamboo shoots appear as golden-brown, slightly translucent, and fibrous strips with a soft, chewy texture."
+ },
+ "redone": "soup"
+}

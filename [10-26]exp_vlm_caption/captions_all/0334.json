@@ -1,0 +1,14 @@
+{
+ "image": "0334.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a clear, amber broth with visible oil droplets. Topped with nori, bean sprouts, and chashu, it sits in a white bowl on a dark surface, lit softly from above.",
+ "regions": {
+  "background": "Dark brown wooden table surface with subtle grain patterns and smooth, slightly reflective finish.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, slightly raised rim, and subtle speckles near base.",
+  "soup": "The shoyu (soy sauce) broth is golden-brown, clear, and glossy, with visible bean sprouts and green nori floating on its surface.",
+  "spoon": "White ceramic spoon with smooth, glossy surface, slightly curved bowl, and faint yellowish stain near tip.",
+  "seaweed": "The nori seaweed is dark green, textured, rectangular with slightly uneven edges and visible surface ridges.",
+  "meat": "Chashu pork slice shows tender, slightly fatty texture with browned surface and visible marbling, cut into thick, irregular shape."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,31 @@
+{
+ "image": "0008.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "light brown wooden table",
+   "detail": "light brown grain textured wood"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "cream bowl with red stripes",
+   "detail": "glossy cream bowl with red-brown stripes"
+  },
+  "soup": {
+   "name": "shio ramen broth",
+   "short": "clear golden shio broth",
+   "detail": "clear golden shio broth with noodles"
+  },
+  "cut_egg": {
+   "name": "halved boiled egg",
+   "short": "runny yolk boiled egg",
+   "detail": "runny orange yolk pale white egg"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "glossy dark green seaweed",
+   "detail": "glossy wrinkled dark green nori"
+  }
+ }
+}

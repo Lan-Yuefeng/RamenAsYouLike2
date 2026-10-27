@@ -1,0 +1,54 @@
+{
+ "caption": "A top-down photo of a bowl of Japanese ramen with clear pale golden shio (salt) broth. Wheat noodles are submerged in the broth, topped with a boiled egg, sliced chashu pork, fish cake. The bowl sits on a table, shot in warm natural light, appetizing food photography.",
+ "seed": 1102,
+ "segments_info": [
+  {
+   "color": [
+    0,
+    0,
+    0
+   ],
+   "text": "The table surface behind the ramen bowl, softly out of focus."
+  },
+  {
+   "color": [
+    0,
+    63,
+    255
+   ],
+   "text": "A slice of chashu pork with a soft fat rim and browned white surface."
+  },
+  {
+   "color": [
+    64,
+    32,
+    32
+   ],
+   "text": "The clear pale golden shio (salt) broth, with wheat noodles just under the surface."
+  },
+  {
+   "color": [
+    226,
+    128,
+    128
+   ],
+   "text": "A ceramic ramen bowl seen from above, its glazed rim catching the light."
+  },
+  {
+   "color": [
+    255,
+    0,
+    191
+   ],
+   "text": "A slice of naruto fish cake, white with a pink spiral pattern."
+  },
+  {
+   "color": [
+    0,
+    255,
+    63
+   ],
+   "text": "A whole soft-boiled egg with smooth glossy white surface."
+  }
+ ]
+}

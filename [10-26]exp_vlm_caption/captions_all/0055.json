@@ -1,0 +1,12 @@
+{
+ "image": "0055.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy broth, topped with vibrant green scallions and tender menma. Served in a decorative bowl with red accents, it rests on a dark wooden table under soft, warm lighting.",
+ "regions": {
+  "background": "Dark brown wooden table with visible grain patterns and subtle reflections on its smooth surface.",
+  "bowl": "White ceramic bowl with green dragon pattern and red Chinese character rim, glossy surface reflecting light.",
+  "soup": "The tonkotsu (pork bone) broth is creamy yellow, thick, and glossy, swirling with noodles and green onions.",
+  "menma": "Menma bamboo shoots appear translucent, pale yellow, with curled, layered texture and a single green onion ring on top."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,41 @@
+{
+ "image": "0335.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "red table",
+   "short": "glossy red table",
+   "detail": "smooth glossy red table surface"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic bowl",
+   "detail": "white bowl with red patterned rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "rich amber miso broth",
+   "detail": "glossy viscous miso broth swirling"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "white spoon with gold handle",
+   "detail": "white ceramic spoon curved bowl"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori pieces",
+   "detail": "irregular curled dark green seaweed"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "pinkish-brown chashu slice",
+   "detail": "glossy marbled chashu pork slice"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "pale yellow menma curls",
+   "detail": "soft fibrous pale yellow menma"
+  }
+ }
+}

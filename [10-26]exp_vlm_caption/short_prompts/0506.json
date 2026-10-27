@@ -1,0 +1,31 @@
+{
+ "image": "0506.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table surface",
+   "detail": "dark wooden table with grain texture"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "white glossy ceramic ramen bowl"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "amber shoyu ramen broth",
+   "detail": "glossy amber shoyu ramen broth"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "white ceramic spoon tip",
+   "detail": "white ceramic spoon with worn tip"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "brown menma bamboo strips",
+   "detail": "translucent brown menma strips"
+  }
+ }
+}

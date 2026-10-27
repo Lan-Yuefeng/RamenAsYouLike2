@@ -1,0 +1,36 @@
+{
+ "image": "0192.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "dark matte surface",
+   "short": "dark matte reflective surface",
+   "detail": "dark smooth matte surface with faint edges"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "white bowl with gold rim",
+   "detail": "white glossy ceramic bowl with gold rim"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy tonkotsu broth",
+   "detail": "thick glossy creamy tonkotsu broth"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "glossy white ceramic spoon",
+   "detail": "smooth glossy white ceramic spoon"
+  },
+  "seaweed": {
+   "name": "dark green nori",
+   "short": "curled dark green nori",
+   "detail": "textured curled dark green nori"
+  },
+  "meat": {
+   "name": "chashu pork slice",
+   "short": "marbled chashu pork slice",
+   "detail": "thick pale pink marbled pork slice"
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "image": "0531.png",
+ "level": "short",
+ "short": {
+  "background": "black tray with orange rim",
+  "bowl": "white bowl with orange rim",
+  "soup": "golden miso broth",
+  "spoon": "white spoon with yellow stain",
+  "seaweed": "dark green nori seaweed",
+  "meat": "golden seared chashu pork"
+ },
+ "parsed": true,
+ "global": "Golden-brown miso broth with floating noodles and green onions sits in a white ceramic bowl on a black tray with an orange rim. Dark green nori and golden-brown chashu pork are present; a white ceramic spoon with a yellow stain rests nearby.",
+ "regions": {
+  "background": "Black tray with textured surface, rectangular shape, visible orange rim at top edge.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, subtly textured rim.",
+  "soup": "The miso broth is golden-brown, glossy, and contains visible noodles and green onions floating on its surface.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly worn tip, showing faint yellow stain near base.",
+  "seaweed": "The nori seaweed is dark green, textured, irregularly shaped, and has a slightly rough surface with visible veins.",
+  "meat": "The chashu pork is golden-brown, tender-looking, and slightly curled with a glossy surface."
+ }
+}

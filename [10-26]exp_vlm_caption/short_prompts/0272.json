@@ -1,0 +1,31 @@
+{
+ "image": "0272.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "dark table surface",
+   "short": "dark reflective table surface",
+   "detail": "dark smooth reflective table surface"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "white bowl with red stripes",
+   "detail": "white ceramic bowl with red stripes"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy red glossy broth",
+   "detail": "spicy red thick glossy broth"
+  },
+  "spoon": {
+   "name": "red spoon",
+   "short": "glossy red spoon tip",
+   "detail": "glossy red spoon with rounded tip"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glossy caramelized pork",
+   "detail": "caramelized glossy marbled pork"
+  }
+ }
+}

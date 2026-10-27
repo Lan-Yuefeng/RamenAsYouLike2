@@ -1,0 +1,13 @@
+{
+ "image": "0166.png",
+ "soup": "spicy",
+ "global": "This is spicy ramen with a vibrant orange broth, topped with halved boiled egg, chashu pork, bean sprouts, and green onions. The white bowl sits on a dark tray, illuminated by warm, focused lighting that highlights the rich, glossy broth and fresh toppings.",
+ "regions": {
+  "background": "Dark, smooth, matte surface with faint red tray edges visible around the bowl's base.",
+  "bowl": "White ceramic bowl with subtle green pattern, smooth glossy surface, slightly uneven rim with minor residue.",
+  "soup": "The spicy broth is vibrant orange-red, glossy, and swirling around noodles, bean sprouts, and green garnish.",
+  "cut_egg": "A halved boiled egg shows orange yolk with speckles, white albumen, and a smooth, slightly glossy surface.",
+  "meat": "Chashu pork slice shows tender, pale meat with crispy, caramelized edges and visible fat marbling."
+ },
+ "redone": "soup"
+}

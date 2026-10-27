@@ -1,0 +1,14 @@
+{
+ "image": "0474.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a clear, amber broth cradling noodles, topped with nori, chashu, menma, and naruto fish cake. Served in a blue-patterned bowl, it rests on a wooden table under warm, natural light.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain patterns and subtle texture under even lighting.",
+  "bowl": "The ceramic bowl has a white interior, blue patterned rim, and glossy finish with intricate wavy line designs.",
+  "soup": "Shoyu ramen broth with noodles, pale yellow broth, thin noodles, green onions, and a soft-boiled egg.",
+  "seaweed": "Dark, irregularly shaped nori seaweed with a slightly glossy, textured surface and visible white salt crystals.",
+  "meat": "Chashu pork slice shows tender, glistening, light brown meat with a slightly uneven, moist surface and soft, yielding texture.",
+  "menma": "Menma bamboo shoots appear pale yellow, fibrous, and slightly curled with visible texture and natural ridges.",
+  "naruto": "Naruto fish cake: pale pinkish-white, smooth, round, with subtle translucent sheen and faint surface texture."
+ }
+}

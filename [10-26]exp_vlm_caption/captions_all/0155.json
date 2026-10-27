@@ -1,0 +1,14 @@
+{
+ "image": "0155.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth cradling golden noodles, topped with nori, chashu, and menma arranged neatly. Served in a white bowl on a wooden table, warm lighting highlights the steam rising from the savory, inviting dish.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle knots with smooth, slightly reflective finish.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface, slightly flared rim, and subtle inner rim indentation.",
+  "soup": "The shoyu (soy sauce) broth is rich amber, glossy, and swirling around golden noodles with green garnish.",
+  "seaweed": "Dark, glossy nori seaweed triangle with slightly uneven edges and visible surface texture.",
+  "meat": "Chashu pork: golden-brown, slightly glistening, irregularly shaped slice with visible fat marbling and tender texture.",
+  "menma": "Menma bamboo shoots appear golden-brown, slightly translucent, with visible fibrous texture and green onion garnish on top."
+ },
+ "redone": "soup"
+}

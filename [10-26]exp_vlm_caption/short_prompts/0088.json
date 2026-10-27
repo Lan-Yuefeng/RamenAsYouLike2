@@ -1,0 +1,26 @@
+{
+ "image": "0088.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic bowl",
+   "detail": "white glossy ceramic ramen bowl"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "spicy orange-red broth",
+   "detail": "spicy broth with noodles and veggies"
+  },
+  "spoon": {
+   "name": "red spoon",
+   "short": "red plastic spoon",
+   "detail": "glossy red plastic spoon"
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "image": "0209.png",
+ "soup": "spicy",
+ "global": "A bowl of vibrant, spicy tom yum ramen broth glows warmly, topped with fresh cilantro and bean sprouts. The white ceramic bowl sits on a wooden table, softly lit to highlight the rich, red-orange broth and the spoon resting beside it.",
+ "regions": {
+  "background": "Dark brown wooden table with visible grain patterns and subtle texture, showing natural wood surface details.",
+  "bowl": "White ceramic bowl with smooth, slightly glossy surface, subtle brownish rim stain, and rounded, thick edge.",
+  "soup": "The spicy broth is vibrant red-orange, glossy, and speckled, swirling around thin noodles and garnishes.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved, tapered shape."
+ },
+ "redone": "soup"
+}

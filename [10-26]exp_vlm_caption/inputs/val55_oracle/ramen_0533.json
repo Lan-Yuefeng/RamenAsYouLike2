@@ -1,0 +1,70 @@
+{
+  "caption": "This miso ramen boasts a rich, golden broth, topped with chashu pork, menma, a halved soft-boiled egg, and nori. Served in a blue-patterned bowl, it rests on a speckled countertop under warm, inviting light.",
+  "seed": 1533,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark speckled granite countertop with subtle grain patterns and smooth, slightly reflective surface."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "The chashu pork is a round, browned slice with a glistening surface, showing tender texture and faint green onion garnish."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "The nori seaweed is dark green, textured, rectangular, with visible grainy surface and slightly curled edges."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is golden-brown, glossy, and rich, swirling around noodles and green onions in a curved bowl."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear as glossy, golden-brown, elongated strips with slightly irregular, textured surfaces."
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "A halved boiled egg shows a vibrant orange yolk and pale white, with smooth surfaces and slight moisture glistening on its cut edges."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Blue and white ceramic bowl with geometric pattern, glossy finish, and raised rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A pale yellow spoon with smooth, slightly curved surface and rounded tip."
+    }
+  ]
+}

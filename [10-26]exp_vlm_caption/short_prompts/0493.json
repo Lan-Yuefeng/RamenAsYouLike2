@@ -1,0 +1,36 @@
+{
+ "image": "0493.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "light brown wooden table",
+   "detail": "smooth light brown wooden surface"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "white bowl with red rim",
+   "detail": "white ceramic bowl with distressed red rim"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth with chili",
+   "detail": "light golden clear shio broth with floating chili"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "browned marbled chashu pork",
+   "detail": "soft tender browned marbled pork slice"
+  },
+  "menma": {
+   "name": "menma bamboo",
+   "short": "translucent pale yellow menma",
+   "detail": "glossy segmented pale yellow bamboo shoots"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "glossy pinkish naruto cake",
+   "detail": "translucent curved glossy fish cake"
+  }
+ }
+}

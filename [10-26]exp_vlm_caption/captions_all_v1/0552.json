@@ -1,0 +1,14 @@
+{
+ "image": "0552.png",
+ "soup": "spicy",
+ "global": "This ramen features a rich, savory broth with visible chili oil flecks. Toppings—chashu, soft-boiled egg, nori, and scallions—rest atop noodles in a glossy black bowl, set against warm wooden tones under soft, inviting light.",
+ "regions": {
+  "background": "Light wooden table surface with smooth texture and subtle grain patterns visible.",
+  "bowl": "Black ceramic ramen bowl with glossy finish, smooth curved rim, and subtle reflective highlights.",
+  "soup": "Spicy ramen broth with noodles, garnished with green onions, sits beneath a slice of chashu pork and a soft-boiled egg.",
+  "spoon": "A red spoon with smooth, slightly glossy surface and curved handle, showing subtle wear near the tip.",
+  "cut_egg": "A halved boiled egg shows a firm white and vibrant yellow yolk, with a smooth surface and slight browning on the white.",
+  "seaweed": "The nori seaweed is dark green, textured, rectangular with slightly uneven edges and visible surface patterns.",
+  "meat": "The chashu pork is a round, thinly sliced piece with pink and white marbling, showing a tender, slightly glistening surface."
+ }
+}

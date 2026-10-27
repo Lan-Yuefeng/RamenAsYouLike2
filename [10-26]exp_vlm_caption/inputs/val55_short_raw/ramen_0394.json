@@ -1,0 +1,38 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: warm brown wooden table, blue green swirl bowl, glossy miso ramen broth, pink cartoon fish cake.",
+  "seed": 1394,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "warm brown wooden table"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "glossy miso ramen broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "blue green swirl bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "pink cartoon fish cake"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+ "image": "0279.png",
+ "soup": "miso",
+ "global": "This miso ramen boasts a rich, amber broth, topped with tender chashu pork, crisp bean sprouts, and vibrant green onions. Served in a traditional dragon-patterned bowl, it rests on a red table under warm, inviting light.",
+ "regions": {
+  "background": "The table is a smooth, solid red surface with a matte finish and subtle grain texture visible.",
+  "bowl": "White ceramic ramen bowl with green dragon and red Japanese characters patterned along its rim.",
+  "soup": "Miso ramen broth with noodles, green onions, bean sprouts, and meat, rich brown color, glossy surface, thin noodles submerged.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly tapered, rounded end.",
+  "meat": "Chashu pork: tender, light brown slices with sesame seeds, slightly curled edges, and glistening surface."
+ }
+}

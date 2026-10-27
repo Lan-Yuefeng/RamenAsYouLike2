@@ -1,0 +1,10 @@
+{
+ "image": "0358.png",
+ "soup": "spicy",
+ "global": "A vibrant, spicy ramen broth glows richly red, topped with fresh bean sprouts and chopped green onions. Served in a simple white bowl with dark rim, it rests on a wooden table under warm, inviting light.",
+ "regions": {
+  "background": "Dark wooden table with visible grain patterns and natural texture, showing subtle variations in tone and smooth surface.",
+  "bowl": "Cream-colored ceramic bowl with dark brown concentric rings and speckled texture, featuring a slightly uneven rim.",
+  "soup": "Spicy ramen broth with noodles, topped with bean sprouts and green onions, shows rich red color and glossy surface."
+ }
+}

@@ -1,0 +1,62 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a warm wooden table. The rich broth, pork, and vegetables create a colorful, textured, and inviting meal.",
+  "seed": 1338,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Warm brown wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Marbled pink chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Dark green glossy nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Golden-brown textured menma"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White bowl with red and blue pattern"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "Glossy white ceramic spoon"
+    }
+  ]
+}

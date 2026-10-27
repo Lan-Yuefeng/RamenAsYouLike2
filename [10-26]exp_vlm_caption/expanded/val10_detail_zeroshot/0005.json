@@ -1,0 +1,18 @@
+{
+ "image": "0005.png",
+ "level": "detail",
+ "short": {
+  "background": "glossy dark brown tray with label corner",
+  "bowl": "white speckled bowl with raised rim",
+  "soup": "spicy broth with noodles and herbs",
+  "meat": "thinly sliced marbled chashu pork"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a glossy dark brown tray. Spicy broth bubbles with noodles and herbs, topped with marbled chashu pork.",
+ "regions": {
+  "background": "Glossy dark brown tray with label corner",
+  "bowl": "White speckled bowl with raised rim",
+  "soup": "The spicy broth with noodles and herbs",
+  "meat": "Thinly sliced marbled chashu pork"
+ }
+}

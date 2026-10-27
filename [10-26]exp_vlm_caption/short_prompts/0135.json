@@ -1,0 +1,26 @@
+{
+ "image": "0135.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "light brown wooden table",
+   "detail": "light brown grain textured wood"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white bowl with blue pattern",
+   "detail": "white ceramic bowl with Japanese text"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy beige tonkotsu broth",
+   "detail": "glossy creamy tonkotsu broth"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "crinkled dark green nori",
+   "detail": "glossy crinkled nori with bubbles"
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "image": "0451.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, dark broth with tender noodles, topped generously with chopped green onions and a halved soft-boiled egg. Served in a patterned bowl, it rests on a wooden tray under warm, inviting light.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain pattern with smooth texture and subtle natural wood finish.",
+  "bowl": "White ceramic bowl with red-brown geometric patterned rim, smooth surface, circular shape, slightly raised edge.",
+  "soup": "Shoyu ramen broth with noodles, garnished with chopped green onions, appears rich, dark brown, and glossy with visible noodle strands and green flecks.",
+  "spoon": "A glossy, reddish-brown wooden spoon with smooth, curved surface and tapered handle.",
+  "cut_egg": "A halved boiled egg reveals a runny, orange-red yolk surrounded by firm white, with a glossy surface."
+ }
+}

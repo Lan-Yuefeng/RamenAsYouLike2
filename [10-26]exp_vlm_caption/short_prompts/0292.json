@@ -1,0 +1,31 @@
+{
+ "image": "0292.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wood table",
+   "detail": "dark reddish-brown wooden table"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "gold-trimmed ceramic bowl",
+   "detail": "white ceramic bowl with gold trim"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "bubbly shoyu broth",
+   "detail": "dark brown glossy shoyu broth"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "glossy white ceramic spoon",
+   "detail": "smooth glossy white ceramic spoon"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent bamboo shoots",
+   "detail": "pale beige fibrous bamboo shoots"
+  }
+ }
+}

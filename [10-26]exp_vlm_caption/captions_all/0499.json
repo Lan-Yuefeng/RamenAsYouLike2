@@ -1,0 +1,12 @@
+{
+ "image": "0499.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth topped with vibrant green scallions. Served in a red-and-white patterned bowl, it rests on a bright surface under soft, even lighting.",
+ "regions": {
+  "background": "White table surface with subtle texture, smooth and slightly reflective, bordered by dark wooden edge.",
+  "bowl": "White ceramic bowl with red rim and repeating geometric and character patterns, glossy surface.",
+  "soup": "The shoyu (soy sauce) broth is light brown, slightly frothy, with visible bubbles and a glossy surface.",
+  "menma": "Menma bamboo shoots appear as pale yellow, slightly translucent, elongated pieces with a fibrous texture and faintly visible grain."
+ },
+ "redone": "soup"
+}

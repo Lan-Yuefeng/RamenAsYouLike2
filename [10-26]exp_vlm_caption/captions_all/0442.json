@@ -1,0 +1,16 @@
+{
+ "image": "0442.png",
+ "soup": "salt",
+ "global": "This shio ramen boasts a clear, savory broth, topped with chashu pork, a soft-boiled egg, nori, and menma, artfully arranged in a blue-rimmed bowl. Warm lighting highlights the dish against a dark wooden table, with a glass of water nearby.",
+ "regions": {
+  "background": "Dark wooden table with visible grain patterns and subtle reflections, showing smooth, polished surface texture.",
+  "bowl": "Blue-rimmed ceramic bowl with white interior, featuring a painted mountain pattern and glossy finish.",
+  "soup": "The shio (salt) broth is clear, golden, and glossy, with thin noodles submerged and green scallions floating on its surface.",
+  "spoon": "A dark, glossy spoon with a curved bowl and textured surface, resting on a wooden stick.",
+  "cut_egg": "A halved boiled egg shows vibrant orange yolk, firm white, and smooth surface with slight texture.",
+  "seaweed": "The nori seaweed is dark green-black, textured, rectangular, with uneven edges and a slightly rough surface.",
+  "meat": "The chashu pork is a thick, browned slice with charred edges, showing tender, slightly fatty texture and green herb flecks.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with fibrous texture and irregular, curled shape."
+ },
+ "redone": "soup"
+}

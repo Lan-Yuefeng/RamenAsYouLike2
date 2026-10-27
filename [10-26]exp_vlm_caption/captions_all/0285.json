@@ -1,0 +1,13 @@
+{
+ "image": "0285.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, dark broth with tender chashu pork and crisp green onions. Served in a blue-patterned bowl, it rests on a white surface under soft, even lighting, highlighting the steamy, savory dish.",
+ "regions": {
+  "background": "The table surface appears smooth, light-colored, and slightly reflective with subtle texture near the bowl's edge.",
+  "bowl": "Blue and white ceramic bowl with intricate patterned rim, glossy surface, circular shape, detailed blue floral and geometric designs.",
+  "soup": "The shoyu (soy sauce) broth is dark brown, glossy, and rich, swirling with noodles and garnishes.",
+  "spoon": "A white ceramic spoon with a smooth, slightly curved surface and a brownish handle tip.",
+  "meat": "Chashu pork slice has golden-brown seared surface, tender texture, and is garnished with green onion strands."
+ },
+ "redone": "soup"
+}

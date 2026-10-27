@@ -1,0 +1,38 @@
+{
+  "caption": "A vibrant, spicy ramen broth glows in a white bowl, topped with shredded cabbage, green onions, and a soft chashu pork slice. Warm lighting highlights the rich red broth and delicate toppings against a dark wooden table.",
+  "seed": 1271,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table surface with visible grain, smooth texture, and subtle reflections near the bowl's base."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows golden-brown, slightly crispy surface with visible fat marbling and tender texture."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The spicy broth is vibrant orange-red, glossy, and swirling around noodles, topped with bean sprouts, green onions, and dark garnish."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with smooth, glossy surface and slightly flared rim, showing faint orange seasoning residue inside."
+    }
+  ]
+}

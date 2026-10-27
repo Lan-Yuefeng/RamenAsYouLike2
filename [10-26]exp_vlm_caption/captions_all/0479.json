@@ -1,0 +1,15 @@
+{
+ "image": "0479.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen boasts a rich, dark broth, topped with halved soft-boiled eggs, nori, chashu, and menma, artfully arranged. Served in a patterned bowl, it rests on a wooden table under warm, ambient light.",
+ "regions": {
+  "background": "Dark wooden table with visible grain patterns and subtle texture, showing natural wood surface details.",
+  "bowl": "White ceramic bowl with blue geometric and cloud patterns, smooth glossy surface, slightly flared rim.",
+  "soup": "The shoyu (soy sauce) broth is amber-brown, glossy, and rich, with visible noodles and green garnish floating on its surface.",
+  "cut_egg": "A halved boiled egg shows a runny orange yolk and firm white, with a glossy surface and slight brown spot.",
+  "seaweed": "Dark, glossy nori seaweed, irregularly shaped with textured surface, curls slightly at edges.",
+  "meat": "Chashu pork: browned, tender-looking slices with visible fat marbling and slightly glistening surface.",
+  "menma": "Menma bamboo shoots appear as thin, brownish, slightly curled strips with a fibrous texture and glossy surface."
+ },
+ "redone": "soup"
+}

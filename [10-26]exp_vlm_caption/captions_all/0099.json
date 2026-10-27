@@ -1,0 +1,11 @@
+{
+ "image": "0099.png",
+ "soup": "soysauce",
+ "global": "A bowl of shoyu ramen features a clear, amber broth with thin noodles and bean sprouts atop. Served in a blue-patterned ceramic bowl, it rests on a dark wooden surface under soft, even lighting.",
+ "regions": {
+  "background": "Dark brown wooden table with visible grain patterns and subtle texture, forming an oval-shaped surface beneath the bowl.",
+  "bowl": "White ceramic bowl with blue geometric and cloud patterns, smooth glossy surface, rounded rim.",
+  "soup": "The shoyu (soy sauce) broth is golden-brown, clear, and glossy, with thin noodles and bean sprouts floating on its surface."
+ },
+ "redone": "soup"
+}

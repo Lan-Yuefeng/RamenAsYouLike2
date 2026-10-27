@@ -1,0 +1,54 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: smooth red table surface, blue green patterned bowl, glossy shoyu broth swirl, glossy dark spoon curved, curled dark green seaweed, translucent chashu slice.",
+  "seed": 1129,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "smooth red table surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "translucent chashu slice"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "curled dark green seaweed"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "glossy shoyu broth swirl"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "blue green patterned bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "glossy dark spoon curved"
+    }
+  ]
+}

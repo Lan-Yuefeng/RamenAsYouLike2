@@ -1,0 +1,18 @@
+{
+ "image": "0355.png",
+ "level": "short",
+ "short": {
+  "background": "smooth wooden table",
+  "bowl": "floral patterned bowl",
+  "soup": "creamy tonkotsu broth",
+  "seaweed": "dark nori sheet"
+ },
+ "parsed": true,
+ "global": "This tonkotsu ramen boasts a rich, creamy broth with tender pork slices and a single nori sheet resting atop. Served in a patterned bowl, the warm lighting highlights the dish against a wooden table.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth grain patterns, and subtle light reflections.",
+  "bowl": "White ceramic bowl with red and blue geometric patterns and a red rim, smooth surface with slight gloss.",
+  "soup": "The tonkotsu (pork bone) broth is creamy beige, with visible noodles, green onions, and a dark sheet of nori floating on its surface.",
+  "seaweed": "The nori seaweed is dark green, textured, rectangular, with visible surface details and slight curling edges."
+ }
+}

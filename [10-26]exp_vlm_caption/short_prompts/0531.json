@@ -1,0 +1,36 @@
+{
+ "image": "0531.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "black tray with orange rim",
+   "short": "black tray with orange rim",
+   "detail": "black tray with orange rim"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "white bowl with orange rim",
+   "detail": "white ceramic bowl with orange rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "golden miso broth",
+   "detail": "golden-yellow glossy miso broth"
+  },
+  "spoon": {
+   "name": "white plastic spoon",
+   "short": "white spoon with yellow stain",
+   "detail": "white plastic spoon with faint yellow stain"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori seaweed",
+   "detail": "dark green textured nori seaweed"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "golden seared chashu pork",
+   "detail": "tender marbled chashu pork slice"
+  }
+ }
+}

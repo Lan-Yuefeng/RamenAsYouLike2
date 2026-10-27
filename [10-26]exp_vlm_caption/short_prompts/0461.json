@@ -1,0 +1,36 @@
+{
+ "image": "0461.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm grain wood surface",
+   "detail": "brown wooden table with scratches"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "white bowl with black rim",
+   "detail": "white bowl black rim gold trim"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy tonkotsu broth",
+   "detail": "thick bubbly tonkotsu broth"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "glossy white ceramic spoon",
+   "detail": "smooth white spoon curved bowl"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork slice",
+   "detail": "pinkish glistening chashu pork"
+  },
+  "menma": {
+   "name": "menma bamboo",
+   "short": "translucent menma shoots",
+   "detail": "curled pale yellow menma"
+  }
+ }
+}

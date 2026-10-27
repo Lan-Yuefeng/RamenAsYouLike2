@@ -1,0 +1,13 @@
+{
+ "image": "0548.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, light broth with delicate noodles, topped with a halved soft-boiled egg, nori, and chashu pork, arranged neatly in a white bowl with red accents. The dark background and warm lighting highlight the dish’s inviting, minimalist presentation.",
+ "regions": {
+  "background": "Dark, smooth, reflective table surface with subtle light reflections and faint grain patterns visible.",
+  "bowl": "White ceramic ramen bowl with red-brown rim, black calligraphy, and red seal pattern, smooth glazed surface.",
+  "soup": "Clear, golden broth with thin noodles, garnished with green onions, soft-boiled egg, and dark seaweed, all floating in a savory, translucent liquid.",
+  "cut_egg": "A halved boiled egg shows a runny yolk and firm white, with a slightly uneven surface and a small bite mark.",
+  "seaweed": "The nori seaweed is dark green, slightly curled, with a rough, uneven surface and visible texture.",
+  "meat": "Chashu pork slice appears tender, pale brown with visible fat marbling, irregularly shaped, and slightly glossy surface."
+ }
+}

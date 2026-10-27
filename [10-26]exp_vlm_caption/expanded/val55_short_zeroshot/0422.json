@@ -1,0 +1,18 @@
+{
+ "image": "0422.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table",
+  "bowl": "white ceramic ramen bowl",
+  "soup": "spicy orange-red broth",
+  "spoon": "glossy red spoon"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a dark wooden table. The spicy orange-red broth glistens with rich texture and depth.",
+ "regions": {
+  "background": "Dark wooden table with subtle grain and warm undertones",
+  "bowl": "White ceramic ramen bowl with smooth, slightly textured surface and rounded edges",
+  "soup": "The spicy orange-red broth bubbles gently with a glossy, simmering surface",
+  "spoon": "Glossy red spoon with a polished, slightly curved handle and sharp tip"
+ }
+}

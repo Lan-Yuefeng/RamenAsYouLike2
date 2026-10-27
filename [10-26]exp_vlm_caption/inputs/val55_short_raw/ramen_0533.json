@@ -1,0 +1,70 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: dark speckled granite, blue white patterned bowl, golden miso broth swirl, smooth curved spoon, orange yolk egg half, dark green nori, glistening chashu pork, glossy menma strips.",
+  "seed": 1533,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "dark speckled granite"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glistening chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark green nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "golden miso broth swirl"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "glossy menma strips"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "orange yolk egg half"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "blue white patterned bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "smooth curved spoon"
+    }
+  ]
+}

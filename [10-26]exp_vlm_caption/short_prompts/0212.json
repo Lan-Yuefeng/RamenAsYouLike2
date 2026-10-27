@@ -1,0 +1,41 @@
+{
+ "image": "0212.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm grain wood surface",
+   "detail": "natural brown wood with knots"
+  },
+  "bowl": {
+   "name": "decorative ramen bowl",
+   "short": "white bowl with red rim",
+   "detail": "white ceramic bowl with floral edge"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth with noodles",
+   "detail": "light golden shio broth glossy"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "glossy white curved spoon",
+   "detail": "smooth white spoon rounded tip"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening marbled pork slices",
+   "detail": "tender curled chashu in broth"
+  },
+  "menma": {
+   "name": "menma bamboo",
+   "short": "translucent pale yellow shoots",
+   "detail": "fibrous curved bamboo pieces"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "pink spiral fish cake",
+   "detail": "white round cake with pink swirl"
+  }
+ }
+}

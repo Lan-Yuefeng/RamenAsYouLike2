@@ -1,0 +1,62 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: grainy wooden table, white ceramic ramen bowl, golden tonkotsu broth swirl, dark green nori seaweed, sesame chashu pork slice, glossy menma bamboo, pink swirl naruto cake.",
+  "seed": 1007,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "grainy wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "sesame chashu pork slice"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark green nori seaweed"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "golden tonkotsu broth swirl"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "glossy menma bamboo"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white ceramic ramen bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "pink swirl naruto cake"
+    }
+  ]
+}

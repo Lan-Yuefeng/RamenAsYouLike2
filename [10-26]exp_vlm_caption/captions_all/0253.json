@@ -1,0 +1,12 @@
+{
+ "image": "0253.png",
+ "soup": "miso",
+ "global": "This miso ramen boasts a rich, amber broth with visible oil sheen. Topped with minced pork, chopped green onions, and a whole boiled egg, it sits in a white bowl against a dark wooden surface under soft, warm lighting.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture, appearing smooth and slightly reflective.",
+  "bowl": "White ceramic bowl with smooth, glossy surface and slightly raised rim, showing faint orange residue along its inner edge.",
+  "soup": "The miso broth is orange-brown, glossy, and textured with visible bubbles, noodles, and toppings.",
+  "egg": "A whole boiled egg, smooth white surface with subtle sheen, oval shape, slightly translucent at edges."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,11 @@
+{
+ "image": "0126.png",
+ "soup": "spicy",
+ "global": "This is a bowl of spicy ramen with a vibrant red broth, topped with minced meat, shredded cabbage, and fresh greens. It sits in a white bowl on a pink tray, under bright, even lighting that highlights the rich colors and textures.",
+ "regions": {
+  "background": "Pink tray surface with smooth, slightly reflective texture and faint light glare near edges.",
+  "bowl": "White ceramic bowl with subtle speckled pattern and slightly raised rim, showing faint orange residue stains inside.",
+  "soup": "The spicy broth is vivid red, glossy, and rich, swirling around noodles and toppings in the bowl."
+ },
+ "redone": "soup"
+}

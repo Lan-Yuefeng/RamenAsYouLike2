@@ -1,0 +1,26 @@
+{
+ "image": "0384.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "gray tray",
+   "short": "smooth gray tray",
+   "detail": "light gray reflective tray"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "glossy off-white bowl",
+   "detail": "smooth ceramic bowl with rounded rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "glossy miso broth",
+   "detail": "rich orange-brown miso broth"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "sliced bamboo shoots",
+   "detail": "light brown fibrous bamboo shoots"
+  }
+ }
+}

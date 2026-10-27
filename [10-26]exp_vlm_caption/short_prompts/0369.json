@@ -1,0 +1,36 @@
+{
+ "image": "0369.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "gray textured surface",
+   "short": "dark gray textured surface",
+   "detail": "dark gray surface with faint linear markings"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "glossy white ceramic bowl",
+   "detail": "smooth glossy bowl with speckles and raised rim"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "vibrant spicy ramen broth",
+   "detail": "swirling orange-red spicy broth with noodles"
+  },
+  "seaweed": {
+   "name": "dark nori seaweed",
+   "short": "curled dark nori seaweed",
+   "detail": "glossy curled nori with wrinkled texture"
+  },
+  "meat": {
+   "name": "chashu pork slices",
+   "short": "glistening chashu pork slices",
+   "detail": "thin marbled pork with sesame seeds and char"
+  },
+  "menma": {
+   "name": "menma bamboo shoots",
+   "short": "translucent menma bamboo",
+   "detail": "pale yellow curved fibrous bamboo slices"
+  }
+ }
+}

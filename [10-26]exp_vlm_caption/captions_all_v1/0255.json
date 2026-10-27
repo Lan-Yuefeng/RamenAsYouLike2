@@ -1,0 +1,11 @@
+{
+ "image": "0255.png",
+ "soup": "salt",
+ "global": "A bowl of shio ramen features a clear, light broth with tender chashu pork and crisp green onions atop the noodles. The white ceramic bowl, branded with black characters, sits on a blue surface under bright, even lighting.",
+ "regions": {
+  "background": "Blue textured table surface with subtle grain, slightly reflective, showing faint water droplets and a red object edge.",
+  "bowl": "White ceramic ramen bowl with black calligraphy, smooth glossy surface, slightly raised rim, and subtle inner curve.",
+  "soup": "Shio ramen broth with noodles, garnished with green onions and chashu pork, appears clear, golden, and steaming hot.",
+  "meat": "Chashu pork: tender, glistening slices with caramelized brown edges and visible marbling, slightly curled at the edges."
+ }
+}

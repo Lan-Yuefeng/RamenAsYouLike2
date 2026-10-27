@@ -1,0 +1,36 @@
+{
+ "image": "0296.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "black tray",
+   "short": "black tray with texture",
+   "detail": "black tray with subtle sheen"
+  },
+  "bowl": {
+   "name": "floral bowl",
+   "short": "white floral bowl glossy",
+   "detail": "white bowl with floral pattern"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "spicy orange broth glossy",
+   "detail": "spicy broth with oil sheen"
+  },
+  "spoon": {
+   "name": "blue spoon",
+   "short": "light blue glossy spoon",
+   "detail": "smooth light blue spoon"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork slice",
+   "detail": "browned chashu with green onion"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent menma shoots",
+   "detail": "curved fibrous menma"
+  }
+ }
+}

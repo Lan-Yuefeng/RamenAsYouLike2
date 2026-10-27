@@ -1,0 +1,54 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: warm grain wood table, white glossy ramen bowl, rich amber shoyu broth, dark glossy nori triangle, glistening chashu slice, translucent menma shoots.",
+  "seed": 1155,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "warm grain wood table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glistening chashu slice"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark glossy nori triangle"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "rich amber shoyu broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "translucent menma shoots"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white glossy ramen bowl"
+    }
+  ]
+}

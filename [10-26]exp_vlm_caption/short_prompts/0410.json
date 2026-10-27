@@ -1,0 +1,26 @@
+{
+ "image": "0410.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "red wooden table",
+   "short": "shiny red wood table",
+   "detail": "smooth red table with wood grain"
+  },
+  "bowl": {
+   "name": "decorative ramen bowl",
+   "short": "black patterned ramen bowl",
+   "detail": "white bowl with Greek key design"
+  },
+  "soup": {
+   "name": "shio ramen broth",
+   "short": "clear shio ramen broth",
+   "detail": "light golden shio broth with noodles"
+  },
+  "meat": {
+   "name": "chashu pork slices",
+   "short": "glistening chashu pork",
+   "detail": "thin curled pork with chili oil"
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "image": "0422.png",
+ "soup": "spicy",
+ "global": "A bowl of fiery spicy ramen broth, rich and red, topped with chopped green onions and dark seasoning. The white ceramic bowl sits on a dark table, illuminated warmly, with a red spoon resting inside.",
+ "regions": {
+  "background": "Dark wooden table surface, smooth and reflective, showing subtle grain patterns and soft ambient light reflections.",
+  "bowl": "White ceramic ramen bowl with smooth, slightly glossy surface and subtly curved, unadorned rim.",
+  "soup": "The spicy broth is vibrant orange-red, glossy, and filled with thin noodles, topped with chopped green onions and dark seasoning.",
+  "spoon": "A glossy red spoon with smooth, curved surface and slightly tapered end, reflecting light subtly."
+ },
+ "redone": "soup"
+}

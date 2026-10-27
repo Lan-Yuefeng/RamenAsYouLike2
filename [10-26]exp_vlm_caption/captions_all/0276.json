@@ -1,0 +1,13 @@
+{
+ "image": "0276.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, golden broth with tender chashu pork and nori seaweed floating atop. Served in a rustic ceramic bowl, it rests on a dark table under warm lighting, highlighting the vibrant toppings and inviting steam.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture, appearing smooth and slightly reflective.",
+  "bowl": "Ramen bowl: earth-toned ceramic with concentric ridged texture and uneven, rustic rim.",
+  "soup": "The miso broth is golden-yellow, textured with visible grains, holding noodles and green onions in a shallow, irregularly shaped bowl.",
+  "seaweed": "The nori seaweed is dark green-brown, irregularly shaped, with a slightly rough, textured surface and curled edges.",
+  "meat": "The chashu pork is a round, sliced piece with pinkish-white meat, showing marbling and a slightly glistening surface."
+ },
+ "redone": "soup"
+}

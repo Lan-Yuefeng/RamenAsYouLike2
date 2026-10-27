@@ -1,0 +1,13 @@
+{
+ "image": "0352.png",
+ "soup": "miso",
+ "global": "This is a bowl of spicy miso ramen, its deep red broth glistening under warm light. Topped with bean sprouts and chopped green onions, it sits in a pale green bowl, with chopsticks resting beside it.",
+ "regions": {
+  "background": "The table surface appears smooth, slightly reflective, with a muted brownish-green hue and subtle grain patterns visible.",
+  "bowl": "Light green ceramic bowl with smooth, glossy surface and subtle reddish-brown rim stain.",
+  "soup": "The miso broth is deep red, glossy, and smooth, with bean sprouts and green onions floating on its surface.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved handle, partially submerged in red broth.",
+  "chopsticks": "The chopsticks are pale yellow, smooth, slender, and slightly tapered with a matte finish."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,20 @@
+{
+ "image": "0488.png",
+ "level": "short",
+ "short": {
+  "background": "reddish-brown wooden table",
+  "bowl": "white bowl with blue rim",
+  "soup": "creamy tonkotsu broth",
+  "seaweed": "dark glossy nori seaweed",
+  "meat": "glossy chashu pork slices"
+ },
+ "parsed": true,
+ "global": "A creamy tonkotsu broth fills a white bowl with blue rim. Fresh nori and glossy chashu pork sit atop, on a reddish-brown wooden table.",
+ "regions": {
+  "background": "reddish-brown wooden table",
+  "bowl": "white bowl with blue rim",
+  "soup": "The creamy tonkotsu (pork bone) broth",
+  "seaweed": "dark glossy nori seaweed",
+  "meat": "glossy chashu pork slices"
+ }
+}

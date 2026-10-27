@@ -1,0 +1,31 @@
+{
+ "image": "0302.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "vibrant red surface",
+   "short": "glossy red curved surface",
+   "detail": "smooth vibrant red with light reflections"
+  },
+  "bowl": {
+   "name": "decorative ramen bowl",
+   "short": "white bowl with red rim",
+   "detail": "white ceramic bowl with red rim and green dragon"
+  },
+  "soup": {
+   "name": "shio ramen broth",
+   "short": "clear shio broth with noodles",
+   "detail": "golden-yellow glossy shio broth with swirling noodles"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glossy marbled chashu",
+   "detail": "layered fat lean meat with slight char"
+  },
+  "menma": {
+   "name": "menma bamboo shoots",
+   "short": "pale yellow segmented menma",
+   "detail": "fibrous pale yellow curved bamboo shoots"
+  }
+ }
+}

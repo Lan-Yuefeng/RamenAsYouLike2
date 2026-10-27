@@ -1,0 +1,14 @@
+{
+ "image": "0109.png",
+ "soup": "porkbone",
+ "global": "This is a bowl of spicy ramen with a rich, reddish broth. Topped with chashu pork, nori, and chopped green onions, it sits in a white bowl with a black rim, under warm lighting on a wooden table.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections.",
+  "bowl": "White enamel bowl with black rim, smooth surface, slightly glossy finish, and minor speckles visible.",
+  "soup": "The tonkotsu (pork bone) broth is rich, reddish-brown, glossy, and contains visible noodles, green onions, and sesame seeds.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and curved, elongated shape.",
+  "seaweed": "The nori seaweed is dark, glossy, rectangular, and speckled with white sesame seeds on its surface.",
+  "meat": "Chashu pork slice has light pinkish-white color, tender texture, irregular shape, and two green onion garnishes on its surface."
+ },
+ "redone": "soup"
+}

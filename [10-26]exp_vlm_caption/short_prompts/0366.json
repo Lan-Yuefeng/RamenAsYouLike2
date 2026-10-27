@@ -1,0 +1,26 @@
+{
+ "image": "0366.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm wood table",
+   "detail": "smooth warm-toned wooden table"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic bowl",
+   "detail": "glossy white ceramic ramen bowl"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "spicy red-orange broth",
+   "detail": "vibrant spicy red-orange ramen broth"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "seared chashu pork",
+   "detail": "golden-brown seared chashu pork"
+  }
+ }
+}

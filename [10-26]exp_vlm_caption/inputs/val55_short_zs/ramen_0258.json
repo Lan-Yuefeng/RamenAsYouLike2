@@ -1,0 +1,38 @@
+{
+  "caption": "A vibrant bowl of spicy red ramen sits on a dark wooden table. The rich broth, blue-rimmed cartoon bowl, and glossy spoon create a lively, appetizing scene.",
+  "seed": 1258,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The spicy red ramen broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Blue rim cartoon bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "Glossy white ceramic spoon"
+    }
+  ]
+}

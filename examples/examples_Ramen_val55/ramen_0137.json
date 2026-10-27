@@ -1,0 +1,30 @@
+{
+  "caption": "A top-down photo of a bowl of Japanese ramen with creamy white tonkotsu (pork bone) broth. Wheat noodles are submerged in the broth. The bowl sits on a table, shot in warm natural light, appetizing food photography.",
+  "seed": 1137,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "The table surface behind the ramen bowl, softly out of focus."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The creamy white tonkotsu (pork bone) broth, with wheat noodles just under the surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "A ceramic ramen bowl seen from above, its glazed rim catching the light."
+    }
+  ]
+}

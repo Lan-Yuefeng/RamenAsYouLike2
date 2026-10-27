@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: smooth red table surface, glossy blue bowl with ridges, light brown miso broth, glossy white ceramic spoon, glistening chashu pork slice.",
+  "seed": 1014,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "smooth red table surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glistening chashu pork slice"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "light brown miso broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "glossy blue bowl with ridges"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "glossy white ceramic spoon"
+    }
+  ]
+}

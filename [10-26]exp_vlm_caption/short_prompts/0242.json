@@ -1,0 +1,21 @@
+{
+ "image": "0242.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "grainy wooden table",
+   "detail": "light brown wooden table surface"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "glossy white ceramic ramen bowl"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy shoyu broth with noodles",
+   "detail": "light brown shoyu broth with noodles and green onions"
+  }
+ }
+}

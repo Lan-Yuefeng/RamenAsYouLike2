@@ -1,0 +1,10 @@
+{
+ "image": "0236.png",
+ "soup": "spicy",
+ "global": "A vibrant, spicy ramen broth glows in a white bowl, topped with shredded cabbage, crispy fried onions, and fresh greens. The rich, reddish-orange liquid and colorful garnishes contrast beautifully under warm, natural light on a wooden table.",
+ "regions": {
+  "background": "Wooden table surface shows grain patterns and warm brown tones with subtle texture variations.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, slightly curved rim, and faint orange residue along inner edge.",
+  "soup": "Spicy ramen broth with noodles, shrimp, green herbs, and shredded toppings, vibrant orange-red, textured surface with visible bubbles and ingredients."
+ }
+}

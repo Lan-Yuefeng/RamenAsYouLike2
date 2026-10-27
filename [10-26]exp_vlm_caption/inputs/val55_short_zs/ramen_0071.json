@@ -1,0 +1,70 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a dark wooden table. Golden broth, marbled pork, and fresh ingredients create a warm, rich, and inviting scene.",
+  "seed": 1071,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table with smooth grain and subtle wear"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Marbled chashu pork with rich red and pink streaks"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Dark green nori curled at the edges"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Golden menma slices with crisp, translucent texture"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "Orange yolk egg half with cracked shell and soft edges"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White bowl with a single black mark near the rim"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "White ceramic spoon with a slightly chipped edge"
+    }
+  ]
+}

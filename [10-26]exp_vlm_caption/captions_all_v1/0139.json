@@ -1,0 +1,10 @@
+{
+ "image": "0139.png",
+ "soup": "spicy",
+ "global": "A vibrant, rich red ramen broth glistens in a white bowl, topped with delicate shredded cabbage and fresh green sprouts arranged like a miniature tree. Warm, ambient lighting highlights the dish against a softly blurred wooden background.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth grain patterns, and subtle natural texture under soft lighting.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, slightly curved rim, and faint orange residue stains along inner edge.",
+  "soup": "Spicy ramen broth, vibrant orange-red, glossy surface with fine bubbles and thin noodles, topped with shredded cabbage and green sprouts."
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "image": "0357.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "vibrant red surface",
+   "short": "glossy red reflective surface",
+   "detail": "smooth vibrant red with light reflections"
+  },
+  "bowl": {
+   "name": "blue scalloped bowl",
+   "short": "white bowl with blue rim",
+   "detail": "glossy white ceramic with blue scalloped edge"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy tonkotsu broth",
+   "detail": "thick glossy tonkotsu broth swirling"
+  },
+  "spoon": {
+   "name": "glossy red spoon",
+   "short": "curved red spoon tip",
+   "detail": "glossy red spoon with flared tip"
+  },
+  "meat": {
+   "name": "chashu pork slice",
+   "short": "glistening chashu pork",
+   "detail": "tender pale pork with herb specks"
+  },
+  "menma": {
+   "name": "pale yellow menma",
+   "short": "fibrous menma with seasoning",
+   "detail": "curved pale yellow bamboo shoots"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "spiral pink center cake",
+   "detail": "white spiral fish cake with pink swirl"
+  }
+ }
+}

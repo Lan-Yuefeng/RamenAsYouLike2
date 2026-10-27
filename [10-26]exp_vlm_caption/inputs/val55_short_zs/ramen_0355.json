@@ -1,0 +1,38 @@
+{
+  "caption": "A creamy tonkotsu broth fills a floral-patterned bowl on a smooth wooden table. Steam rises gently, adding warmth to the scene.",
+  "seed": 1355,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "smooth wooden table"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark nori sheet"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "floral patterned bowl"
+    }
+  ]
+}

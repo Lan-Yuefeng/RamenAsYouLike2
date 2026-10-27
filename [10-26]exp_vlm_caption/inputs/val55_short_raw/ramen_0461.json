@@ -1,0 +1,54 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: warm grain wood surface, white bowl with black rim, creamy tonkotsu broth, glossy white ceramic spoon, marbled chashu pork slice, translucent menma shoots.",
+  "seed": 1461,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "warm grain wood surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "marbled chashu pork slice"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "creamy tonkotsu broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "translucent menma shoots"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with black rim"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "glossy white ceramic spoon"
+    }
+  ]
+}

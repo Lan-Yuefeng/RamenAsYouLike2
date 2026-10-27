@@ -1,0 +1,26 @@
+{
+ "image": "0209.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wood table",
+   "detail": "dark brown wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "glossy white bowl",
+   "detail": "white ceramic bowl with rim stain"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "spicy red-orange broth",
+   "detail": "vibrant spicy broth swirling noodles"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "glossy white spoon",
+   "detail": "white ceramic spoon curved shape"
+  }
+ }
+}

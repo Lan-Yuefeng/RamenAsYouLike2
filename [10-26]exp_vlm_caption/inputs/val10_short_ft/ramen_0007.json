@@ -1,0 +1,62 @@
+{
+  "caption": "This tonkotsu ramen boasts a rich, creamy broth, topped with chashu, nori, menma, and naruto fish cake, artfully arranged in a white bowl. Warm, ambient lighting highlights the dish against a wooden table, with a glass and bottle softly blurred in the background.",
+  "seed": 1007,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Light brown wooden table with visible grain patterns and smooth surface texture."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "The chashu pork is a round, sliced piece with a pale pink interior, browned edges, and sesame seeds on its surface."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "The nori seaweed is dark green, textured, irregularly shaped, and has a slightly glossy surface with visible veins."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth is creamy yellow, glossy, and contains visible noodles and green onions floating on its surface."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear as pale yellow, slightly translucent, sliced pieces with a glossy surface and faint fibrous texture."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, rounded rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "Naruto fish cake: pink swirl center, pale yellow outer layer, scalloped edge, smooth surface with slight sheen."
+    }
+  ]
+}

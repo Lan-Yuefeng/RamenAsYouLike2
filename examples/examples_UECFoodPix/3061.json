@@ -1,0 +1,70 @@
+{
+ "caption": null,
+ "seed": 1002,
+ "segments_info": [
+  {
+   "color": [
+    0,
+    0,
+    0
+   ],
+   "text": "background"
+  },
+  {
+   "color": [
+    142,
+    199,
+    32
+   ],
+   "text": "rice"
+  },
+  {
+   "color": [
+    219,
+    150,
+    31
+   ],
+   "text": "sauteed vegetables"
+  },
+  {
+   "color": [
+    32,
+    194,
+    20
+   ],
+   "text": "miso soup"
+  },
+  {
+   "color": [
+    216,
+    88,
+    32
+   ],
+   "text": "fermented soybeans"
+  },
+  {
+   "color": [
+    154,
+    245,
+    24
+   ],
+   "text": "cold tofu"
+  },
+  {
+   "color": [
+    43,
+    209,
+    5
+   ],
+   "text": "food"
+  },
+  {
+   "color": [
+    45,
+    238,
+    222
+   ],
+   "text": "beverage"
+  }
+ ]
+}

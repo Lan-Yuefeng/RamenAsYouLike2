@@ -1,0 +1,112 @@
+# 皿マスク (UECFOODPIX_Plate) + 具体的な背景 caption + global caption 版。語彙は dataset/uecfoodpix_plate_captions.py
+project:
+  tracker_project_name: "seg2any"
+  output_dir: "/export/ssd3/lan-y/seg2any_ckpt/uecfoodpix_plate_flux2"
+  logging_dir: "logs"
+  gen_image_dir: "gen_imgs"
+  report_to: "tensorboard" # The integration to report the results and logs to. Supported platforms are `"tensorboard"`, `"wandb"` and `"comet_ml"`. Use `"all"` to report to all integrations.
+
+resolution: &resolution 512 # FLUX.1 版 (config/seg2any_uecfoodpix.yaml) と同じ。比較のため揃える
+cond_scale_factor: &cond_scale_factor 1 # condition_resolution == resolution // cond_scale_factor
+dataset_root: &dataset_root /export/ssd3/lan-y/UECFOODPIXCOMPLETE
+data:
+  train:
+    target: dataset.uecfoodpix_plate_flux2_dataset.UECFoodPixPlateFlux2Dataset
+    params:
+      dataset_root: *dataset_root
+      split_file: data/train9000.txt
+      image_dir: train
+      is_group_bucket: True # Qwen3 トークン長 (global+regional) + cond トークン数でバケット分け。皿マスクで輪郭が変わるので数え直す
+      cache_root: /export/ssd3/lan-y/seg2any_data/uecfoodpix/cache
+      resolution: *resolution
+      cond_scale_factor: *cond_scale_factor
+  val:
+    target: dataset.uecfoodpix_plate_flux2_dataset.UECFoodPixPlateFlux2Dataset
+    params:
+      dataset_root: *dataset_root
+      split_file: data/test1000.txt # 公式 test。FLUX.1 版と同じ
+      image_dir: test
+      is_group_bucket: False
+      resolution: *resolution
+      cond_scale_factor: *cond_scale_factor
+
+model:
+  # 学習は蒸留なしの Base 版。推論は Base (CFG, 50 step) / 蒸留版 klein-4B (4 step) のどちらでも試す
+  pretrained_model_name_or_path: black-forest-labs/FLUX.2-klein-base-4B
+
+  attention_mask_method: "base" # choices: ["hard", "base", "place"]
+  hard_attn_block_range: null # null -> transformer.default_hard_attn_block_range() = [5,14] for klein-4B (FLUX.1 の [19,37] と同じ比率)
+  is_use_cond_token: True # text, image and cond tokens (Entity Contour Map) concatenated into unified sequence
+  is_filter_cond_token: True # drop zero-value condition image tokens
+
+  rank: 32 # FLUX.1 版と同じ (9000 枚)
+  # FLUX.2 では変調 Linear がブロック外にあるので "+modulation" で足す (FLUX.1 の all-linear-in-dit-blocks は変調を含んでいた)
+  default_lora_layers: "all-linear-in-dit-blocks+modulation" # for text and noisy image branch
+  # FLUX.1 版の対応物 (FLUX2_PORT.md の対応表): x_embedder / 変調 (img 側と single) / double の img 側 attn+ff / single の融合 Linear
+  cond_lora_layers: 'regular_expression:(x_embedder|double_stream_modulation_img\.linear|single_stream_modulation\.linear|transformer_blocks\.[0-9]+\.attn\.(to_q|to_k|to_v|to_out\.0)|transformer_blocks\.[0-9]+\.ff\.(linear_in|linear_out)|single_transformer_blocks\.[0-9]+\.attn\.(to_qkv_mlp_proj|to_out))'
+  # for conditon branch, refer to https://github.com/Yuanshi9815/OminiControl
+  use_lora_bias: False
+  gaussian_init_lora: False
+
+  num_inference_steps: 50 # validation (Base 版なので CFG + 50 step)
+
+  max_sequence_length: 512 
+  regional_max_sequence_length: 50 # caption 部分の上限 (Qwen3 チャットテンプレートの 12 トークンは別)
+  regional_text_position: "restart" # txt_ids の L を caption ごとに 0 から振り直す
+
+  weighting_scheme: "none" #  "sigma_sqrt", "logit_normal", "mode", "cosmap", "none"
+  logit_mean: 0 # mean to use when using the `'logit_normal'` weighting scheme.
+  logit_std: 1 # std to use when using the `'logit_normal'` weighting scheme.
+  mode_scale: 1.29 # Scale of mode weighting scheme. Only effective when using the `'mode'` as the `weighting_scheme`.
+
+optimizer:
+  adam_beta1: 0.9
+  adam_beta2: 0.999
+  adam_weight_decay: 1e-2
+  adam_epsilon: 1e-08
+  max_grad_norm: 1
+
+scheduler: 
+  lr_scheduler: "constant" # ["linear","cosine","cosine_with_restarts","polynomial","constant","constant_with_warmup"]
+  lr_warmup_steps: 0
+  lr_num_cycles: 1 # Number of hard resets of the lr in cosine_with_restarts scheduler
+  lr_power: 1 # Power factor of the polynomial scheduler.
+
+trainer:
+  guidance_scale: 1
+  train_batch_size: 2 # x 8 GPU = 16。FLUX.1 版 (2 GPU x 8) と同じ全体バッチ
+  
+  learning_rate: 1e-4
+
+  scale_lr: False # Scale the learning rate by the number of GPUs, gradient accumulation steps, and batch size.
+
+  gradient_accumulation_steps: 1
+  gradient_checkpointing: False # gp42 (97GB) 前提。bs2 で ~42GB、ckpt ありより +26% 速い。48GB 級 GPU では True
+  offload: False
+
+  # How many ranks may load FLUX into host RAM at the same time. With the bf16 load in
+  # train.py a rank peaks at a measured 10.4GB, so 8 at once (~83GB) is already survivable
+  # on a 251GB node; this keeps the transient down to ~21GB as a safety margin.
+  # Note offload=True is NOT a way to reduce host RAM: it parks T5 (~9.5GB/rank) in CPU
+  # memory every step. It trades host RAM for GPU memory, which is the wrong direction here.
+  load_group_size: 4 # klein-4B は transformer 7.3GB + Qwen3 7.5GB と FLUX.1 より小さい
+
+  num_train_epochs: 1
+  max_train_steps: 5500 # FLUX.1 版と同じ (5500 x 16 = 88k サンプル ~= 9.8 epoch)
+  num_validation_images: 8 # num of log_validation images
+
+  validation_steps: 500
+
+  checkpointing_steps: 500
+  checkpoints_total_limit: 12 # Max number of checkpoints to store.
+
+  allow_tf32: False
+
+eval:
+  num_images_per_prompt: 4
+  guidance_scale: 4.0 # validation の true CFG (klein-base の既定値)
+
+dataloader_num_workers: 2 # x8 ranks = 16 workers on 32 cores; 4 oversubscribed the node
+seed: 42
+mixed_precision: "bf16" #  "no", "fp16", "bf16"
+resume_from_checkpoint: null # resumed from a previous checkpoint. Use a path saved by `--checkpointing_steps`, or `"latest"` to automatically select the last available checkpoint.

@@ -1,0 +1,11 @@
+{
+ "image": "0124.png",
+ "soup": "porkbone",
+ "global": "A bowl of rich, amber-toned tonkotsu ramen broth cradles tender noodles, crowned with a vibrant mound of finely sliced green onions. The white bowl, adorned with red geometric patterns, rests on a dark tray, illuminated by soft, warm light that enhances the broth’s inviting depth.",
+ "regions": {
+  "background": "The tray's surface is smooth, glossy, and reddish-brown with subtle wood grain texture visible beneath.",
+  "bowl": "White ceramic ramen bowl with red geometric and cloud patterns along its rim.",
+  "soup": "The tonkotsu (pork bone) broth is rich, amber-brown, glossy, and contains tender noodles and vibrant green scallions."
+ },
+ "redone": "soup"
+}

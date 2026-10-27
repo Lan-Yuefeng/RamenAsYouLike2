@@ -1,0 +1,11 @@
+{
+ "image": "0418.png",
+ "soup": "spicy",
+ "global": "A vibrant, spicy ramen broth glows beneath a generous mound of shredded green onions. Served in a white bowl with blue accents, it rests on a wooden table under soft, natural light.",
+ "regions": {
+  "background": "Dark brown wooden table with visible grain patterns and subtle texture, oval-shaped surface.",
+  "bowl": "White ceramic ramen bowl with blue patterned rim and subtle glossy finish.",
+  "soup": "The spicy broth is deep red, glossy, and speckled with black pepper, partially covering noodles beneath a mound of shredded cabbage."
+ },
+ "redone": "soup"
+}

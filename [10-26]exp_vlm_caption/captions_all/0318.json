@@ -1,0 +1,13 @@
+{
+ "image": "0318.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy broth in a dark bowl, topped with chashu pork, wood ear mushrooms, and chopped green onions. Soft lighting highlights the steam rising, with a white spoon resting beside the bowl, set against a wooden table and menu backdrop.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth grain pattern, and subtle natural texture beneath the bowl.",
+  "bowl": "Dark, glossy ceramic bowl with subtle speckled texture, smooth rounded rim, and slight sheen from ambient light.",
+  "soup": "The tonkotsu (pork bone) broth is creamy yellow, smooth, and slightly frothy, with visible green onions and dark wood ear mushrooms floating on its surface.",
+  "spoon": "A white ceramic spoon with smooth, curved surface and slight sheen, partially visible in the frame.",
+  "meat": "The chashu pork is a round, sliced piece with light brown color, visible marbling, and a slightly glossy surface."
+ },
+ "redone": "soup"
+}

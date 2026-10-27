@@ -1,0 +1,11 @@
+{
+ "name": "semcond_empty",
+ "ckpt": "/export/space0/lan-y/seg2any_ckpt/ramen_flux3_semcond/checkpoint-3000",
+ "inputs": "../[10-25]exp_ablation/inputs_val10_noregional",
+ "out_root": "/host/home/yanai-lab/Sotsuken26/lan-y/Seg2Any/[10-25]exp_semcond/results",
+ "model": "black-forest-labs/flux-3-image-klein-base",
+ "steps": 50,
+ "cfg": 3.5,
+ "mask_method": "hard",
+ "no_sem": false
+}

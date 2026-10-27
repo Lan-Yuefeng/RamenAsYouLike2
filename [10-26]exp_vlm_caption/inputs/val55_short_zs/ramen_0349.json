@@ -1,0 +1,30 @@
+{
+  "caption": "A white ceramic ramen bowl holds golden shoyu broth with a soft egg. The light wood grain table provides a warm, natural backdrop.",
+  "seed": 1349,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Light wood grain table"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The golden shoyu broth with egg"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl"
+    }
+  ]
+}

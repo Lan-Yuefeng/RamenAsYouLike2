@@ -1,0 +1,26 @@
+{
+ "image": "0262.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "wooden table surface",
+   "detail": "smooth wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "glossy blue bowl",
+   "detail": "light blue ceramic bowl rim"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy red broth",
+   "detail": "spicy reddish-brown oily broth"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori",
+   "detail": "dark green textured nori"
+  }
+ }
+}

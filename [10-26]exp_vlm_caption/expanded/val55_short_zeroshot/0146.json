@@ -1,0 +1,22 @@
+{
+ "image": "0146.png",
+ "level": "short",
+ "short": {
+  "background": "smooth wooden table",
+  "bowl": "blue floral bowl",
+  "soup": "glossy shoyu broth",
+  "seaweed": "dark green nori",
+  "meat": "crispy chashu pork",
+  "menma": "glossy menma shoots"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a smooth wooden table. The rich, glossy broth, dark green nori, crispy pork, and glossy menma create a colorful, textured scene.",
+ "regions": {
+  "background": "smooth wooden table",
+  "bowl": "blue floral bowl",
+  "soup": "The tonkotsu (pork bone) broth",
+  "seaweed": "dark green nori",
+  "meat": "crispy chashu pork",
+  "menma": "glossy menma shoots"
+ }
+}

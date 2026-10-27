@@ -1,0 +1,18 @@
+{
+ "image": "0519.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table",
+  "bowl": "glossy black bowl",
+  "soup": "rich amber miso broth",
+  "meat": "marbled chashu pork"
+ },
+ "parsed": true,
+ "global": "A bowl of ramen sits on a dark wooden table, showcasing rich flavors and textures. The glossy black bowl holds a deep amber broth with marbled pork, perfect for a comforting meal.",
+ "regions": {
+  "background": "dark wooden table",
+  "bowl": "glossy black bowl",
+  "soup": "The rich amber miso broth",
+  "meat": "marbled chashu pork"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "image": "0440.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "orange table",
+   "short": "smooth orange table",
+   "detail": "smooth solid orange table surface"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "blue ramen bowl",
+   "detail": "light blue ceramic ramen bowl"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy tonkotsu broth",
+   "detail": "creamy light brown tonkotsu broth"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "blue ceramic spoon",
+   "detail": "light blue glossy ceramic spoon"
+  },
+  "chopsticks": {
+   "name": "wooden chopsticks",
+   "short": "light wood chopsticks",
+   "detail": "light wood grain chopsticks"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "curled dark seaweed",
+   "detail": "dark green curled nori texture"
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "image": "0253.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "glossy white bowl",
+   "detail": "white ceramic bowl with rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "glossy miso broth",
+   "detail": "orange-brown miso broth with bubbles"
+  },
+  "egg": {
+   "name": "boiled egg",
+   "short": "smooth boiled egg",
+   "detail": "translucent boiled egg surface"
+  }
+ }
+}

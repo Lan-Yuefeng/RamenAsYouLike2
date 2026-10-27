@@ -1,0 +1,12 @@
+{
+ "image": "0406.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen broth glows warmly under dim lighting, its rich red hue hinting at bold flavor. Fresh cilantro and bean sprouts crown the surface, nestled in a white ceramic bowl against a dark wooden backdrop.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture, forming an oval-shaped background around the bowl.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, slightly curved rim, and faint reddish-brown decorative pattern along inner edge.",
+  "soup": "The spicy broth is reddish-orange, glossy, and filled with thin noodles and green herbs, appearing rich and textured.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved handle, partially submerged in broth."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,46 @@
+{
+  "caption": "Creamy yellow tonkotsu broth with visible noodles and green onions sits in a white ceramic bowl with a glossy, slightly textured rim. Dark green nori and pinkish chashu pork rest on the wooden table with warm brown grain patterns.",
+  "seed": 1450,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle texture variations."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "The chashu pork is a round, sliced piece with pinkish meat, white fat, and a slightly glossy surface."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "The nori seaweed is dark green, textured, irregularly shaped, and has a slightly rough surface with visible veins."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth is creamy yellow, glossy, and contains visible noodles and green onions."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, subtly textured rim."
+    }
+  ]
+}

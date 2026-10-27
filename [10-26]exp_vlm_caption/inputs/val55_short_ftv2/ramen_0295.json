@@ -1,0 +1,38 @@
+{
+  "caption": "Creamy yellow miso broth, slightly frothy, with floating green onions and noodle strands, features tender pale pink chashu pork with marbling. Served in a white ceramic bowl with red rim, green dragon pattern, and red Chinese characters, on a wooden table with light brown grain and subtle texture.",
+  "seed": 1295,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows light brown grain pattern with subtle texture and natural wood finish."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows tender, pale pink meat with visible fat marbling and slightly uneven, cooked surface texture."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is creamy yellow, smooth, and slightly frothy, with visible noodle strands and green onions floating on its surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with red rim, green dragon pattern, and red Chinese characters around its edge."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+ "image": "0092.png",
+ "soup": "miso",
+ "global": "This is Sugakiya’s spicy miso ramen, its broth a rich, orange-red hue. Topped with shredded cabbage, chili flakes, and a dark paste, it sits in a branded white bowl on a tray, under warm, even lighting.",
+ "regions": {
+  "background": "Light wooden table surface with visible grain, smooth texture, and warm tone beneath the bowl.",
+  "bowl": "White ceramic ramen bowl with brown \"Sugakiya\" logo and checkered pattern along its rim.",
+  "soup": "Miso ramen broth with noodles, garnished with shredded cabbage, chili flakes, and dark paste, appears rich and oily with visible noodle strands.",
+  "spoon": "A metallic spoon with a smooth, reflective surface and slightly curved, tapered shape."
+ }
+}

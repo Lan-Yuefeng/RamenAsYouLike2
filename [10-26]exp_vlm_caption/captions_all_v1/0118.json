@@ -1,0 +1,12 @@
+{
+ "image": "0118.png",
+ "soup": "spicy",
+ "global": "This is spicy ramen, its broth a vibrant, oily red with visible chili flakes. Topped with noodles, green herbs, and a halved egg, it sits in a patterned bowl on a dark wooden table, warmly lit from above.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's base.",
+  "bowl": "White ceramic bowl with red rim, blue geometric and red Chinese character patterns, showing slight residue stains.",
+  "soup": "Spicy ramen broth with noodles, green garnish, and egg, showing rich red color and oily surface texture.",
+  "spoon": "A glossy red spoon with a smooth, slightly curved surface and a tapered end.",
+  "cut_egg": "A halved boiled egg shows creamy white yolk and firm white, with slightly textured surface and rounded shape."
+ }
+}

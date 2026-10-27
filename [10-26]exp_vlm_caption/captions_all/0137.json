@@ -1,0 +1,11 @@
+{
+ "image": "0137.png",
+ "soup": "porkbone",
+ "global": "This is a bowl of tonkotsu ramen, its rich, creamy broth swirling around tender noodles and cabbage. A dollop of red chili paste sits atop, contrasting the pale broth in a white bowl with black Greek key patterns, set on a wooden table under warm light.",
+ "regions": {
+  "background": "Wooden table surface shows grain pattern, light brown color, smooth texture with subtle natural variations and slight sheen.",
+  "bowl": "White ceramic ramen bowl with black Greek key pattern and Japanese text along its rim.",
+  "soup": "The tonkotsu (pork bone) broth is light brown, creamy, and slightly cloudy with visible noodles and toppings."
+ },
+ "redone": "soup"
+}

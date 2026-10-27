@@ -1,0 +1,36 @@
+{
+ "image": "0408.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "dark glossy table",
+   "short": "dark glossy table surface",
+   "detail": "dark glossy table with faint markings"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "white glossy ramen bowl",
+   "detail": "white ceramic bowl with raised rim"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy shoyu broth with noodles",
+   "detail": "amber-brown shoyu broth with green onions"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "crinkled dark nori",
+   "detail": "dark crinkled nori with glossy texture"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "browned chashu pork slice",
+   "detail": "thick marbled chashu with char marks"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "pale fibrous menma",
+   "detail": "curved menma with brownish hue"
+  }
+ }
+}

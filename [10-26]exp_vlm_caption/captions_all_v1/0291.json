@@ -1,0 +1,10 @@
+{
+ "image": "0291.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen boasts a rich, reddish broth, topped with shredded cabbage and sliced green onions arranged in a neat mound. Served in a blue-and-white patterned bowl, it rests on a dark tray under warm, inviting light.",
+ "regions": {
+  "background": "Black tray with textured surface and red rim, resting on light wood grain table.",
+  "bowl": "Blue and white ceramic bowl with floral pattern, smooth glazed surface, slightly raised rim.",
+  "soup": "Spicy ramen broth with noodles, garnished with green onions and shredded cabbage, appears rich, reddish-brown, and glossy."
+ }
+}

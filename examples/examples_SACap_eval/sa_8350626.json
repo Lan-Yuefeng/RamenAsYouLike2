@@ -1,0 +1,22 @@
+{
+  "caption": "The image depicts an ornate, grand hall with a high, intricately painted ceiling featuring vibrant colors and patterns. The walls are adorned with intricate designs and framed portraits. The floor is covered with a patterned tile design, and there are wooden benches along the sides. The room has large windows allowing natural light to illuminate the space.",
+  "seed": 2034,
+  "segments_info": [
+    {
+      "color": [
+        232,
+        83,
+        203
+      ],
+      "text": "The image shows an ornate, colorful ceiling with intricate patterns and a large, decorative chandelier hanging from it."
+    },
+    {
+      "color": [
+        104,
+        234,
+        185
+      ],
+      "text": "The floor features a patterned tile design with alternating squares and diamonds in shades of yellow and white."
+    }
+  ]
+}

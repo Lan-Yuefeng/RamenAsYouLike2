@@ -1,0 +1,30 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: light wood grain table, white ceramic ramen bowl, golden shoyu broth with egg.",
+  "seed": 1349,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "light wood grain table"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "golden shoyu broth with egg"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white ceramic ramen bowl"
+    }
+  ]
+}

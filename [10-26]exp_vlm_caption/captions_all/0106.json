@@ -1,0 +1,11 @@
+{
+ "image": "0106.png",
+ "soup": "spicy",
+ "global": "This is a bowl of spicy ramen with a vibrant orange-red broth, topped with green onions, bean sprouts, and a meatball. It sits in a white bowl with red geometric patterns, on a wooden table under warm, natural light.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain patterns and subtle texture with visible scratches and natural wood finish.",
+  "bowl": "White ceramic bowl with red geometric pattern and double rim, smooth surface with slight orange residue along inner edge.",
+  "soup": "The spicy broth is vibrant orange-red, speckled with chili flakes, swirling around noodles and toppings."
+ },
+ "redone": "soup"
+}

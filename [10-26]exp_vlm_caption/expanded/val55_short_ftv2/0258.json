@@ -1,0 +1,18 @@
+{
+ "image": "0258.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table",
+  "bowl": "blue rim cartoon bowl",
+  "soup": "spicy red ramen broth",
+  "spoon": "glossy white ceramic spoon"
+ },
+ "parsed": true,
+ "global": "Spicy red glossy broth with noodles and bean sprouts, green onions, in a white ceramic bowl with blue cartoon characters and red rim. Set on a dark wooden table with grain patterns and subtle reflections.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge.",
+  "bowl": "White ceramic bowl with blue cartoon characters and a red rim, smooth surface with slight residue along inner edge.",
+  "soup": "The spicy broth is vibrant red, glossy, and contains visible noodles and toppings like bean sprouts and green onions.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape."
+ }
+}

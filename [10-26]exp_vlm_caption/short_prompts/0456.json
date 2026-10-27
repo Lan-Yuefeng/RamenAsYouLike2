@@ -1,0 +1,36 @@
+{
+ "image": "0456.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm brown wooden table",
+   "detail": "smooth grain wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "blue patterned ceramic bowl",
+   "detail": "glossy cream bowl with blue rim"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy yellow tonkotsu broth",
+   "detail": "thick glossy tonkotsu broth with oil sheen"
+  },
+  "spoon": {
+   "name": "dark spoon",
+   "short": "glossy dark curved spoon",
+   "detail": "smooth dark spoon with rounded tip"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "creamy white orange yolk",
+   "detail": "halved egg with textured yolk"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening marbled chashu",
+   "detail": "pinkish-brown fat-marbled chashu slices"
+  }
+ }
+}

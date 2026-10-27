@@ -1,0 +1,26 @@
+{
+ "image": "0094.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm brown wooden table",
+   "detail": "smooth grain wooden table surface"
+  },
+  "bowl": {
+   "name": "floral ceramic bowl",
+   "short": "glossy floral rim bowl",
+   "detail": "white bowl with colorful floral rim"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear golden shio broth",
+   "detail": "glossy golden shio ramen broth"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent pale yellow menma",
+   "detail": "curved segmented bamboo shoots"
+  }
+ }
+}

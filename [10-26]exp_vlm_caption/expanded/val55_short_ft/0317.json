@@ -1,0 +1,18 @@
+{
+ "image": "0317.png",
+ "level": "short",
+ "short": {
+  "background": "dark textured surface with gold edge",
+  "bowl": "white bowl with red stripes",
+  "soup": "spicy reddish-brown broth",
+  "spoon": "glossy white ceramic spoon"
+ },
+ "parsed": true,
+ "global": "A vibrant, spicy ramen broth glows beneath a generous mound of shredded cabbage and chopped green onions. Served in a white bowl with red trim, it rests on a dark surface under soft, ambient lighting.",
+ "regions": {
+  "background": "Dark, textured surface with subtle grain, oval shape, and slight sheen near edges.",
+  "bowl": "White ceramic bowl with red stripes, smooth surface, slightly raised rim, and faint speckles.",
+  "soup": "The spicy broth is reddish-brown, glossy, and speckled with sesame seeds, swirling around noodles and toppings.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved, tapered shape."
+ }
+}

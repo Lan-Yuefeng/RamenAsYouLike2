@@ -1,0 +1,11 @@
+{
+ "image": "0108.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen with rich, vibrant orange broth. Topped with chashu pork, bean sprouts, and green garnish, it sits in a patterned bowl on a tray, under soft, even lighting that highlights the steamy, appetizing dish.",
+ "regions": {
+  "background": "Light beige tray with smooth, slightly glossy surface and faint, subtle texture, oval-shaped with rounded edges.",
+  "bowl": "The ceramic bowl has a light blue rim, white base with gray floral pattern, and a pink flower design.",
+  "soup": "Spicy ramen broth with noodles, bean sprouts, and green garnish, swirling in rich orange-red liquid.",
+  "meat": "Chashu pork slice, browned and tender, rests atop noodles, garnished with sprouts and green onions."
+ }
+}

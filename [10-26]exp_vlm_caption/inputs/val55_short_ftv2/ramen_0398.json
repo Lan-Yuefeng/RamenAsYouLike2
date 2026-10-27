@@ -1,0 +1,54 @@
+{
+  "caption": "This miso broth, vibrant orange-yellow and glossy, holds tender pale pink chashu pork and pale yellow, slightly translucent menma. Served in a white ceramic bowl with blue patterns, it rests on a reddish-brown wooden table.",
+  "seed": 1398,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "The table is a smooth, reddish-brown wooden surface with subtle grain patterns and slight reflections."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork: tender, pale pink slices with crispy browned edges and visible fat marbling."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is vibrant orange-yellow, glossy, and contains visible noodles and toppings."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear pale yellow, slightly translucent, with a soft, fibrous texture and irregular, curled shape."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with blue geometric and cloud patterns, smooth rim, and subtle glaze finish."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape."
+    }
+  ]
+}

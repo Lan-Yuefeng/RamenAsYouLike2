@@ -1,0 +1,36 @@
+{
+ "image": "0222.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "red table surface",
+   "short": "glossy red table",
+   "detail": "smooth glossy red table with light reflections"
+  },
+  "bowl": {
+   "name": "blue dragon bowl",
+   "short": "white bowl with blue dragons",
+   "detail": "ceramic bowl with blue dragon motifs and geometric rim"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear golden shio broth",
+   "detail": "golden-yellow clear shio ramen broth"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "crispy chashu pork",
+   "detail": "golden-brown tender marbled chashu pork"
+  },
+  "menma": {
+   "name": "charred bamboo shoots",
+   "short": "curled charred menma",
+   "detail": "golden-brown fibrous charred menma"
+  },
+  "naruto": {
+   "name": "pink swirl fish cake",
+   "short": "spiral pink naruto",
+   "detail": "pale textured spiral fish cake with pink swirl"
+  }
+ }
+}

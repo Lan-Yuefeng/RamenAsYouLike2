@@ -1,0 +1,31 @@
+{
+ "image": "0279.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "red table",
+   "short": "matte red table surface",
+   "detail": "smooth solid red matte table"
+  },
+  "bowl": {
+   "name": "dragon pattern bowl",
+   "short": "white bowl with green dragon",
+   "detail": "white ceramic bowl green dragon rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "glossy amber miso broth",
+   "detail": "rich viscous amber miso broth"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "glossy white ceramic spoon",
+   "detail": "smooth glossy white ceramic spoon"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening chashu pork slices",
+   "detail": "tender sesame seed chashu pork"
+  }
+ }
+}

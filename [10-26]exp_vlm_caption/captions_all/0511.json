@@ -1,0 +1,14 @@
+{
+ "image": "0511.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth cradling noodles, topped with tender chashu pork, crisp menma, and shredded scallions. Served in a white bowl on a red surface, the warm lighting highlights the broth’s depth and toppings’ textures.",
+ "regions": {
+  "background": "Red table surface with smooth texture and subtle grain pattern, slightly curved edge visible.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "The shoyu (soy sauce) broth is amber-brown, glossy, and gently swirling around noodles and toppings.",
+  "spoon": "A white ceramic spoon with smooth surface, slightly curved bowl, and a small orange-brown stain near its tip.",
+  "meat": "The chashu pork slice shows a crispy browned edge, tender pink interior, and visible fat marbling.",
+  "menma": "Menma bamboo shoots appear as dark brown, slightly curled, fibrous pieces with a glossy, moist surface."
+ },
+ "redone": "soup"
+}

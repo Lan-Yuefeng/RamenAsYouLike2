@@ -1,0 +1,42 @@
+Could not reach the Hub (Cannot reach https://huggingface.co/api/models/black-forest-labs/FLUX.2-klein-4B: offline mode is enabled. To disable it, please unset the `HF_HUB_OFFLINE` environment variable.). Using cached commit hash for 'black-forest-labs/FLUX.2-klein-4B'.
+/host/home/yanai-lab/Sotsuken26/lan-y/Seg2Any/.venv-flux2/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py:206: UserWarning: The `local_dir_use_symlinks` argument is deprecated and ignored in `hf_hub_download`. Downloading to a local directory does not use symlinks anymore.
+  warnings.warn(
+/host/home/yanai-lab/Sotsuken26/lan-y/Seg2Any/.venv-flux2/lib/python3.10/site-packages/diffusers/utils/deprecation_utils.py:23: FutureWarning: `torch_dtype` is deprecated and will be removed in version 1.0.0. Please use `dtype` instead.
+  deprecate("torch_dtype", "1.0.0", _TORCH_DTYPE_DEPRECATION_MESSAGE)
+Could not reach the Hub (Cannot reach https://huggingface.co/api/models/black-forest-labs/FLUX.2-klein-4B: offline mode is enabled. To disable it, please unset the `HF_HUB_OFFLINE` environment variable.). Using cached commit hash for 'black-forest-labs/FLUX.2-klein-4B'.
+Couldn't connect to the Hub: Cannot reach https://huggingface.co/api/models/black-forest-labs/FLUX.2-klein-4B/revision/main: offline mode is enabled. To disable it, please unset the `HF_HUB_OFFLINE` environment variable..
+Will try to load from local cache.
+Loading pipeline components...:   0%|          | 0/5 [00:00<?, ?it/s]
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s][A
+Loading weights:  12%|█▏        | 47/398 [00:00<00:00, 466.31it/s][A
+Loading weights:  24%|██▎       | 94/398 [00:00<00:00, 440.33it/s][A
+Loading weights:  35%|███▌      | 141/398 [00:00<00:00, 451.89it/s][A
+Loading weights:  52%|█████▏    | 205/398 [00:00<00:00, 522.29it/s][ALoading weights: 100%|██████████| 398/398 [00:00<00:00, 834.79it/s]
+Loading pipeline components...:  20%|██        | 1/5 [00:00<00:02,  1.46it/s]Loading pipeline components...:  60%|██████    | 3/5 [00:01<00:00,  2.42it/s]The config attributes {'force_upcast': True} were passed to AutoencoderKLFlux2, but are not expected and will be ignored. Please verify your config.json configuration file.
+Loading pipeline components...: 100%|██████████| 5/5 [00:01<00:00,  3.71it/s]
+/host/home/yanai-lab/Sotsuken26/lan-y/Seg2Any/.venv-flux2/lib/python3.10/site-packages/peft/tuners/tuners_utils.py:331: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  2.60it/s] 50%|█████     | 2/4 [00:00<00:00,  2.18it/s] 75%|███████▌  | 3/4 [00:01<00:00,  2.06it/s]100%|██████████| 4/4 [00:01<00:00,  2.02it/s]100%|██████████| 4/4 [00:01<00:00,  2.08it/s]
+done sa_10241589.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  2.93it/s] 50%|█████     | 2/4 [00:00<00:00,  2.37it/s] 75%|███████▌  | 3/4 [00:01<00:00,  2.24it/s]100%|██████████| 4/4 [00:01<00:00,  2.18it/s]100%|██████████| 4/4 [00:01<00:00,  2.26it/s]
+done sa_10876064.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:00,  3.00it/s] 50%|█████     | 2/4 [00:00<00:00,  2.43it/s] 75%|███████▌  | 3/4 [00:01<00:00,  2.29it/s]100%|██████████| 4/4 [00:01<00:00,  2.23it/s]100%|██████████| 4/4 [00:01<00:00,  2.31it/s]
+done sa_2297425.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  2.94it/s] 50%|█████     | 2/4 [00:00<00:00,  2.39it/s] 75%|███████▌  | 3/4 [00:01<00:00,  2.25it/s]100%|██████████| 4/4 [00:01<00:00,  2.19it/s]100%|██████████| 4/4 [00:01<00:00,  2.27it/s]
+done sa_2369449.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  2.89it/s] 50%|█████     | 2/4 [00:00<00:00,  2.33it/s] 75%|███████▌  | 3/4 [00:01<00:00,  2.20it/s]100%|██████████| 4/4 [00:01<00:00,  2.14it/s]100%|██████████| 4/4 [00:01<00:00,  2.22it/s]
+done sa_2612705.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  2.92it/s] 50%|█████     | 2/4 [00:00<00:00,  2.36it/s] 75%|███████▌  | 3/4 [00:01<00:00,  2.23it/s]100%|██████████| 4/4 [00:01<00:00,  2.17it/s]100%|██████████| 4/4 [00:01<00:00,  2.25it/s]
+done sa_3980345.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  2.69it/s] 50%|█████     | 2/4 [00:00<00:00,  2.18it/s] 75%|███████▌  | 3/4 [00:01<00:00,  2.05it/s]100%|██████████| 4/4 [00:01<00:00,  1.99it/s]100%|██████████| 4/4 [00:01<00:00,  2.07it/s]
+done sa_457068.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  2.93it/s] 50%|█████     | 2/4 [00:00<00:00,  2.37it/s] 75%|███████▌  | 3/4 [00:01<00:00,  2.23it/s]100%|██████████| 4/4 [00:01<00:00,  2.17it/s]100%|██████████| 4/4 [00:01<00:00,  2.25it/s]
+done sa_7495676.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  1.95it/s] 50%|█████     | 2/4 [00:01<00:01,  1.57it/s] 75%|███████▌  | 3/4 [00:01<00:00,  1.47it/s]100%|██████████| 4/4 [00:02<00:00,  1.43it/s]100%|██████████| 4/4 [00:02<00:00,  1.49it/s]
+done sa_8350626.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  2.50it/s] 50%|█████     | 2/4 [00:00<00:00,  2.02it/s] 75%|███████▌  | 3/4 [00:01<00:00,  1.91it/s]100%|██████████| 4/4 [00:02<00:00,  1.86it/s]100%|██████████| 4/4 [00:02<00:00,  1.92it/s]
+done sa_8686177.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  2.93it/s] 50%|█████     | 2/4 [00:00<00:00,  2.38it/s] 75%|███████▌  | 3/4 [00:01<00:00,  2.24it/s]100%|██████████| 4/4 [00:01<00:00,  2.18it/s]100%|██████████| 4/4 [00:01<00:00,  2.25it/s]
+done sa_9232865.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  2.97it/s] 50%|█████     | 2/4 [00:00<00:00,  2.40it/s] 75%|███████▌  | 3/4 [00:01<00:00,  2.26it/s]100%|██████████| 4/4 [00:01<00:00,  2.20it/s]100%|██████████| 4/4 [00:01<00:00,  2.28it/s]
+done sa_9628946.png

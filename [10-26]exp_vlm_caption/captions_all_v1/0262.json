@@ -1,0 +1,11 @@
+{
+ "image": "0262.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen boasts a rich, reddish broth with visible chili flakes. Topped with shredded green onions, sliced cucumber, and dark nori, it sits in a white ceramic bowl on a wooden table, bathed in warm, natural light.",
+ "regions": {
+  "background": "Wooden table surface with visible grain patterns and natural texture, appearing smooth and slightly reflective.",
+  "bowl": "Light blue ceramic bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "Spicy ramen broth with noodles, garnished with green onions, seaweed, and sesame seeds, glistening with oil and chili flakes.",
+  "seaweed": "The nori seaweed is dark green, textured, irregularly shaped, and has a slightly rough surface with visible veins."
+ }
+}

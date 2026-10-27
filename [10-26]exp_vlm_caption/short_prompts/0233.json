@@ -1,0 +1,41 @@
+{
+ "image": "0233.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "red surface",
+   "short": "smooth red surface",
+   "detail": "smooth red surface with slight sheen"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "white bowl with red dragon",
+   "detail": "white bowl with red dragon and gold rim"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "golden shoyu broth",
+   "detail": "golden-brown glossy shoyu broth"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori",
+   "detail": "dark green textured nori with veins"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "golden seared chashu",
+   "detail": "marbled chashu with glistening surface"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent menma",
+   "detail": "pale yellow layered menma curled"
+  },
+  "naruto": {
+   "name": "fish cake",
+   "short": "spiral naruto cake",
+   "detail": "white spiral naruto with pink swirl"
+  }
+ }
+}

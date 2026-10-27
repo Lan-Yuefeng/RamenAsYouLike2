@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: black textured table surface, white bowl with blue rim, creamy miso broth surface, white spoon with yellow stain, golden menma bamboo shoots.",
+  "seed": 1047,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "black textured table surface"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "creamy miso broth surface"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "golden menma bamboo shoots"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with blue rim"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "white spoon with yellow stain"
+    }
+  ]
+}

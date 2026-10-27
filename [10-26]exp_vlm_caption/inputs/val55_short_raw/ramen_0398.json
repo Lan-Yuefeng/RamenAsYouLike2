@@ -1,0 +1,54 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: reddish-brown wooden table, white bowl with blue patterns, vibrant orange-yellow miso, white ceramic spoon in broth, crispy chashu pork slices, translucent pale yellow menma.",
+  "seed": 1398,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "reddish-brown wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "crispy chashu pork slices"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "vibrant orange-yellow miso"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "translucent pale yellow menma"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with blue patterns"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "white ceramic spoon in broth"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+flux3_distilled_1024_csf2 rc=0 130s
+flux3_distilled_1024 rc=0 144s
+flux3_base_cfg35_50step_1024_csf2 rc=0 497s
+flux3_base_cfg35_50step_1024 rc=0 537s
+ALLDONE

@@ -1,0 +1,46 @@
+{
+  "caption": "A rich, creamy tonkotsu ramen broth fills a white bowl with blue geometric trim. Topped with tender chashu pork, nori, and green onions, it rests on a wooden table under warm, inviting light.",
+  "seed": 1488,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "The table is a smooth, reddish-brown wooden surface with visible grain patterns and subtle light reflections."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork appears as tender, light brown slices with slightly glossy surface and irregular, curled edges."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "The nori seaweed is dark, glossy, and irregularly shaped with a slightly wrinkled, textured surface."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth is creamy, golden-brown, and glossy, with visible noodles and toppings floating on its surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "The ceramic bowl has a white interior, blue geometric rim pattern, and smooth, glossy surface."
+    }
+  ]
+}

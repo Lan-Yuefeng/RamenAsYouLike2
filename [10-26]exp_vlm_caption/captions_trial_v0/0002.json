@@ -1,0 +1,13 @@
+{
+ "image": "0002.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, savory broth with tender chashu pork and crisp menma arranged atop golden noodles. Served in a red-patterned bowl, it rests on a dark wooden surface under warm, inviting light.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture beneath the bowl.",
+  "bowl": "The ramen bowl is red with white floral patterns, round, and holds noodles, broth, greens, and meat.",
+  "soup": "The broth with noodles appears golden-yellow, glossy, and rich, with thin, tangled noodles and floating green garnish.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved, tapered shape.",
+  "meat": "The chashu pork is a thick, juicy slice with a slightly fatty, tender texture and a glistening, savory surface.",
+  "menma": "Menma bamboo shoots appear pale beige, with a slightly fibrous texture and curved, segmented shape."
+ }
+}

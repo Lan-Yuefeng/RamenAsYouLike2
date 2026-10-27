@@ -1,0 +1,7 @@
+flux2_base_cfg4 rc=0 395s
+flux2_base_cfg4_negnocond rc=0 349s
+flux2_distilled rc=0 208s
+flux1 rc=1 9s
+ALLDONE
+flux1 rc=1 9s
+flux1 rc=0 981s

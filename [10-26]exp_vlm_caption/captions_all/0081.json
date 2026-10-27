@@ -1,0 +1,14 @@
+{
+ "image": "0081.png",
+ "soup": "spicy",
+ "global": "This vibrant spicy ramen boasts a rich, reddish broth, topped with tender chashu pork, crisp nori, and chopped green onions. Served in a patterned bowl, it rests on a wooden table under warm, inviting light.",
+ "regions": {
+  "background": "Wooden table surface shows rich brown grain patterns and natural texture with visible wood fibers and subtle knots.",
+  "bowl": "White ceramic bowl with red rim, green dragon pattern, and red Japanese characters on its exterior surface.",
+  "soup": "The spicy broth is vibrant orange-red, glossy, and swirling with thin noodles and scattered green onions.",
+  "spoon": "A white ceramic spoon with smooth, curved surface and slight discoloration at its tip.",
+  "seaweed": "The nori seaweed is dark green, crinkled, irregularly shaped, with a slightly glossy surface and visible texture.",
+  "meat": "Chashu pork: tender, glistening slice with golden-brown sear, showing marbled fat and soft, cooked meat texture."
+ },
+ "redone": "soup"
+}

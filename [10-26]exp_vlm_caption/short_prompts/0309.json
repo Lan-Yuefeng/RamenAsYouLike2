@@ -1,0 +1,31 @@
+{
+ "image": "0309.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "black tray with red rim",
+   "short": "black tray red rim glossy",
+   "detail": "black tray red rim smooth glossy"
+  },
+  "bowl": {
+   "name": "white ceramic ramen bowl",
+   "short": "white ceramic bowl glossy rim",
+   "detail": "white ceramic bowl smooth glossy rim"
+  },
+  "soup": {
+   "name": "miso broth with noodles",
+   "short": "rich amber miso broth glossy",
+   "detail": "rich amber miso broth glossy noodles"
+  },
+  "cut_egg": {
+   "name": "halved boiled egg",
+   "short": "firm white amber yolk",
+   "detail": "firm white amber yolk glossy"
+  },
+  "meat": {
+   "name": "chashu pork slice",
+   "short": "browned marbled chashu pork",
+   "detail": "browned marbled tender chashu pork"
+  }
+ }
+}

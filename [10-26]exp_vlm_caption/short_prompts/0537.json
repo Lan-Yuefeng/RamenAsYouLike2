@@ -1,0 +1,31 @@
+{
+ "image": "0537.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "grained wooden surface",
+   "detail": "dark wooden table with grain texture"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "glossy white bowl with subtle pattern"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio ramen broth",
+   "detail": "golden glossy shio ramen broth"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glossy chashu pork slice",
+   "detail": "pinkish translucent chashu pork"
+  },
+  "menma": {
+   "name": "menma bamboo",
+   "short": "curled menma bamboo shoots",
+   "detail": "pale tan fibrous menma shoots"
+  }
+ }
+}

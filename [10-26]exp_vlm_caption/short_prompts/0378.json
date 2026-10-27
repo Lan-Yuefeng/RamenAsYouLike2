@@ -1,0 +1,26 @@
+{
+ "image": "0378.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "dark reflective surface",
+   "short": "dark smooth reflective surface",
+   "detail": "dark smooth slightly reflective surface"
+  },
+  "bowl": {
+   "name": "blue rimmed ceramic bowl",
+   "short": "white bowl with blue rim",
+   "detail": "white ceramic bowl blue triangular rim"
+  },
+  "soup": {
+   "name": "shoyu ramen broth",
+   "short": "dark shoyu broth swirling",
+   "detail": "dark glossy shoyu broth swirling noodles"
+  },
+  "chopsticks": {
+   "name": "wooden chopsticks",
+   "short": "light wooden tapered chopsticks",
+   "detail": "light wooden chopsticks diagonally resting"
+  }
+ }
+}

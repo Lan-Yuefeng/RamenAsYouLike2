@@ -1,0 +1,30 @@
+{
+  "caption": "The image depicts an ornate, historic building with intricate architectural details. The facade features large windows, decorative sculptures, and a prominent rounded corner. The building is set against a clear blue sky, and there are street lamps visible in the foreground. The architecture suggests a European influence, possibly from the late 19th or early 20th century.",
+  "seed": 229,
+  "segments_info": [
+    {
+      "color": [
+        128,
+        135,
+        142
+      ],
+      "text": "An ornate building with intricate architectural details and a dome-like roof against a clear blue sky."
+    },
+    {
+      "color": [
+        246,
+        82,
+        147
+      ],
+      "text": "The sky is clear and blue."
+    },
+    {
+      "color": [
+        50,
+        131,
+        244
+      ],
+      "text": "A smaller building with a red roof and decorative elements, located next to the main building."
+    }
+  ]
+}

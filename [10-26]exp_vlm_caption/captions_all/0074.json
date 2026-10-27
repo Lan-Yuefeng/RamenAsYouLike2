@@ -1,0 +1,14 @@
+{
+ "image": "0074.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy broth with visible fat swirls. Topped with chashu pork, menma, and shredded greens, it sits in a patterned bowl on a wooden table, lit warmly to highlight the steam and textures.",
+ "regions": {
+  "background": "Wooden table surface, smooth with visible grain patterns and warm brown tones, slightly reflective under ambient light.",
+  "bowl": "The ceramic ramen bowl has a white interior, black patterned rim, and glossy finish with intricate repeating designs.",
+  "soup": "The tonkotsu (pork bone) broth is creamy white, thick, and glossy, with visible noodles and toppings floating on its surface.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and elongated, curved shape.",
+  "meat": "The chashu pork slice shows tender, pale pink meat with a glossy surface and a distinct circular bone marrow center.",
+  "menma": "Menma bamboo shoots appear golden-brown, with fibrous texture and irregular, slightly curled shapes, showing subtle surface ridges."
+ },
+ "redone": "soup"
+}

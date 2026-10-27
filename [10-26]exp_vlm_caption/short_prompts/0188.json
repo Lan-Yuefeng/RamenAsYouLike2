@@ -1,0 +1,36 @@
+{
+ "image": "0188.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "light wooden table",
+   "short": "smooth light wooden surface",
+   "detail": "smooth light wooden table surface"
+  },
+  "bowl": {
+   "name": "geometric rim bowl",
+   "short": "white bowl with patterned rim",
+   "detail": "white ceramic bowl with colorful geometric rim"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy shoyu broth with noodles",
+   "detail": "amber-brown glossy shoyu broth with submerged noodles"
+  },
+  "cut_egg": {
+   "name": "halved boiled egg",
+   "short": "firm white soft yolk egg",
+   "detail": "halved boiled egg with firm white and soft orange yolk"
+  },
+  "seaweed": {
+   "name": "nori sheets",
+   "short": "dark green textured seaweed",
+   "detail": "dark green irregular nori sheets with vein patterns"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "curved fibrous bamboo shoots",
+   "detail": "light brown curved menma with fibrous texture"
+  }
+ }
+}

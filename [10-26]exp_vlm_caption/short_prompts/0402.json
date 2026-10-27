@@ -1,0 +1,36 @@
+{
+ "image": "0402.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "dark matte surface",
+   "short": "dark matte reflective surface",
+   "detail": "dark smooth matte with soft shadows"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "glossy white ceramic bowl",
+   "detail": "smooth glossy white bowl with raised rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "golden miso broth glossy",
+   "detail": "rich golden miso broth smooth"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glossy marbled chashu pork",
+   "detail": "tender light brown marbled pork"
+  },
+  "menma": {
+   "name": "menma bamboo",
+   "short": "glossy pale yellow menma",
+   "detail": "thin curved translucent bamboo"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "pink swirl naruto cake",
+   "detail": "round pale white textured edges"
+  }
+ }
+}

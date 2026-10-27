@@ -1,0 +1,11 @@
+{
+ "image": "0308.png",
+ "soup": "salt",
+ "global": "A bowl of shio ramen showcases a clear, golden broth with delicate oil swirls. Thin chashu pork rests atop, surrounded by shredded toppings, all nestled in a white ceramic bowl against a warm, softly lit wooden background.",
+ "regions": {
+  "background": "Dark reddish-brown wooden table surface with subtle grain patterns and smooth, slightly reflective finish.",
+  "bowl": "White ceramic bowl with glossy finish, smooth curved rim, and subtle embossed pattern near base.",
+  "soup": "Shio ramen broth, golden-yellow, clear with floating oil droplets and thin noodles, gently swirling around a slice of chashu pork.",
+  "meat": "The chashu pork has a pinkish-white interior with visible marbling, a slightly curled shape, and a glistening, fatty surface."
+ }
+}

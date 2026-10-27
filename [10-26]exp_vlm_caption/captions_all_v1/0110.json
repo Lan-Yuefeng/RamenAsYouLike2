@@ -1,0 +1,13 @@
+{
+ "image": "0110.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy broth with tender noodles, a soft-boiled egg, nori, and chopped green onions. Served in a white bowl on a wooden table, the warm lighting highlights the dish’s inviting, hearty appearance.",
+ "regions": {
+  "background": "Wooden table surface with visible grain patterns and a glossy sheen reflecting light.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, slightly raised rim, and subtle yellowish stain near the edge.",
+  "soup": "The tonkotsu broth with noodles appears creamy, golden-brown, and glossy, with visible strands and a rich, textured surface.",
+  "spoon": "A white ceramic spoon with smooth, slightly curved surface and subtle yellowish stain along its edge.",
+  "egg": "A whole boiled egg, pale yellow, smooth, oval-shaped, with subtle surface highlights and soft shadows.",
+  "seaweed": "Nori seaweed appears dark green and brown, with a rough, irregularly shaped surface and visible texture."
+ }
+}

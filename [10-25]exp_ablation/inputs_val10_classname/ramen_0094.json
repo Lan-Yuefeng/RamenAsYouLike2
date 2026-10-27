@@ -1,0 +1,38 @@
+{
+  "caption": "A top-down photo of a bowl of Japanese ramen with clear pale golden shio (salt) broth. Wheat noodles are submerged in the broth, topped with bamboo shoots. The bowl sits on a table, shot in warm natural light, appetizing food photography.",
+  "seed": 1094,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "background"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "soup"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "menma"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "bowl"
+    }
+  ]
+}

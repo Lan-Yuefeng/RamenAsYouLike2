@@ -1,0 +1,31 @@
+{
+ "image": "0042.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm brown wooden table",
+   "detail": "smooth grain wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "blue floral ceramic bowl",
+   "detail": "white rim blue floral glossy bowl"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth noodles",
+   "detail": "pale yellow clear shio broth"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "glossy white ceramic spoon",
+   "detail": "smooth curved white ceramic spoon"
+  },
+  "cut_egg": {
+   "name": "halved boiled egg",
+   "short": "glossy halved boiled egg",
+   "detail": "smooth pale yolk white egg"
+  }
+ }
+}

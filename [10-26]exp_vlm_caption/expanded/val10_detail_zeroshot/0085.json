@@ -1,0 +1,20 @@
+{
+ "image": "0085.png",
+ "level": "detail",
+ "short": {
+  "background": "dark polished wooden table surface",
+  "bowl": "smooth glossy white ceramic bowl",
+  "soup": "amber frothy miso ramen broth",
+  "egg": "smooth pale cream boiled egg",
+  "meat": "marbled browned chashu slice"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a dark wooden table. Warm amber broth, soft egg, and marbled meat create a rich, inviting scene.",
+ "regions": {
+  "background": "Dark polished wooden table surface",
+  "bowl": "Smooth glossy white ceramic bowl",
+  "soup": "The amber frothy miso ramen broth",
+  "egg": "Smooth pale cream boiled egg",
+  "meat": "Marbled browned chashu slice"
+ }
+}

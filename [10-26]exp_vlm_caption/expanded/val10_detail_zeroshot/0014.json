@@ -1,0 +1,20 @@
+{
+ "image": "0014.png",
+ "level": "detail",
+ "short": {
+  "background": "bright red table with faint scratches",
+  "bowl": "light blue bowl with concentric ridges",
+  "soup": "viscous miso broth with herbs and carrots",
+  "spoon": "smooth white spoon with curved bowl",
+  "meat": "marbled chashu pork with fat layers"
+ },
+ "parsed": true,
+ "global": "A vibrant top-down view of a ramen bowl on a bright red table. The light blue bowl holds a rich miso broth with marbled pork and vegetables, all neatly arranged.",
+ "regions": {
+  "background": "Bright red table with faint scratches",
+  "bowl": "Light blue bowl with concentric ridges",
+  "soup": "The viscous miso broth with herbs and carrots",
+  "spoon": "Smooth white spoon with curved bowl",
+  "meat": "Marbled chashu pork with fat layers"
+ }
+}

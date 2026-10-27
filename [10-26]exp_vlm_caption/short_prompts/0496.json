@@ -1,0 +1,41 @@
+{
+ "image": "0496.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table surface",
+   "detail": "dark wooden table with visible grain"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "white glossy ceramic bowl with Japanese characters"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "golden shoyu broth clear",
+   "detail": "golden-brown glossy shoyu broth with noodles"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori seaweed",
+   "detail": "dark green curled nori with rough texture"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "golden seared chashu pork",
+   "detail": "thinly sliced marbled chashu pork"
+  },
+  "menma": {
+   "name": "menma bamboo",
+   "short": "golden menma bamboo shoots",
+   "detail": "fibrous golden menma with curved segments"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "swirled naruto fish cake",
+   "detail": "oval pale beige naruto with pink green swirls"
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "image": "0214.png",
+ "soup": "spicy",
+ "global": "Spicy ramen broth glows rich red, topped with shredded cabbage and green onions. A white bowl holds the vibrant soup, with a spoon resting beside it, all set against a warm wooden table under soft, ambient light.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge.",
+  "bowl": "White ceramic ramen bowl with glossy finish, red logo near rim, and subtle speckled texture on inner surface.",
+  "soup": "Spicy ramen broth with noodles, garnished with shredded cabbage and green onions, speckled with sesame seeds.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape."
+ }
+}

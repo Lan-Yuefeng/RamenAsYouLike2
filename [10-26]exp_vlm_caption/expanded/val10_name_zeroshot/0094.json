@@ -1,0 +1,18 @@
+{
+ "image": "0094.png",
+ "level": "name",
+ "short": {
+  "background": "wooden table",
+  "bowl": "floral ceramic bowl",
+  "soup": "shio broth",
+  "menma": "bamboo shoots"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a wooden table. The shio broth glows with subtle clarity, complementing the floral ceramic bowl and crisp menma.",
+ "regions": {
+  "background": "Wooden table with warm, grainy texture and natural light",
+  "bowl": "Floral ceramic bowl with soft, hand-painted patterns and slight imperfections",
+  "soup": "The shio broth is clear and pale, with a smooth, silky texture",
+  "menma": "Bamboo shoots are pale green, crisp, and slightly translucent with a delicate, fibrous texture"
+ }
+}

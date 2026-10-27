@@ -1,0 +1,12 @@
+{
+ "image": "0249.png",
+ "soup": "miso",
+ "global": "A bowl of miso ramen features a rich, amber broth with tender noodles and a generous topping of fresh green onions. The white bowl with green dots rests on a warm wooden surface, softly lit to highlight the vibrant toppings.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth grain patterns, and subtle light reflections.",
+  "bowl": "White ceramic bowl with green dot pattern and light green rim, smooth surface, circular shape.",
+  "soup": "The miso broth is amber-colored, glossy, and rich, swirling around thin noodles and topped with vibrant green scallions.",
+  "spoon": "A metallic spoon with a reflective surface, featuring three small holes near its tip and a slightly worn, curved shape."
+ },
+ "redone": "soup"
+}

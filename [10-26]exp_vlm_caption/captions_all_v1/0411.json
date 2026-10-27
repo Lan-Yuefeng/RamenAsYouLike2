@@ -1,0 +1,12 @@
+{
+ "image": "0411.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a clear, amber broth with tender chashu pork and a halved soft-boiled egg. Bean sprouts and green onions crown the noodles in a white bowl with red trim, set against a warm, softly lit background.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and slight sheen under ambient lighting.",
+  "bowl": "White ceramic ramen bowl with red concentric rings, smooth glossy surface, slightly raised rim.",
+  "soup": "Shoyu ramen broth with noodles, bean sprouts, green onions, and a soft-boiled egg, showing rich amber color and gentle surface bubbles.",
+  "cut_egg": "A halved boiled egg shows creamy white albumen and a firm, orange-yellow yolk with a slightly textured surface.",
+  "meat": "Chashu pork: browned, tender-looking meat with visible fat marbling and slightly uneven, textured surface."
+ }
+}

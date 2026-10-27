@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: dark wooden table surface, blue swirl ceramic bowl, rich tonkotsu broth swirl, runny yolk egg half, browned chashu pork slice.",
+  "seed": 1324,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "dark wooden table surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "browned chashu pork slice"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "rich tonkotsu broth swirl"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "runny yolk egg half"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "blue swirl ceramic bowl"
+    }
+  ]
+}

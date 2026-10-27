@@ -1,0 +1,20 @@
+{
+ "image": "0061.png",
+ "level": "detail",
+ "short": {
+  "background": "smooth orange table with wood grain",
+  "bowl": "glossy white bowl with red green floral rim",
+  "soup": "rich creamy golden tonkotsu broth with green onions",
+  "meat": "tender light brown marbled pork with green onions",
+  "menma": "moist pale yellow sliced bamboo shoots"
+ },
+ "parsed": true,
+ "global": "A vibrant top-down view of a ramen bowl on a smooth orange table. The rich tonkotsu broth, tender pork, and fresh menma create a warm, inviting meal.",
+ "regions": {
+  "background": "Smooth orange table with visible wood grain",
+  "bowl": "Glossy white bowl with red and green floral rim",
+  "soup": "The tonkotsu (pork bone) broth, rich creamy golden with green onions",
+  "meat": "Tender light brown marbled pork with green onions",
+  "menma": "Moist pale yellow sliced bamboo shoots"
+ }
+}

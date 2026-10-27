@@ -1,0 +1,18 @@
+{
+ "image": "0094.png",
+ "level": "short",
+ "short": {
+  "background": "warm brown wooden table",
+  "bowl": "glossy floral rim bowl",
+  "soup": "clear golden shio broth",
+  "menma": "translucent pale yellow menma"
+ },
+ "parsed": true,
+ "global": "This shio ramen features a clear, light broth with delicate menma and shredded cabbage atop tender noodles. Served in a floral-patterned bowl, it rests on a wooden table under soft, natural light.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle texture variations.",
+  "bowl": "White ceramic bowl with black and green floral patterns, smooth glossy surface, slightly raised rim.",
+  "soup": "The shio (salt) broth is clear golden, holding thin noodles, bean sprouts, and a pink swirl garnish.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with a soft, fibrous texture and irregular, curled shape."
+ }
+}

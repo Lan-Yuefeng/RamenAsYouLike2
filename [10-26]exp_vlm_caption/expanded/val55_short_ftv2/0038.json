@@ -1,0 +1,18 @@
+{
+ "image": "0038.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table",
+  "bowl": "glossy white bowl",
+  "soup": "vibrant red spicy broth",
+  "spoon": "glossy white spoon"
+ },
+ "parsed": true,
+ "global": "Spicy red glossy broth with noodles and shredded cabbage fills a white ceramic bowl with a subtle speckled pattern and raised rim. Set on a dark wooden table with grain patterns and subtle reflections near the bowl's edge, a white ceramic spoon rests nearby.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, subtle speckled pattern, and slightly raised rim.",
+  "soup": "The spicy broth is vibrant red, glossy, and contains visible noodles and shredded cabbage.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape."
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "image": "0434.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "metallic gray surface",
+   "short": "brushed metal gray surface",
+   "detail": "subtle brushed texture with soft reflections"
+  },
+  "bowl": {
+   "name": "red ceramic bowl",
+   "short": "red bowl with gold patterns",
+   "detail": "glossy red bowl with gold floral rim"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "golden shoyu broth swirling",
+   "detail": "glossy shoyu broth swirling with noodles"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glossy chashu pork slices",
+   "detail": "tender pale brown marbled pork"
+  },
+  "menma": {
+   "name": "menma bamboo",
+   "short": "glossy sliced bamboo shoots",
+   "detail": "light brown fibrous sliced bamboo"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "pink swirl fish cake",
+   "detail": "white round cake with pink spiral"
+  }
+ }
+}

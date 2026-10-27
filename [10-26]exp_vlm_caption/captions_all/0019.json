@@ -1,0 +1,11 @@
+{
+ "image": "0019.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, amber broth with tender noodles, topped with crisp bean sprouts, chopped green onions, and savory natto. Served in a light blue bowl against a vibrant red background, the dish is brightly lit, highlighting its appetizing textures and colors.",
+ "regions": {
+  "background": "Vibrant red, smooth, slightly glossy surface with soft light reflections and gentle curves around the bowl's edge.",
+  "bowl": "Light blue ceramic ramen bowl with smooth, glossy surface and red logo on rim.",
+  "soup": "The miso broth is orange-red, glossy, and rich, swirling around noodles and toppings with visible oil sheen and scattered green onions."
+ },
+ "redone": "soup"
+}

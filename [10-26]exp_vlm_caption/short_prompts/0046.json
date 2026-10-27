@@ -1,0 +1,36 @@
+{
+ "image": "0046.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "smooth wooden table",
+   "detail": "warm brown wooden table surface"
+  },
+  "bowl": {
+   "name": "floral ceramic bowl",
+   "short": "blue white floral bowl",
+   "detail": "glossy blue white floral bowl"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy shoyu broth",
+   "detail": "amber glossy shoyu broth"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "runny yolk egg half",
+   "detail": "runny orange yolk egg half"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "curled dark seaweed",
+   "detail": "textured curled dark nori"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork",
+   "detail": "glistening marbled chashu"
+  }
+ }
+}

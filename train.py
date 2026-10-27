@@ -113,17 +113,24 @@ def get_lora_target_modules(lora_layers, flux_transformer):
         ]
     return target_modules
 
-def log_validation(flux_transformer, args, val_dataloader, accelerator, weight_dtype, step):
+def log_validation(flux_transformer, text_encoding_pipeline, args, val_dataloader, accelerator, weight_dtype, step):
     logger.info("Running validation... ")
 
     flux_transformer = accelerator.unwrap_model(flux_transformer)
 
+    # Reuse the text encoders that are already loaded rather than pulling a second
+    # copy of T5-XXL off disk: a fresh one costs ~10GB of host RAM and ~10GB on the
+    # validating GPU, on top of everything training already holds.
     pipeline = FluxRegionalPipeline.from_pretrained(
         args.model.pretrained_model_name_or_path,
         transformer=flux_transformer,
+        text_encoder=text_encoding_pipeline.text_encoder,
+        text_encoder_2=text_encoding_pipeline.text_encoder_2,
+        tokenizer=text_encoding_pipeline.tokenizer,
+        tokenizer_2=text_encoding_pipeline.tokenizer_2,
         torch_dtype=weight_dtype,
     )
-        
+
     pipeline.to(accelerator.device)
     pipeline.set_progress_bar_config(disable=True)
 
@@ -286,38 +293,56 @@ def main(args):
     elif accelerator.mixed_precision == "bf16":
         weight_dtype = torch.bfloat16
 
-    # Load models. 
-    vae = AutoencoderKL.from_pretrained(
-        args.model.pretrained_model_name_or_path,
-        subfolder="vae",
-    )
+    # Load models.
+    # Measured on gp38 (251GB RAM, 8 ranks): loading the transformer without torch_dtype
+    # upcasts the bf16 checkpoint to fp32 and pins 44.9GB of host RAM per rank (48.4GB
+    # peak) -- ~388GB across 8 ranks, which OOMs the whole node. Passing torch_dtype lets
+    # safetensors mmap the weights instead: 10.4GB peak per rank, falling back to 1.1GB
+    # resident once they are on the GPU. Ranks are still let through load_group_size at a
+    # time so the transient peak stays small.
+    vae = None
+    text_encoding_pipeline = None
+    flux_transformer = None
+    load_group_size = max(1, int(args.trainer.get("load_group_size", 2)))
+    for load_group in range(math.ceil(accelerator.num_processes / load_group_size)):
+        if accelerator.process_index // load_group_size == load_group:
+            logger.info(f"rank {accelerator.process_index}: loading models")
+            vae = AutoencoderKL.from_pretrained(
+                args.model.pretrained_model_name_or_path,
+                subfolder="vae",
+            )
+
+            # Create a pipeline for text encoding. We will move this pipeline to GPU/CPU as needed.
+            text_encoding_pipeline = FluxRegionalPipeline.from_pretrained(
+                args.model.pretrained_model_name_or_path, transformer=None, vae=None, torch_dtype=weight_dtype
+            )
+
+            # torch_dtype matters: the checkpoint is bf16 on disk, so omitting it upcasts to
+            # fp32 (~47GB of host RAM) only to cast straight back to bf16 below.
+            flux_transformer = FluxTransformer2DModel.from_pretrained(
+                args.model.pretrained_model_name_or_path, subfolder="transformer", torch_dtype=weight_dtype
+            )
+
+            # Move vae, transformer and text_encoding_pipeline to device and cast to weight_dtype
+            vae.to(accelerator.device, dtype=torch.float32)
+            flux_transformer.to(accelerator.device, dtype=weight_dtype)
+            text_encoding_pipeline = text_encoding_pipeline.to(accelerator.device)
+        accelerator.wait_for_everyone()
+
     vae_scale_factor = 2 ** (len(vae.config.block_out_channels) - 1)
-    
-    # Create a pipeline for text encoding. We will move this pipeline to GPU/CPU as needed.
-    text_encoding_pipeline = FluxRegionalPipeline.from_pretrained(
-        args.model.pretrained_model_name_or_path, transformer=None, vae=None, torch_dtype=weight_dtype
-    )
-    
-    flux_transformer = FluxTransformer2DModel.from_pretrained(
-        args.model.pretrained_model_name_or_path, subfolder="transformer"
-    )
 
     noise_scheduler = FlowMatchEulerDiscreteScheduler.from_pretrained(
         args.model.pretrained_model_name_or_path, subfolder="scheduler"
     )
     noise_scheduler_copy = copy.deepcopy(noise_scheduler)
-    
+
     logger.info("All models loaded successfully")
-    
+
     vae.requires_grad_(False)
     flux_transformer.requires_grad_(False)
     flux_transformer.eval()
 
-    # Move vae, transformer and text_encoding_pipeline to device and cast to weight_dtype
-    vae.to(accelerator.device, dtype=torch.float32)
-    flux_transformer.to(accelerator.device, dtype=weight_dtype)
-    text_encoding_pipeline = text_encoding_pipeline.to(accelerator.device)
-                
+
     default_target_modules = get_lora_target_modules(args.model.default_lora_layers, flux_transformer)
     cond_target_modules = get_lora_target_modules(args.model.cond_lora_layers, flux_transformer)
     
@@ -807,6 +832,7 @@ def main(args):
                     if args.trainer.num_validation_images >0 and global_step % args.trainer.validation_steps == 0:
                         image_logs = log_validation(
                             flux_transformer=flux_transformer,
+                            text_encoding_pipeline=text_encoding_pipeline,
                             args=args,
                             val_dataloader=val_dataloader,
                             accelerator=accelerator,

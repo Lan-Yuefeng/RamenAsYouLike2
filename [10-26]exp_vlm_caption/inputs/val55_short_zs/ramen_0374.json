@@ -1,0 +1,38 @@
+{
+  "caption": "A vibrant orange table holds a white bowl with a red rim. Inside, thick spicy red broth sits beside caramelized chashu pork.",
+  "seed": 1374,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "vibrant orange table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "caramelized chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The thick spicy red broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with red rim"
+    }
+  ]
+}

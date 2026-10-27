@@ -1,0 +1,12 @@
+{
+ "image": "0153.png",
+ "soup": "miso",
+ "global": "This is miso ramen, its broth rich and amber, steaming gently. Topped with crisp bean sprouts, a savory minced pork mound, and a halved soft-boiled egg, it sits in a blue-and-white patterned bowl on a wooden table under warm, natural light.",
+ "regions": {
+  "background": "The table is light brown wood with visible grain, smooth surface, and subtle scratches near the bowl's edge.",
+  "bowl": "The ceramic bowl has a white interior and blue geometric patterned rim with glossy finish.",
+  "soup": "The miso broth is light brown, glossy, and textured with visible noodles and bean sprouts beneath a mound of toppings.",
+  "cut_egg": "A halved boiled egg shows a firm white and a bright orange yolk with a smooth, slightly glossy surface."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,54 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: smooth red table surface, white bowl with red rim, glossy shoyu broth with noodles, glossy white ceramic spoon, runny orange-red yolk, translucent pale yellow menma.",
+  "seed": 1383,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "smooth red table surface"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "glossy shoyu broth with noodles"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "translucent pale yellow menma"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "runny orange-red yolk"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with red rim"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "glossy white ceramic spoon"
+    }
+  ]
+}

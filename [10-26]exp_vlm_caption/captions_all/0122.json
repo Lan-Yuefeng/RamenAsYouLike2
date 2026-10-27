@@ -1,0 +1,14 @@
+{
+ "image": "0122.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy broth, topped with halved soft-boiled eggs and crisp menma, arranged neatly in the center. Served in a light green bowl on a red table, the warm lighting enhances the dish’s inviting, comforting appearance.",
+ "regions": {
+  "background": "The table is a smooth, glossy red surface with subtle reflections and faint dark shadows near the bowl's edge.",
+  "bowl": "Light green ceramic bowl with subtle crackle glaze, featuring red and black decorative pattern along its rim.",
+  "soup": "The tonkotsu (pork bone) broth is rich, creamy brown, with visible noodles and toppings floating on its glossy, textured surface.",
+  "spoon": "A white ceramic spoon with smooth, slightly curved surface and red accent near handle end.",
+  "cut_egg": "A halved boiled egg shows a vibrant orange yolk surrounded by pale, firm white with a smooth, slightly glossy surface.",
+  "menma": "Menma bamboo shoots appear as light brown, fibrous, irregularly shaped pieces with a slightly glossy surface."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,36 @@
+{
+ "image": "0241.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "orange tray",
+   "short": "orange tray smooth texture",
+   "detail": "orange tray smooth slightly textured"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "white ceramic bowl with black characters"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "rich amber miso broth",
+   "detail": "thick glossy miso broth swirling"
+  },
+  "cut_egg": {
+   "name": "boiled egg",
+   "short": "runny yolk boiled egg",
+   "detail": "halved egg runny golden yolk"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork slice",
+   "detail": "browned edges glossy chashu pork"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "pale yellow menma shoots",
+   "detail": "slightly translucent curved menma"
+  }
+ }
+}

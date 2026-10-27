@@ -1,0 +1,56 @@
+{
+ "model": "Qwen/Qwen3-VL-8B-Instruct",
+ "acc": 0.5,
+ "results": {
+  "0005.png": {
+   "gt": "spicy",
+   "pred": "spicy",
+   "raw": "E"
+  },
+  "0007.png": {
+   "gt": "porkbone",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0014.png": {
+   "gt": "miso",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0038.png": {
+   "gt": "spicy",
+   "pred": "spicy",
+   "raw": "E"
+  },
+  "0040.png": {
+   "gt": "porkbone",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0047.png": {
+   "gt": "miso",
+   "pred": "miso",
+   "raw": "C"
+  },
+  "0061.png": {
+   "gt": "porkbone",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0071.png": {
+   "gt": "salt",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0085.png": {
+   "gt": "miso",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0094.png": {
+   "gt": "salt",
+   "pred": "salt",
+   "raw": "A"
+  }
+ }
+}

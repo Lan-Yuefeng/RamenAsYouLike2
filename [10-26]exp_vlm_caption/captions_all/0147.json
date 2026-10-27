@@ -1,0 +1,13 @@
+{
+ "image": "0147.png",
+ "soup": "soysauce",
+ "global": "A rich, dark shoyu ramen broth cradles tender chashu pork and menma, arranged atop golden noodles. The white ceramic bowl rests on a warm wooden table, softly lit to highlight the broth’s depth and toppings’ textures.",
+ "regions": {
+  "background": "Wooden table surface with warm brown tones, visible grain patterns, and glossy reflections from ambient light.",
+  "bowl": "Cream-colored ceramic bowl with smooth, glossy surface, slightly thick rim, and subtle blue pattern near base.",
+  "soup": "The shoyu (soy sauce) broth is dark brown, glossy, and rich, swirling around golden noodles with visible green onions and meat.",
+  "meat": "The chashu pork is a thick, sliced piece with pinkish meat, browned edges, and visible fat marbling.",
+  "menma": "Menma bamboo shoots appear as pale, cylindrical pieces with slightly rough, fibrous texture and subtle brownish hue."
+ },
+ "redone": "soup"
+}

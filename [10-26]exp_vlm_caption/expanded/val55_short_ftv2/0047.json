@@ -1,0 +1,20 @@
+{
+ "image": "0047.png",
+ "level": "short",
+ "short": {
+  "background": "black textured table surface",
+  "bowl": "white bowl with blue rim",
+  "soup": "creamy miso broth surface",
+  "spoon": "white spoon with yellow stain",
+  "menma": "golden menma bamboo shoots"
+ },
+ "parsed": true,
+ "global": "Creamy yellow miso broth, slightly frothy, with noodle strands and a yellow onion slice, features golden-brown menma bamboo shoots. Served in a white ceramic bowl with blue geometric pattern and raised rim, on a black textured table with subtle grain and sheen.",
+ "regions": {
+  "background": "Black textured table surface with subtle grain pattern and slight sheen reflecting ambient light.",
+  "bowl": "White ceramic bowl with blue geometric pattern and slightly raised rim, smooth surface with faint residue along inner edge.",
+  "soup": "The miso broth is creamy yellow, smooth, and slightly frothy, with visible noodle strands and a yellow onion slice floating on its surface.",
+  "spoon": "A white ceramic spoon with smooth, slightly curved surface and faint yellow stain near tip.",
+  "menma": "Menma bamboo shoots appear as golden-brown, slightly translucent, elongated strips with a fibrous texture and faint surface ridges."
+ }
+}

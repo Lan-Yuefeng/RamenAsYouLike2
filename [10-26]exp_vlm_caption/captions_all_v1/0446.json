@@ -1,0 +1,14 @@
+{
+ "image": "0446.png",
+ "soup": "miso",
+ "global": "This is miso ramen, its rich, creamy broth gently cradling two soft-boiled eggs, crisp nori, and chopped green onions. Served in a bold red bowl with black Japanese characters, it rests on a warm wooden table under soft, inviting light.",
+ "regions": {
+  "background": "Wooden table surface shows natural grain patterns and warm brown tones with visible knots and subtle texture variations.",
+  "bowl": "Red ceramic ramen bowl with glossy finish, black dragon and Japanese character patterns, and slightly uneven rim.",
+  "soup": "Miso ramen broth, creamy beige, glossy surface with visible green scallions and faint noodle strands beneath.",
+  "spoon": "A glossy red spoon with smooth, slightly curved surface and rounded tip.",
+  "cut_egg": "A halved boiled egg shows a vibrant orange yolk, firm white, and glossy surface with subtle texture.",
+  "seaweed": "The nori seaweed is dark green, irregularly shaped, with a slightly glossy, textured surface and visible frayed edges.",
+  "meat": "Chashu pork slices show browned, slightly glistening surface with visible fat marbling and irregular, curled edges."
+ }
+}

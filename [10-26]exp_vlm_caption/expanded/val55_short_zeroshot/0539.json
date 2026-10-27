@@ -1,0 +1,24 @@
+{
+ "image": "0539.png",
+ "level": "short",
+ "short": {
+  "background": "glossy wooden table",
+  "bowl": "white ceramic ramen bowl",
+  "soup": "clear shio ramen broth",
+  "seaweed": "crinkled nori seaweed",
+  "meat": "golden chashu pork slice",
+  "menma": "translucent menma shoots",
+  "naruto": "pink swirl naruto cake"
+ },
+ "parsed": true,
+ "global": "A vibrant top-down view of a ramen bowl on a glossy wooden table. Fresh ingredients highlight the rich, balanced flavors of the dish.",
+ "regions": {
+  "background": "Glossy wooden table",
+  "bowl": "White ceramic ramen bowl",
+  "soup": "The shio ramen broth",
+  "seaweed": "Crinkled nori seaweed",
+  "meat": "Golden chashu pork slice",
+  "menma": "Translucent menma shoots",
+  "naruto": "Pink swirl naruto cake"
+ }
+}

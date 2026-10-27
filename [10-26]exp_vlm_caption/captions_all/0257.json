@@ -1,0 +1,11 @@
+{
+ "image": "0257.png",
+ "soup": "spicy",
+ "global": "A vibrant, rich red broth fills the bowl, topped with tender noodles, a mound of savory minced meat, and fresh green scallions. The white ceramic bowl bears red Chinese characters, set against a dark wooden table under warm, inviting light.",
+ "regions": {
+  "background": "Dark brown wooden table surface with subtle grain patterns and smooth texture visible around the bowl's edge.",
+  "bowl": "White ceramic bowl with red Chinese characters and brown logo on rim, smooth glossy surface.",
+  "soup": "The spicy broth is vibrant orange-red, glossy, and bubbling, swirling around thin noodles and topped with green vegetables and minced meat."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,14 @@
+{
+ "image": "0436.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy broth with tender noodles, topped with halved soft-boiled eggs and shredded menma. Served in a black bowl, it rests on a light wooden surface under bright, even lighting.",
+ "regions": {
+  "background": "Light wood-grain table surface with subtle vertical lines and natural texture visible around the bowl's edge.",
+  "bowl": "Black ceramic ramen bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "Rich, creamy tonkotsu broth with tender noodles, topped with shredded cabbage and soft-boiled egg halves.",
+  "spoon": "A white ceramic spoon with smooth, curved surface and slightly tapered end.",
+  "chopsticks": "Chopsticks are light beige, smooth, cylindrical, with slightly tapered ends and faint wood grain texture.",
+  "cut_egg": "A halved boiled egg shows a vibrant orange yolk, creamy white, and glossy surface with a slightly runny center.",
+  "menma": "Menma bamboo shoots appear golden-brown, glossy, and slightly curled with visible fibrous texture and sauce coating."
+ }
+}

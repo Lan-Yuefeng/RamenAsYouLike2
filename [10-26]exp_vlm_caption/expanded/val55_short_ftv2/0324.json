@@ -1,0 +1,20 @@
+{
+ "image": "0324.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table surface",
+  "bowl": "blue swirl ceramic bowl",
+  "soup": "rich tonkotsu broth swirl",
+  "cut_egg": "runny yolk egg half",
+  "meat": "browned chashu pork slice"
+ },
+ "parsed": true,
+ "global": "Creamy beige tonkotsu broth, glossy with oil sheen and green flecks, swirls around noodles and toppings. A halved boiled egg with runny yolk and crispy chashu pork rests in a white ceramic bowl with blue swirls, on a dark wooden table.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge.",
+  "bowl": "White ceramic bowl with blue swirling pattern and slightly raised rim, smooth surface with faint residue along inner edge.",
+  "soup": "The tonkotsu (pork bone) broth is creamy beige, glossy, and rich, swirling around noodles and toppings with visible oil sheen and scattered green flecks.",
+  "cut_egg": "A halved boiled egg shows a runny orange yolk surrounded by a pale white, with a slightly textured surface.",
+  "meat": "The chashu pork is a round, browned slice with a slightly crispy surface and visible marbling."
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "image": "0006.png",
+ "soup": "spicy",
+ "global": "A vibrant, spicy ramen broth glows in a speckled white bowl, topped with tender chashu pork, shredded cabbage, and fresh greens. Warm lighting highlights the rich red broth against a dark wooden table, creating an inviting, rustic dining scene.",
+ "regions": {
+  "background": "The bowl's white ceramic rim shows subtle speckles, holding vibrant red broth, tender pork, green garnish, and shredded toppings.",
+  "bowl": "The ramen bowl holds rich red broth, noodles, sliced pork, green garnish, and shredded toppings, all resting in a ceramic vessel.",
+  "soup": "Spicy ramen broth with noodles, garnished with green herbs and shredded white vegetable, appears rich and glossy.",
+  "meat": "Chashu pork: tender, layered slices with glistening fat and slightly charred edges, resting atop noodles in broth."
+ }
+}

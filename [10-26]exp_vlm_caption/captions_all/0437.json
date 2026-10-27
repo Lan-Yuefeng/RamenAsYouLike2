@@ -1,0 +1,14 @@
+{
+ "image": "0437.png",
+ "soup": "spicy",
+ "global": "This is spicy ramen with a vibrant orange broth, topped with halved soft-boiled eggs and chopped green onions. A large nori sheet rests atop, all served in a patterned bowl on a dark wooden table under warm, ambient light.",
+ "regions": {
+  "background": "Dark wooden table with visible grain, smooth surface, and subtle reflections near the glass.",
+  "bowl": "White ceramic bowl with yellow wavy line and red/blue dots pattern, smooth rim, slightly chipped edge visible.",
+  "soup": "The spicy broth is orange-red, glossy, and contains visible noodles and green onions, with a slightly uneven surface.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape.",
+  "cut_egg": "A halved boiled egg shows a runny orange yolk surrounded by a pale white, with a slightly glossy surface.",
+  "seaweed": "The nori seaweed is dark green, textured, irregularly shaped, and has a slightly glossy surface with visible veins."
+ },
+ "redone": "soup"
+}

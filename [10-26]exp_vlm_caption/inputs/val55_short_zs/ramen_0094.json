@@ -1,0 +1,38 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a warm wooden table. The golden broth and fresh menma create a lively, appetizing scene.",
+  "seed": 1094,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "warm brown wooden table"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The clear golden shio broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "translucent pale yellow menma"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "glossy floral rim bowl"
+    }
+  ]
+}

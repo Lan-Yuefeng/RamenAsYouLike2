@@ -1,0 +1,13 @@
+{
+ "image": "0018.png",
+ "soup": "spicy",
+ "global": "A vibrant, spicy ramen broth glistens in a white bowl, topped with sliced green onions and menma. The rich, reddish-orange liquid and neatly arranged toppings contrast against a dark, softly lit background.",
+ "regions": {
+  "background": "Dark, smooth, slightly reflective table surface with subtle grain and faint scratches visible.",
+  "bowl": "White ceramic bowl with speckled orange rim and faint red characters, smooth glossy surface.",
+  "soup": "The spicy broth is vibrant red-orange, glossy, and thick, swirling with noodles, green onions, and dark leafy garnishes.",
+  "meat": "Chashu pork slice has pinkish-white meat, slightly crispy edges, and is topped with green onion and red spice seasoning.",
+  "menma": "Menma bamboo shoots appear pale beige, sliced into thin, slightly curved pieces with visible fibrous texture and subtle caramelized edges."
+ },
+ "redone": "soup"
+}

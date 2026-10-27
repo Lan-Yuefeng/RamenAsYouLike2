@@ -1,0 +1,5 @@
+{
+ "lora": "/export/space0/lan-y/seg2any_ckpt/ramen_flux3_selfdistill/checkpoint-2000",
+ "gpu": "NVIDIA GeForce RTX 4090",
+ "sec_per_image": 0.6484625450008025
+}

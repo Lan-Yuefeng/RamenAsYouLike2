@@ -1,0 +1,18 @@
+{
+ "image": "0038.png",
+ "level": "detail",
+ "short": {
+  "background": "dark brown wooden table with grain",
+  "bowl": "white ceramic bowl with raised rim",
+  "soup": "thick spicy broth with noodles",
+  "spoon": "white ceramic spoon with curved tip"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a dark wooden table. Thick, spicy broth with noodles fills the white ceramic bowl, topped with a white ceramic spoon.",
+ "regions": {
+  "background": "Dark brown wooden table with visible grain",
+  "bowl": "White ceramic bowl with raised rim",
+  "soup": "The thick spicy broth with noodles",
+  "spoon": "White ceramic spoon with curved tip"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "image": "0122.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "red glossy table",
+   "short": "glossy red table surface",
+   "detail": "smooth glossy red table with subtle reflections"
+  },
+  "bowl": {
+   "name": "green ceramic bowl",
+   "short": "green crackle glazed bowl",
+   "detail": "light green bowl with red black rim pattern"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy tonkotsu broth",
+   "detail": "rich creamy brown tonkotsu broth with noodles"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "white spoon with red accent",
+   "detail": "white ceramic spoon with curved smooth surface"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "orange yolk egg half",
+   "detail": "halved egg with glossy orange yolk"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "glossy fibrous menma",
+   "detail": "light brown fibrous menma pieces"
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "image": "0374.png",
+ "soup": "spicy",
+ "global": "A vibrant, spicy ramen broth glows rich red, cradling tender chashu pork and crisp toppings. The bowl, adorned with floral patterns, sits on a silver tray against a warm orange backdrop, illuminated by soft, inviting light.",
+ "regions": {
+  "background": "Vibrant orange table surface, smooth and uniform, with subtle wood grain texture visible near top edge.",
+  "bowl": "White ceramic bowl with red rim and floral pattern, smooth glossy surface, circular shape with decorative border.",
+  "soup": "The spicy broth is deep red, glossy, and thick, swirling around noodles and toppings with visible specks and steam rising.",
+  "meat": "Chashu pork slice shows tender, light pink meat with a glistening, slightly caramelized surface and visible fat marbling."
+ },
+ "redone": "soup"
+}

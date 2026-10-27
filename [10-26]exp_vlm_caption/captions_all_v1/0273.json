@@ -1,0 +1,13 @@
+{
+ "image": "0273.png",
+ "soup": "miso",
+ "global": "This miso ramen boasts a rich, amber broth, topped with chashu pork, a soft-boiled egg, and crisp cabbage. Served in a rustic brown bowl, it rests on a dark table under warm, focused lighting, with a wooden spoon poised for the first bite.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain patterns and soft reflections from ambient lighting.",
+  "bowl": "Brown ceramic ramen bowl with smooth, glossy finish, subtle concentric ridges, and slightly raised, rounded rim.",
+  "soup": "Miso ramen broth, rich amber-orange, glossy surface, swirling with noodles, garnished with corn, cabbage, and egg.",
+  "spoon": "A wooden spoon with an orange, segmented, textured bowl, appearing carved or molded with a smooth, glossy finish.",
+  "egg": "A whole boiled egg, smooth creamy white, oval-shaped, with subtle surface highlights and a faint brownish tint at its base.",
+  "meat": "Chashu pork: tender, slightly fatty, browned slice with visible marbling and charred edges."
+ }
+}

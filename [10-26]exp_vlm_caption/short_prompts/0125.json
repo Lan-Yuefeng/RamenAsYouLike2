@@ -1,0 +1,31 @@
+{
+ "image": "0125.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "red table surface",
+   "short": "smooth red table surface",
+   "detail": "solid red table with light reflections"
+  },
+  "bowl": {
+   "name": "blue patterned bowl",
+   "short": "white bowl with blue patterns",
+   "detail": "glossy ceramic bowl with geometric blue design"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy tonkotsu broth",
+   "detail": "viscous creamy tonkotsu ramen broth"
+  },
+  "cut_egg": {
+   "name": "runny yolk egg",
+   "short": "runny yolk boiled egg",
+   "detail": "halved egg with speckled runny yolk"
+  },
+  "seaweed": {
+   "name": "crinkled nori",
+   "short": "glossy crinkled seaweed",
+   "detail": "shredded dark nori with glossy texture"
+  }
+ }
+}

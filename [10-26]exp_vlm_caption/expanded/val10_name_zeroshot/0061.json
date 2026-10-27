@@ -1,0 +1,20 @@
+{
+ "image": "0061.png",
+ "level": "name",
+ "short": {
+  "background": "orange wooden table",
+  "bowl": "decorative white ceramic bowl",
+  "soup": "tonkotsu ramen broth",
+  "meat": "chashu pork slices",
+  "menma": "menma bamboo shoots"
+ },
+ "parsed": true,
+ "global": "A vibrant top-down view of a ramen bowl on an orange wooden table. The rich tonkotsu broth, chashu pork, and menma create a warm, textured scene with delicate surface details.",
+ "regions": {
+  "background": "orange wooden table",
+  "bowl": "decorative white ceramic bowl",
+  "soup": "The tonkotsu ramen broth",
+  "meat": "chashu pork slices",
+  "menma": "menma bamboo shoots"
+ }
+}

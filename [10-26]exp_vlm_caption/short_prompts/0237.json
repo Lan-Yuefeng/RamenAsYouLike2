@@ -1,0 +1,36 @@
+{
+ "image": "0237.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wood table",
+   "detail": "dark brown wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "blue rimmed ramen bowl",
+   "detail": "white bowl with blue rim chipped edge"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy tonkotsu broth",
+   "detail": "thick golden-brown tonkotsu broth"
+  },
+  "egg": {
+   "name": "boiled egg",
+   "short": "pale yellow boiled egg",
+   "detail": "smooth oval egg with faint speckles"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "curled dark green seaweed",
+   "detail": "textured dark green nori curled"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "sesame chashu pork",
+   "detail": "golden-brown pork with sesame seeds"
+  }
+ }
+}

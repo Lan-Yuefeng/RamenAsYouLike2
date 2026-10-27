@@ -1,0 +1,11 @@
+{
+ "image": "0077.png",
+ "soup": "porkbone",
+ "global": "This is a bowl of Tanmen, featuring a clear, light broth with tender pork slices and crisp cabbage. A vibrant red chili oil sits atop, contrasting against the white bowl’s black Greek key pattern, set against a warm red background under soft, even lighting.",
+ "regions": {
+  "background": "The table is a smooth, solid red surface with subtle texture and slight reflections near the bowl's base.",
+  "bowl": "White ceramic ramen bowl with black Greek key pattern and Japanese text along its rim.",
+  "soup": "The tonkotsu (pork bone) broth is creamy beige, frothy, and filled with noodles, cabbage, meat, and a red chili oil garnish."
+ },
+ "redone": "soup"
+}

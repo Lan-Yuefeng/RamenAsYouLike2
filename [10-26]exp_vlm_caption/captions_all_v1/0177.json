@@ -1,0 +1,10 @@
+{
+ "image": "0177.png",
+ "soup": "miso",
+ "global": "A steaming bowl of miso ramen boasts a rich, amber broth. Topped with shredded green onions and bean sprouts, it sits in a white ceramic bowl against a dark wooden table, illuminated by warm, ambient light.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle light reflections.",
+  "bowl": "White ceramic ramen bowl with glossy finish, smooth surface, and subtle red mark on rim.",
+  "soup": "Miso ramen broth with noodles, garnished with shredded green onions and cabbage, appears rich, golden-brown, and glossy."
+ }
+}

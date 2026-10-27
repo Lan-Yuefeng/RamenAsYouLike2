@@ -1,0 +1,21 @@
+{
+ "image": "0314.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "smooth wooden table",
+   "detail": "light brown wooden table surface"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "white bowl with black ARF'S logo"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "golden miso broth frothy",
+   "detail": "golden miso broth with noodles"
+  }
+ }
+}

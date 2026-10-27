@@ -1,0 +1,36 @@
+{
+ "image": "0090.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "red table surface",
+   "short": "smooth red table surface",
+   "detail": "smooth solid red table with subtle texture"
+  },
+  "bowl": {
+   "name": "decorative ramen bowl",
+   "short": "blue green patterned bowl",
+   "detail": "white ceramic bowl with blue green geometric patterns and Chinese characters rim"
+  },
+  "soup": {
+   "name": "shoyu ramen broth",
+   "short": "glossy shoyu ramen broth",
+   "detail": "rich amber shoyu broth with submerged noodles seaweed and bamboo shoots"
+  },
+  "spoon": {
+   "name": "green ceramic spoon",
+   "short": "pale green wide spoon",
+   "detail": "pale green ceramic spoon with smooth glossy surface and wide flat bowl"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "wrinkled dark seaweed",
+   "detail": "dark green brown textured rectangular nori with uneven edges and wrinkles"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "glossy brown bamboo strips",
+   "detail": "brown translucent curved menma with fibrous texture and glossy surface"
+  }
+ }
+}

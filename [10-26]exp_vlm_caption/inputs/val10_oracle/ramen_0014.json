@@ -1,0 +1,46 @@
+{
+  "caption": "This miso ramen features a rich, amber broth with tender chashu pork and vibrant shredded carrots atop. Served in a pale blue bowl, it rests on a bright red surface under even lighting, highlighting the dish’s warm, inviting colors.",
+  "seed": 1014,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "The table is a smooth, bright red surface with subtle reflections and faint scratches visible."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "The chashu pork slice shows layered fat and lean meat, with a tender, slightly glistening surface and visible marbling."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is light brown, smooth, and slightly viscous, with visible green herbs and shredded orange carrot floating on its surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Light blue ceramic bowl with smooth, glossy surface and subtle concentric ridges near its rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape."
+    }
+  ]
+}

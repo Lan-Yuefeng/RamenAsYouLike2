@@ -1,0 +1,13 @@
+{
+ "image": "0162.png",
+ "soup": "miso",
+ "global": "This miso ramen bowl features a rich, amber broth with tender noodles, a halved soft-boiled egg, and a dark nori sheet resting on the edge. The white ceramic bowl sits on a warm wooden surface, softly lit to highlight the steamy, inviting meal.",
+ "regions": {
+  "background": "Dark brown wooden table with smooth, slightly reflective surface and subtle grain patterns visible.",
+  "bowl": "Cream-colored ceramic bowl with smooth, slightly glossy surface and rounded rim, showing subtle interior stains.",
+  "soup": "The miso broth is amber-orange, glossy, and contains submerged noodles and minced meat, with visible surface oil sheen.",
+  "cut_egg": "A halved boiled egg shows creamy white albumen surrounding a runny, orange-yellow yolk with a glossy, slightly uneven surface.",
+  "seaweed": "Dark, matte nori seaweed with irregular, slightly curled edges and a rough, porous surface."
+ },
+ "redone": "soup"
+}

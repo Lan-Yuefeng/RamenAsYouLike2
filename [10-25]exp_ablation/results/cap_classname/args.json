@@ -1,0 +1,13 @@
+{
+ "name": "cap_classname",
+ "inputs": "inputs_val10_classname",
+ "out_root": "/host/home/yanai-lab/Sotsuken26/lan-y/Seg2Any/[10-25]exp_ablation/results",
+ "model": "black-forest-labs/flux-3-image-klein-base",
+ "lora": "/export/ssd3/lan-y/seg2any_ckpt/ramen_flux3/checkpoint-3000",
+ "steps": 50,
+ "cfg": 3.5,
+ "mask_method": "hard",
+ "hard_range": null,
+ "no_cond": false,
+ "no_lora": false
+}

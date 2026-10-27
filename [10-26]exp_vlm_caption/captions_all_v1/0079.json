@@ -1,0 +1,12 @@
+{
+ "image": "0079.png",
+ "soup": "miso",
+ "global": "This is a bowl of miso ramen, its rich, golden broth steaming warmly. Thin noodles, tender chashu pork, and chopped green onions float gently, nestled in a patterned ceramic bowl on a wooden table under soft, ambient light.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle reflections from ambient lighting.",
+  "bowl": "White ceramic ramen bowl with red and green geometric patterns and Chinese characters along its rim.",
+  "soup": "Miso ramen broth with noodles, green onions, and meat, golden-brown, glossy, and steaming hot.",
+  "spoon": "White ceramic spoon with smooth, slightly textured bowl and slender handle, angled diagonally.",
+  "meat": "Chashu pork pieces show browned, slightly glistening surfaces with irregular, curled shapes and visible fat marbling."
+ }
+}

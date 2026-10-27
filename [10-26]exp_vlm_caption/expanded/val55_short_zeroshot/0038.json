@@ -1,0 +1,18 @@
+{
+ "image": "0038.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table",
+  "bowl": "glossy white bowl",
+  "soup": "vibrant red spicy broth",
+  "spoon": "glossy white spoon"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a dark wooden table. The spicy broth glistens, contrasting with the clean white bowl and spoon.",
+ "regions": {
+  "background": "dark wooden table",
+  "bowl": "glossy white bowl",
+  "soup": "The vibrant red spicy broth",
+  "spoon": "glossy white spoon"
+ }
+}

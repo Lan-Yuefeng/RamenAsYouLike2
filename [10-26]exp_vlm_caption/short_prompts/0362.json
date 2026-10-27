@@ -1,0 +1,26 @@
+{
+ "image": "0362.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm brown wooden table",
+   "detail": "smooth grain wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "blue rimmed ceramic bowl",
+   "detail": "white bowl with chipped blue rim"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "glossy tonkotsu broth",
+   "detail": "rich golden-brown tonkotsu broth"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "white ceramic spoon with sauce",
+   "detail": "spoon holding red sauce and greens"
+  }
+ }
+}

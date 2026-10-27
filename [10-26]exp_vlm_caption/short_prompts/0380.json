@@ -1,0 +1,36 @@
+{
+ "image": "0380.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "blue rimmed bowl",
+   "detail": "white bowl with blue pattern"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "golden shio broth",
+   "detail": "glossy shio broth with noodles"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "crispy nori seaweed",
+   "detail": "dark green nori with edges"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork",
+   "detail": "pink pork with fat marbling"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "golden menma shoots",
+   "detail": "curled bamboo with gloss"
+  }
+ }
+}

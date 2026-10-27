@@ -1,0 +1,46 @@
+{
+ "image": "0086.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic bowl",
+   "detail": "white bowl with red rim"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "golden shio broth",
+   "detail": "clear golden shio broth with oil"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "white ceramic spoon",
+   "detail": "glossy white curved spoon"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori",
+   "detail": "curled dark green nori"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "crispy chashu pork",
+   "detail": "pink pork with caramelized edges"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent menma",
+   "detail": "pale yellow curled menma"
+  },
+  "naruto": {
+   "name": "fish cake",
+   "short": "pink white naruto",
+   "detail": "pink white ringed fish cake"
+  }
+ }
+}

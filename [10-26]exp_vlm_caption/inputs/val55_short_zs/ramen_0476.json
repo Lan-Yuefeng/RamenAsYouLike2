@@ -1,0 +1,46 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a dark wooden table. Golden shoyu broth, glossy chashu pork, and translucent menma create a rich, textured scene.",
+  "seed": 1476,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Glossy chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The golden shoyu broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Translucent menma shoots"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Glossy white bowl"
+    }
+  ]
+}

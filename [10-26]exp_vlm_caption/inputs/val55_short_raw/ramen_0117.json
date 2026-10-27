@@ -1,0 +1,70 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: dark wooden table, white ceramic bowl, golden shio broth, white ceramic spoon, runny yolk egg, dark green nori, glistening chashu, translucent menma.",
+  "seed": 1117,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "dark wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glistening chashu"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark green nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "golden shio broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "translucent menma"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "runny yolk egg"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white ceramic bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "white ceramic spoon"
+    }
+  ]
+}

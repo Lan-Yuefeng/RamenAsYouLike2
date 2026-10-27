@@ -1,0 +1,10 @@
+{
+ "image": "0035.png",
+ "soup": "spicy",
+ "global": "A steaming bowl of spicy ramen boasts a vibrant red broth, topped generously with crisp bean sprouts and flecks of green. The white ceramic bowl rests on a dark tray, its rich, glossy broth catching warm, ambient light.",
+ "regions": {
+  "background": "The table surface is reddish-brown wood grain, smooth and slightly reflective under ambient light.",
+  "bowl": "White ceramic bowl with red logo, smooth surface, slightly curved rim, and faint speckles from seasoning residue.",
+  "soup": "Spicy ramen broth with bean sprouts, red-orange liquid, glossy surface, and scattered green herbs."
+ }
+}

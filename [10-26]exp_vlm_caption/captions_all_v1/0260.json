@@ -1,0 +1,14 @@
+{
+ "image": "0260.png",
+ "soup": "miso",
+ "global": "This miso ramen boasts a rich, golden broth, topped with chashu pork, halved soft-boiled eggs, shredded cabbage, and nori. Served in a patterned bowl, it rests on a red surface under warm, inviting light.",
+ "regions": {
+  "background": "Red wooden table surface with smooth texture and subtle grain patterns visible under warm lighting.",
+  "bowl": "The ceramic bowl has a white base, blue floral pattern, and decorative rim with intricate swirls and small colored accents.",
+  "soup": "Miso ramen broth, golden-brown, creamy texture, gently swirling, with visible noodle strands and garnishes nestled within.",
+  "spoon": "A white ceramic spoon with smooth, curved surface and slight sheen, resting in the ramen bowl.",
+  "cut_egg": "A halved boiled egg shows a runny orange yolk nestled in a smooth white, with a slightly glossy surface.",
+  "seaweed": "Dark green nori seaweed, triangular, with textured surface and visible veins, slightly curled at edges.",
+  "meat": "Chashu pork slice shows tender, marbled texture with golden-brown sear, curved shape, and visible fat layers."
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "image": "0044.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wood grain texture",
+   "detail": "dark brown wooden table surface"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white bowl with blue rim",
+   "detail": "white ceramic bowl with chipped edge"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "red spicy ramen broth",
+   "detail": "glossy red spicy ramen broth"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "white curved ceramic spoon",
+   "detail": "white spoon with rounded tip"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "caramelized chashu pork",
+   "detail": "pink pork with crispy edges"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "golden menma bamboo shoots",
+   "detail": "sliced curled glossy bamboo"
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "model": "black-forest-labs/FLUX.2-klein-base-4B",
+ "lora": "ckpt/ramen_flux2/checkpoint-3000",
+ "steps": 20,
+ "tol": 3,
+ "gpu": "NVIDIA RTX 6000 Ada Generation",
+ "summary": {
+  "real_photo": {
+   "recall": 0.59,
+   "precision": 0.2955,
+   "sec_per_image": null
+  },
+  "flux1_ckpt3000": {
+   "recall": 0.8429,
+   "precision": 0.3342,
+   "sec_per_image": null
+  },
+  "cfg1.0": {
+   "recall": 0.4836,
+   "precision": 0.3087,
+   "sec_per_image": 3.49
+  },
+  "cfg1.5": {
+   "recall": 0.4969,
+   "precision": 0.3241,
+   "sec_per_image": 7.03
+  },
+  "cfg2.0": {
+   "recall": 0.5296,
+   "precision": 0.3321,
+   "sec_per_image": 7.24
+  },
+  "cfg3.0": {
+   "recall": 0.6084,
+   "precision": 0.3088,
+   "sec_per_image": 7.32
+  },
+  "cfg4.0": {
+   "recall": 0.6457,
+   "precision": 0.2878,
+   "sec_per_image": 7.35
+  },
+  "cfg2.0_negnocond": {
+   "recall": 0.6884,
+   "precision": 0.3614,
+   "sec_per_image": 6.25
+  },
+  "cfg4.0_negnocond": {
+   "recall": 0.8379,
+   "precision": 0.3096,
+   "sec_per_image": 6.25
+  }
+ }
+}

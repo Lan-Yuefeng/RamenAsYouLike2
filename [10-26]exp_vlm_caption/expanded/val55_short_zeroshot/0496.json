@@ -1,0 +1,24 @@
+{
+ "image": "0496.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table surface",
+  "bowl": "white ceramic ramen bowl",
+  "soup": "golden shoyu broth clear",
+  "seaweed": "dark green nori seaweed",
+  "meat": "golden seared chashu pork",
+  "menma": "golden menma bamboo shoots",
+  "naruto": "swirled naruto fish cake"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a dark wooden table. Golden broth, tender pork, and fresh ingredients create a rich, aromatic scene.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain and warm undertones",
+  "bowl": "White ceramic ramen bowl with smooth, slightly textured surface and rounded edges",
+  "soup": "The tonkotsu (pork bone) broth golden and clear with faint foam",
+  "seaweed": "Dark green nori seaweed, thin and crisp with slight wave-like folds",
+  "meat": "Golden seared chashu pork, tender and slightly crispy on edges",
+  "menma": "Golden menma bamboo shoots, slender and slightly translucent with a bumpy texture",
+  "naruto": "Swirled naruto fish cake, soft and marbled with a smooth, slightly chewy surface"
+ }
+}

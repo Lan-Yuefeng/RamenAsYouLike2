@@ -1,0 +1,10 @@
+{
+ "image": "0234.png",
+ "soup": "miso",
+ "global": "A bowl of miso ramen broth, rich and golden, cradles noodles, egg, and a heart-shaped onion slice. The white bowl, adorned with green dragons and red patterns, rests on a wooden surface under warm, natural light.",
+ "regions": {
+  "background": "Dark brown wooden table with visible grain patterns and slight texture variations across its surface.",
+  "bowl": "White ceramic bowl with green dragons and red Chinese characters, smooth glossy surface, circular rim.",
+  "soup": "Miso ramen broth with noodles, heart-shaped onion slice, and egg bits, all floating in rich, golden-brown liquid."
+ }
+}

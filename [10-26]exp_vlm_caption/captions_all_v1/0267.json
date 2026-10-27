@@ -1,0 +1,12 @@
+{
+ "image": "0267.png",
+ "soup": "porkbone",
+ "global": "This is a bowl of tonkotsu ramen, its rich, creamy broth topped with nori and a naruto fish cake. The white bowl with red rim and Japanese script sits on a dark table, lit to highlight the toppings’ arrangement.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections.",
+  "bowl": "White ceramic ramen bowl with glossy finish, featuring a bold orange brushstroke rim and black Japanese characters.",
+  "soup": "The broth is creamy beige, frothy, and speckled with green scallions and dark seaweed, forming a rich, textured surface.",
+  "seaweed": "The nori seaweed is dark green, textured, rectangular, with slightly curled edges and visible surface ridges.",
+  "naruto": "Naruto fish cake: white, oval, soft texture with pink swirl mark on its surface."
+ }
+}

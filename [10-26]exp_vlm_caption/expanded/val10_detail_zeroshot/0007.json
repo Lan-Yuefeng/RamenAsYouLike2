@@ -1,0 +1,24 @@
+{
+ "image": "0007.png",
+ "level": "detail",
+ "short": {
+  "background": "light brown wooden table surface",
+  "bowl": "glossy white ceramic ramen bowl",
+  "soup": "rich golden tonkotsu broth swirling",
+  "seaweed": "textured dark green nori sheet",
+  "meat": "pale pink chashu with sesame seeds",
+  "menma": "pale tan speckled bamboo shoots",
+  "naruto": "white scalloped naruto with pink swirl"
+ },
+ "parsed": true,
+ "global": "A vibrant ramen bowl sits on a wooden table, filled with rich broth, fresh ingredients, and colorful textures. The dish is warm, inviting, and visually balanced with smooth surfaces and natural textures.",
+ "regions": {
+  "background": "Light brown wooden table surface with subtle grain and natural wear",
+  "bowl": "Glossy white ceramic ramen bowl with smooth, slightly curved edges",
+  "soup": "The tonkotsu (pork bone) broth rich golden, swirling with gentle motion",
+  "seaweed": "Textured dark green nori sheet with slight wrinkles and crisp edges",
+  "meat": "Pale pink chashu with sesame seeds scattered across the surface",
+  "menma": "Pale tan speckled bamboo shoots with soft, natural texture",
+  "naruto": "White scalloped naruto with pink swirls and delicate edges"
+ }
+}

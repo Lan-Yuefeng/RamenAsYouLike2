@@ -1,0 +1,14 @@
+{
+ "image": "0233.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen boasts a clear, amber broth with tender chashu and menma nestled among noodles. A nori sheet and naruto fish cake crown the bowl, served in a patterned ceramic dish against a vibrant red background under bright, even lighting.",
+ "regions": {
+  "background": "Red surface with smooth texture and rounded shape, showing slight sheen from ambient light reflection.",
+  "bowl": "White ceramic bowl with red dragon and geometric patterns, gold rim, smooth glossy surface.",
+  "soup": "Golden-brown shoyu broth with tender noodles, translucent scallions, and faintly visible toppings, all glistening in the bowl.",
+  "seaweed": "The nori seaweed is dark green, textured, irregularly shaped, and has a slightly glossy surface with visible veins.",
+  "meat": "Chashu pork slices show tender, marbled texture with golden-brown sear, irregular shapes, and glistening surface from broth.",
+  "menma": "Menma bamboo shoots appear translucent, pale yellow, with layered texture and slightly curled, glossy surface.",
+  "naruto": "Naruto fish cake: white, spiral-swirled, scalloped-edge, slightly textured, with pink swirl center."
+ }
+}

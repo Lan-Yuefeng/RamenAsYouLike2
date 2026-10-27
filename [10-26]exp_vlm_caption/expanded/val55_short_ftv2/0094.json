@@ -1,0 +1,18 @@
+{
+ "image": "0094.png",
+ "level": "short",
+ "short": {
+  "background": "warm brown wooden table",
+  "bowl": "glossy floral rim bowl",
+  "soup": "clear golden shio broth",
+  "menma": "translucent pale yellow menma"
+ },
+ "parsed": true,
+ "global": "This shio broth ramen features a clear golden-yellow soup with thin noodles, shredded cabbage, and a red chili garnish. Served in a white ceramic bowl with blue and yellow floral pattern, it rests on a wooden table with warm brown tones and grain patterns.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle texture variations.",
+  "bowl": "White ceramic bowl with blue and yellow floral pattern, smooth glossy surface, slightly raised rim.",
+  "soup": "The shio (salt) broth is clear golden-yellow, holding thin noodles, shredded cabbage, and a red chili garnish.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with a soft, fibrous texture and irregular, curled shape."
+ }
+}

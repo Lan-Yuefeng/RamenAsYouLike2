@@ -1,0 +1,13 @@
+{
+ "image": "0506.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth with tender noodles, topped with crisp menma and fresh green garnish. The white ceramic bowl sits on a dark tray, illuminated warmly, highlighting the broth’s inviting sheen and the toppings’ neat arrangement.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and slight sheen, showing natural wood texture.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "The shoyu (soy sauce) broth is amber-brown, glossy, and clear, with visible bubbles and submerged noodles.",
+  "spoon": "A white ceramic spoon with a smooth, glossy surface and a slightly worn, beige-tinted tip.",
+  "menma": "Menma bamboo shoots appear as brown, slightly translucent, curved strips with visible fibrous texture and subtle surface ridges."
+ },
+ "redone": "soup"
+}

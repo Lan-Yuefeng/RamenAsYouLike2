@@ -1,0 +1,11 @@
+{
+ "image": "0248.png",
+ "soup": "porkbone",
+ "global": "A rich, cloudy tonkotsu ramen broth fills a white bowl, topped with shredded cabbage and a whole boiled egg bearing a stamped mark. The scene is softly lit, with a glass of water visible in the background.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture, appearing smooth and slightly reflective.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "The broth with noodles appears rich, golden-brown, and glossy, with visible noodles and toppings floating within.",
+  "egg": "A whole boiled egg, white and smooth, oval-shaped with faint brown markings and a slightly textured surface."
+ }
+}

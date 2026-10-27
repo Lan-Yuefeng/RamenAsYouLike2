@@ -1,0 +1,15 @@
+{
+ "image": "0017.png",
+ "soup": "spicy",
+ "global": "This is spicy ramen with a vibrant, glossy red broth. Topped with nori, chashu, spinach, and green onions, it sits in a light blue bowl, with chopsticks and a spoon resting beside it, under warm, ambient lighting.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain patterns and slight reflections near the bowl's base.",
+  "bowl": "Light blue ceramic bowl with subtle glaze, smooth surface, slightly raised rim, and faint brownish residue along inner edge.",
+  "soup": "The spicy broth is vibrant orange-red, glossy, and rich, swirling around noodles and toppings in a shallow, curved bowl.",
+  "spoon": "A pale pink ceramic spoon with smooth, glossy surface and slightly curved, elongated shape.",
+  "chopsticks": "Light wooden chopsticks, smooth and slightly tapered, rest parallel with rounded tips.",
+  "seaweed": "The nori seaweed is dark green, glossy, and irregularly shaped with a slightly crinkled, textured surface.",
+  "meat": "Chashu pork slice shows tender, slightly fatty texture with browned edges and visible green onion garnish."
+ },
+ "redone": "soup"
+}

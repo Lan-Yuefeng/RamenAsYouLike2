@@ -1,0 +1,26 @@
+{
+ "image": "0142.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm brown wooden table",
+   "detail": "smooth grain wooden table surface"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "black Japanese characters ceramic bowl"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "rich orange miso broth",
+   "detail": "glossy thick miso broth swirling"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "golden-brown bamboo shoots",
+   "detail": "curved fibrous bamboo shoots"
+  }
+ }
+}

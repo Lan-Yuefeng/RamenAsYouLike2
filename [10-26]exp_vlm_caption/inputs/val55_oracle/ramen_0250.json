@@ -1,0 +1,54 @@
+{
+  "caption": "This shoyu ramen features a rich, amber broth with tender chashu pork and crisp nori seaweed. A watermelon slice and bean sprouts garnish the noodles in a white bowl with red geometric trim, set against a warm wooden background under soft, inviting light.",
+  "seed": 1250,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "The table surface appears smooth, light brown wood grain with subtle texture and soft highlights."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork: browned, textured, rectangular slice with visible fat marbling and slightly charred surface."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Nori seaweed, dark green and textured, appears as a rectangular strip with uneven, slightly curled edges and visible grainy surface."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shoyu (soy sauce) broth is golden-brown, glossy, and clear, with thin noodles submerged and visible surface oil sheen."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with red geometric patterned rim, smooth surface, circular shape, slightly raised edge."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth, slightly glossy surface and rounded, tapered shape."
+    }
+  ]
+}

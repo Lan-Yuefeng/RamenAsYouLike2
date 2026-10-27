@@ -1,0 +1,46 @@
+{
+  "caption": "This miso ramen boasts a rich, amber broth with tender noodles, topped with crisp nori seaweed and fresh green garnish. A white ceramic spoon rests in the bowl, set against a warm wooden table under soft, ambient lighting.",
+  "seed": 1256,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "The nori seaweed is dark green, textured, and slightly curled, with visible surface ridges and a glossy sheen."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is rich amber, glossy, and steaming, cradling noodles, seaweed, and green onions in a curved, shallow bowl."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Light beige ceramic bowl with smooth, glossy surface and slightly raised, rounded rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth, glossy surface and slightly curved, tapered shape."
+    }
+  ]
+}

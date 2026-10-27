@@ -1,0 +1,31 @@
+{
+ "image": "0265.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "black tray",
+   "short": "glossy black tray",
+   "detail": "glossy black rectangular tray"
+  },
+  "bowl": {
+   "name": "white ramen bowl",
+   "short": "white ceramic bowl",
+   "detail": "white ceramic bowl with stained rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "rich amber miso broth",
+   "detail": "glossy oily miso broth with green onions"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "white curved spoon",
+   "detail": "white ceramic spoon with rounded tip"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening chashu pork",
+   "detail": "tender marbled chashu slices"
+  }
+ }
+}

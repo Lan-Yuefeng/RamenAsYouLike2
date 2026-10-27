@@ -1,0 +1,15 @@
+Loading weights:   0%|          | 0/930 [00:00<?, ?it/s]Loading weights:  10%|█         | 97/930 [00:00<00:00, 969.22it/s]Loading weights:  21%|██        | 194/930 [00:00<00:00, 940.17it/s]Loading weights:  32%|███▏      | 301/930 [00:00<00:00, 967.72it/s]Loading weights:  45%|████▍     | 414/930 [00:00<00:00, 1029.61it/s]Loading weights: 100%|██████████| 930/930 [00:00<00:00, 2068.79it/s]
+base_full {'bIoU_d3': 0.4424, 'bIoU_d8': 0.705}
+semcond_full {'bIoU_d3': 0.393, 'bIoU_d8': 0.6727}
+semcond_full_nosem {'bIoU_d3': 0.2878, 'bIoU_d8': 0.5099}
+base_classname {'bIoU_d3': 0.382, 'bIoU_d8': 0.6055}
+semcond_classname {'bIoU_d3': 0.2819, 'bIoU_d8': 0.481}
+base_empty {'bIoU_d3': 0.3292, 'bIoU_d8': 0.4963}
+semcond_empty {'bIoU_d3': 0.0735, 'bIoU_d8': 0.1187}
+base_full {'d3_background': 0.786, 'd3_bowl': 0.435, 'd3_soup': 0.286, 'd3_spoon': 0.439, 'd3_cut_egg': 0.514, 'd3_egg': 0.482, 'd3_seaweed': 0.51, 'd3_meat': 0.283, 'd3_menma': 0.243, 'd3_naruto': 0.447}
+semcond_full {'d3_background': 0.804, 'd3_bowl': 0.455, 'd3_soup': 0.276, 'd3_spoon': 0.379, 'd3_cut_egg': 0.579, 'd3_egg': 0.307, 'd3_seaweed': 0.418, 'd3_meat': 0.27, 'd3_menma': 0.245, 'd3_naruto': 0.198}
+semcond_full_nosem {'d3_background': 0.498, 'd3_bowl': 0.17, 'd3_soup': 0.154, 'd3_spoon': 0.396, 'd3_cut_egg': 0.472, 'd3_egg': 0.294, 'd3_seaweed': 0.411, 'd3_meat': 0.12, 'd3_menma': 0.126, 'd3_naruto': 0.237}
+base_classname {'d3_background': 0.781, 'd3_bowl': 0.428, 'd3_soup': 0.269, 'd3_spoon': 0.32, 'd3_cut_egg': 0.48, 'd3_egg': 0.511, 'd3_seaweed': 0.428, 'd3_meat': 0.215, 'd3_menma': 0.018, 'd3_naruto': 0.371}
+semcond_classname {'d3_background': 0.78, 'd3_bowl': 0.429, 'd3_soup': 0.251, 'd3_spoon': 0.215, 'd3_cut_egg': 0.0, 'd3_egg': 0.098, 'd3_seaweed': 0.468, 'd3_meat': 0.197, 'd3_menma': 0.147, 'd3_naruto': 0.233}
+base_empty {'d3_background': 0.782, 'd3_bowl': 0.444, 'd3_soup': 0.269, 'd3_spoon': 0.184, 'd3_cut_egg': 0.398, 'd3_egg': 0.483, 'd3_seaweed': 0.266, 'd3_meat': 0.149, 'd3_menma': 0.0, 'd3_naruto': 0.317}
+semcond_empty {'d3_background': 0.413, 'd3_bowl': 0.066, 'd3_soup': 0.04, 'd3_spoon': 0.13, 'd3_cut_egg': 0.068, 'd3_egg': 0.0, 'd3_seaweed': 0.0, 'd3_meat': 0.008, 'd3_menma': 0.011, 'd3_naruto': 0.0}

@@ -1,0 +1,26 @@
+{
+ "image": "0160.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "smooth wooden table",
+   "detail": "warm brown wooden table surface"
+  },
+  "bowl": {
+   "name": "decorative ceramic bowl",
+   "short": "floral patterned bowl",
+   "detail": "glossy white bowl with colorful rim"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy shoyu broth",
+   "detail": "amber-brown shoyu broth swirling"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "glossy white spoon",
+   "detail": "smooth curved ceramic spoon"
+  }
+ }
+}

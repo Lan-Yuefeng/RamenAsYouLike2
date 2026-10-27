@@ -1,0 +1,26 @@
+{
+ "image": "0012.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "metallic gray table",
+   "short": "smooth gray reflective table",
+   "detail": "smooth metallic gray table with scratches"
+  },
+  "bowl": {
+   "name": "white ceramic ramen bowl",
+   "short": "white bowl with red rim",
+   "detail": "glossy white ceramic bowl with red geometric rim"
+  },
+  "soup": {
+   "name": "shio ramen broth",
+   "short": "clear shio broth with noodles",
+   "detail": "light golden clear shio broth with floating noodles"
+  },
+  "spoon": {
+   "name": "wooden spoon",
+   "short": "dark textured wooden spoon",
+   "detail": "dark marbled wooden spoon with grain"
+  }
+ }
+}

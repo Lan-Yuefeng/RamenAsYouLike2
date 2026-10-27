@@ -1,0 +1,54 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: smooth wooden table surface, white bowl with red checks, creamy tonkotsu broth swirl, shiny curved metal spoon, glistening marbled chashu, glossy curled bamboo shoots.",
+  "seed": 1319,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "smooth wooden table surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glistening marbled chashu"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "creamy tonkotsu broth swirl"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "glossy curled bamboo shoots"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with red checks"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "shiny curved metal spoon"
+    }
+  ]
+}

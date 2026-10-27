@@ -1,0 +1,13 @@
+{
+ "image": "0070.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, dark broth with neatly arranged toppings: a halved boiled egg, chashu pork, and naruto fish cake. Served in a white bowl with red dragon patterns, it rests on a light wooden table under soft, warm lighting.",
+ "regions": {
+  "background": "Light wood-grain table surface with smooth texture, subtle grain patterns, and soft reflections.",
+  "bowl": "White ceramic ramen bowl with green dragon and red geometric patterns along its rim.",
+  "soup": "Shoyu ramen broth with noodles, rich amber color, glossy surface, thin strands swirling, topped with egg, meat, and garnishes.",
+  "cut_egg": "A halved boiled egg shows a firm yellow yolk and white, with a smooth surface and slight translucency.",
+  "meat": "The chashu pork is browned, glistening, and has a tender, slightly fatty texture with a curved, irregular shape.",
+  "naruto": "Naruto fish cake: translucent orange swirls with white core, smooth curved surface, slightly glossy finish."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "image": "0102.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "smooth wooden table surface",
+   "detail": "light brown grain wooden table"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "white bowl with red rim",
+   "detail": "glossy white bowl red patterned rim"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth swirling",
+   "detail": "golden shio broth swirling noodles"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening sliced chashu",
+   "detail": "thin juicy glistening chashu pork"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "pink swirl fish cake",
+   "detail": "pink swirl white scalloped fish cake"
+  }
+ }
+}

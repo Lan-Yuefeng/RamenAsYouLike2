@@ -1,0 +1,12 @@
+{
+ "image": "0364.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, amber broth with a halved soft-boiled egg and vibrant green garnishes. The white bowl with red trim holds the meal against a dark, warmly lit wooden background.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain patterns and slight sheen from ambient light reflection.",
+  "bowl": "White ceramic bowl with red concentric lines and black geometric pattern, glossy rim, smooth curved surface.",
+  "soup": "Miso ramen broth, rich amber hue, glossy surface, swirling with noodles, speckled with seasoning, partially obscured by toppings.",
+  "spoon": "A metallic spoon with a reflective, slightly worn bowl and textured handle, showing subtle surface imperfections.",
+  "cut_egg": "A halved boiled egg shows a firm white and runny orange yolk, with a smooth, slightly glossy surface."
+ }
+}

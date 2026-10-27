@@ -1,0 +1,13 @@
+{
+ "image": "0421.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, amber broth with tender slices of pork. Topped with shredded menma, sliced green onions, and a sprinkle of red chili flakes, it sits in a white bowl with a red rim, set against a dark, softly lit background.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain patterns and slight sheen, appearing smooth and reflective.",
+  "bowl": "White ceramic bowl with glossy finish, red inner rim, smooth curved surface, subtle glaze reflections.",
+  "soup": "The miso broth is golden-brown, clear, and glossy, holding thin noodles and garnishes in a shallow, rounded bowl.",
+  "spoon": "A white plastic spoon with smooth surface, slightly curved bowl, and rounded tip, resting in ramen broth.",
+  "menma": "Menma bamboo shoots appear pale yellow, thin, and fibrous with slightly curled, translucent strands."
+ },
+ "redone": "soup"
+}

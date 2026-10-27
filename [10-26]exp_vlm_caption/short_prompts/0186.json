@@ -1,0 +1,36 @@
+{
+ "image": "0186.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wood table",
+   "short": "wood table surface",
+   "detail": "light wood-grain table surface"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "red floral bowl",
+   "detail": "red ceramic bowl with white floral pattern"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "glossy miso broth",
+   "detail": "light brown glossy miso broth"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "broth-stained spoon",
+   "detail": "white ceramic spoon with broth residue"
+  },
+  "cut_egg": {
+   "name": "boiled egg",
+   "short": "runny yolk egg",
+   "detail": "halved egg with runny amber yolk"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glossy chashu pork",
+   "detail": "tender light brown marbled pork slice"
+  }
+ }
+}

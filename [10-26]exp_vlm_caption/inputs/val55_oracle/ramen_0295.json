@@ -1,0 +1,38 @@
+{
+  "caption": "This is Ganja Ramen, featuring a rich, creamy broth with tender chashu pork slices and green onions. The bowl, with its red geometric rim, sits on a black tray under warm lighting, highlighting the savory, inviting appearance of the noodles and toppings.",
+  "seed": 1295,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows light brown grain pattern with smooth texture and natural wood finish."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "The chashu pork is a round, sliced piece with marbled fat, showing tender texture and slight browning on its surface."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is light brown, creamy, and glossy, with visible noodles, green onions, and black pepper floating on its surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with red geometric patterned rim and smooth, glossy surface."
+    }
+  ]
+}

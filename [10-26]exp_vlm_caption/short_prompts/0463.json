@@ -1,0 +1,26 @@
+{
+ "image": "0463.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "light table surface",
+   "short": "smooth light reflective table",
+   "detail": "faint textured light-colored table"
+  },
+  "bowl": {
+   "name": "red striped ramen bowl",
+   "short": "glossy red striped bowl",
+   "detail": "white ceramic bowl with red stripes"
+  },
+  "soup": {
+   "name": "spicy red ramen broth",
+   "short": "vibrant red spicy broth",
+   "detail": "thick glossy spicy red broth"
+  },
+  "spoon": {
+   "name": "broth-stained ceramic spoon",
+   "short": "glossy spoon stained orange",
+   "detail": "white spoon with orange broth stain"
+  }
+ }
+}

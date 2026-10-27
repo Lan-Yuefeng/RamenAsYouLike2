@@ -1,0 +1,21 @@
+{
+ "image": "0058.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm grain wood surface",
+   "detail": "smooth brown wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "black patterned ramen bowl",
+   "detail": "white bowl with Greek key design"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "glossy tonkotsu ramen broth",
+   "detail": "light brown tonkotsu broth with noodles"
+  }
+ }
+}

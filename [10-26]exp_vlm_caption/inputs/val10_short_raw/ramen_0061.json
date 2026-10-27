@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: smooth orange wood surface, white bowl with red green pattern, creamy golden tonkotsu broth, marbled chashu pork slices, glossy pale yellow menma.",
+  "seed": 1061,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "smooth orange wood surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "marbled chashu pork slices"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "creamy golden tonkotsu broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "glossy pale yellow menma"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with red green pattern"
+    }
+  ]
+}

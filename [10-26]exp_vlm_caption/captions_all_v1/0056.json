@@ -1,0 +1,13 @@
+{
+ "image": "0056.png",
+ "soup": "spicy",
+ "global": "This is spicy ramen with a rich, orange broth, topped with nori seaweed and green garnishes, resting in a white bowl. A spoon and chopsticks sit beside it, under warm, natural light on a wooden surface.",
+ "regions": {
+  "background": "The table surface appears smooth, light brown, with subtle wood grain texture and soft, even lighting.",
+  "bowl": "Light blue ceramic bowl with glossy finish, subtle red floral pattern near rim, smooth curved surface.",
+  "soup": "Spicy ramen broth with noodles, green garnishes, and dark seaweed, appearing rich, oily, and textured with visible ingredients.",
+  "spoon": "A light green ceramic spoon with a smooth, slightly curved surface and subtle brown stains near its tip.",
+  "chopsticks": "Black chopsticks with textured surface, slightly curved, showing fine ridges and subtle sheen along their length.",
+  "seaweed": "The nori seaweed is dark, crinkled, and irregularly shaped with a slightly glossy, textured surface."
+ }
+}

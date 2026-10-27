@@ -1,0 +1,14 @@
+{
+ "image": "0215.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth with tender chashu pork, a soft-boiled egg, and crisp green onions. The toppings rest atop noodles in a white bowl, set against warm wooden tones under soft, natural light.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain patterns and smooth texture with subtle natural variations.",
+  "bowl": "White ceramic bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "Shoyu ramen broth with noodles, green onions, and egg, glossy surface reflecting light, rich amber hue.",
+  "spoon": "A white ceramic spoon with smooth, slightly curved surface and faint yellow stain at its tip.",
+  "cut_egg": "A halved boiled egg shows a runny orange yolk surrounded by firm white, with a smooth, slightly glossy surface.",
+  "seaweed": "The nori seaweed is dark green, textured, and irregularly shaped with a slightly curled, uneven surface.",
+  "meat": "The chashu pork displays a tender, layered texture with pinkish meat and crisp, caramelized fat edges."
+ }
+}

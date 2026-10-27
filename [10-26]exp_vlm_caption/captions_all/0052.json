@@ -1,0 +1,14 @@
+{
+ "image": "0052.png",
+ "soup": "spicy",
+ "global": "This spicy ramen boasts a vibrant, rich broth, topped with halved soft-boiled eggs, tender chashu pork, and a single nori sheet. Served in a patterned bowl, the dish gleams under warm lighting against a dark, blurred background.",
+ "regions": {
+  "background": "Dark, smooth, slightly reflective surface with subtle grain and faint light reflections near edges.",
+  "bowl": "The ceramic bowl has a cream-colored interior, dark blue and gold patterned rim, and glossy, smooth surface.",
+  "soup": "The spicy broth is orange-red, glossy, and steaming, swirling around noodles and toppings.",
+  "cut_egg": "A halved boiled egg shows firm white and vibrant orange yolk, round and smooth with subtle surface texture.",
+  "seaweed": "Dark green nori seaweed, glossy and slightly curled, with visible veins and edges, rests atop the ramen broth.",
+  "meat": "The chashu pork is a thick, pinkish-brown slice with a slightly glistening, tender-looking surface and visible marbling."
+ },
+ "redone": "soup"
+}

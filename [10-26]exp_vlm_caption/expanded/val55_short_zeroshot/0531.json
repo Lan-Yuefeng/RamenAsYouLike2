@@ -1,0 +1,22 @@
+{
+ "image": "0531.png",
+ "level": "short",
+ "short": {
+  "background": "black tray with orange rim",
+  "bowl": "white bowl with orange rim",
+  "soup": "golden miso broth",
+  "spoon": "white spoon with yellow stain",
+  "seaweed": "dark green nori seaweed",
+  "meat": "golden seared chashu pork"
+ },
+ "parsed": true,
+ "global": "A top-down view of a ramen bowl with golden miso soup and seared pork. The white bowl sits on a black tray with an orange rim, surrounded by fresh nori and a yellow-stained spoon.",
+ "regions": {
+  "background": "Black tray with orange rim",
+  "bowl": "White bowl with orange rim",
+  "soup": "The golden miso broth",
+  "spoon": "White spoon with yellow stain",
+  "seaweed": "Dark green nori seaweed",
+  "meat": "Golden seared chashu pork"
+ }
+}

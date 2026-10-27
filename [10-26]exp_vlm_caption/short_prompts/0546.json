@@ -1,0 +1,26 @@
+{
+ "image": "0546.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "light gray surface",
+   "short": "smooth light gray plane",
+   "detail": "smooth light gray reflective surface"
+  },
+  "bowl": {
+   "name": "light gray ceramic bowl",
+   "short": "matte rim ceramic bowl",
+   "detail": "textured matte rim ceramic bowl"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "glossy spicy reddish-brown broth",
+   "detail": "glossy oily spicy broth with herbs"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening chashu pork",
+   "detail": "tender glistening seasoned pork"
+  }
+ }
+}

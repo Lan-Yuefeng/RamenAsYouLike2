@@ -1,0 +1,24 @@
+{
+ "image": "0007.png",
+ "level": "name",
+ "short": {
+  "background": "wooden table",
+  "bowl": "ramen bowl",
+  "soup": "tonkotsu broth",
+  "seaweed": "nori seaweed",
+  "meat": "chashu pork",
+  "menma": "bamboo shoots",
+  "naruto": "naruto fish cake"
+ },
+ "parsed": true,
+ "global": "A vibrant top-down view of a ramen bowl on a wooden table. The rich tonkotsu broth, chashu pork, and fresh ingredients create a warm, hearty meal.",
+ "regions": {
+  "background": "Wooden table with natural grain and slight wear",
+  "bowl": "Ramen bowl with a smooth, white ceramic surface and slight rim curvature",
+  "soup": "The tonkotsu (pork bone) broth is rich, golden, and slightly foamy",
+  "seaweed": "Nori seaweed is dark green, thin, and curled at the edges",
+  "meat": "Chashu pork is tender, pink, and slightly fatty with a marbled texture",
+  "menma": "Bamboo shoots are pale, crisp, and segmented with a slight sheen",
+  "naruto": "Naruto fish cake is round, slightly translucent, and has a soft, golden crust"
+ }
+}

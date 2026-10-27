@@ -1,0 +1,31 @@
+{
+ "image": "0200.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark brown wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "blue rimmed bowl",
+   "detail": "white interior blue scalloped rim"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy shoyu broth",
+   "detail": "amber-brown shoyu broth swirling"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "caramelized chashu pork",
+   "detail": "glossy crust marbled pink meat"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "sliced bamboo shoots",
+   "detail": "pale fibrous curled menma"
+  }
+ }
+}

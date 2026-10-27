@@ -1,0 +1,13 @@
+{
+ "image": "0244.png",
+ "soup": "spicy",
+ "global": "A vibrant, spicy ramen broth fills a white bowl, topped with chashu pork and sliced green onions. The rich, reddish-orange broth glistens under warm light, set against a dark wooden table with chopsticks nearby.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture, appearing smooth and slightly reflective.",
+  "bowl": "White ceramic ramen bowl with smooth, slightly glossy surface and faint brownish residue stains along its inner rim.",
+  "soup": "Spicy ramen broth with noodles, green onions, and meat, rich orange-red, glossy surface, thin noodles visible beneath toppings.",
+  "spoon": "A dark, glossy spoon with smooth, curved surface and slightly tapered end, reflecting subtle light.",
+  "cut_egg": "A halved boiled egg shows creamy white yolk and firm white, with smooth, slightly glossy surface and rounded shape.",
+  "meat": "Chashu pork shows tender, marbled texture with browned edges and glistening surface, cut into thick, irregular slices."
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "image": "0232.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, golden broth with delicate noodles, topped with chopped green onions and a large nori sheet. Served in a white bowl on a wooden table, the warm lighting highlights the broth’s inviting sheen and the nori’s dark, textured edge.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and smooth texture beneath the bowl.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, slightly curved rim, and subtle yellowish stain near base.",
+  "soup": "Shio ramen broth with noodles, garnished with green onions and tomato, appears golden, glossy, and steaming hot.",
+  "seaweed": "The nori seaweed is dark green-brown, glossy, irregularly shaped, with a slightly wrinkled, textured surface."
+ }
+}

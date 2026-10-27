@@ -1,0 +1,18 @@
+{
+ "image": "0271.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table",
+  "bowl": "glossy white bowl",
+  "soup": "spicy orange-red broth",
+  "meat": "crispy chashu pork"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a dark wooden table. The spicy orange-red broth glistens, with crispy chashu pork floating in it.",
+ "regions": {
+  "background": "dark wooden table",
+  "bowl": "glossy white bowl",
+  "soup": "The spicy orange-red broth",
+  "meat": "crispy chashu pork"
+ }
+}

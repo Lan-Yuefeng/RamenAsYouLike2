@@ -1,0 +1,26 @@
+{
+ "image": "0457.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "speckled table",
+   "short": "beige speckled table",
+   "detail": "light beige speckled table surface"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "glossy white ceramic bowl",
+   "detail": "smooth glossy white bowl with stains"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "vibrant red spicy broth",
+   "detail": "swirling spicy red ramen broth"
+  },
+  "meat": {
+   "name": "chashu pork slice",
+   "short": "pink chashu pork slice",
+   "detail": "tender pork with green onions"
+  }
+ }
+}

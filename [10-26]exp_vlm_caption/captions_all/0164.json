@@ -1,0 +1,15 @@
+{
+ "image": "0164.png",
+ "soup": "salt",
+ "global": "This shio ramen boasts a clear, golden broth, topped with a halved egg, nori, menma, and naruto fish cake, artfully arranged. Served in a patterned bowl, it gleams under soft lighting against a dark, reflective surface.",
+ "regions": {
+  "background": "Dark, smooth, slightly reflective surface with subtle light glare and faint texture near the bowl's edge.",
+  "bowl": "The ceramic bowl has a white base, blue and gold geometric pattern, and a smooth, slightly glossy rim.",
+  "soup": "The shio (salt) broth is golden-yellow, clear, and gently bubbling, holding thin noodles and green scallions.",
+  "cut_egg": "A halved boiled egg shows a firm, pale white with a smooth surface surrounding a vibrant, solid yellow yolk.",
+  "seaweed": "The nori seaweed is dark green, textured, irregularly shaped, with a slightly curled, rough surface.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with curved, segmented shapes and visible fibrous texture.",
+  "naruto": "Naruto fish cake: pale pink swirl on soft, slightly textured white surface, round with scalloped edge."
+ },
+ "redone": "soup"
+}

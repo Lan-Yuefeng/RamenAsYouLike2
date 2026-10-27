@@ -1,0 +1,46 @@
+{
+  "caption": "A warm, steaming bowl of ramen sits on a dark wooden table. The rich miso broth and fresh nori create a vibrant, comforting scene.",
+  "seed": 1256,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table surface with subtle grain and natural wear"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Frilly dark green nori curled at the edges, slightly damp and textured"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth steams gently, golden-brown with fine bubbles and a velvety texture"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Light beige ceramic bowl with smooth, slightly textured surface"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "Glossy white ceramic spoon with a smooth, polished edge"
+    }
+  ]
+}

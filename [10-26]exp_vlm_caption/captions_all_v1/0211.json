@@ -1,0 +1,14 @@
+{
+ "image": "0211.png",
+ "soup": "miso",
+ "global": "This miso ramen boasts a rich, amber broth, topped with halved soft-boiled eggs, crisp nori, and shredded menma, artfully arranged in a pristine white bowl. Warm lighting highlights the dish against a dark, reflective surface, with chopsticks resting invitingly at the edge.",
+ "regions": {
+  "background": "Dark, glossy table surface reflects ambient light with subtle texture and scattered golden highlights.",
+  "bowl": "White ceramic bowl with smooth, glossy surface and slightly raised, rounded rim showing minor stains.",
+  "soup": "Miso ramen broth with noodles, garnished with green onions, soft-boiled egg, and nori, appears rich, golden-brown, and glossy.",
+  "chopsticks": "Light wooden chopsticks, smooth and slightly worn, lie diagonally with natural grain visible on their surface.",
+  "cut_egg": "A halved boiled egg shows vibrant orange yolk, firm white, and speckled surface with visible seasoning.",
+  "seaweed": "Dark brown nori seaweed, irregularly shaped, with textured, slightly glossy surface and visible vein-like patterns.",
+  "menma": "Menma bamboo shoots appear as pale yellow, sliced, slightly translucent pieces with fibrous texture and irregular edges."
+ }
+}

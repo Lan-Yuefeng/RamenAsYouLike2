@@ -1,0 +1,11 @@
+{
+ "image": "0314.png",
+ "soup": "miso",
+ "global": "A steaming bowl of miso ramen features a rich, amber broth with tender noodles, topped with shredded daikon, minced pork, and a single green vegetable. The white ceramic bowl rests on a warm wooden surface, bathed in soft, natural light.",
+ "regions": {
+  "background": "The wooden table has a smooth, light brown surface with subtle grain patterns and a warm, natural texture.",
+  "bowl": "White ceramic ramen bowl with black \"ARF'S\" logo on rim, smooth glossy surface, slightly curved edge.",
+  "soup": "The miso broth is golden-brown, slightly frothy, and surrounds yellow noodles, topped with shredded white radish and red chili seeds."
+ },
+ "redone": "soup"
+}

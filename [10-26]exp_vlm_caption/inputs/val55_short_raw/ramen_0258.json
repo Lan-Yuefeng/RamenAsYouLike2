@@ -1,0 +1,38 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: dark wooden table, blue rim cartoon bowl, spicy red ramen broth, glossy white ceramic spoon.",
+  "seed": 1258,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "dark wooden table"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "spicy red ramen broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "blue rim cartoon bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "glossy white ceramic spoon"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+ "image": "0354.png",
+ "soup": "spicy",
+ "global": "This is a bowl of spicy ramen from Daiso Shoten, featuring a rich, reddish broth topped with chopped green onions and a whole boiled egg. The white bowl with red characters rests on a wooden table under warm, natural light.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain patterns and subtle texture with visible knots and natural wood lines.",
+  "bowl": "White ceramic ramen bowl with red \"大里商店\" text and geometric pattern along its rim.",
+  "soup": "The spicy broth is reddish-orange, glossy, and oily, with visible noodles and green onions floating on its surface.",
+  "egg": "A whole boiled egg, white with subtle yellowish edges, smooth surface, oval shape, slightly glossy.",
+  "meat": "Chashu pork slice shows tender, marbled texture with golden-brown sear and green onion garnish on its surface."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,22 @@
+{
+ "image": "0531.png",
+ "level": "short",
+ "short": {
+  "background": "black tray with orange rim",
+  "bowl": "white bowl with orange rim",
+  "soup": "golden miso broth",
+  "spoon": "white spoon with yellow stain",
+  "seaweed": "dark green nori seaweed",
+  "meat": "golden seared chashu pork"
+ },
+ "parsed": true,
+ "global": "This miso ramen boasts a rich, amber broth, topped with tender chashu pork, crisp nori, and shredded scallions. Served in a white bowl with a spoon, it rests on a black tray against a warm, softly lit background.",
+ "regions": {
+  "background": "Black tray with textured surface, rectangular shape, slightly raised edges, visible grain pattern.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "The miso broth is golden-brown, glossy, and contains visible noodles, green onions, and a dark green seaweed sheet.",
+  "spoon": "A white ceramic spoon with a smooth, slightly curved surface and a small yellow stain near its tip.",
+  "seaweed": "The nori seaweed is dark green, textured, rectangular, with visible surface details and slightly curled edges.",
+  "meat": "The chashu pork is golden-brown, tender-looking, and slightly curled, with a seared surface and visible fat marbling."
+ }
+}

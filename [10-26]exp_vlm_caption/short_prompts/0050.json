@@ -1,0 +1,46 @@
+{
+ "image": "0050.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "pink table",
+   "short": "smooth pink table surface",
+   "detail": "uniform pink table with subtle gradient"
+  },
+  "bowl": {
+   "name": "blue floral bowl",
+   "short": "white bowl with blue rim",
+   "detail": "glossy ceramic bowl with floral pattern"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth with noodles",
+   "detail": "pale yellow shio broth with green onions"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "glossy white ceramic spoon",
+   "detail": "smooth white spoon with curved bowl"
+  },
+  "chopsticks": {
+   "name": "wooden chopsticks",
+   "short": "slender wooden chopsticks",
+   "detail": "light wood chopsticks with grain texture"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori sheet",
+   "detail": "textured nori with white specks"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening chashu slice",
+   "detail": "pale pink pork with fat marbling"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent menma pieces",
+   "detail": "curved pale yellow bamboo shoots"
+  }
+ }
+}

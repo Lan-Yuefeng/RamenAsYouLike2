@@ -1,0 +1,26 @@
+{
+ "image": "0223.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark brown wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "speckled ceramic bowl",
+   "detail": "off-white speckled ceramic bowl"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "spicy red broth",
+   "detail": "spicy red oily broth with garnish"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork",
+   "detail": "tender layered chashu pork slice"
+  }
+ }
+}

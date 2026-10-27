@@ -1,0 +1,26 @@
+{
+ "image": "0426.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "beige wooden table",
+   "detail": "light beige wooden table surface"
+  },
+  "bowl": {
+   "name": "floral bowl",
+   "short": "white floral bowl",
+   "detail": "white ceramic bowl with red green floral pattern"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "thick spicy red broth",
+   "detail": "deep red glossy spicy ramen broth"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "pink spiral fish cake",
+   "detail": "pink spiral textured fish cake"
+  }
+ }
+}

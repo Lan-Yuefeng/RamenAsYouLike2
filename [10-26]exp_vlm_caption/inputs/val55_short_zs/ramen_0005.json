@@ -1,0 +1,38 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a glossy dark brown tray. The spicy reddish-orange broth fills the speckled white ceramic bowl with glistening chashu pork floating atop.",
+  "seed": 1005,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "glossy dark brown tray"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glistening chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The spicy reddish-orange broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "speckled white ceramic bowl"
+    }
+  ]
+}

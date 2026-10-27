@@ -1,0 +1,38 @@
+{
+  "caption": "Spicy reddish-orange broth, speckled with sesame seeds, swirls around noodles and chashu pork. Served in a white ceramic bowl with subtle speckles, on a dark brown tray with glossy finish.",
+  "seed": 1005,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark brown tray with smooth, slightly reflective surface and subtle glossy finish."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows tender, pale pink meat with a slightly glistening surface and irregular, cooked edges."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The spicy broth is reddish-orange, glossy, and speckled with sesame seeds, swirling around noodles and toppings."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with subtle speckles, smooth surface, and slightly uneven rim."
+    }
+  ]
+}

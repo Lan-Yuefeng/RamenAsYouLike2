@@ -1,0 +1,31 @@
+{
+ "image": "0364.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table surface",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "white bowl with red lines",
+   "detail": "white bowl with red and black pattern"
+  },
+  "soup": {
+   "name": "miso ramen broth",
+   "short": "amber miso broth glossy",
+   "detail": "amber miso broth with noodles and herbs"
+  },
+  "spoon": {
+   "name": "metal spoon",
+   "short": "shiny worn metal spoon",
+   "detail": "reflective spoon with textured handle"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "runny yolk egg half",
+   "detail": "firm white runny orange yolk"
+  }
+ }
+}

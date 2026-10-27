@@ -1,0 +1,18 @@
+{
+ "image": "0094.png",
+ "level": "detail",
+ "short": {
+  "background": "smooth grain wooden table surface",
+  "bowl": "white bowl with colorful floral rim",
+  "soup": "glossy golden shio ramen broth",
+  "menma": "curved segmented bamboo shoots"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a smooth wooden table. The golden broth, colorful menma, and floral rim create a warm, inviting scene.",
+ "regions": {
+  "background": "Smooth grain wooden table surface",
+  "bowl": "White bowl with colorful floral rim",
+  "soup": "The tonkotsu (pork bone) broth",
+  "menma": "Curved segmented bamboo shoots"
+ }
+}

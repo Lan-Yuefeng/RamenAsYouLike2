@@ -1,0 +1,26 @@
+{
+ "image": "0092.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm wooden table",
+   "detail": "smooth warm wooden table surface"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ramen bowl",
+   "detail": "white ceramic bowl with logo"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "glossy miso broth",
+   "detail": "orange-yellow miso broth with noodles"
+  },
+  "spoon": {
+   "name": "metal spoon",
+   "short": "shiny metal spoon",
+   "detail": "reflective curved metal spoon"
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "image": "0156.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, golden broth with tender noodles, topped with a halved boiled egg, crisp menma, and a large nori sheet. Served in a blue-trimmed bowl, it rests on a red tray under warm, inviting light.",
+ "regions": {
+  "background": "The table is a smooth, glossy red surface with subtle light reflections and faint scratches visible.",
+  "bowl": "The ceramic bowl has a glossy white surface with blue dragon and geometric patterns, featuring a distinct blue rim.",
+  "soup": "The miso broth is light brown, glossy, and contains visible noodles and green onion slices, with a slightly uneven surface.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved, tapered shape.",
+  "cut_egg": "A halved boiled egg shows creamy yellow yolk and firm white, with smooth surfaces and slight texture from cooking.",
+  "seaweed": "The nori seaweed is dark green, textured, square-shaped, with uneven edges and visible surface wrinkles.",
+  "menma": "Menma bamboo shoots appear golden-brown, soft, and slightly curled with glossy, translucent surfaces."
+ },
+ "redone": "soup"
+}

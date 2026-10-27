@@ -1,0 +1,31 @@
+{
+ "image": "0020.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table surface",
+   "detail": "dark wooden table with grain texture"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "brown rim ceramic bowl",
+   "detail": "brown rim bowl with black calligraphy"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "rich amber miso broth",
+   "detail": "thick glossy miso broth swirling"
+  },
+  "egg": {
+   "name": "boiled egg",
+   "short": "glossy white boiled egg",
+   "detail": "smooth white egg with golden edges"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "golden-brown menma shoots",
+   "detail": "translucent fibrous bamboo shoots"
+  }
+ }
+}

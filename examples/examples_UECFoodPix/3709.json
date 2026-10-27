@@ -1,0 +1,62 @@
+{
+ "caption": null,
+ "seed": 1004,
+ "segments_info": [
+  {
+   "color": [
+    0,
+    0,
+    0
+   ],
+   "text": "background"
+  },
+  {
+   "color": [
+    178,
+    143,
+    6
+   ],
+   "text": "toast"
+  },
+  {
+   "color": [
+    36,
+    0,
+    252
+   ],
+   "text": "sausage"
+  },
+  {
+   "color": [
+    37,
+    121,
+    187
+   ],
+   "text": "egg sunny-side up"
+  },
+  {
+   "color": [
+    21,
+    172,
+    228
+   ],
+   "text": "green salad"
+  },
+  {
+   "color": [
+    43,
+    209,
+    5
+   ],
+   "text": "food"
+  },
+  {
+   "color": [
+    45,
+    238,
+    222
+   ],
+   "text": "beverage"
+  }
+ ]
+}

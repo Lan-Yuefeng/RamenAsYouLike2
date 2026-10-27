@@ -1,0 +1,54 @@
+{
+  "caption": "A vibrant top-down view of a ramen bowl on a warm wood table. The rich broth, glossy nori, and tender meat create a visually appealing, hearty meal.",
+  "seed": 1155,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Warm grain wood table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Glistening chashu slice"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Dark glossy nori triangle"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The rich amber shoyu broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Translucent menma shoots"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White glossy ramen bowl"
+    }
+  ]
+}

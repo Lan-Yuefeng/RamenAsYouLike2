@@ -1,0 +1,15 @@
+{
+ "image": "0471.png",
+ "soup": "spicy",
+ "global": "This is spicy ramen with a vibrant red broth, topped with chashu pork, nori, and menma, arranged neatly in a white bowl with blue trim. The scene is warmly lit against a pink surface, with a spoon resting inside, ready for a hearty meal.",
+ "regions": {
+  "background": "Pink tiled surface with visible grout lines, smooth and slightly reflective under ambient light.",
+  "bowl": "White ceramic bowl with blue rim, smooth surface, subtle speckled texture, and faint decorative pattern along inner edge.",
+  "soup": "The spicy broth is vibrant red, glossy, and thick, swirling around noodles and toppings with visible oil sheen and floating green onions.",
+  "spoon": "A white ceramic spoon with a yellowish, textured residue on its bowl, showing a smooth, curved surface.",
+  "seaweed": "Dark green nori seaweed, slightly curled, with glossy surface and visible texture, appears as a single leaf fragment.",
+  "meat": "The chashu pork slice shows tender, pale meat with a glossy, caramelized edge and visible marbling.",
+  "menma": "Menma bamboo shoots show pale, translucent, slightly curved pieces with visible fibrous texture and faint reddish sauce coating."
+ },
+ "redone": "soup"
+}

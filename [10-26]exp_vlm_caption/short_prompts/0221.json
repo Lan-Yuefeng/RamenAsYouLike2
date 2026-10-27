@@ -1,0 +1,31 @@
+{
+ "image": "0221.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "red curved surface",
+   "short": "smooth red curved background",
+   "detail": "glossy red curved surface"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "glossy white ceramic bowl",
+   "detail": "smooth glossy white ceramic bowl"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "golden miso broth",
+   "detail": "thick glossy miso broth"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "crinkled dark nori",
+   "detail": "glossy crinkled dark nori"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glossy caramelized chashu",
+   "detail": "layered glossy caramelized pork"
+  }
+ }
+}

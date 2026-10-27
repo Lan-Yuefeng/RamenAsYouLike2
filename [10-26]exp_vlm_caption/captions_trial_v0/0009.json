@@ -1,0 +1,10 @@
+{
+ "image": "0009.png",
+ "soup": "porkbone",
+ "global": "This is a bowl of ramen with a clear, light broth, topped with noodles, shredded cabbage, and a vibrant red chili oil swirl. It sits in a white bowl with a blue geometric rim, on a wooden table under warm, even lighting.",
+ "regions": {
+  "background": "The bowl's rim features a dark blue geometric pattern against white ceramic, with Japanese characters visible along its edge.",
+  "bowl": "The ramen bowl is white ceramic with a blue geometric patterned rim and Japanese characters.",
+  "soup": "The broth with noodles shows pale yellow, translucent noodles and green vegetables in a clear, slightly oily, warm broth with a red chili oil spot."
+ }
+}

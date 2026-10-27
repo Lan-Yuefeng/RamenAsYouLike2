@@ -1,0 +1,12 @@
+{
+ "image": "0096.png",
+ "soup": "miso",
+ "global": "This miso ramen features rich, amber broth cradling tender chashu pork and crisp menma, arranged atop noodles with vibrant spinach. It sits in a white bowl with red “BAMAMAN” text, resting on a textured red placemat under soft, even lighting.",
+ "regions": {
+  "background": "Red textured surface with woven pattern, circular shape, uniform color, slightly raised ridges visible.",
+  "bowl": "White ceramic ramen bowl with red repeating \"emamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamamam",
+  "soup": "Miso ramen broth with noodles and spinach, golden-brown, smooth, slightly viscous, with visible strands and leafy greens.",
+  "meat": "Chashu pork slices show pinkish meat with white fat marbling, slightly curled edges, and glossy surface.",
+  "menma": "Menma bamboo shoots appear as golden-brown, glossy, elongated pieces with slightly curved, smooth surfaces."
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "image": "0215.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "light brown wooden table",
+   "detail": "smooth light brown wooden surface"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "glossy white ceramic bowl",
+   "detail": "smooth glossy white ceramic bowl"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy amber shoyu broth",
+   "detail": "rich glossy amber shoyu broth"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "white ceramic spoon with stain",
+   "detail": "white ceramic spoon with yellow tip stain"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "runny yolk boiled egg",
+   "detail": "runny orange yolk firm white"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green textured seaweed",
+   "detail": "dark green curled irregular seaweed"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "caramelized chashu pork",
+   "detail": "tender pink meat crisp fat edges"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+  "caption": "This is spicy ramen with a rich, deep-red broth, topped with a generous mound of bean sprouts. It sits in a white bowl with red trim, against a dark background, under warm lighting that highlights the broth’s glossy sheen.",
+  "seed": 1317,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark, smooth, flat surface with subtle texture and faint golden patterned edge visible."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The spicy broth is deep reddish-brown, glossy, and thick, swirling around noodles and bean sprouts."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with red concentric stripes and red Chinese characters on rim, showing slight residue stains."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with a smooth, glossy surface and slightly curved, rounded tip."
+    }
+  ]
+}

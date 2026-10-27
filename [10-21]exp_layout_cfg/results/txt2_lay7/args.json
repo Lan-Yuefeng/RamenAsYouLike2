@@ -1,0 +1,14 @@
+{
+ "name": "txt2_lay7",
+ "inputs": "/host/home/yanai-lab/Sotsuken26/lan-y/Seg2Any/exp_layout_cfg/inputs_val10",
+ "out_root": "/host/home/yanai-lab/Sotsuken26/lan-y/Seg2Any/exp_layout_cfg/results",
+ "model": "black-forest-labs/flux-3-image-klein-base",
+ "lora": "/export/ssd3/lan-y/seg2any_ckpt/ramen_flux3/checkpoint-3000",
+ "steps": 20,
+ "s_txt": 2.0,
+ "s_lay": 7.0,
+ "s_lay_late": null,
+ "lay_switch": 1.0,
+ "old_neg": false,
+ "check": false
+}

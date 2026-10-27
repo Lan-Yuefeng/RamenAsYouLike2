@@ -1,0 +1,12 @@
+{
+ "image": "0384.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, amber broth with tender noodles and vibrant green toppings. Sliced scallions crown the bowl, nestled in a white ceramic dish on a plain tray under soft, even lighting.",
+ "regions": {
+  "background": "Light gray tray with smooth, slightly reflective surface, rectangular shape with rounded corners.",
+  "bowl": "The bowl is a smooth, off-white ceramic with a slightly glossy finish and a subtly textured, rounded rim.",
+  "soup": "The miso broth is orange-brown, glossy, and contains visible noodles and toppings, appearing rich and savory.",
+  "menma": "Menma bamboo shoots appear as light brown, sliced pieces with fibrous texture and irregular, slightly curled shapes."
+ },
+ "redone": "soup"
+}

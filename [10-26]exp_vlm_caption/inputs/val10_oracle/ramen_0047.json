@@ -1,0 +1,46 @@
+{
+  "caption": "This is a bowl of miso ramen with a rich, orange broth. Topped with menma, shredded cabbage, and chopped green onions, it sits in a white ceramic bowl with a blue rim, under warm lighting, with a spoon resting beside it.",
+  "seed": 1047,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Black textured table surface with subtle grid pattern and faint white paper edge visible."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is orange, creamy, and glossy, with visible noodles and toppings floating on its surface."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear golden-brown, slightly translucent, with curved, layered shapes and visible fibrous texture."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with blue rim stripes, smooth glossy surface, slightly curved edges, and subtle glaze reflections."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth, slightly curved surface and faint yellowish stain near its tip."
+    }
+  ]
+}

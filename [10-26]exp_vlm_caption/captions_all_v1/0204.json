@@ -1,0 +1,11 @@
+{
+ "image": "0204.png",
+ "soup": "porkbone",
+ "global": "This is a bowl of ramen from “元祖ラーメン長浜家,” featuring a rich, creamy broth. Topped with chashu pork, green onions, and pickled ginger, it sits in a white bowl with blue script, against a red tabletop under warm, inviting light.",
+ "regions": {
+  "background": "Red table surface with smooth texture, slightly reflective, curved wooden edge visible at bottom right.",
+  "bowl": "White ceramic ramen bowl with blue Japanese characters and decorative patterns along its rim.",
+  "soup": "The broth with noodles shows creamy, pale yellow liquid with thin noodles, green scallions, and red pickled ginger floating on its surface.",
+  "meat": "Chashu pork: tender, light brown meat with visible fat marbling, slightly curled edges, and glossy surface."
+ }
+}

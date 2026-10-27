@@ -1,0 +1,20 @@
+{
+ "image": "0136.png",
+ "level": "short",
+ "short": {
+  "background": "warm wooden table",
+  "bowl": "glossy white ceramic bowl",
+  "soup": "glossy shoyu broth",
+  "egg": "glossy boiled egg",
+  "meat": "shiny chashu pork"
+ },
+ "parsed": true,
+ "global": "This shoyu ramen features a rich, amber broth with tender chashu pork and a whole soft-boiled egg nestled among noodles. Served in a white bowl, it rests on a warm wooden table under soft, ambient lighting.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle light reflections.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, subtle rim, and faint orange residue along inner edge.",
+  "soup": "The shoyu (soy sauce) broth is amber-brown, glossy, and contains thin noodles, green onions, and a soft-boiled egg.",
+  "egg": "A whole boiled egg, pale yellowish-white, smooth and slightly glossy, oval-shaped with subtle surface variations.",
+  "meat": "Chashu pork slice shows tender, pale pink meat with slight fat marbling and a glossy surface."
+ }
+}

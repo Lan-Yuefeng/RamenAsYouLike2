@@ -1,0 +1,31 @@
+{
+ "image": "0131.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm grain wood surface",
+   "detail": "natural brown wood grain texture"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "glossy white bowl with stains",
+   "detail": "white bowl with reddish rim stains"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "vibrant red spicy broth",
+   "detail": "thick glossy spicy ramen broth"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "white spoon with orange tip",
+   "detail": "smooth white spoon rounded tip"
+  },
+  "chopsticks": {
+   "name": "light beige chopsticks",
+   "short": "worn beige chopsticks resting",
+   "detail": "light beige chopsticks tapering ends"
+  }
+ }
+}

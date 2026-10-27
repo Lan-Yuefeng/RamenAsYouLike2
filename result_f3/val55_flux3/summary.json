@@ -1,0 +1,170 @@
+{
+ "n_images": 55,
+ "summary": {
+  "real_photo": {
+   "recall": [
+    0.6515,
+    0.16
+   ],
+   "precision": [
+    0.2612,
+    0.0989
+   ],
+   "clip_t": [
+    26.3363,
+    1.812
+   ],
+   "clip_i": [
+    100.0,
+    0.0
+   ]
+  },
+  "flux1": {
+   "recall": [
+    0.8076,
+    0.1129
+   ],
+   "precision": [
+    0.3071,
+    0.0994
+   ],
+   "clip_t": [
+    27.9622,
+    1.7245
+   ],
+   "clip_i": [
+    85.3228,
+    5.3957
+   ],
+   "kid_x1000": 18.846,
+   "fid": 84.68
+  },
+  "flux2_base_cfg4_negnocond": {
+   "recall": [
+    0.7721,
+    0.1321
+   ],
+   "precision": [
+    0.3109,
+    0.1055
+   ],
+   "clip_t": [
+    28.0641,
+    1.4638
+   ],
+   "clip_i": [
+    89.1204,
+    3.7902
+   ],
+   "kid_x1000": 17.92,
+   "fid": 85.56
+  },
+  "flux2_distilled": {
+   "recall": [
+    0.5917,
+    0.1445
+   ],
+   "precision": [
+    0.2705,
+    0.0638
+   ],
+   "clip_t": [
+    28.3738,
+    1.4406
+   ],
+   "clip_i": [
+    85.4573,
+    4.2796
+   ],
+   "kid_x1000": 44.374,
+   "fid": 109.6
+  },
+  "flux3_base_cfg35_50step": {
+   "recall": [
+    0.6944,
+    0.1419
+   ],
+   "precision": [
+    0.3364,
+    0.1226
+   ],
+   "clip_t": [
+    27.1366,
+    1.5445
+   ],
+   "clip_i": [
+    90.2191,
+    4.1613
+   ],
+   "kid_x1000": 11.655,
+   "fid": 75.79
+  },
+  "flux3_base_cfg35_20step": {
+   "recall": [
+    0.6715,
+    0.1488
+   ],
+   "precision": [
+    0.3787,
+    0.1458
+   ],
+   "clip_t": [
+    27.2087,
+    1.5196
+   ],
+   "clip_i": [
+    90.0795,
+    4.121
+   ],
+   "kid_x1000": 14.958,
+   "fid": 78.39
+  },
+  "flux3_distilled": {
+   "recall": [
+    0.6569,
+    0.1349
+   ],
+   "precision": [
+    0.2552,
+    0.0878
+   ],
+   "clip_t": [
+    28.0021,
+    1.5678
+   ],
+   "clip_i": [
+    90.1862,
+    3.4473
+   ],
+   "kid_x1000": 16.074,
+   "fid": 81.44
+  }
+ },
+ "paired_vs_flux1": {
+  "flux2_base_cfg4_negnocond": {
+   "mean_diff_recall_vs_flux1": -0.0354,
+   "n_better_than_flux1": 23,
+   "n": 55
+  },
+  "flux2_distilled": {
+   "mean_diff_recall_vs_flux1": -0.2158,
+   "n_better_than_flux1": 5,
+   "n": 55
+  },
+  "flux3_base_cfg35_50step": {
+   "mean_diff_recall_vs_flux1": -0.1132,
+   "n_better_than_flux1": 13,
+   "n": 55
+  },
+  "flux3_base_cfg35_20step": {
+   "mean_diff_recall_vs_flux1": -0.1361,
+   "n_better_than_flux1": 9,
+   "n": 55
+  },
+  "flux3_distilled": {
+   "mean_diff_recall_vs_flux1": -0.1506,
+   "n_better_than_flux1": 8,
+   "n": 55
+  }
+ }
+}

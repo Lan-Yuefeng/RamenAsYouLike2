@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: dark wooden table, glossy white bowl, golden shoyu broth, glossy chashu pork, translucent menma shoots.",
+  "seed": 1476,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "dark wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glossy chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "golden shoyu broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "translucent menma shoots"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "glossy white bowl"
+    }
+  ]
+}

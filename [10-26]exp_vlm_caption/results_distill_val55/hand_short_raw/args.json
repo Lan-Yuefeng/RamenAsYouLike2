@@ -1,0 +1,13 @@
+{
+ "name": "hand_short_raw",
+ "inputs": "inputs/val55_short_raw",
+ "out_root": "results_distill_val55",
+ "model": "black-forest-labs/flux-3-image-klein",
+ "lora": "/export/ssd3/lan-y/seg2any_ckpt/ramen_flux3/checkpoint-3000",
+ "steps": 16,
+ "cfg": 3.5,
+ "mask_method": "hard",
+ "hard_range": null,
+ "no_cond": false,
+ "no_lora": false
+}

@@ -1,0 +1,62 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: warm brown wooden table, white bowl with red blue pattern, glossy orange-brown miso broth, glossy white ceramic spoon, dark green glossy nori, marbled pink chashu pork, golden-brown textured menma.",
+  "seed": 1338,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "warm brown wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "marbled pink chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark green glossy nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "glossy orange-brown miso broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "golden-brown textured menma"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with red blue pattern"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "glossy white ceramic spoon"
+    }
+  ]
+}

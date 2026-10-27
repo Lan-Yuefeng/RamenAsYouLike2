@@ -1,0 +1,20 @@
+{
+ "image": "0324.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table surface",
+  "bowl": "blue swirl ceramic bowl",
+  "soup": "rich tonkotsu broth swirl",
+  "cut_egg": "runny yolk egg half",
+  "meat": "browned chashu pork slice"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a dark wooden table. The rich tonkotsu broth swirls with tender pork and a runny egg, offering a warm, savory scene.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain and natural wear",
+  "bowl": "Blue swirl ceramic bowl with smooth, slightly textured surface",
+  "soup": "The tonkotsu (pork bone) broth swirls with a creamy, golden hue",
+  "cut_egg": "Runny yolk egg half with soft, glossy texture",
+  "meat": "Browned chashu pork slice with crispy edges and tender interior"
+ }
+}

@@ -1,0 +1,54 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: black tray with orange rim, white bowl with orange rim, golden miso broth, white spoon with yellow stain, dark green nori seaweed, golden seared chashu pork.",
+  "seed": 1531,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "black tray with orange rim"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "golden seared chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark green nori seaweed"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "golden miso broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with orange rim"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "white spoon with yellow stain"
+    }
+  ]
+}

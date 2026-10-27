@@ -1,0 +1,26 @@
+{
+ "image": "0071.png",
+ "level": "detail",
+ "short": {
+  "background": "dark wooden table with grain",
+  "bowl": "white ceramic bowl with black stylized mark",
+  "soup": "golden clear shio ramen broth",
+  "spoon": "white ceramic spoon with rounded handle",
+  "cut_egg": "halved egg with glossy orange yolk",
+  "seaweed": "dark green textured nori triangle",
+  "meat": "pink marbled chashu with glisten",
+  "menma": "golden brown curled bamboo shoots"
+ },
+ "parsed": true,
+ "global": "This shio ramen boasts a clear, savory broth with perfectly halved soft-boiled eggs, nori, chashu, and menma artfully arranged. Served in a white bowl with a spoon, it rests on a wooden table under warm, inviting light.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge.",
+  "bowl": "White ceramic ramen bowl with black stylized mark and Japanese text, smooth glossy surface, slightly raised rim.",
+  "soup": "The shio (salt) broth is golden-yellow, clear, and glossy, with thin noodles submerged and floating, showing slight sheen and gentle ripples.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved, rounded handle shape.",
+  "cut_egg": "A halved boiled egg shows a vibrant orange yolk surrounded by a pale, firm white with a slightly glossy surface.",
+  "seaweed": "The nori seaweed is dark green, textured, triangular, with visible veins and slightly curled edges.",
+  "meat": "Chashu pork slice shows pinkish meat with white marbling, slightly glistening surface, and irregular, tender-looking shape.",
+  "menma": "Menma bamboo shoots appear golden-brown, slightly curled, with a fibrous texture and visible segmented structure."
+ }
+}

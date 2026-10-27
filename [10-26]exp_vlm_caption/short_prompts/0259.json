@@ -1,0 +1,26 @@
+{
+ "image": "0259.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white speckled ramen bowl",
+   "detail": "white ceramic bowl with speckles"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy orange-red broth",
+   "detail": "spicy broth with noodles and egg"
+  },
+  "egg": {
+   "name": "soft-boiled egg",
+   "short": "seasoned soft-boiled egg",
+   "detail": "white egg with orange seasoning"
+  }
+ }
+}

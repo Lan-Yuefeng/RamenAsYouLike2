@@ -1,0 +1,18 @@
+{
+ "image": "0040.png",
+ "level": "detail",
+ "short": {
+  "background": "smooth solid pinkish-red background",
+  "bowl": "white ceramic bowl with geometric design",
+  "soup": "glossy creamy tonkotsu broth",
+  "meat": "thinly sliced glossy marbled pork"
+ },
+ "parsed": true,
+ "global": "A vibrant pinkish-red background features a white ceramic bowl with geometric patterns. Inside, a glossy creamy tonkotsu broth holds thinly sliced marbled pork.",
+ "regions": {
+  "background": "Smooth solid pinkish-red background",
+  "bowl": "White ceramic bowl with geometric design",
+  "soup": "The tonkotsu (pork bone) broth",
+  "meat": "Thinly sliced glossy marbled pork"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "image": "0348.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "grainy wooden table",
+   "detail": "light brown wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "dragon pattern bowl",
+   "detail": "white bowl with green dragon and red rim"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy yellow tonkotsu",
+   "detail": "glossy creamy yellow tonkotsu broth"
+  },
+  "spoon": {
+   "name": "red spoon",
+   "short": "glossy red spoon",
+   "detail": "curved glossy red spoon"
+  },
+  "chopsticks": {
+   "name": "wooden chopsticks",
+   "short": "slender wooden chopsticks",
+   "detail": "smooth light wooden chopsticks"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "orange yolk egg",
+   "detail": "halved egg with orange yolk"
+  }
+ }
+}

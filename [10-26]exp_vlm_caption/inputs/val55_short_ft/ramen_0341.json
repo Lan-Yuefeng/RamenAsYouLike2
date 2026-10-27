@@ -1,0 +1,54 @@
+{
+  "caption": "This shio ramen boasts a clear, savory broth with perfectly halved soft-boiled eggs, tender chashu, and crisp nori, artfully arranged in a white bowl with black Greek-key trim. Warm, ambient lighting highlights the dish against a wooden table.",
+  "seed": 1341,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows warm brown tones, smooth grain patterns, and subtle light reflections."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows tender, pale pink meat with visible fat marbling and slightly glossy surface."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "The nori seaweed is dark green, crinkled, and irregularly shaped with a slightly glossy, textured surface."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shio (salt) broth is golden-yellow, clear, and glossy, with visible noodles and green onions floating on its surface."
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "A halved boiled egg shows a runny orange yolk surrounded by a firm white, with a slightly textured surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with black Greek key pattern and Japanese text along its rim."
+    }
+  ]
+}

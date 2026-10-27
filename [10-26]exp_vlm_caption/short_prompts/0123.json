@@ -1,0 +1,21 @@
+{
+ "image": "0123.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "red table",
+   "short": "glossy red table",
+   "detail": "smooth glossy red table surface"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "cream ceramic bowl",
+   "detail": "smooth glossy cream ceramic bowl"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy shoyu broth",
+   "detail": "amber-brown swirling shoyu broth"
+  }
+ }
+}

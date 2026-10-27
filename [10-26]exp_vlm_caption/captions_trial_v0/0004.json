@@ -1,0 +1,10 @@
+{
+ "image": "0004.png",
+ "soup": "spicy",
+ "global": "A vibrant, spicy ramen broth glows in a white ceramic bowl, topped with shredded cabbage and chopped green onions. The rich, reddish-orange liquid and fresh garnish contrast beautifully under warm, ambient lighting.",
+ "regions": {
+  "background": "The background shows a dark, textured tray beneath the bowl, with faint wood grain visible at the edges.",
+  "bowl": "The ramen bowl holds a rich, reddish-brown broth with noodles, bean sprouts, and green onions, its surface slightly textured from seasoning.",
+  "soup": "Spicy ramen broth with noodles, green onions, and bean sprouts, vibrant red-orange, glossy surface, thin noodles submerged."
+ }
+}

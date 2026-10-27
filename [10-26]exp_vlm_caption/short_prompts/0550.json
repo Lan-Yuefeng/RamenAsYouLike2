@@ -1,0 +1,36 @@
+{
+ "image": "0550.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden tray",
+   "short": "dark wooden tray",
+   "detail": "dark wooden tray with grain"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic bowl",
+   "detail": "white glossy ramen bowl"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth",
+   "detail": "clear golden shio broth"
+  },
+  "cut_egg": {
+   "name": "boiled egg",
+   "short": "halved boiled egg",
+   "detail": "halved egg with orange yolk"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "crinkled nori seaweed",
+   "detail": "dark green crinkled nori"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork",
+   "detail": "tender marbled chashu pork"
+  }
+ }
+}

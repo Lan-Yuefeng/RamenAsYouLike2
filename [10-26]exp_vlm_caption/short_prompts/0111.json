@@ -1,0 +1,31 @@
+{
+ "image": "0111.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "peach wood table",
+   "short": "smooth peach wood surface",
+   "detail": "solid peach-colored wood grain table"
+  },
+  "bowl": {
+   "name": "blue ceramic bowl",
+   "short": "glossy blue ceramic bowl",
+   "detail": "light blue bowl with red logo"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy tonkotsu broth",
+   "detail": "creamy beige tonkotsu broth swirls"
+  },
+  "spoon": {
+   "name": "blue ceramic spoon",
+   "short": "glossy blue ceramic spoon",
+   "detail": "light blue curved ceramic spoon"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori pieces",
+   "detail": "textured dark green nori garnish"
+  }
+ }
+}

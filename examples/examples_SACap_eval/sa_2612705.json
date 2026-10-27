@@ -1,0 +1,46 @@
+{
+  "caption": "The image depicts a bustling street scene with a large, ornate Gothic-style cathedral in the background. The cathedral features intricate architectural details and multiple spires. Surrounding the cathedral are historic buildings with balconies and wrought iron railings. The street is lined with shops and vendors, and there are several people walking and interacting. The sky is partly cloudy, adding to the atmospheric feel of the scene.",
+  "seed": 5729,
+  "segments_info": [
+    {
+      "color": [
+        154,
+        117,
+        185
+      ],
+      "text": "A cobblestone street with pedestrians and shops leading to a large, ornate church."
+    },
+    {
+      "color": [
+        232,
+        55,
+        241
+      ],
+      "text": "A row of buildings with balconies and shops on the ground floor."
+    },
+    {
+      "color": [
+        153,
+        121,
+        107
+      ],
+      "text": "The sky is blue with some white clouds."
+    },
+    {
+      "color": [
+        163,
+        94,
+        109
+      ],
+      "text": "A tall building with many windows and balconies."
+    },
+    {
+      "color": [
+        131,
+        144,
+        195
+      ],
+      "text": "A large, ornate cathedral with intricate Gothic architecture and tall spires stands prominently in the background."
+    }
+  ]
+}

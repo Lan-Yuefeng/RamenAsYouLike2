@@ -1,0 +1,12 @@
+{
+ "image": "0207.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, light broth with delicate green garnishes and shredded toppings. A halved soft-boiled egg rests atop, all served in a blue-patterned bowl on a warm-toned table under soft, ambient light.",
+ "regions": {
+  "background": "The table is a smooth, reddish-brown surface with subtle grain patterns and slight scratches visible.",
+  "bowl": "Blue and white ceramic bowl with curved blue patterns and gold rim, glossy surface reflecting light.",
+  "soup": "The shio (salt) broth is clear, golden-yellow, and glossy, with visible noodles and toppings floating on its surface.",
+  "cut_egg": "A halved boiled egg shows a vibrant orange yolk, soft white, and a slightly textured surface with a small green speck."
+ },
+ "redone": "soup"
+}

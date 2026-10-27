@@ -1,0 +1,36 @@
+{
+ "image": "0470.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "black tray with red rim",
+   "short": "black tray red rim textured",
+   "detail": "black tray red rim textured surface"
+  },
+  "bowl": {
+   "name": "white ceramic ramen bowl",
+   "short": "white glossy ramen bowl",
+   "detail": "white ceramic bowl glossy rim"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "shoyu broth golden-brown glossy",
+   "detail": "shoyu broth golden-brown glossy surface"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "chashu pork golden-brown marbled",
+   "detail": "chashu pork thick wrinkled marbled"
+  },
+  "menma": {
+   "name": "menma bamboo shoots",
+   "short": "menma shoots pale yellow green tips",
+   "detail": "menma bamboo shoots fibrous curved"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "naruto cake pink swirl bite mark",
+   "detail": "naruto fish cake pale yellow pink swirl"
+  }
+ }
+}

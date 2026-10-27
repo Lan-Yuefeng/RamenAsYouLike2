@@ -1,0 +1,31 @@
+{
+ "image": "0023.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm wooden table",
+   "detail": "smooth warm-toned wooden surface"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "blue orange logo bowl",
+   "detail": "white ceramic bowl with blue orange logo"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "glossy shio broth",
+   "detail": "golden-yellow glossy shio broth"
+  },
+  "egg": {
+   "name": "boiled egg",
+   "short": "glossy boiled egg",
+   "detail": "smooth golden-yellow boiled egg"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening chashu pork",
+   "detail": "pinkish sliced chashu pork"
+  }
+ }
+}

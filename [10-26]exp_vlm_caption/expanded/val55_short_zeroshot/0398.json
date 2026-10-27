@@ -1,0 +1,22 @@
+{
+ "image": "0398.png",
+ "level": "short",
+ "short": {
+  "background": "reddish-brown wooden table",
+  "bowl": "white bowl with blue patterns",
+  "soup": "vibrant orange-yellow miso",
+  "spoon": "white ceramic spoon in broth",
+  "meat": "crispy chashu pork slices",
+  "menma": "translucent pale yellow menma"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a reddish-brown wooden table. The rich miso soup and crispy pork highlight the dish's warm, savory appeal.",
+ "regions": {
+  "background": "Reddish-brown wooden table",
+  "bowl": "White bowl with blue patterns",
+  "soup": "The vibrant orange-yellow miso broth",
+  "spoon": "White ceramic spoon in broth",
+  "meat": "Crispy chashu pork slices",
+  "menma": "Translucent pale yellow menma"
+ }
+}

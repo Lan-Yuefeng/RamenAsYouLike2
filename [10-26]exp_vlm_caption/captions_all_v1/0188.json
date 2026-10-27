@@ -1,0 +1,13 @@
+{
+ "image": "0188.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth with noodles, topped by two halved eggs and nori squares arranged like eyes. Served in a patterned bowl, it rests on a plain surface under soft, even lighting.",
+ "regions": {
+  "background": "The table is a smooth, light-colored surface with subtle reflections and faint specks, appearing flat and even.",
+  "bowl": "White ceramic bowl with colorful geometric patterned rim, smooth glossy surface, circular shape.",
+  "soup": "Shoyu ramen broth with noodles, golden-brown, glossy, swirling, and richly textured surface.",
+  "cut_egg": "A halved boiled egg shows a firm white and soft orange yolk, round in shape with smooth, slightly glossy surfaces.",
+  "seaweed": "Two dark green, irregularly shaped nori sheets with textured, slightly glossy surfaces and visible vein-like patterns.",
+  "menma": "Menma bamboo shoots: light brown, slightly curved, with fibrous texture and visible grain on its surface."
+ }
+}

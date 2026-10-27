@@ -1,0 +1,20 @@
+{
+ "image": "0047.png",
+ "level": "short",
+ "short": {
+  "background": "black textured table surface",
+  "bowl": "white bowl with blue rim",
+  "soup": "creamy miso broth surface",
+  "spoon": "white spoon with yellow stain",
+  "menma": "golden menma bamboo shoots"
+ },
+ "parsed": true,
+ "global": "A top-down view of a white bowl of ramen on a black textured table. The creamy miso broth glistens with subtle bubbles and golden menma floats gently on top.",
+ "regions": {
+  "background": "Black textured table surface",
+  "bowl": "White bowl with blue rim",
+  "soup": "The creamy miso broth surface",
+  "spoon": "White spoon with yellow stain",
+  "menma": "Golden menma bamboo shoots"
+ }
+}

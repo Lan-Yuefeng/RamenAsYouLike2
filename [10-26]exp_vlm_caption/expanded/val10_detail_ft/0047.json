@@ -1,0 +1,20 @@
+{
+ "image": "0047.png",
+ "level": "detail",
+ "short": {
+  "background": "black textured table with grid pattern",
+  "bowl": "white ceramic bowl with blue stripes",
+  "soup": "orange creamy miso broth with noodles",
+  "spoon": "white ceramic spoon with faint stain",
+  "menma": "golden translucent layered bamboo"
+ },
+ "parsed": true,
+ "global": "This miso ramen boasts a rich, amber broth with visible bubbles, topped with crisp menma and shredded cabbage. Served in a white bowl with blue trim, it rests on a black surface under bright, even lighting.",
+ "regions": {
+  "background": "Black textured table surface with subtle grid pattern visible, slightly reflective under ambient light.",
+  "bowl": "White ceramic ramen bowl with blue stripes and black calligraphy, smooth glossy surface, slightly raised rim.",
+  "soup": "The miso broth is orange-brown, creamy, and bubbly, with visible noodles and toppings floating on its surface.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape, showing faint brown stain near tip.",
+  "menma": "Menma bamboo shoots appear golden-brown, with layered, slightly translucent texture and irregular, curled shape."
+ }
+}

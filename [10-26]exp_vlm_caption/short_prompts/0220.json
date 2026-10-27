@@ -1,0 +1,26 @@
+{
+ "image": "0220.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "light brown tray",
+   "short": "smooth light brown tray",
+   "detail": "light brown smooth rectangular tray"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "glossy white ceramic bowl",
+   "detail": "white ceramic bowl with thin rim"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "vibrant red spicy broth",
+   "detail": "thick glossy spicy ramen broth"
+  },
+  "meat": {
+   "name": "chashu pork slices",
+   "short": "browned chashu pork slices",
+   "detail": "thin marbled chashu pork slices"
+  }
+ }
+}

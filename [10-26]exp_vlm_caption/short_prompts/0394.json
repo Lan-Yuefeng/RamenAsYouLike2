@@ -1,0 +1,26 @@
+{
+ "image": "0394.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm brown wooden table",
+   "detail": "smooth grainy wooden table surface"
+  },
+  "bowl": {
+   "name": "decorative ceramic bowl",
+   "short": "blue green swirl bowl",
+   "detail": "white bowl with blue green patterns"
+  },
+  "soup": {
+   "name": "miso ramen broth",
+   "short": "glossy miso ramen broth",
+   "detail": "golden-brown miso broth with noodles"
+  },
+  "naruto": {
+   "name": "cartoon fish cake",
+   "short": "pink cartoon fish cake",
+   "detail": "pink round fish cake with eyes"
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "image": "0049.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, light broth with halved soft-boiled eggs and tender chashu pork arranged atop. Sliced green onions and bean sprouts garnish the bowl, set against a dark woven mat under soft, even lighting.",
+ "regions": {
+  "background": "Dark woven placemat with textured, patterned surface, appearing slightly uneven and fibrous in its fabric weave.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "Clear, golden broth with thin noodles, garnished with green onions and soft-boiled egg halves, glistening under light.",
+  "cut_egg": "A halved boiled egg shows creamy white albumen and runny orange yolk with a glossy surface.",
+  "meat": "The chashu pork is a thick, round slice with a glossy, caramelized surface and visible fat marbling."
+ }
+}

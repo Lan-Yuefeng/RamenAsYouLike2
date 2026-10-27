@@ -1,0 +1,46 @@
+{
+  "caption": "A vibrant golden miso broth fills a white ceramic bowl on a dark wooden table. Fresh menma and a white plastic spoon add texture and detail to the simple, warm ramen scene.",
+  "seed": 1421,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table surface"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The golden miso ramen broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Thin pale yellow menma"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "White plastic ramen spoon"
+    }
+  ]
+}

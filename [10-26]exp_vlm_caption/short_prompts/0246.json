@@ -1,0 +1,41 @@
+{
+ "image": "0246.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "grainy wooden table",
+   "detail": "light brown wooden table surface"
+  },
+  "bowl": {
+   "name": "floral ceramic bowl",
+   "short": "blue white floral bowl",
+   "detail": "blue white bowl with floral rim"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "golden tonkotsu broth",
+   "detail": "rich golden tonkotsu broth swirl"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark crinkled nori",
+   "detail": "glossy dark textured nori"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork",
+   "detail": "pinkish seared chashu with pepper"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "glossy segmented menma",
+   "detail": "tan ridged bamboo shoots"
+  },
+  "naruto": {
+   "name": "fish cake",
+   "short": "pink swirl naruto",
+   "detail": "pale pink swirl fish cake"
+  }
+ }
+}

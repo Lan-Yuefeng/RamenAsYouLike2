@@ -1,0 +1,62 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a smooth wooden table. Rich flavors and textures highlight the hearty, colorful dish.",
+  "seed": 1552,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Smooth wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Marbled chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Dark green nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The spicy amber broth"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "Halved boiled egg"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Black ceramic bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "Glossy red spoon"
+    }
+  ]
+}

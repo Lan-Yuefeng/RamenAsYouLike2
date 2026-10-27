@@ -1,0 +1,36 @@
+{
+ "image": "0052.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "dark reflective surface",
+   "short": "dark reflective textured surface",
+   "detail": "dark smooth reflective surface with grain"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "cream bowl with blue gold rim",
+   "detail": "glossy ceramic bowl cream interior"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy orange-red steaming broth",
+   "detail": "spicy glossy orange-red steaming broth"
+  },
+  "cut_egg": {
+   "name": "halved boiled egg",
+   "short": "firm white orange yolk egg",
+   "detail": "round smooth egg with vibrant yolk"
+  },
+  "seaweed": {
+   "name": "dark green nori",
+   "short": "glossy curled nori seaweed",
+   "detail": "dark green glossy curled nori"
+  },
+  "meat": {
+   "name": "chashu pork slice",
+   "short": "glistening marbled pork slice",
+   "detail": "pinkish-brown tender marbled pork"
+  }
+ }
+}

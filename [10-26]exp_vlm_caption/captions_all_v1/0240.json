@@ -1,0 +1,11 @@
+{
+ "image": "0240.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth with tender noodles and menma bamboo shoots. Topped with chopped green onions and minced pork, it sits in a white bowl on a wooden table under warm, soft lighting.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain pattern with subtle texture and natural wood finish.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "Shoyu ramen broth with noodles, garnished with green onions and minced meat, appears rich, amber-colored, and glossy.",
+  "menma": "Menma bamboo shoots appear pale brown, slightly translucent, with fibrous texture and irregular, curled shapes."
+ }
+}

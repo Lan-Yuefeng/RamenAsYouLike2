@@ -1,0 +1,12 @@
+{
+ "image": "0167.png",
+ "soup": "spicy",
+ "global": "Spicy ramen broth glows rich orange, topped with halved soft-boiled eggs, shredded cabbage, dark greens, and a meatball. Served in a rustic brown bowl, the dish sits on a wooden table under warm, ambient light.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections, forming an oval shape around the bowl's base.",
+  "bowl": "Brown ceramic bowl with glossy finish, smooth curved rim, and subtle concentric ring pattern near edge.",
+  "soup": "The spicy broth is orange-red, glossy, and oily, with visible noodles and toppings floating on its surface.",
+  "cut_egg": "A halved boiled egg shows a runny orange yolk surrounded by a firm white, with a smooth, slightly glossy surface."
+ },
+ "redone": "soup"
+}

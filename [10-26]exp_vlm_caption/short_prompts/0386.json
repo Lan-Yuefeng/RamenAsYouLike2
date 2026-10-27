@@ -1,0 +1,26 @@
+{
+ "image": "0386.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "pink tray",
+   "short": "pink textured tray",
+   "detail": "light pink oval tray with creases"
+  },
+  "bowl": {
+   "name": "floral bowl",
+   "short": "blue yellow floral bowl",
+   "detail": "white ceramic bowl with floral pattern"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "spicy red glossy broth",
+   "detail": "deep red spicy ramen broth swirling"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glossy marbled chashu",
+   "detail": "tender marbled chashu pork slice"
+  }
+ }
+}

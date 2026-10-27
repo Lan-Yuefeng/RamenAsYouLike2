@@ -1,0 +1,46 @@
+{
+  "caption": "A rich, amber miso ramen broth glistens in a rustic ceramic bowl, topped with tender chashu pork and crisp menma arranged in a delicate, layered mound. Warm wooden tones and soft lighting enhance the inviting, hearty presentation.",
+  "seed": 1105,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle scratches with natural texture."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows pinkish-white meat with browned, slightly crispy edges and a tender, juicy appearance."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is rich amber, glossy, and bubbling, cradling noodles and toppings in a warm, inviting swirl."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear pale beige, with fibrous texture and irregular, slightly curved shape, showing natural surface striations."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "The ramen bowl is a rustic ceramic with earthy brown glaze, textured surface, and slightly uneven rim."
+    }
+  ]
+}

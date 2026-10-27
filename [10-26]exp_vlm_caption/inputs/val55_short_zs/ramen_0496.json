@@ -1,0 +1,62 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a dark wooden table. Golden broth, tender pork, and fresh ingredients create a rich, aromatic scene.",
+  "seed": 1496,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table surface with subtle grain and warm undertones"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Golden seared chashu pork, tender and slightly crispy on edges"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Dark green nori seaweed, thin and crisp with slight wave-like folds"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth golden and clear with faint foam"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Golden menma bamboo shoots, slender and slightly translucent with a bumpy texture"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with smooth, slightly textured surface and rounded edges"
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "Swirled naruto fish cake, soft and marbled with a smooth, slightly chewy surface"
+    }
+  ]
+}

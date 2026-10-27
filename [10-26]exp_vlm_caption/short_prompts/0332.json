@@ -1,0 +1,31 @@
+{
+ "image": "0332.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "red table surface",
+   "short": "smooth red table surface",
+   "detail": "smooth solid red table with light reflections"
+  },
+  "bowl": {
+   "name": "red patterned ramen bowl",
+   "short": "white bowl with red rim",
+   "detail": "white ceramic bowl with red geometric pattern"
+  },
+  "soup": {
+   "name": "tonkotsu ramen broth",
+   "short": "creamy tonkotsu ramen broth",
+   "detail": "creamy yellow tonkotsu broth with noodles and meat"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "white spoon with broth",
+   "detail": "white ceramic spoon holding golden broth"
+  },
+  "chopsticks": {
+   "name": "wooden chopsticks",
+   "short": "light wooden chopsticks",
+   "detail": "light wooden chopsticks resting diagonally"
+  }
+ }
+}

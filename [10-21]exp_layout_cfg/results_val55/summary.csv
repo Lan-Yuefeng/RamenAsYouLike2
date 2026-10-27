@@ -1,0 +1,10 @@
+condition,recall,precision,clip_t,clip_i,miou,n_recall_up_vs_first,sec_per_img
+base_s3.5,0.6944,0.3364,27.14,90.22,0.9342,0,14.35
+txt3.5_lay7,0.7834,0.3209,27.48,89.13,0.9311,52,21.9
+txt3.5_lay10,0.8212,0.3174,27.53,88.49,0.9147,54,22.02
+ref_flux3_distilled,0.6569,0.2552,28.0,90.19,0.9055,18,nan
+ref_flux1,0.8076,0.3071,27.96,85.32,0.7962,42,nan
+ref_flux2_base_cfg4,0.7721,0.3109,28.06,89.12,0.9084,39,nan
+ref_flux2_base_cfg4_oldneg,0.5632,0.2754,27.94,88.92,0.8868,4,nan
+ref_flux2_distilled,0.5917,0.2705,28.37,85.46,0.8125,11,nan
+real_photo,0.6515,0.2612,26.34,100.0,0.8849,23,nan

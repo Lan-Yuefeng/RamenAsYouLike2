@@ -1,0 +1,36 @@
+{
+ "image": "0110.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "glossy wooden table",
+   "detail": "glossy wooden table with grain"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "glossy white ceramic bowl",
+   "detail": "white ceramic bowl with stain"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "glossy tonkotsu broth",
+   "detail": "rich golden-brown tonkotsu broth"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "stained white ceramic spoon",
+   "detail": "white ceramic spoon with stain"
+  },
+  "egg": {
+   "name": "boiled egg",
+   "short": "pale yellow boiled egg",
+   "detail": "smooth pale yellow boiled egg"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark textured nori seaweed",
+   "detail": "dark green-brown rough nori"
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{
+ "image": "0484.png",
+ "soup": "porkbone",
+ "global": "This is a bowl of clear, light-colored ramen broth, topped with bean sprouts, shredded carrot, and chopped green onions. It sits in a white bowl with red geometric patterns, on a dark wooden table under warm, even lighting.",
+ "regions": {
+  "background": "Dark brown wooden table with visible grain patterns and glossy finish.",
+  "bowl": "White ceramic bowl with red geometric patterned rim, smooth surface, circular shape, slightly raised edge.",
+  "soup": "The broth with noodles shows pale yellow liquid, white noodles, bean sprouts, green onions, and orange carrot shreds."
+ }
+}

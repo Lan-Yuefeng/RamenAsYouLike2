@@ -1,0 +1,46 @@
+{
+  "caption": "A warm, top-down view of a ramen bowl with rich, glossy broth and crispy pork. Earthy textures and natural colors highlight the dish's comforting, home-style appeal.",
+  "seed": 1105,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Warm grain wood surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Crispy brown chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The glossy amber miso broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Fibrous pale menma shoots"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Earthy glazed ceramic bowl"
+    }
+  ]
+}

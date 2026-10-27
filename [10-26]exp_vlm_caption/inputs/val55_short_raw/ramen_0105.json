@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: warm grain wood surface, earthy glazed ceramic bowl, glossy amber miso broth, crispy brown chashu pork, fibrous pale menma shoots.",
+  "seed": 1105,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "warm grain wood surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "crispy brown chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "glossy amber miso broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "fibrous pale menma shoots"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "earthy glazed ceramic bowl"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+ "image": "0533.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "granite countertop",
+   "short": "dark speckled granite",
+   "detail": "dark speckled granite surface"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "blue white patterned bowl",
+   "detail": "blue white geometric ceramic bowl"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "golden miso broth swirl",
+   "detail": "rich golden miso broth swirling"
+  },
+  "spoon": {
+   "name": "pale yellow spoon",
+   "short": "smooth curved spoon",
+   "detail": "pale yellow rounded spoon tip"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "orange yolk egg half",
+   "detail": "vibrant orange yolk egg half"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori",
+   "detail": "dark green textured nori strip"
+  },
+  "meat": {
+   "name": "chashu pork slice",
+   "short": "glistening chashu pork",
+   "detail": "browned glistening chashu slice"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "glossy menma strips",
+   "detail": "golden glossy textured menma"
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "image": "0104.png",
+ "soup": "soysauce",
+ "global": "A steaming bowl of shoyu ramen features a rich, amber broth with tender noodles, topped with crisp bean sprouts and finely chopped green onions. Served in a classic blue-and-white patterned bowl, it rests on a warm wooden table under soft, natural light.",
+ "regions": {
+  "background": "Dark reddish-brown wooden table with smooth, slightly reflective surface and subtle grain patterns visible.",
+  "bowl": "The bowl is white ceramic with blue floral patterns and a decorative rim, appearing smooth and glossy.",
+  "soup": "The shoyu (soy sauce) broth is amber-brown, glossy, and steaming, with thin noodles and toppings floating on its surface."
+ },
+ "redone": "soup"
+}

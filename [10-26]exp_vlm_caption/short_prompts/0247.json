@@ -1,0 +1,31 @@
+{
+ "image": "0247.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "red table",
+   "short": "vibrant red table surface",
+   "detail": "smooth reflective red table"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "glossy white ceramic ramen bowl"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "steaming shoyu broth",
+   "detail": "amber-orange steaming shoyu broth"
+  },
+  "spoon": {
+   "name": "red spoon",
+   "short": "glossy reddish-brown spoon",
+   "detail": "glossy curved reddish-brown spoon"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening chashu pork",
+   "detail": "caramelized chashu pork slice"
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "image": "0071.png",
+ "level": "name",
+ "short": {
+  "background": "wooden table",
+  "bowl": "white ceramic bowl",
+  "soup": "shio broth",
+  "spoon": "white ceramic spoon",
+  "cut_egg": "boiled egg half",
+  "seaweed": "nori seaweed",
+  "meat": "chashu pork",
+  "menma": "bamboo shoots"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a wooden table. The rich shio broth, soft chashu pork, and fresh ingredients create a warm, inviting scene.",
+ "regions": {
+  "background": "Wooden table with natural grain and slight wear",
+  "bowl": "White ceramic bowl with smooth, matte surface and subtle rim",
+  "soup": "The shio broth is clear and light, with a faint saltiness and gentle shimmer",
+  "spoon": "White ceramic spoon with a straight handle and smooth edge",
+  "cut_egg": "Boiled egg half, cracked and soft, with a pale yellow yolk and white center",
+  "seaweed": "Nori seaweed, thin and slightly curled, with a dark green hue",
+  "meat": "Chashu pork, tender and pink, with a slightly fatty texture and marbled appearance",
+  "menma": "Bamboo shoots, crisp and pale, with a delicate, fibrous texture"
+ }
+}

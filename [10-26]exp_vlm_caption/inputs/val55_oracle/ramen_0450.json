@@ -1,0 +1,46 @@
+{
+  "caption": "This tonkotsu ramen features a rich, creamy yellow broth, topped with chashu pork, sliced green onions, and a large nori sheet. Served in a white bowl, it rests on a wooden table under warm, ambient light, with a menu visible in the background.",
+  "seed": 1450,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows warm brown tones, smooth grain patterns, and subtle natural texture under soft lighting."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "The chashu pork is a thick, oval slice with pinkish meat, white fat marbling, and a glossy surface."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "The nori seaweed is dark green, textured, irregularly shaped, with visible veins and slightly curled edges."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth is creamy yellow, smooth, and slightly viscous, with visible noodles and toppings partially submerged."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with glossy finish, featuring black Japanese characters and red seal on its rim."
+    }
+  ]
+}

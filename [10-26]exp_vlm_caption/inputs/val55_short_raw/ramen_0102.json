@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: smooth wooden table surface, white bowl with red rim, clear shio broth swirling, glistening sliced chashu, pink swirl fish cake.",
+  "seed": 1102,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "smooth wooden table surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glistening sliced chashu"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "clear shio broth swirling"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with red rim"
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "pink swirl fish cake"
+    }
+  ]
+}

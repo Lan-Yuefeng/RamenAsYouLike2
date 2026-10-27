@@ -1,0 +1,36 @@
+{
+ "image": "0073.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "smooth wooden table",
+   "detail": "light brown wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "blue patterned ramen bowl",
+   "detail": "white bowl with blue pattern and orange rim"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "vibrant red spicy broth",
+   "detail": "glossy spicy broth with noodles and sprouts"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glossy marbled chashu",
+   "detail": "tender caramelized chashu pork slice"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "curved fibrous menma",
+   "detail": "pale yellow menma with browned ends"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "pink swirl naruto cake",
+   "detail": "white spiral naruto with pink center"
+  }
+ }
+}

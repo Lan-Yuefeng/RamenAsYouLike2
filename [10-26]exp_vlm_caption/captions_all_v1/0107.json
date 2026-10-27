@@ -1,0 +1,14 @@
+{
+ "image": "0107.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth with a heart-shaped nori, a soft-boiled egg, and tender chashu pork. Served in a white bowl with “大勝軒” marked, it rests on a dark tray under warm, inviting light.",
+ "regions": {
+  "background": "Dark wooden tray with textured woven mat, smooth surface, rectangular shape, visible grain patterns.",
+  "bowl": "White ceramic ramen bowl with glossy finish, featuring black Japanese characters and a smooth, slightly raised rim.",
+  "soup": "Shoyu ramen broth with noodles, heart-shaped nori, soft-boiled egg, and green garnish, rich brown surface with visible oil sheen.",
+  "cut_egg": "A halved boiled egg shows a firm white and runny orange yolk with a slightly textured surface.",
+  "seaweed": "Heart-shaped nori seaweed, dark green with textured surface, appears slightly curled and glistening with broth.",
+  "meat": "Chashu pork slice: golden-brown, tender-looking, curved, with glistening surface and faint marbling.",
+  "menma": "Menma bamboo shoots appear as golden-brown, slightly curled, fibrous strips with a textured, cooked surface."
+ }
+}

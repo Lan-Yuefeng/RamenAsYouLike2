@@ -1,0 +1,26 @@
+{
+ "image": "0499.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "white table surface",
+   "short": "smooth white table surface",
+   "detail": "subtle textured white table surface"
+  },
+  "bowl": {
+   "name": "decorative ramen bowl",
+   "short": "patterned ceramic ramen bowl",
+   "detail": "white bowl with red rim and patterns"
+  },
+  "soup": {
+   "name": "shoyu ramen broth",
+   "short": "frothy shoyu ramen broth",
+   "detail": "light brown shoyu broth with bubbles"
+  },
+  "menma": {
+   "name": "menma bamboo shoots",
+   "short": "translucent menma bamboo shoots",
+   "detail": "pale yellow fibrous menma pieces"
+  }
+ }
+}

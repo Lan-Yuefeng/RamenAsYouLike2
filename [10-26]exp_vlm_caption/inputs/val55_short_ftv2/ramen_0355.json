@@ -1,0 +1,38 @@
+{
+  "caption": "Creamy beige tonkotsu broth with floating noodles and green onions, topped with dark green, textured nori seaweed, sits in a white ceramic bowl with blue and yellow floral pattern on a warm brown wooden table.",
+  "seed": 1355,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows warm brown tones, smooth grain patterns, and subtle light reflections."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "The nori seaweed is dark green, textured, irregularly shaped, and has a slightly rough surface with visible veins."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth is creamy beige, glossy, with visible noodles and green onions floating on its surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with blue and yellow floral pattern, smooth glossy surface, slightly raised rim."
+    }
+  ]
+}

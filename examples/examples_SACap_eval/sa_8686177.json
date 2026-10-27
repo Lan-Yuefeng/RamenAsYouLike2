@@ -1,0 +1,22 @@
+{
+  "caption": "The image depicts an underwater scene featuring a vibrant cuttlefish with a reddish-brown body and distinctive blue eyes. The cuttlefish is swimming near a rocky seabed covered with various corals and marine life, creating a colorful and dynamic underwater environment.",
+  "seed": 2286,
+  "segments_info": [
+    {
+      "color": [
+        223,
+        177,
+        150
+      ],
+      "text": "The image shows an underwater scene with a cuttlefish swimming near a coral reef. The water is clear, revealing various marine life and rocks."
+    },
+    {
+      "color": [
+        98,
+        106,
+        48
+      ],
+      "text": "A vibrant red and orange cuttlefish swims gracefully over a rocky underwater landscape."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+ "image": "0071.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table",
+  "bowl": "white bowl with black mark",
+  "soup": "golden shio broth",
+  "spoon": "white ceramic spoon",
+  "cut_egg": "orange yolk egg half",
+  "seaweed": "dark green nori",
+  "meat": "marbled chashu pork",
+  "menma": "golden menma slices"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a dark wooden table. Golden broth, marbled pork, and fresh ingredients create a warm, rich, and inviting scene.",
+ "regions": {
+  "background": "Dark wooden table with smooth grain and subtle wear",
+  "bowl": "White bowl with a single black mark near the rim",
+  "soup": "The tonkotsu (pork bone) broth",
+  "spoon": "White ceramic spoon with a slightly chipped edge",
+  "cut_egg": "Orange yolk egg half with cracked shell and soft edges",
+  "seaweed": "Dark green nori curled at the edges",
+  "meat": "Marbled chashu pork with rich red and pink streaks",
+  "menma": "Golden menma slices with crisp, translucent texture"
+ }
+}

@@ -1,0 +1,38 @@
+{
+  "caption": "The image shows a skier in motion on a snowy slope, wearing a blue and red outfit with a helmet and goggles. The skier is navigating between two orange gates, indicating a slalom or giant slalom race. The background features a red mesh fence, and the snow appears to be well-groomed for competition.",
+  "seed": 3930,
+  "segments_info": [
+    {
+      "color": [
+        222,
+        77,
+        59
+      ],
+      "text": "A snowy slope with a skier in motion, surrounded by a red net fence and a sign indicating the course name."
+    },
+    {
+      "color": [
+        226,
+        44,
+        156
+      ],
+      "text": "A red mesh fence is visible behind the skier, likely used for safety and boundary marking during skiing events."
+    },
+    {
+      "color": [
+        131,
+        127,
+        46
+      ],
+      "text": "A skier wearing a blue and red outfit, goggles, and a helmet is skiing down a snowy slope."
+    },
+    {
+      "color": [
+        57,
+        104,
+        143
+      ],
+      "text": "An orange sign with black text and symbols stands on the snowy slope."
+    }
+  ]
+}

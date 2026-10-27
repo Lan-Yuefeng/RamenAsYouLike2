@@ -1,0 +1,24 @@
+{
+ "image": "0007.png",
+ "level": "short",
+ "short": {
+  "background": "grainy wooden table",
+  "bowl": "white ceramic ramen bowl",
+  "soup": "golden tonkotsu broth swirl",
+  "seaweed": "dark green nori seaweed",
+  "meat": "sesame chashu pork slice",
+  "menma": "glossy menma bamboo",
+  "naruto": "pink swirl naruto cake"
+ },
+ "parsed": true,
+ "global": "A vibrant top-down view of a ramen bowl on a grainy wooden table. Golden broth, fresh seaweed, pork, and sweet cake add texture and color to the dish.",
+ "regions": {
+  "background": "Grainy wooden table",
+  "bowl": "White ceramic ramen bowl",
+  "soup": "The tonkotsu (pork bone) broth swirl",
+  "seaweed": "Dark green nori seaweed",
+  "meat": "Sesame chashu pork slice",
+  "menma": "Glossy menma bamboo",
+  "naruto": "Pink swirl naruto cake"
+ }
+}

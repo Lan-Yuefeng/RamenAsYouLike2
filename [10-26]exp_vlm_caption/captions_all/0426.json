@@ -1,0 +1,12 @@
+{
+ "image": "0426.png",
+ "soup": "spicy",
+ "global": "A vibrant, spicy ramen broth fills a patterned bowl, topped with shredded green onions and a pink naruto fish cake. The rich red broth glistens under warm light, set against a simple wooden table with a glass of water nearby.",
+ "regions": {
+  "background": "Light beige wooden table surface with subtle grain pattern and smooth texture visible around the bowl's edge.",
+  "bowl": "White ceramic bowl with red and green floral pattern, smooth glossy surface, slightly raised rim with decorative border.",
+  "soup": "The spicy broth is deep red, glossy, and thick, with visible noodles and toppings partially submerged.",
+  "naruto": "Naruto fish cake: pink, spiral-shaped, with textured surface and visible white strands, resembling a rose."
+ },
+ "redone": "soup"
+}

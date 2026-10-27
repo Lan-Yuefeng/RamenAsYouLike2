@@ -1,0 +1,10 @@
+{
+ "base": {
+  "steps": 50,
+  "sec_per_image_excl_first": 12.574443790647718
+ },
+ "distilled": {
+  "steps": 4,
+  "sec_per_image_excl_first": 0.845603969362047
+ }
+}

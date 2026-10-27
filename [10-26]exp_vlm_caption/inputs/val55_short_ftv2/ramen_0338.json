@@ -1,0 +1,62 @@
+{
+  "caption": "This orange-brown, glossy miso broth with visible noodles and toppings sits in a white ceramic bowl with red geometric pattern and blue \"ARASAKI\" text. On top are dark green nori, pinkish chashu pork with white marbling, and golden-brown menma, all set on a warm brown wooden table with grain patterns.",
+  "seed": 1338,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle texture variations."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows pinkish meat with white marbling, slightly curled edge, and glossy surface."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "The nori seaweed is dark green, textured, irregularly shaped, and has a slightly glossy surface with visible veins."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is orange-brown, glossy, and contains visible noodles and toppings."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear golden-brown, slightly glossy, with a soft, fibrous texture and irregular, curled shape."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with red geometric pattern and blue \"ARASAKI\" text on its rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape."
+    }
+  ]
+}

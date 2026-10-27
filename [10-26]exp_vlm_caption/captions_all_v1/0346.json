@@ -1,0 +1,14 @@
+{
+ "image": "0346.png",
+ "soup": "spicy",
+ "global": "This is spicy ramen in a dark bowl, its broth rich and reddish-orange. Toppings—halved egg, nori, chashu, and green onions—are artfully arranged. Warm lighting highlights the dish against a wooden background.",
+ "regions": {
+  "background": "Wooden table surface shows warm orange-brown tones, visible grain patterns, and subtle natural texture.",
+  "bowl": "Dark brown ceramic bowl with glossy finish, subtle speckles, and slightly uneven rim.",
+  "soup": "Spicy ramen broth with noodles, garnished with green onions and seaweed, appears rich, reddish-brown, and glossy in the bowl.",
+  "spoon": "A spoon with a blue and white patterned handle and a light-colored, slightly worn bowl.",
+  "cut_egg": "A halved boiled egg shows a smooth, pale yellow yolk surrounded by firm white, with a slightly glossy surface.",
+  "seaweed": "The nori seaweed appears dark green, slightly curled, with a glossy, uneven surface and visible frayed edges.",
+  "meat": "Chashu pork slice shows tender, slightly fatty texture with caramelized edges and visible marbling, cut into a rough oval shape."
+ }
+}

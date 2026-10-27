@@ -1,0 +1,54 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: light brown wooden table, white bowl with red rim, golden shoyu broth glossy, glossy white ceramic spoon, dark green nori strip, marbled chashu pork slice.",
+  "seed": 1250,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "light brown wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "marbled chashu pork slice"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark green nori strip"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "golden shoyu broth glossy"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with red rim"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "glossy white ceramic spoon"
+    }
+  ]
+}

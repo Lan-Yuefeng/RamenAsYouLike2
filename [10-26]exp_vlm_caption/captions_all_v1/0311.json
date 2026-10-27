@@ -1,0 +1,13 @@
+{
+ "image": "0311.png",
+ "soup": "porkbone",
+ "global": "This is a bowl of rich, clear ramen broth, topped with chashu pork, a halved soft-boiled egg, and green garnishes. Served in a white ceramic bowl on a wooden table, the warm lighting highlights the broth’s clarity and toppings’ arrangement.",
+ "regions": {
+  "background": "Dark brown wooden table with visible grain, knots, and vertical seam lines, showing natural texture and slight wear.",
+  "bowl": "White ceramic ramen bowl with glossy finish, blue calligraphy near rim, smooth curved surface.",
+  "soup": "The broth with noodles shows pale yellow, translucent noodles submerged in rich, golden-brown broth with visible green garnish.",
+  "cut_egg": "A halved boiled egg reveals a runny orange yolk and firm white, with a glossy surface and faint green herb garnish.",
+  "seaweed": "Dark green nori seaweed, irregularly shaped, with textured surface and visible veins, appears slightly curled and moist.",
+  "meat": "The chashu pork is round, pinkish with white marbling, and has a glossy surface with visible seasoning specks."
+ }
+}

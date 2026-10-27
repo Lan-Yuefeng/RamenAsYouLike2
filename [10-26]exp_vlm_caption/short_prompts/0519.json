@@ -1,0 +1,26 @@
+{
+ "image": "0519.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "black ceramic bowl",
+   "short": "glossy black bowl",
+   "detail": "glossy black ceramic bowl rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "rich amber miso broth",
+   "detail": "viscous amber miso broth"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork",
+   "detail": "thinly sliced marbled pork"
+  }
+ }
+}

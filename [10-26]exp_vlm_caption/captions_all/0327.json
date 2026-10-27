@@ -1,0 +1,14 @@
+{
+ "image": "0327.png",
+ "soup": "salt",
+ "global": "This shio ramen boasts a clear, golden broth with delicate noodles, topped with halved boiled eggs, chashu pork, and menma. Served in a white bowl on a wooden table, the warm lighting highlights the rich, savory toppings arranged invitingly.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth grain patterns, and subtle scratches near edges.",
+  "bowl": "White ceramic ramen bowl with subtle glossy finish, smooth curved rim, and small dark decorative mark near edge.",
+  "soup": "The shio (salt) broth is clear golden-yellow, holding thin noodles, bean sprouts, and a sprinkle of orange seasoning.",
+  "cut_egg": "A halved boiled egg shows a vibrant orange yolk, firm white, and subtle green herbs on its surface.",
+  "meat": "The chashu pork is a thick, browned slice with a slightly glistening surface and visible green herb specks.",
+  "menma": "Menma bamboo shoots appear as golden-brown, sliced, slightly curled pieces with a glossy, tender texture."
+ },
+ "redone": "soup"
+}

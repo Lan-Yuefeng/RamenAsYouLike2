@@ -1,0 +1,62 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: vibrant red table, glossy gray bowl with red rim, clear shio broth with noodles, glossy translucent spoon, firm white yolk egg, dark green curled seaweed, marbled pink pork slice.",
+  "seed": 1512,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "vibrant red table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "marbled pink pork slice"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark green curled seaweed"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "clear shio broth with noodles"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "firm white yolk egg"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "glossy gray bowl with red rim"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "glossy translucent spoon"
+    }
+  ]
+}

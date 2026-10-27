@@ -1,0 +1,11 @@
+{
+ "image": "0349.png",
+ "soup": "soysauce",
+ "global": "A steaming bowl of shoyu ramen broth, rich and amber, cradles tender noodles and crisp bok choy. Thinly sliced scallions and shredded daikon crown the surface, all nestled in a pristine white bowl under warm, inviting light.",
+ "regions": {
+  "background": "The table surface is light wood grain, smooth, with visible texture and natural patterns.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "The shoyu (soy sauce) broth is golden-brown, textured with egg ribbons and vegetables, topped with green onions and shredded white garnish."
+ },
+ "redone": "soup"
+}

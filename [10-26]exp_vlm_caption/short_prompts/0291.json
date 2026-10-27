@@ -1,0 +1,21 @@
+{
+ "image": "0291.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "black tray with red rim",
+   "short": "black tray red rim wood",
+   "detail": "black textured tray with red rim on wood"
+  },
+  "bowl": {
+   "name": "floral ceramic bowl",
+   "short": "blue white floral bowl",
+   "detail": "blue white ceramic bowl with floral pattern"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy reddish-orange glossy broth",
+   "detail": "spicy broth rich reddish-orange glossy with noodles"
+  }
+ }
+}

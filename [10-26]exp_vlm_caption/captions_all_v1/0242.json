@@ -1,0 +1,10 @@
+{
+ "image": "0242.png",
+ "soup": "soysauce",
+ "global": "A steaming bowl of shoyu ramen features a rich, amber broth with tender noodles and sliced pork, crowned by a generous mound of finely chopped green onions. Served in a white bowl on a blue tray, the warm lighting highlights the broth’s inviting depth and the vibrant garnish.",
+ "regions": {
+  "background": "Light brown wooden table with visible grain patterns and smooth surface beneath the blue tray.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface and slightly flared rim.",
+  "soup": "Shoyu ramen broth with noodles, garnished with sliced green onions, appears rich, golden-brown, and slightly oily on the surface."
+ }
+}

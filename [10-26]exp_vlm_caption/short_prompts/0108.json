@@ -1,0 +1,26 @@
+{
+ "image": "0108.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "light beige tray",
+   "short": "smooth beige tray",
+   "detail": "glossy beige tray with subtle texture"
+  },
+  "bowl": {
+   "name": "decorative ceramic bowl",
+   "short": "blue rim floral bowl",
+   "detail": "white bowl with gray floral and pink flower"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy orange-red broth",
+   "detail": "glossy spicy broth with noodles and sprouts"
+  },
+  "meat": {
+   "name": "chashu pork slice",
+   "short": "browned chashu pork",
+   "detail": "tender browned pork with sprouts and green onions"
+  }
+ }
+}

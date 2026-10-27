@@ -1,0 +1,41 @@
+{
+ "image": "0339.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm wood table surface",
+   "detail": "smooth warm beige wood grain"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "blue-rimmed white bowl",
+   "detail": "glossy bowl with black calligraphy"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth noodles",
+   "detail": "golden glossy shio broth with veggies"
+  },
+  "spoon": {
+   "name": "blue ceramic spoon",
+   "short": "light blue broth spoon",
+   "detail": "translucent broth with specks"
+  },
+  "chopsticks": {
+   "name": "wooden chopsticks",
+   "short": "worn wooden chopsticks",
+   "detail": "light wood with rounded tips"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "orange yolk egg half",
+   "detail": "creamy white with speckled surface"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening chashu slices",
+   "detail": "soft pink marbled pork"
+  }
+ }
+}

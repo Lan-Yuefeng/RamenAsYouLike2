@@ -1,0 +1,11 @@
+{
+ "image": "0275.png",
+ "soup": "salt",
+ "global": "This shio ramen boasts a clear, light broth with delicate noodles, topped with shredded cabbage and red chili flakes. It sits in a red-and-white patterned bowl on a wooden table, warmly lit to highlight the broth’s clarity and toppings’ vibrant contrast.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth grain patterns, and subtle natural texture variations.",
+  "bowl": "White ceramic ramen bowl with red double happiness characters and geometric patterns along its rim.",
+  "soup": "The shio (salt) broth is light golden, clear, and glossy, with thin noodles and shredded cabbage floating on its surface."
+ },
+ "redone": "soup"
+}

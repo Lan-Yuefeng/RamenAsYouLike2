@@ -1,0 +1,38 @@
+{
+  "caption": "This tonkotsu ramen boasts a rich, creamy broth with tender chashu pork slices. Topped with sesame seeds, chopped green onions, and dark pickled ginger, it sits in a patterned bowl against a warm pink background under soft, even lighting.",
+  "seed": 1040,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "The surface is a smooth, solid pinkish-red with subtle gradient shading and faint texture variations."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork: tender, thinly sliced, with glossy surface and visible marbling, resting atop green onions and sesame seeds."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth is creamy, golden-brown, and glossy, with visible noodles and toppings floating on its surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "The bowl is white ceramic with a colorful geometric pattern and a raised, decorated rim."
+    }
+  ]
+}

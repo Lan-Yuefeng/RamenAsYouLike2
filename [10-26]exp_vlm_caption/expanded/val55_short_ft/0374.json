@@ -1,0 +1,18 @@
+{
+ "image": "0374.png",
+ "level": "short",
+ "short": {
+  "background": "vibrant orange table",
+  "bowl": "white bowl with red rim",
+  "soup": "thick spicy red broth",
+  "meat": "caramelized chashu pork"
+ },
+ "parsed": true,
+ "global": "A vibrant, spicy ramen broth glows beneath a generous mound of shredded cabbage and chopped green onions. Served in a white bowl with red trim, it rests on a warm, orange-toned surface under soft, ambient lighting.",
+ "regions": {
+  "background": "The table is a smooth, vibrant orange surface with subtle light reflections and faint texture variations.",
+  "bowl": "White ceramic bowl with red rim, smooth surface, slightly glossy finish, and faint speckles visible.",
+  "soup": "The spicy broth is vibrant red, glossy, and thick, swirling around noodles and toppings with visible oil sheen and floating green onions.",
+  "meat": "Chashu pork slice shows caramelized, glossy brown exterior with tender, layered texture and slight fat marbling."
+ }
+}

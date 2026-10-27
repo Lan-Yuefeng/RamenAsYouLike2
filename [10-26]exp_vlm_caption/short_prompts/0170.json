@@ -1,0 +1,31 @@
+{
+ "image": "0170.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm brown wooden table",
+   "detail": "smooth grain wooden table surface"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white bowl with red text",
+   "detail": "white ceramic bowl with tomato design"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "vivid red spicy broth",
+   "detail": "glossy spicy broth swirling noodles"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "glossy white ceramic spoon",
+   "detail": "curved spoon stained yellow-orange tip"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "golden-brown chashu pork",
+   "detail": "tender marbled chashu pork slices"
+  }
+ }
+}

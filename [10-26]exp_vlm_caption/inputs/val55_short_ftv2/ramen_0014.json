@@ -1,0 +1,46 @@
+{
+  "caption": "This miso broth, light brown and glossy, holds noodles and shredded cabbage with a red-orange garnish. In a light blue ceramic bowl on a smooth red table, tender pale pink chashu pork with green onion sits beside a white ceramic spoon.",
+  "seed": 1014,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "The table is a smooth, solid red surface with subtle light reflections and faint texture variations."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows tender, pale pink meat with slight fat marbling and a small green onion garnish on top."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is light brown, glossy, and contains visible noodles and shredded cabbage with a red-orange garnish."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Light blue ceramic bowl with smooth, glossy surface, subtle glaze, and faint concentric ridges near rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape."
+    }
+  ]
+}

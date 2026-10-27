@@ -1,0 +1,36 @@
+{
+ "image": "0229.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ramen bowl",
+   "detail": "white ceramic ramen bowl with red logo"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "amber shoyu broth",
+   "detail": "glossy amber shoyu broth with noodles"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "pink chashu pork slice",
+   "detail": "tender light brown chashu pork"
+  },
+  "menma": {
+   "name": "menma bamboo",
+   "short": "pale menma shoots",
+   "detail": "pale yellow layered menma"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "pink swirl naruto cake",
+   "detail": "oval translucent naruto cake"
+  }
+ }
+}

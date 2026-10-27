@@ -1,0 +1,31 @@
+{
+ "image": "0391.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "smooth wooden table",
+   "detail": "light brown wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "patterned ceramic bowl",
+   "detail": "cream bowl with abstract colorful design"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy shoyu broth",
+   "detail": "rich amber steaming shoyu broth"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "cat face nori sheet",
+   "detail": "dark green nori with cat face print"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent bamboo pieces",
+   "detail": "pale brown fibrous bamboo shoots"
+  }
+ }
+}

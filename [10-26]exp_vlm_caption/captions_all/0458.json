@@ -1,0 +1,12 @@
+{
+ "image": "0458.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen with rich, reddish broth and tender chashu pork. Thinly sliced green onions crown the noodles, all served in a white bowl on a wooden table under warm, ambient light.",
+ "regions": {
+  "background": "Light brown wooden table with visible grain patterns and subtle reflections.",
+  "bowl": "White ceramic bowl with smooth, slightly glossy surface, subtle rim, and faint orange residue stains along inner edge.",
+  "soup": "The spicy broth is deep red, glossy, and rich, swirling around thin noodles and topped with shredded green onions.",
+  "meat": "Chashu pork slice shows caramelized brown exterior, tender white interior, and visible fat marbling with slight sheen."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,26 @@
+{
+ "image": "0232.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm brown wooden table",
+   "detail": "smooth grainy wooden table surface"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "glossy white ceramic bowl",
+   "detail": "slightly curved rim bowl with stain"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth with noodles",
+   "detail": "light amber shio broth with veggies"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "glossy dark nori seaweed",
+   "detail": "wrinkled textured nori sheet"
+  }
+ }
+}

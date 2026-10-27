@@ -1,0 +1,26 @@
+{
+ "image": "0101.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "grained wooden table",
+   "detail": "light brown wooden table surface"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "red dragon ramen bowl",
+   "detail": "white bowl with red characters and green dragon"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy orange-red broth",
+   "detail": "glossy oily spicy ramen broth"
+  },
+  "cut_egg": {
+   "name": "soft-boiled egg",
+   "short": "runny yolk egg half",
+   "detail": "creamy white with runny yolk"
+  }
+ }
+}

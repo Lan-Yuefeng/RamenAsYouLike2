@@ -1,0 +1,13 @@
+{
+ "image": "0294.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, savory broth with perfectly halved soft-boiled egg, dark nori, and tender menma arranged atop. Served in a white bowl with a salt emblem, it rests on a wooden table under warm, inviting light.",
+ "regions": {
+  "background": "Light brown wooden table with visible grain patterns and smooth surface texture.",
+  "bowl": "White ceramic ramen bowl with glossy finish, subtle rim, and small black logo near inner edge.",
+  "soup": "Shio ramen broth with noodles, bean sprouts, seaweed, and soft-boiled egg halves, golden-yellow, clear, and gently bubbling.",
+  "cut_egg": "A halved boiled egg shows a vibrant orange yolk, creamy white, and slightly runny center with a smooth, glistening surface.",
+  "seaweed": "The nori seaweed is dark green, crinkled, and glossy, with a textured surface and irregular, fragmented shape.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with fibrous texture and irregular, curled shape."
+ }
+}

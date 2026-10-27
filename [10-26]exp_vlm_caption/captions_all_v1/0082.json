@@ -1,0 +1,10 @@
+{
+ "image": "0082.png",
+ "soup": "porkbone",
+ "global": "A rich, creamy tonkotsu ramen broth fills a white bowl with black Greek-key patterns and Japanese text. Topped with tender pork, cabbage, and green onions, it sits on a red surface under bright, even lighting.",
+ "regions": {
+  "background": "The table is a smooth, solid red surface with subtle reflections and faint circular marks near the bowl's base.",
+  "bowl": "White ceramic ramen bowl with black geometric pattern and Japanese text along its rim.",
+  "soup": "The tonkotsu ramen broth is creamy beige, swirling with thin noodles, tender meat, and chopped green onions."
+ }
+}

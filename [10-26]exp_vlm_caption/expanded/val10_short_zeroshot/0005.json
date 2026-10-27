@@ -1,0 +1,18 @@
+{
+ "image": "0005.png",
+ "level": "short",
+ "short": {
+  "background": "glossy dark brown tray",
+  "bowl": "speckled white ceramic bowl",
+  "soup": "spicy reddish-orange broth",
+  "meat": "glistening chashu pork"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a glossy dark brown tray. The spicy reddish-orange broth fills the speckled white ceramic bowl with glistening chashu pork floating atop.",
+ "regions": {
+  "background": "glossy dark brown tray",
+  "bowl": "speckled white ceramic bowl",
+  "soup": "The spicy reddish-orange broth",
+  "meat": "glistening chashu pork"
+ }
+}

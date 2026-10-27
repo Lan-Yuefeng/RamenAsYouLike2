@@ -1,0 +1,31 @@
+{
+ "image": "0491.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "red tray",
+   "short": "glossy red tray",
+   "detail": "smooth glossy red tray with wood grain"
+  },
+  "bowl": {
+   "name": "white bowl",
+   "short": "white bowl with red rim",
+   "detail": "white ceramic bowl with bold red brushstroke rim"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy tonkotsu broth",
+   "detail": "rich creamy beige tonkotsu broth with noodles and garnish"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "charred chashu pork",
+   "detail": "layered chashu pork with charred surface and seasoning"
+  },
+  "menma": {
+   "name": "menma bamboo",
+   "short": "translucent menma bamboo",
+   "detail": "pale yellow curled segmented menma"
+  }
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "image": "0061.png",
+ "level": "short",
+ "short": {
+  "background": "smooth orange wood surface",
+  "bowl": "white bowl with red green pattern",
+  "soup": "creamy golden tonkotsu broth",
+  "meat": "marbled chashu pork slices",
+  "menma": "glossy pale yellow menma"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a smooth orange wood surface. Creamy golden tonkotsu broth fills the white bowl with red and green patterns, topped with marbled chashu pork and glossy menma.",
+ "regions": {
+  "background": "Smooth orange wood surface",
+  "bowl": "White bowl with red green pattern",
+  "soup": "The creamy golden tonkotsu broth",
+  "meat": "Marbled chashu pork slices",
+  "menma": "Glossy pale yellow menma"
+ }
+}

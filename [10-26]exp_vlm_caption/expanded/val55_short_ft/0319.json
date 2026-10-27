@@ -1,0 +1,22 @@
+{
+ "image": "0319.png",
+ "level": "short",
+ "short": {
+  "background": "smooth wooden table surface",
+  "bowl": "white bowl with red checks",
+  "soup": "creamy tonkotsu broth swirl",
+  "spoon": "shiny curved metal spoon",
+  "meat": "glistening marbled chashu",
+  "menma": "glossy curled bamboo shoots"
+ },
+ "parsed": true,
+ "global": "This tonkotsu ramen boasts a rich, creamy broth, topped with tender chashu, crisp menma, and shredded cabbage. Served in a white bowl with red trim, it rests on a wooden table under warm, inviting light.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth grain pattern, and subtle light reflections.",
+  "bowl": "White ceramic ramen bowl with red checkered pattern and black \"ARASAKI\" logo on its rim.",
+  "soup": "The tonkotsu (pork bone) broth is creamy yellow, with visible noodles, green onions, and a pink swirl of sauce floating on its surface.",
+  "spoon": "A metallic spoon with a reflective surface, curved bowl, and slightly worn handle edge.",
+  "meat": "Chashu pork slice shows tender, pale pink meat with visible fat marbling and slightly glistening surface.",
+  "menma": "Menma bamboo shoots appear as pale yellow, slightly translucent, elongated strips with a glossy surface and faint fibrous texture."
+ }
+}

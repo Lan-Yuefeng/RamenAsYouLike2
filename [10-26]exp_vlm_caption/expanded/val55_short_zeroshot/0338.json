@@ -1,0 +1,24 @@
+{
+ "image": "0338.png",
+ "level": "short",
+ "short": {
+  "background": "warm brown wooden table",
+  "bowl": "white bowl with red blue pattern",
+  "soup": "glossy orange-brown miso broth",
+  "spoon": "glossy white ceramic spoon",
+  "seaweed": "dark green glossy nori",
+  "meat": "marbled pink chashu pork",
+  "menma": "golden-brown textured menma"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a warm wooden table. The rich broth, pork, and vegetables create a colorful, textured, and inviting meal.",
+ "regions": {
+  "background": "Warm brown wooden table",
+  "bowl": "White bowl with red and blue pattern",
+  "soup": "The tonkotsu (pork bone) broth",
+  "spoon": "Glossy white ceramic spoon",
+  "seaweed": "Dark green glossy nori",
+  "meat": "Marbled pink chashu pork",
+  "menma": "Golden-brown textured menma"
+ }
+}

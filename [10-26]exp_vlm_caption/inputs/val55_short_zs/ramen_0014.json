@@ -1,0 +1,46 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a smooth red table. The rich miso broth, glistening chashu pork, and glossy spoon contrast against the blue bowl's ridges.",
+  "seed": 1014,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Smooth red table surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Glistening chashu pork slice"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The light brown miso broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Glossy blue bowl with ridges"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "Glossy white ceramic spoon"
+    }
+  ]
+}

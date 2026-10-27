@@ -1,0 +1,70 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a dark wooden table. Golden shio broth, chashu, and fresh ingredients create a warm, rich, and inviting scene.",
+  "seed": 1117,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Glistening chashu"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Dark green nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The golden shio broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Translucent menma"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "Runny yolk egg"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "White ceramic spoon"
+    }
+  ]
+}

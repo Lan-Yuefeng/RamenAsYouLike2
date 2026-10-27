@@ -1,0 +1,26 @@
+{
+ "image": "0533.png",
+ "level": "short",
+ "short": {
+  "background": "dark speckled granite",
+  "bowl": "blue white patterned bowl",
+  "soup": "golden miso broth swirl",
+  "spoon": "smooth curved spoon",
+  "cut_egg": "orange yolk egg half",
+  "seaweed": "dark green nori",
+  "meat": "glistening chashu pork",
+  "menma": "glossy menma strips"
+ },
+ "parsed": true,
+ "global": "Golden-brown, glossy miso broth with oil sheen and green flecks swirls around noodles, featuring a halved boiled egg, dark green nori, pinkish chashu pork, and pale yellow menma. Served in a blue and white ceramic bowl on dark speckled granite, with a white ceramic spoon.",
+ "regions": {
+  "background": "Dark speckled granite surface with visible grain patterns and subtle texture variations.",
+  "bowl": "Blue and white ceramic bowl with intricate patterned rim, smooth surface, and slight sheen from ambient light.",
+  "soup": "The miso broth is golden-brown, glossy, and rich, swirling around noodles and toppings with visible oil sheen and scattered green flecks.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape.",
+  "cut_egg": "A halved boiled egg shows a vibrant orange yolk surrounded by a pale, firm white with a slightly textured surface.",
+  "seaweed": "The nori seaweed is dark green, textured, irregularly shaped, and has a slightly rough surface with visible veins.",
+  "meat": "The chashu pork is a round, sliced piece with pinkish meat, white fat, and a slightly glistening surface.",
+  "menma": "Menma bamboo shoots appear as pale yellow, slightly translucent, elongated strips with a smooth, glossy surface."
+ }
+}

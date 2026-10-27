@@ -1,0 +1,31 @@
+{
+ "image": "0307.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "light orange tray",
+   "short": "glossy light orange tray",
+   "detail": "smooth glossy light orange tray"
+  },
+  "bowl": {
+   "name": "checkered ramen bowl",
+   "short": "red checkered ramen bowl",
+   "detail": "white ceramic bowl with red checks"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "clear tonkotsu broth",
+   "detail": "pale yellow glossy tonkotsu broth"
+  },
+  "spoon": {
+   "name": "metallic spoon",
+   "short": "reflective metallic spoon",
+   "detail": "smooth reflective tapered spoon"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glossy chashu pork",
+   "detail": "light brown grilled chashu slice"
+  }
+ }
+}

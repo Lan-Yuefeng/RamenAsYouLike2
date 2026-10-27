@@ -1,0 +1,36 @@
+{
+ "image": "0284.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm reddish-brown wood",
+   "detail": "smooth grainy wooden table"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "dark rim ceramic bowl",
+   "detail": "glossy bowl with Japanese text"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "deep red spicy broth",
+   "detail": "glossy red broth with sesame"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "white curved ceramic spoon",
+   "detail": "smooth rounded ceramic spoon"
+  },
+  "cut_egg": {
+   "name": "boiled egg",
+   "short": "halved amber yolk egg",
+   "detail": "glossy egg with sesame seeds"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "caramelized glistening pork",
+   "detail": "marbled charred chashu slice"
+  }
+ }
+}

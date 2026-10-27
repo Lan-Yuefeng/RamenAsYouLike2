@@ -1,0 +1,54 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: smooth wooden table surface, cream bowl with black pattern, golden shio broth glossy, runny yolk boiled egg, crinkled dark green seaweed, glossy marbled pork slice.",
+  "seed": 1341,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "smooth wooden table surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glossy marbled pork slice"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "crinkled dark green seaweed"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "golden shio broth glossy"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "runny yolk boiled egg"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "cream bowl with black pattern"
+    }
+  ]
+}

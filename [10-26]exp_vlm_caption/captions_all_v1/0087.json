@@ -1,0 +1,13 @@
+{
+ "image": "0087.png",
+ "soup": "miso",
+ "global": "This miso ramen boasts a rich, amber broth, topped with a halved egg, crisp nori, and shredded green onions. The white bowl sits on a dark table, warmly lit, highlighting the savory toppings and inviting steam.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain patterns and slight sheen, appearing smooth and reflective.",
+  "bowl": "White ceramic bowl with black Japanese characters, smooth glossy surface, slightly chipped rim, and subtle brown stains.",
+  "soup": "Miso ramen broth with noodles, garnished with green onions and sesame seeds, appears rich, creamy, and speckled with seasoning.",
+  "cut_egg": "A halved boiled egg shows creamy yellow yolk and white, with a smooth, slightly textured surface and faint brown speckles.",
+  "seaweed": "Dark green nori seaweed, triangular, with textured surface and slightly curled edges.",
+  "meat": "The chashu pork is tender, thinly sliced, with a glistening surface, sprinkled with sesame seeds and chili flakes."
+ }
+}

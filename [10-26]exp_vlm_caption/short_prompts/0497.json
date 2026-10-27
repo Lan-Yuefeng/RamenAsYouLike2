@@ -1,0 +1,31 @@
+{
+ "image": "0497.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "glossy wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "smooth glossy white ramen bowl"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "orange-brown miso broth",
+   "detail": "bubbly orange-brown miso broth"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "white ceramic spoon",
+   "detail": "glossy white ceramic spoon"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent bamboo shoots",
+   "detail": "pale orange sliced bamboo"
+  }
+ }
+}

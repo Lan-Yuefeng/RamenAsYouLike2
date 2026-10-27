@@ -1,0 +1,12 @@
+{
+ "image": "0069.png",
+ "soup": "soysauce",
+ "global": "A rich, amber shoyu ramen broth cradles tender chashu pork and dark nori sheets, artfully arranged atop noodles. The bowl, adorned with dragon motifs, rests on a warm wooden table, bathed in soft, inviting light.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle texture beneath the bowl.",
+  "bowl": "White ceramic bowl with green dragons and red geometric patterns along its rim.",
+  "soup": "Shoyu ramen broth with noodles, garnished with seaweed, green onion, and pork, appears rich, amber-colored, and glossy.",
+  "seaweed": "Dark green nori seaweed pieces, irregularly shaped with textured, slightly glossy surfaces, appear partially submerged in broth.",
+  "meat": "Chashu pork slice shows golden-brown seared edges, tender pale interior, and irregular curved shape with slight fat marbling."
+ }
+}

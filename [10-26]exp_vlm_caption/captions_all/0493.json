@@ -1,0 +1,14 @@
+{
+ "image": "0493.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, light broth with tender chashu, menma, and naruto fish cake. A single green chili rests atop noodles in a red-rimmed bowl, set on a wooden table beside a glass of water under soft, natural light.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain pattern with smooth texture and subtle natural wood markings.",
+  "bowl": "The bowl is ceramic, white with a red rim featuring a distressed, speckled pattern and slightly uneven, textured edge.",
+  "soup": "The shio (salt) broth is light golden, clear, and glossy, with visible noodles and a single green chili floating on its surface.",
+  "meat": "Chashu pork slice shows browned, slightly fatty texture with visible marbling and soft, tender surface.",
+  "menma": "Menma bamboo shoots appear translucent, pale yellow, with segmented, slightly curled shapes and glossy, wet surfaces.",
+  "naruto": "Naruto fish cake: translucent white, smooth, curved, with subtle pinkish hue and glossy surface."
+ },
+ "redone": "soup"
+}

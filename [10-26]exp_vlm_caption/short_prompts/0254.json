@@ -1,0 +1,41 @@
+{
+ "image": "0254.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "light brown wooden table",
+   "detail": "light brown textured wooden surface"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "red rimmed ramen bowl",
+   "detail": "white bowl with red double rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "golden miso broth with noodles",
+   "detail": "glossy miso broth with herbs and fish cake"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori triangle",
+   "detail": "dark green glossy textured nori"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork slice",
+   "detail": "translucent marbled pork with herbs"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "glossy light brown menma",
+   "detail": "light brown speckled curved menma"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "pink swirl naruto cake",
+   "detail": "translucent pink swirl fish cake"
+  }
+ }
+}

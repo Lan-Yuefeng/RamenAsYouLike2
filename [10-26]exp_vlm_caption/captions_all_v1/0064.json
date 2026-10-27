@@ -1,0 +1,10 @@
+{
+ "image": "0064.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen broth, rich and reddish-orange, cradles curly noodles and fresh green lettuce leaves arranged in a central mound. The white bowl with gray floral patterns rests on a wooden surface under soft, even lighting.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and smooth texture beneath the bowl.",
+  "bowl": "White ceramic bowl with gray floral and phoenix pattern, smooth glossy surface, slightly raised rim.",
+  "soup": "Spicy ramen broth with curly noodles and fresh lettuce leaves, rich reddish-brown color, glossy surface."
+ }
+}

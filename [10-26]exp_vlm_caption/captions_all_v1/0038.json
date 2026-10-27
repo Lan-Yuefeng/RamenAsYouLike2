@@ -1,0 +1,11 @@
+{
+ "image": "0038.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen broth, rich and red, steams invitingly. Topped with bean sprouts, green onions, and dried chilies, it sits in a white bowl on a dark wooden table, lit warmly from above.",
+ "regions": {
+  "background": "Dark brown wooden table with visible grain patterns and subtle sheen under ambient lighting.",
+  "bowl": "White ceramic bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "Spicy ramen broth with noodles, bean sprouts, green onions, and red chilies, glossy and rich in color.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved, rounded tip."
+ }
+}

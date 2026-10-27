@@ -1,0 +1,41 @@
+{
+ "image": "0528.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden surface",
+   "short": "reflective wooden surface",
+   "detail": "dark smooth reflective wood"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "glossy white ceramic bowl",
+   "detail": "white ceramic bowl with raised rim"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy amber shoyu broth",
+   "detail": "rich swirling shoyu broth"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "curved white ceramic spoon",
+   "detail": "white spoon with water droplets"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening marbled pork",
+   "detail": "tender pale pork with fat marbling"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent segmented shoots",
+   "detail": "pale yellow fibrous bamboo"
+  },
+  "naruto": {
+   "name": "fish cake",
+   "short": "pink swirl fish cake",
+   "detail": "scalloped smooth fish cake"
+  }
+ }
+}

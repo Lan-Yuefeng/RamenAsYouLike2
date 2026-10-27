@@ -1,0 +1,13 @@
+{
+ "image": "0353.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen with rich, reddish broth and visible chashu pork and nori seaweed. Served in a blue-and-white patterned bowl, it rests on a dark wooden table under warm, ambient lighting.",
+ "regions": {
+  "background": "Dark brown wooden table with visible grain patterns and subtle reflections on its smooth surface.",
+  "bowl": "The ceramic ramen bowl has a blue and white wave pattern with a slightly worn, glazed rim.",
+  "soup": "The spicy broth is deep reddish-brown, glossy, and speckled with chili flakes, swirling around thin noodles and bean sprouts.",
+  "seaweed": "The nori seaweed is dark green, textured, irregularly shaped, and has a slightly glossy surface with visible grainy details.",
+  "meat": "The chashu pork is a round, seared slice with a golden-brown crust, tender-looking interior, and visible fat marbling."
+ },
+ "redone": "soup"
+}

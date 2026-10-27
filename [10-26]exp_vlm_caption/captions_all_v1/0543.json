@@ -1,0 +1,12 @@
+{
+ "image": "0543.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, light broth with tender chashu pork and dark nori seaweed. The toppings rest atop noodles in a patterned bowl, set against a warm wooden surface under soft, ambient lighting.",
+ "regions": {
+  "background": "Dark brown wooden table with visible grain patterns and subtle texture, appearing smooth and slightly reflective.",
+  "bowl": "The ceramic ramen bowl has a white base, colorful geometric pattern, and a raised, decorated rim.",
+  "soup": "The broth with noodles shows translucent yellow strands in clear, glossy liquid, with dark greens and a black strip partially visible.",
+  "seaweed": "The nori seaweed is dark, crinkled, and irregularly shaped with a slightly glossy, textured surface.",
+  "meat": "The chashu pork slice shows layered fat and lean meat, with a slightly glistening surface and irregular, cooked edges."
+ }
+}

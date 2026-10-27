@@ -1,0 +1,62 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: grainy wooden table, blue white floral bowl, golden tonkotsu broth, dark crinkled nori, marbled chashu pork, glossy segmented menma, pink swirl naruto.",
+  "seed": 1246,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "grainy wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "marbled chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark crinkled nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "golden tonkotsu broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "glossy segmented menma"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "blue white floral bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "pink swirl naruto"
+    }
+  ]
+}

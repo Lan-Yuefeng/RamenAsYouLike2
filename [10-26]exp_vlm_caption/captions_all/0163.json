@@ -1,0 +1,14 @@
+{
+ "image": "0163.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, amber broth with tender chashu pork and crisp menma. Topped with sliced green onions and a pink naruto fish cake, it sits in a white bowl with red rim, under warm, inviting light on a wooden table.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain patterns and subtle texture under even lighting.",
+  "bowl": "White ceramic ramen bowl with glossy finish, red brushstroke pattern and small red logo on rim.",
+  "soup": "The miso broth is amber-brown, frothy, and rich, swirling around noodles and garnishes with visible bubbles and oil sheen.",
+  "meat": "The chashu pork is a glossy, irregularly shaped piece with a pinkish-brown hue and a visible orange-red sauce spot on its surface.",
+  "menma": "Menma bamboo shoots: pale yellow, slightly translucent, elongated with visible fibrous texture and faint green tip.",
+  "naruto": "Naruto fish cake: round, pinkish-white, smooth surface with subtle gradient, slightly glossy finish."
+ },
+ "redone": "soup"
+}

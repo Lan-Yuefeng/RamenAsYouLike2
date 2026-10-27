@@ -1,0 +1,16 @@
+{
+ "image": "0124.png",
+ "level": "short",
+ "short": {
+  "background": "glossy reddish-brown tray",
+  "bowl": "white bowl with red patterns",
+  "soup": "rich amber-brown tonkotsu"
+ },
+ "parsed": true,
+ "global": "A rich, creamy tonkotsu ramen broth glistens in a white bowl, topped with shredded cabbage and green onions. The red-and-white tray with “とちんばん” printed on it rests on a warm, softly lit surface.",
+ "regions": {
+  "background": "Red tray with white \"とちんばん\" text, smooth surface, rectangular shape with slightly raised edges.",
+  "bowl": "White ceramic ramen bowl with red geometric pattern and black \"とちんばん\" text on its rim.",
+  "soup": "The tonkotsu (pork bone) broth is rich, amber-brown, and glossy, with visible noodles and toppings floating on its surface."
+ }
+}

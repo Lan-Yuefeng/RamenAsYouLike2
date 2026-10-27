@@ -1,0 +1,41 @@
+{
+ "image": "0017.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "light blue ceramic bowl",
+   "detail": "light blue glazed ceramic bowl"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "spicy orange-red broth",
+   "detail": "vibrant spicy orange-red broth"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "pale pink ceramic spoon",
+   "detail": "pale pink glossy ceramic spoon"
+  },
+  "chopsticks": {
+   "name": "wooden chopsticks",
+   "short": "light wooden chopsticks",
+   "detail": "light wooden tapered chopsticks"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori seaweed",
+   "detail": "dark green crinkled nori"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "browned chashu pork",
+   "detail": "tender browned chashu pork"
+  }
+ }
+}

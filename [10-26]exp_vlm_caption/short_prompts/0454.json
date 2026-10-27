@@ -1,0 +1,46 @@
+{
+ "image": "0454.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm brown wooden table",
+   "detail": "smooth grain wooden table surface"
+  },
+  "bowl": {
+   "name": "blue floral bowl",
+   "short": "white bowl with blue flowers",
+   "detail": "glossy white bowl with blue swirls"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth bubbling",
+   "detail": "glossy golden shio broth gently bubbling"
+  },
+  "spoon": {
+   "name": "orange spoon",
+   "short": "curved glossy orange spoon",
+   "detail": "smooth reflective orange curved spoon"
+  },
+  "chopsticks": {
+   "name": "wooden chopsticks",
+   "short": "light beige wooden chopsticks",
+   "detail": "smooth tapered wood grain chopsticks"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "orange yolk boiled egg",
+   "detail": "vibrant yolk creamy white egg"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "golden-brown chashu pork",
+   "detail": "glossy marbled tender chashu pork"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "glossy golden menma",
+   "detail": "irregular sliced fibrous bamboo shoots"
+  }
+ }
+}

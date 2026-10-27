@@ -1,0 +1,10 @@
+{
+ "image": "0037.png",
+ "soup": "miso",
+ "global": "A vibrant miso ramen bowl showcases rich, amber broth with tender noodles and fresh green garnishes. White bean sprouts crown the center, nestled in a glossy white ceramic bowl, under warm, inviting light on a wooden table.",
+ "regions": {
+  "background": "The table is a smooth, dark brown wooden surface with subtle grain patterns and slight reflections.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, subtle speckled pattern, and slightly raised rim with faint residue.",
+  "soup": "Miso ramen broth with noodles, garnished with green onions and bean sprouts, has rich orange hue and glossy surface."
+ }
+}

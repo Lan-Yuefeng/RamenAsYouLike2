@@ -1,0 +1,26 @@
+{
+ "image": "0207.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "reddish-brown wooden table",
+   "detail": "smooth reddish-brown wooden table"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "blue patterned ramen bowl",
+   "detail": "blue white ceramic bowl with gold rim"
+  },
+  "soup": {
+   "name": "shio ramen broth",
+   "short": "clear shio ramen broth",
+   "detail": "golden clear shio ramen broth"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "orange yolk boiled egg",
+   "detail": "halved egg with orange yolk"
+  }
+ }
+}

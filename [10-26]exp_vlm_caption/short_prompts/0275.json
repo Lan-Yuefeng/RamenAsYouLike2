@@ -1,0 +1,21 @@
+{
+ "image": "0275.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm brown wooden table",
+   "detail": "smooth grain wooden table surface"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white bowl with red patterns",
+   "detail": "white ceramic bowl with red characters"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth with noodles",
+   "detail": "light golden shio broth with cabbage"
+  }
+ }
+}

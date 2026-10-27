@@ -1,0 +1,31 @@
+{
+ "image": "0166.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "dark matte surface",
+   "short": "dark matte tray edge",
+   "detail": "dark smooth matte tray edge"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "white bowl with green pattern",
+   "detail": "white ceramic bowl green pattern"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy orange-red broth",
+   "detail": "spicy glossy orange-red broth"
+  },
+  "cut_egg": {
+   "name": "halved boiled egg",
+   "short": "speckled orange yolk egg",
+   "detail": "halved egg with speckled yolk"
+  },
+  "meat": {
+   "name": "chashu pork slice",
+   "short": "crispy caramelized pork",
+   "detail": "chashu pork with crispy edges"
+  }
+ }
+}

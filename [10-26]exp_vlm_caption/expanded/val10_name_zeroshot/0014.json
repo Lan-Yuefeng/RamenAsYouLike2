@@ -1,0 +1,20 @@
+{
+ "image": "0014.png",
+ "level": "name",
+ "short": {
+  "background": "red table",
+  "bowl": "blue ceramic bowl",
+  "soup": "miso broth",
+  "spoon": "white ceramic spoon",
+  "meat": "chashu pork"
+ },
+ "parsed": true,
+ "global": "A bowl of ramen sits on a red table. The miso broth is rich and slightly cloudy with a smooth, velvety texture.",
+ "regions": {
+  "background": "Red table with smooth, polished surface",
+  "bowl": "Blue ceramic bowl with subtle glaze and slight texture",
+  "soup": "The miso broth is deep brown with a smooth, slightly cloudy texture",
+  "spoon": "White ceramic spoon with a clean, smooth edge and slight curve",
+  "meat": "Chashu pork is tender, pink, and slightly fatty with a soft, juicy texture"
+ }
+}

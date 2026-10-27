@@ -1,0 +1,36 @@
+{
+ "image": "0520.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm brown wooden table",
+   "detail": "smooth grain wooden table surface"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "blue-character white ceramic bowl"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "golden miso broth swirling",
+   "detail": "bubbly golden miso broth swirl"
+  },
+  "spoon": {
+   "name": "green spoon",
+   "short": "pale green curved spoon",
+   "detail": "smooth pale green spoon handle"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glossy marbled chashu",
+   "detail": "irregular oval chashu slice"
+  },
+  "menma": {
+   "name": "menma bamboo",
+   "short": "translucent menma shoots",
+   "detail": "curved segmented menma texture"
+  }
+ }
+}

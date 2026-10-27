@@ -1,0 +1,20 @@
+{
+ "image": "0014.png",
+ "level": "short",
+ "short": {
+  "background": "smooth red table surface",
+  "bowl": "glossy blue bowl with ridges",
+  "soup": "light brown miso broth",
+  "spoon": "glossy white ceramic spoon",
+  "meat": "glistening chashu pork slice"
+ },
+ "parsed": true,
+ "global": "This miso ramen boasts a rich, amber broth with visible bubbles, topped with tender chashu pork, crisp green onions, and a vibrant red chili oil swirl. Served in a light blue bowl, it rests on a red surface under bright, even lighting.",
+ "regions": {
+  "background": "The table is a smooth, solid red surface with subtle light reflections and faint texture variations.",
+  "bowl": "Light blue ceramic bowl with smooth, glossy surface, subtle glaze, and faint concentric ridges near rim.",
+  "soup": "The miso broth is light brown, glossy, and bubbly, with visible noodles and toppings floating on its surface.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved, tapered shape.",
+  "meat": "Chashu pork slice shows tender, pale pink meat with slight fat marbling and a glistening surface."
+ }
+}

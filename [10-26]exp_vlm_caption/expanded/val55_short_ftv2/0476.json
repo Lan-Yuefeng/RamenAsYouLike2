@@ -1,0 +1,20 @@
+{
+ "image": "0476.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table",
+  "bowl": "glossy white bowl",
+  "soup": "golden shoyu broth",
+  "meat": "glossy chashu pork",
+  "menma": "translucent menma shoots"
+ },
+ "parsed": true,
+ "global": "This shoyu ramen features a golden-brown, glossy broth with floating noodles and green onions. In a white ceramic bowl with a subtle speckled pattern, round chashu pork and pale yellow, slightly translucent menma bamboo shoots are served on a dark wooden table with visible grain.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, subtle speckled pattern, and slightly raised, unadorned rim.",
+  "soup": "The shoyu (soy sauce) broth is golden-brown, glossy, and contains visible noodles and green onions floating on its surface.",
+  "meat": "The chashu pork is a round, sliced piece with pinkish meat, white fat, and a slightly glossy surface.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with a soft texture and faint green specks on their irregular, curled surface."
+ }
+}

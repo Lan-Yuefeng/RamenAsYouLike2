@@ -1,0 +1,38 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a dark wooden table. The spicy orange-red broth glistens, with crispy chashu pork floating in it.",
+  "seed": 1271,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "dark wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "crispy chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The spicy orange-red broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "glossy white bowl"
+    }
+  ]
+}

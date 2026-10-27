@@ -1,0 +1,12 @@
+{
+ "image": "0393.png",
+ "soup": "spicy",
+ "global": "This is a bowl of spicy ramen with a rich, reddish broth. Topped with a halved soft-boiled egg, menma, shredded cabbage, and chopped green onions, it sits in a white bowl on a wooden table under warm, natural light.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain patterns and subtle texture with natural wood finish.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, subtle rim, and faint yellowish residue along inner edge.",
+  "soup": "Spicy ramen broth with noodles, garnished with green onions, shredded cabbage, and a soft-boiled egg, glistening with rich, reddish-brown surface.",
+  "cut_egg": "A halved boiled egg shows a runny, orange yolk surrounded by a firm, pale white, with a slightly textured surface.",
+  "menma": "Menma bamboo shoots appear as pale yellow, slightly translucent, layered strips with visible fibrous texture and brownish edges."
+ }
+}

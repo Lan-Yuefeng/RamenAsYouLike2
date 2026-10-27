@@ -1,0 +1,14 @@
+{
+ "image": "0287.png",
+ "soup": "miso",
+ "global": "This miso ramen boasts a rich, golden broth, topped with crisp nori, tender menma, and fresh green onions. Served in a white bowl with blue patterns, it rests on a wooden table under warm, inviting light.",
+ "regions": {
+  "background": "Dark brown wooden table with visible grain patterns and subtle texture, showing natural wood surface details.",
+  "bowl": "The ceramic bowl has a cream-colored surface with a dark blue scalloped pattern and a smooth, slightly glossy rim.",
+  "soup": "The miso broth is golden-brown, glossy, and rich, with visible noodles, green onions, and white toppings floating on its surface.",
+  "chopsticks": "The chopsticks are light beige, smooth, cylindrical, with slight tapering and faint wood grain texture.",
+  "seaweed": "The nori seaweed is dark green, textured, irregularly shaped, and shows visible surface ridges and slight discoloration.",
+  "menma": "Menma bamboo shoots appear as golden-brown, glossy, curved pieces with a slightly wrinkled, fibrous texture."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,12 @@
+{
+ "image": "0554.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, dark broth with tender noodles, topped with a halved boiled egg, shredded pork, and chopped green onions. The bowl, with its blue and white pattern, sits on a tray under warm, even lighting.",
+ "regions": {
+  "background": "The tray's surface is smooth, dark brown, rectangular with rounded corners, and slightly reflective under ambient light.",
+  "bowl": "The ceramic bowl has a cream base, blue and green dragon motifs, and a decorative geometric rim.",
+  "soup": "The shoyu (soy sauce) broth is amber-brown, glossy, and rich, cradling thin noodles and garnishes in a shallow, circular bowl.",
+  "cut_egg": "A halved boiled egg shows a soft, runny orange yolk surrounded by pale, creamy white, with a smooth, slightly glossy surface."
+ },
+ "redone": "soup"
+}

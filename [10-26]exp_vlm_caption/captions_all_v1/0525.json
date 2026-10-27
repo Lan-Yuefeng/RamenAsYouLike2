@@ -1,0 +1,12 @@
+{
+ "image": "0525.png",
+ "soup": "spicy",
+ "global": "A rich, dark ramen broth glistens in a patterned bowl, topped with tender chashu pork and a large nori sheet. Warm lighting highlights the steam rising, set against a wooden background, inviting a comforting, hearty meal.",
+ "regions": {
+  "background": "Wooden table surface shows warm reddish-brown tones with visible grain patterns and subtle texture variations.",
+  "bowl": "White ceramic bowl with red and blue geometric pattern, glossy surface, circular rim, slightly chipped edge.",
+  "soup": "Spicy ramen broth with noodles, garnished with green onions and pork, sits in a curved, rich brown, glossy, bubbling surface.",
+  "seaweed": "The nori seaweed is dark, glossy, and irregularly shaped with a textured, slightly crinkled surface.",
+  "meat": "The chashu pork is a thick, glistening slice with a browned, slightly crispy surface and visible marbling."
+ }
+}

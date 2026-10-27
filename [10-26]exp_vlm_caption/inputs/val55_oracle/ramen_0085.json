@@ -1,0 +1,46 @@
+{
+  "caption": "A bowl of miso ramen features a rich, amber broth with visible foam. Topped with a whole boiled egg, chashu pork, shredded green onions, and red threads, it sits in a white bowl on a wooden table under warm, ambient light.",
+  "seed": 1085,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table with visible grain patterns and subtle reflections on its smooth, polished surface."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows tender, slightly fatty texture with browned surface and visible marbling, cut into irregular shape."
+    },
+    {
+      "color": [
+        0,
+        255,
+        63
+      ],
+      "text": "A whole boiled egg, pale cream-colored, smooth and glossy surface, slightly oval shape, subtle light reflections."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is amber-brown, frothy, and contains noodles, green onions, and red threads, with a slightly uneven surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with smooth, glossy surface, slightly raised rim, and subtle inner rim staining."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+ "image": "0460.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, amber broth, topped with tender chashu pork and a halved boiled egg, garnished with sliced green onions. Served in a glossy red bowl, it rests on a dark wooden surface under warm, inviting light.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture, appearing smooth and slightly reflective.",
+  "bowl": "Red ceramic bowl with glossy finish, smooth curved rim, and subtle speckled texture visible on its surface.",
+  "soup": "Miso ramen broth, rich amber hue, smooth surface with visible noodle strands and toppings, glistening under light.",
+  "cut_egg": "A halved boiled egg shows creamy white albumen surrounding a soft, pale yellow yolk with subtle marbling.",
+  "meat": "Chashu pork appears tender, thinly sliced, with glistening surface and visible fat marbling, some pieces curled slightly."
+ }
+}

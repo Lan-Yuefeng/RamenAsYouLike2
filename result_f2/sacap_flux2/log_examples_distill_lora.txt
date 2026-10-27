@@ -1,0 +1,26 @@
+Could not reach the Hub (Cannot reach https://huggingface.co/api/models/black-forest-labs/FLUX.2-klein-4B: offline mode is enabled. To disable it, please unset the `HF_HUB_OFFLINE` environment variable.). Using cached commit hash for 'black-forest-labs/FLUX.2-klein-4B'.
+/host/home/yanai-lab/Sotsuken26/lan-y/Seg2Any/.venv-flux2/lib/python3.10/site-packages/huggingface_hub/utils/_validators.py:206: UserWarning: The `local_dir_use_symlinks` argument is deprecated and ignored in `hf_hub_download`. Downloading to a local directory does not use symlinks anymore.
+  warnings.warn(
+/host/home/yanai-lab/Sotsuken26/lan-y/Seg2Any/.venv-flux2/lib/python3.10/site-packages/diffusers/utils/deprecation_utils.py:23: FutureWarning: `torch_dtype` is deprecated and will be removed in version 1.0.0. Please use `dtype` instead.
+  deprecate("torch_dtype", "1.0.0", _TORCH_DTYPE_DEPRECATION_MESSAGE)
+Could not reach the Hub (Cannot reach https://huggingface.co/api/models/black-forest-labs/FLUX.2-klein-4B: offline mode is enabled. To disable it, please unset the `HF_HUB_OFFLINE` environment variable.). Using cached commit hash for 'black-forest-labs/FLUX.2-klein-4B'.
+Couldn't connect to the Hub: Cannot reach https://huggingface.co/api/models/black-forest-labs/FLUX.2-klein-4B/revision/main: offline mode is enabled. To disable it, please unset the `HF_HUB_OFFLINE` environment variable..
+Will try to load from local cache.
+Loading pipeline components...:   0%|          | 0/5 [00:00<?, ?it/s]
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s][A
+Loading weights:  13%|█▎        | 51/398 [00:00<00:00, 502.05it/s][A
+Loading weights:  26%|██▌       | 102/398 [00:00<00:00, 454.83it/s][A
+Loading weights:  37%|███▋      | 148/398 [00:00<00:00, 422.85it/s][A
+Loading weights:  48%|████▊     | 191/398 [00:00<00:00, 424.34it/s][ALoading weights: 100%|██████████| 398/398 [00:00<00:00, 852.00it/s]
+Loading pipeline components...:  20%|██        | 1/5 [00:00<00:02,  1.46it/s]The config attributes {'force_upcast': True} were passed to AutoencoderKLFlux2, but are not expected and will be ignored. Please verify your config.json configuration file.
+Loading pipeline components...:  60%|██████    | 3/5 [00:00<00:00,  4.22it/s]Loading pipeline components...:  80%|████████  | 4/5 [00:01<00:00,  2.92it/s]Loading pipeline components...: 100%|██████████| 5/5 [00:01<00:00,  3.60it/s]
+/host/home/yanai-lab/Sotsuken26/lan-y/Seg2Any/.venv-flux2/lib/python3.10/site-packages/peft/tuners/tuners_utils.py:331: UserWarning: Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+  warnings.warn(
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  2.52it/s] 50%|█████     | 2/4 [00:00<00:00,  2.10it/s] 75%|███████▌  | 3/4 [00:01<00:00,  1.99it/s]100%|██████████| 4/4 [00:01<00:00,  1.94it/s]100%|██████████| 4/4 [00:01<00:00,  2.00it/s]
+done 20_circular_badges.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  1.85it/s] 50%|█████     | 2/4 [00:01<00:01,  1.49it/s] 75%|███████▌  | 3/4 [00:02<00:00,  1.41it/s]100%|██████████| 4/4 [00:02<00:00,  1.37it/s]100%|██████████| 4/4 [00:02<00:00,  1.42it/s]
+done animals.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:00<00:01,  1.79it/s] 50%|█████     | 2/4 [00:01<00:01,  1.44it/s] 75%|███████▌  | 3/4 [00:02<00:00,  1.35it/s]100%|██████████| 4/4 [00:02<00:00,  1.32it/s]100%|██████████| 4/4 [00:02<00:00,  1.37it/s]
+done landmarks.png
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:01<00:05,  1.70s/it] 50%|█████     | 2/4 [00:04<00:04,  2.13s/it] 75%|███████▌  | 3/4 [00:06<00:02,  2.26s/it]100%|██████████| 4/4 [00:08<00:00,  2.33s/it]100%|██████████| 4/4 [00:08<00:00,  2.24s/it]
+done spiderman.png

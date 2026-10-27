@@ -1,0 +1,13 @@
+{
+ "image": "0199.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, amber broth cradling tender chashu and crisp menma. A single nori sheet rests atop, with garnishes centered, all in a white bowl with blue patterns, set against a dark, softly lit wooden surface.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain patterns and soft light reflections.",
+  "bowl": "White ceramic bowl with blue geometric patterned rim, smooth glossy surface, circular shape, slightly raised edge.",
+  "soup": "Miso ramen broth with noodles, garnished with green onions and pickled ginger, appears rich, golden-brown, and glossy.",
+  "seaweed": "The nori seaweed is dark green, textured, rectangular, with visible surface details and slight curling edges.",
+  "meat": "Chashu pork slice shows pinkish-brown hue, tender texture, irregular shape, and slightly uneven surface with faint marbling.",
+  "menma": "Menma bamboo shoots appear translucent, pale brown, with layered, slightly curled texture and faint green specks on their surface."
+ }
+}

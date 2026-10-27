@@ -1,0 +1,20 @@
+{
+ "image": "0247.png",
+ "level": "short",
+ "short": {
+  "background": "vibrant red table surface",
+  "bowl": "white ceramic ramen bowl",
+  "soup": "steaming shoyu broth",
+  "spoon": "glossy reddish-brown spoon",
+  "meat": "glistening chashu pork"
+ },
+ "parsed": true,
+ "global": "A vibrant red table holds a white ceramic ramen bowl filled with steaming shoyu broth and glistening chashu pork. The glossy reddish-brown spoon rests beside it, adding warmth to the scene.",
+ "regions": {
+  "background": "Vibrant red table surface",
+  "bowl": "White ceramic ramen bowl",
+  "soup": "The shoyu broth steams gently with a clear, golden hue",
+  "spoon": "Glossy reddish-brown spoon",
+  "meat": "Glistening chashu pork"
+ }
+}

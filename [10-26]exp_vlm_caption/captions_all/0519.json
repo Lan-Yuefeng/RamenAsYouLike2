@@ -1,0 +1,12 @@
+{
+ "image": "0519.png",
+ "soup": "miso",
+ "global": "A rich, golden miso ramen broth fills a black bowl, topped with tender chashu pork, shredded cabbage, and vibrant green scallions. The warm lighting highlights the glossy broth and neatly arranged toppings against a wooden table.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections, forming an oval-shaped area around the bowl.",
+  "bowl": "Black ceramic bowl with glossy finish, smooth curved rim, and subtle speckled texture visible along its inner edge.",
+  "soup": "The miso broth is rich amber, glossy, and viscous, with visible noodles and toppings partially submerged.",
+  "meat": "Chashu pork: tender, thinly sliced, pinkish-brown meat with visible fat marbling and slight char, resting atop noodles."
+ },
+ "redone": "soup"
+}

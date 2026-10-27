@@ -1,0 +1,9 @@
+condition,recall,precision,clip_t,clip_i,miou,n_recall_up_vs_first,sec_per_img
+base_full,0.6309,0.3118,27.09,89.07,0.9409,0,35.52
+semcond_full,0.7258,0.3765,27.54,90.21,0.9338,10,35.77
+semcond_full_nosem,0.6162,0.2868,28.2,88.76,0.8368,4,35.67
+base_classname,0.7133,0.3661,26.53,87.6,0.8196,8,35.69
+semcond_classname,0.9019,0.5045,27.14,86.71,0.6911,10,35.93
+base_empty,0.7379,0.37,26.28,85.39,0.6687,8,35.85
+semcond_empty,0.2488,0.1277,27.67,85.0,0.3065,0,35.89
+real_photo,0.6147,0.2978,26.7,100.0,0.8605,6,nan

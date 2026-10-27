@@ -1,0 +1,14 @@
+{
+ "image": "0434.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth cradling golden noodles, topped with chashu, menma, and a soft-boiled egg, alongside dark greens. Served in a red-and-gold patterned bowl, it gleams under bright, even light against a neutral stainless steel backdrop.",
+ "regions": {
+  "background": "Metallic gray surface with subtle brushed texture and soft light reflections, curved edge visible.",
+  "bowl": "Red ceramic bowl with gold floral and scroll patterns, white rim, glossy surface, circular shape.",
+  "soup": "The shoyu (soy sauce) broth is golden-brown, glossy, and gently swirling around pale yellow noodles with visible green spinach and brown bamboo shoots.",
+  "meat": "Chashu pork: tender, pale brown meat with slightly glossy surface, irregularly shaped, showing soft texture and faint marbling.",
+  "menma": "Menma bamboo shoots appear light brown, slightly glossy, with irregular sliced shapes and visible fibrous texture.",
+  "naruto": "Naruto fish cake: white, soft, round, with pink spiral swirl on top, slightly textured surface."
+ },
+ "redone": "soup"
+}

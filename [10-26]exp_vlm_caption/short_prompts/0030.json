@@ -1,0 +1,26 @@
+{
+ "image": "0030.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "red table surface",
+   "short": "red textured table surface",
+   "detail": "smooth solid red table with faint white text"
+  },
+  "bowl": {
+   "name": "decorative ramen bowl",
+   "short": "white bowl with red rim and dragon",
+   "detail": "glossy white bowl with green dragon and Chinese characters"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy red oily broth",
+   "detail": "deep red glossy spicy broth with chili flakes and noodles"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "white spoon with brown stain",
+   "detail": "smooth white ceramic spoon with small brown tip stain"
+  }
+ }
+}

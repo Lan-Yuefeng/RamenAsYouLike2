@@ -1,0 +1,14 @@
+{
+ "image": "0090.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth with tender noodles, topped with nori and menma. Served in a patterned bowl, it rests on a red surface under bright, even lighting, highlighting the savory toppings and glossy broth.",
+ "regions": {
+  "background": "The table is a smooth, solid red surface with subtle texture and slight sheen under the light.",
+  "bowl": "White ceramic bowl with blue and green geometric patterns, featuring a decorative rim with Chinese characters.",
+  "soup": "The shoyu (soy sauce) broth is rich amber, glossy, and contains submerged noodles, seaweed, and bamboo shoots.",
+  "spoon": "A pale green ceramic spoon with smooth, slightly glossy surface and flat, wide bowl shape.",
+  "seaweed": "The nori seaweed is dark green-brown, textured, rectangular, with uneven edges and visible surface wrinkles.",
+  "menma": "Menma bamboo shoots appear as brown, translucent, slightly curved strips with a glossy surface and visible fibrous texture."
+ },
+ "redone": "soup"
+}

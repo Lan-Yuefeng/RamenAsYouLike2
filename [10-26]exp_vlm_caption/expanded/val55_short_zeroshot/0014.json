@@ -1,0 +1,20 @@
+{
+ "image": "0014.png",
+ "level": "short",
+ "short": {
+  "background": "smooth red table surface",
+  "bowl": "glossy blue bowl with ridges",
+  "soup": "light brown miso broth",
+  "spoon": "glossy white ceramic spoon",
+  "meat": "glistening chashu pork slice"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a smooth red table. The rich miso broth, glistening chashu pork, and glossy spoon contrast against the blue bowl's ridges.",
+ "regions": {
+  "background": "Smooth red table surface",
+  "bowl": "Glossy blue bowl with ridges",
+  "soup": "The light brown miso broth",
+  "spoon": "Glossy white ceramic spoon",
+  "meat": "Glistening chashu pork slice"
+ }
+}

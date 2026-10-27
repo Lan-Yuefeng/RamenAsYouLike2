@@ -1,0 +1,20 @@
+{
+ "image": "0476.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table",
+  "bowl": "glossy white bowl",
+  "soup": "golden shoyu broth",
+  "meat": "glossy chashu pork",
+  "menma": "translucent menma shoots"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a dark wooden table. Golden shoyu broth, glossy chashu pork, and translucent menma create a rich, textured scene.",
+ "regions": {
+  "background": "Dark wooden table",
+  "bowl": "Glossy white bowl",
+  "soup": "The golden shoyu broth",
+  "meat": "Glossy chashu pork",
+  "menma": "Translucent menma shoots"
+ }
+}

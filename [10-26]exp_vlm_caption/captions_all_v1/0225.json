@@ -1,0 +1,12 @@
+{
+ "image": "0225.png",
+ "soup": "miso",
+ "global": "This is a bowl of miso ramen, its rich, amber broth glistening under warm light. Topped with shredded cabbage and menma, it sits in a white bowl with a red rim, set against a dark table with a glass nearby.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and slight sheen from ambient light reflection.",
+  "bowl": "White ceramic bowl with glossy finish, featuring a bold red circular rim and smooth, curved interior surface.",
+  "soup": "Miso ramen broth, rich orange-brown, glossy surface with visible noodles and toppings, topped with shredded vegetables and chili flakes.",
+  "spoon": "A white plastic spoon with smooth, slightly curved surface and rounded tip, partially submerged in broth.",
+  "menma": "Menma bamboo shoots appear as glossy, brownish, sliced pieces with visible fibrous texture and slight caramelization on their surfaces."
+ }
+}

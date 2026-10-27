@@ -1,0 +1,14 @@
+{
+ "image": "0066.png",
+ "soup": "miso",
+ "global": "This miso ramen boasts a rich, amber broth with visible bubbles, topped with tender chashu, crisp menma, and fresh sprouts arranged in a neat cluster. Served in a blue-and-white patterned bowl, it rests on a warm wooden table under soft, natural light.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth finish, and subtle grain patterns under even lighting.",
+  "bowl": "The bowl is white ceramic with a blue floral pattern and a smooth, slightly raised rim.",
+  "soup": "The miso broth is rich amber, glossy, and textured with visible noodles, garnished with green sprouts and a slice of chashu.",
+  "seaweed": "Dark green nori seaweed, irregularly shaped, with a slightly textured, matte surface and visible edges.",
+  "meat": "The chashu pork is a round, browned slice with a glistening, slightly crispy surface and visible fat marbling.",
+  "menma": "Menma bamboo shoots appear as golden-brown, sliced, slightly curled pieces with a glossy, tender texture."
+ },
+ "redone": "soup"
+}

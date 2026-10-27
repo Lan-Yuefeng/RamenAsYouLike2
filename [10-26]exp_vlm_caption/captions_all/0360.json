@@ -1,0 +1,11 @@
+{
+ "image": "0360.png",
+ "soup": "miso",
+ "global": "A rich, amber miso ramen broth glistens in a white bowl, topped with shredded cabbage and green garnishes. The dark background and soft lighting highlight the steamy, inviting dish.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge.",
+  "bowl": "White ceramic bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "The miso broth is rich amber, glossy, and swirling with thin noodles, bean sprouts, and shredded cabbage."
+ },
+ "redone": "soup"
+}

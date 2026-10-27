@@ -1,0 +1,12 @@
+{
+ "image": "0502.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy broth with visible chashu pork slices and chopped green onions. Served in a patterned bowl, it rests on a dark wooden table under warm, ambient lighting.",
+ "regions": {
+  "background": "Dark wooden table with visible grain patterns and subtle reflections, showing natural texture and warm tone.",
+  "bowl": "Cream-colored ceramic bowl with red, yellow, and green geometric patterned rim.",
+  "soup": "The tonkotsu (pork bone) broth is creamy beige, frothy, and bubbly, with dark noodles and green onions floating on its surface.",
+  "meat": "Chashu pork slice shows pinkish-white meat with light brown sear, irregular shape, and visible fat marbling on its surface."
+ },
+ "redone": "soup"
+}

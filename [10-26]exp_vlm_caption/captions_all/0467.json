@@ -1,0 +1,14 @@
+{
+ "image": "0467.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, amber broth cradling tender chashu pork and crisp menma. Topped with vibrant green scallions, it sits in a white bowl with chopsticks resting nearby, under warm, ambient lighting on a wooden table.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture, appearing smooth and slightly reflective.",
+  "bowl": "White ceramic ramen bowl with subtle glossy finish, featuring black Japanese characters and red seal mark near rim.",
+  "soup": "The miso broth is golden-brown, glossy, and rich, with visible noodles and toppings floating on its surface.",
+  "chopsticks": "Light wooden chopsticks, smooth surface, tapered ends, natural grain visible, resting diagonally.",
+  "meat": "The chashu pork has a glistening, caramelized surface with visible fat marbling and a slightly uneven, irregular shape.",
+  "menma": "Menma bamboo shoots appear as pale, translucent, slightly curved pieces with visible fibrous texture and faint greenish hue."
+ },
+ "redone": "soup"
+}

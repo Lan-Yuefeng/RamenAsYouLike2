@@ -1,0 +1,22 @@
+{
+ "image": "0319.png",
+ "level": "short",
+ "short": {
+  "background": "smooth wooden table surface",
+  "bowl": "white bowl with red checks",
+  "soup": "creamy tonkotsu broth swirl",
+  "spoon": "shiny curved metal spoon",
+  "meat": "glistening marbled chashu",
+  "menma": "glossy curled bamboo shoots"
+ },
+ "parsed": true,
+ "global": "A top-down view of a vibrant ramen bowl on a smooth wooden table. Creamy tonkotsu broth swirls with marbled chashu and glossy menma.",
+ "regions": {
+  "background": "Smooth wooden table surface",
+  "bowl": "White bowl with red checks",
+  "soup": "The tonkotsu (pork bone) broth swirl",
+  "spoon": "Shiny curved metal spoon",
+  "meat": "Glistening marbled chashu",
+  "menma": "Glossy curled bamboo shoots"
+ }
+}

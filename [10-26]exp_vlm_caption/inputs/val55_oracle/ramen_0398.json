@@ -1,0 +1,54 @@
+{
+  "caption": "This is a bowl of miso ramen, its rich, golden broth glowing warmly under soft lighting. Topped with chashu pork, menma, and corn, the ingredients are artfully arranged in a white bowl with blue floral patterns, set against a wooden table.",
+  "seed": 1398,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "The table is a smooth, reddish-brown wooden surface with visible grain patterns and a warm, slightly reflective finish."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork: golden-brown, tender-looking slices with crispy edges and visible fat marbling, slightly curled at the ends."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is vibrant orange-yellow, smooth with visible noodles and toppings, forming a circular pool with slight surface ripples."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear as pale yellow, slightly translucent, sliced pieces with visible fibrous texture and curved, irregular edges."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with blue floral and Japanese text patterns along its rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth surface, slightly curved bowl, and rounded tip, partially submerged in ramen broth."
+    }
+  ]
+}

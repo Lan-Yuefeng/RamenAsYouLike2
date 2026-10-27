@@ -1,0 +1,38 @@
+{
+  "caption": "Creamy beige tonkotsu broth with visible noodles and toppings forms a shallow pool in a black ceramic bowl with a glossy surface and slight brushstroke. Chashu pork slice, pale pink and slightly glistening, rests in the broth on a wooden table with warm brown tones and grain patterns.",
+  "seed": 1514,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle texture variations."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows tender, pale pink meat with a slightly glistening surface and irregular, cooked edges."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth is creamy beige, glossy, with visible noodles and toppings, forming a shallow, circular pool."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Black ceramic bowl with smooth, glossy surface and subtle brushstroke pattern, slightly raised rim."
+    }
+  ]
+}

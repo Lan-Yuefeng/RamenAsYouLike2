@@ -1,0 +1,12 @@
+{
+ "image": "0008.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, light broth with delicate noodles, topped by a halved soft-boiled egg and dark nori. Served in a red-rimmed bowl, it rests on a wooden table under warm, ambient lighting.",
+ "regions": {
+  "background": "The bowl's rim is white with a red band, holding noodles, soft-boiled eggs, fish, and greens in clear broth.",
+  "bowl": "The ramen bowl is white with a red rim, holding noodles, two soft-boiled eggs, fish, seaweed, and garnish in broth.",
+  "soup": "The broth with noodles appears pale yellow, translucent, and gently swirling, with thin noodles submerged and softly glistening.",
+  "cut_egg": "A halved boiled egg shows a vibrant orange yolk and pale white, with a smooth, slightly glossy surface.",
+  "seaweed": "The nori seaweed appears dark, crinkled, and slightly glossy, with an irregular, fragmented shape and uneven surface texture."
+ }
+}

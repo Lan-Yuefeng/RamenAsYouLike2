@@ -1,0 +1,36 @@
+{
+ "image": "0043.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "light beige table",
+   "short": "swirled beige table surface",
+   "detail": "light beige table with subtle swirl pattern"
+  },
+  "bowl": {
+   "name": "blue white ceramic bowl",
+   "short": "wave pattern ceramic bowl",
+   "detail": "blue white bowl with glossy wave rim"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy yellow tonkotsu broth",
+   "detail": "tonkotsu broth with green onions bamboo shoots seaweed"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "stained white ceramic spoon",
+   "detail": "white spoon with yellowish stain near base"
+  },
+  "seaweed": {
+   "name": "dark nori seaweed",
+   "short": "crinkled dark green seaweed",
+   "detail": "dark green black textured nori strip"
+  },
+  "menma": {
+   "name": "pale yellow bamboo",
+   "short": "translucent bamboo shoots",
+   "detail": "pale yellow fibrous irregular bamboo"
+  }
+ }
+}

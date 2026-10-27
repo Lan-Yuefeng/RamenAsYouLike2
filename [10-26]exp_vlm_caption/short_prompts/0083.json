@@ -1,0 +1,36 @@
+{
+ "image": "0083.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "floral ceramic bowl",
+   "short": "white floral bowl",
+   "detail": "white bowl with floral pattern"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "amber miso broth",
+   "detail": "rich amber miso broth"
+  },
+  "spoon": {
+   "name": "teal spoon",
+   "short": "glossy teal spoon",
+   "detail": "smooth teal spoon curved"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork",
+   "detail": "browned marbled chashu slice"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent bamboo shoots",
+   "detail": "pale fibrous bamboo strips"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: warm brown wooden table, glossy black brushstroke bowl, creamy beige tonkotsu broth, glistening marbled chashu.",
+  "seed": 1514,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "warm brown wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glistening marbled chashu"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "creamy beige tonkotsu broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "glossy black brushstroke bowl"
+    }
+  ]
+}

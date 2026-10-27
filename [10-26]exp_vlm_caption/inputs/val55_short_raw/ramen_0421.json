@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: dark wooden table surface, white ceramic ramen bowl, golden miso ramen broth, white plastic ramen spoon, thin pale yellow menma.",
+  "seed": 1421,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "dark wooden table surface"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "golden miso ramen broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "thin pale yellow menma"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white ceramic ramen bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "white plastic ramen spoon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+ "image": "0280.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "dark tray",
+   "short": "dark textured tray",
+   "detail": "smooth dark textured tray"
+  },
+  "bowl": {
+   "name": "floral bowl",
+   "short": "blue white floral bowl",
+   "detail": "blue white ceramic floral bowl"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy tonkotsu broth",
+   "detail": "rich creamy tonkotsu broth"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark textured nori",
+   "detail": "dark green rough nori"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "charred chashu pork",
+   "detail": "tender marbled chashu pork"
+  }
+ }
+}

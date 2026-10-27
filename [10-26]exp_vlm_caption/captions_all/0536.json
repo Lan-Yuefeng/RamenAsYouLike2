@@ -1,0 +1,15 @@
+{
+ "image": "0536.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen boasts a rich, dark broth with perfectly arranged toppings: chashu pork, nori, and menma. Served in a decorative bowl, it rests on a wooden table beside a menu, under warm, inviting light.",
+ "regions": {
+  "background": "Light brown wooden table with visible grain patterns and smooth surface beneath the bowl.",
+  "bowl": "White ceramic ramen bowl with red rim, featuring floral and figurative patterns and red double happiness symbols.",
+  "soup": "The shoyu (soy sauce) broth is amber-brown, glossy, and rich, swirling around golden noodles with visible green onions and a pink swirl.",
+  "seaweed": "The nori seaweed is dark green, textured, irregularly shaped, and has a slightly glossy surface with visible veins.",
+  "meat": "The chashu pork is a round, translucent slice with a glistening surface and visible fat marbling.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with a soft, fibrous texture and irregular, curled shape.",
+  "naruto": "Naruto fish cake: white, slightly translucent, oval-shaped with pink swirl pattern on its surface."
+ },
+ "redone": "soup"
+}

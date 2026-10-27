@@ -1,0 +1,18 @@
+{
+ "image": "0094.png",
+ "level": "short",
+ "short": {
+  "background": "warm brown wooden table",
+  "bowl": "glossy floral rim bowl",
+  "soup": "clear golden shio broth",
+  "menma": "translucent pale yellow menma"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a warm wooden table. The golden broth and fresh menma create a lively, appetizing scene.",
+ "regions": {
+  "background": "warm brown wooden table",
+  "bowl": "glossy floral rim bowl",
+  "soup": "The clear golden shio broth",
+  "menma": "translucent pale yellow menma"
+ }
+}

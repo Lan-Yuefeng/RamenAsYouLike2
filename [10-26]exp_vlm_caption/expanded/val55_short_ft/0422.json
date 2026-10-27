@@ -1,0 +1,18 @@
+{
+ "image": "0422.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table",
+  "bowl": "white ceramic ramen bowl",
+  "soup": "spicy orange-red broth",
+  "spoon": "glossy red spoon"
+ },
+ "parsed": true,
+ "global": "A vibrant, spicy ramen broth glows beneath a generous mound of shredded cabbage and chopped green onions. Served in a white ceramic bowl with a red spoon, it rests on a dark wooden table under warm, ambient lighting.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections near the glass.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "The spicy broth is orange-red, glossy, and contains visible noodles and green onions, with a mound of shredded cabbage centered on top.",
+  "spoon": "A glossy red spoon with a smooth, curved surface and slightly worn handle edge."
+ }
+}

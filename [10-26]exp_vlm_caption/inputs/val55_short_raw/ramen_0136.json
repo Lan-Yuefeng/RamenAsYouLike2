@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: warm wooden table, glossy white ceramic bowl, glossy shoyu broth, glossy boiled egg, shiny chashu pork.",
+  "seed": 1136,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "warm wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "shiny chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        63
+      ],
+      "text": "glossy boiled egg"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "glossy shoyu broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "glossy white ceramic bowl"
+    }
+  ]
+}

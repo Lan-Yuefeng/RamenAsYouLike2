@@ -1,0 +1,20 @@
+{
+ "image": "0102.png",
+ "level": "short",
+ "short": {
+  "background": "smooth wooden table surface",
+  "bowl": "white bowl with red rim",
+  "soup": "clear shio broth swirling",
+  "meat": "glistening sliced chashu",
+  "naruto": "pink swirl fish cake"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a smooth wooden table. Clear broth swirls with pink fish cake and tender chashu, all set against a clean, rustic background.",
+ "regions": {
+  "background": "Smooth wooden table surface",
+  "bowl": "White bowl with red rim",
+  "soup": "The shio (salt) broth clear and swirling",
+  "meat": "Glistening sliced chashu",
+  "naruto": "Pink swirl fish cake"
+ }
+}

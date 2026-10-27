@@ -1,0 +1,13 @@
+{
+ "image": "0195.png",
+ "soup": "spicy",
+ "global": "This is spicy ramen with a rich, reddish broth. Topped with chashu pork, chopped green onions, and noodles, it sits in a white bowl with red trim, under warm lighting, with chopsticks and a spoon resting beside it.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture, appearing smooth and slightly reflective.",
+  "bowl": "White ceramic ramen bowl with red rim and green dragon pattern, smooth glossy surface.",
+  "soup": "Spicy ramen broth with noodles, green onions, and meat, showing rich red-orange color and glossy surface.",
+  "spoon": "A white ceramic spoon with a smooth, slightly curved surface and faint, worn markings on its bowl.",
+  "chopsticks": "Chopsticks are light beige, smooth, cylindrical, with slightly rounded tips and faint wood grain texture.",
+  "meat": "Chashu pork slice, tender and slightly fatty, topped with vibrant green scallions, rests in the ramen broth."
+ }
+}

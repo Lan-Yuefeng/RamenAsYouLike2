@@ -1,0 +1,36 @@
+{
+ "image": "0245.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "grainy wooden table",
+   "detail": "dark wooden table with scratches"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "red rimmed ramen bowl",
+   "detail": "white bowl with red painted rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "glossy miso broth",
+   "detail": "amber-brown speckled miso broth"
+  },
+  "chopsticks": {
+   "name": "wooden chopsticks",
+   "short": "smooth wooden chopsticks",
+   "detail": "light wood chopsticks diagonally placed"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "caramelized chashu pork",
+   "detail": "glistening marbled chashu slices"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "golden menma shoots",
+   "detail": "fibrous curved bamboo shoots"
+  }
+ }
+}

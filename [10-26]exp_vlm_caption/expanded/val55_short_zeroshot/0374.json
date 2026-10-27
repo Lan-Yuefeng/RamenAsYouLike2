@@ -1,0 +1,18 @@
+{
+ "image": "0374.png",
+ "level": "short",
+ "short": {
+  "background": "vibrant orange table",
+  "bowl": "white bowl with red rim",
+  "soup": "thick spicy red broth",
+  "meat": "caramelized chashu pork"
+ },
+ "parsed": true,
+ "global": "A vibrant orange table holds a white bowl with a red rim. Inside, thick spicy red broth sits beside caramelized chashu pork.",
+ "regions": {
+  "background": "vibrant orange table",
+  "bowl": "white bowl with red rim",
+  "soup": "The thick spicy red broth",
+  "meat": "caramelized chashu pork"
+ }
+}

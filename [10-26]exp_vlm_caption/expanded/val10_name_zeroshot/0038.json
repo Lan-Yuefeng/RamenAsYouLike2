@@ -1,0 +1,18 @@
+{
+ "image": "0038.png",
+ "level": "name",
+ "short": {
+  "background": "wooden table",
+  "bowl": "ceramic bowl",
+  "soup": "spicy ramen broth",
+  "spoon": "ceramic spoon"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of spicy ramen sits on a wooden table, steam rising from the broth. The ceramic bowl and spoon reflect warm, rich textures and subtle surface details.",
+ "regions": {
+  "background": "Wooden table with smooth, warm grain and natural patina",
+  "bowl": "Ceramic bowl with matte finish and slight imperfections",
+  "soup": "The spicy ramen broth is deep red with fine bubbles and a glossy surface",
+  "spoon": "Ceramic spoon with a smooth, slightly chipped edge and a curved handle"
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "image": "0239.png",
+ "soup": "miso",
+ "global": "This is Chabuton ramen, featuring a rich, amber broth with a perfectly arranged chashu pork slice at center. Garnished with green onions and sesame seeds, it sits in a branded white bowl on a dark wooden table under warm, inviting light.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections, showing natural texture and warm tone.",
+  "bowl": "White ceramic ramen bowl with black \"CHABUTON\" text and decorative lines on rim, speckled with sesame seeds.",
+  "soup": "Miso ramen broth, golden-brown, glossy, swirling with sesame seeds, green onions, and a pinkish swirl of chashu pork.",
+  "meat": "The chashu pork displays a spiral shape with pinkish-red meat, white fat marbling, and a slightly crisped, golden-brown outer surface."
+ }
+}

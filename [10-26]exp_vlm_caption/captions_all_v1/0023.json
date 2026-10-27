@@ -1,0 +1,12 @@
+{
+ "image": "0023.png",
+ "soup": "salt",
+ "global": "This shio ramen boasts a clear, golden broth, topped with a soft-boiled egg and tender chashu pork, arranged neatly in a white bowl with a blue logo. Warm, ambient lighting highlights the rich tones against a wooden background.",
+ "regions": {
+  "background": "The table is a smooth, warm-toned wooden surface with subtle grain patterns and soft, even lighting.",
+  "bowl": "White ceramic bowl with blue and orange logo, smooth glossy surface, slightly raised rim.",
+  "soup": "Golden broth with noodles, garnished with sliced green onions and a soft-boiled egg, appears rich and glossy.",
+  "egg": "A whole boiled egg, smooth golden-yellow surface with subtle highlights, rounded shape, slightly glossy finish.",
+  "meat": "The chashu pork is a round, sliced piece with pinkish meat, white fat, and a slightly charred, glistening surface."
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "image": "0177.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "white glossy ceramic ramen bowl"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "amber miso broth swirling",
+   "detail": "rich amber miso broth swirling"
+  }
+ }
+}

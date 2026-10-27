@@ -1,0 +1,10 @@
+{
+ "image": "0473.png",
+ "soup": "spicy",
+ "global": "A steaming bowl of Chabuton spicy ramen boasts a rich, reddish broth topped with fresh cilantro and thin red garnish. The white ceramic bowl, branded with “CHABUTON,” sits on a dark tray under warm, ambient lighting.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and slight sheen under ambient lighting.",
+  "bowl": "White ceramic ramen bowl with black \"CHABUTON\" text on rim, smooth surface with light residue inside.",
+  "soup": "Spicy ramen broth with noodles, garnished with green herbs and red threads, has rich orange hue and textured surface."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "image": "0353.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark brown wooden table with grain"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "blue wave pattern bowl",
+   "detail": "ceramic bowl with blue wave design"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "spicy reddish-brown broth",
+   "detail": "spicy broth with chili flakes"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori sheet",
+   "detail": "dark green textured nori"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "seared chashu slice",
+   "detail": "golden-brown seared pork slice"
+  }
+ }
+}

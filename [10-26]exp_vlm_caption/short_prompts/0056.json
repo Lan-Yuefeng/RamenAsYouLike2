@@ -1,0 +1,36 @@
+{
+ "image": "0056.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "light wood table",
+   "detail": "smooth light brown wooden table"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "blue floral ramen bowl",
+   "detail": "glossy light blue bowl with red floral rim"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy orange-red broth",
+   "detail": "glossy spicy broth with noodles and herbs"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "green stained spoon",
+   "detail": "light green ceramic spoon with brown stains"
+  },
+  "chopsticks": {
+   "name": "black chopsticks",
+   "short": "textured black chopsticks",
+   "detail": "slightly curved black chopsticks with ridges"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "crinkled dark seaweed",
+   "detail": "dark crinkled glossy nori seaweed"
+  }
+ }
+}

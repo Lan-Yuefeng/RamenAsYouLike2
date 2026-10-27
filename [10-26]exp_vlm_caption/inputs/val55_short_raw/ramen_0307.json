@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: glossy light orange tray, red checkered ramen bowl, clear tonkotsu broth, reflective metallic spoon, glossy chashu pork.",
+  "seed": 1307,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "glossy light orange tray"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glossy chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "clear tonkotsu broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "red checkered ramen bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "reflective metallic spoon"
+    }
+  ]
+}

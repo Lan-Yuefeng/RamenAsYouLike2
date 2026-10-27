@@ -1,0 +1,9 @@
+hand_short_raw done
+vlm_oracle done
+vlm_short_raw done
+hand_full done
+vlm_short_zs done
+vlm_short_ft done
+vlm_short_ftv2 done
+CHAIN_DONE
+EVAL_DONE

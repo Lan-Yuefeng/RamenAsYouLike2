@@ -1,0 +1,46 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a warm wooden table. The glossy broth, egg, and meat shine together in a rich, inviting composition.",
+  "seed": 1136,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Warm wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Shiny chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        63
+      ],
+      "text": "Glossy boiled egg"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shoyu broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Glossy white ceramic bowl"
+    }
+  ]
+}

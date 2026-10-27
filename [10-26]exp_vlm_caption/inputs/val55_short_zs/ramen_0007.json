@@ -1,0 +1,62 @@
+{
+  "caption": "A vibrant top-down view of a ramen bowl on a grainy wooden table. Golden broth, fresh seaweed, pork, and sweet cake add texture and color to the dish.",
+  "seed": 1007,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Grainy wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Sesame chashu pork slice"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Dark green nori seaweed"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth swirl"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Glossy menma bamboo"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "Pink swirl naruto cake"
+    }
+  ]
+}

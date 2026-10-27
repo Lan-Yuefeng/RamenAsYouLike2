@@ -1,0 +1,26 @@
+{
+ "image": "0330.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "geometric bowl",
+   "short": "colorful patterned bowl",
+   "detail": "white ceramic bowl with pattern"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "glossy shoyu broth",
+   "detail": "deep amber shoyu broth swirling"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening chashu pork",
+   "detail": "caramelized chashu pork slices"
+  }
+ }
+}

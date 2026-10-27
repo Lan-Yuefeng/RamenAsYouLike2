@@ -1,0 +1,14 @@
+{
+ "image": "0226.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth with tender chashu pork and crisp menma. Dark nori rests atop noodles, all served in a blue-patterned bowl on a red table under warm, inviting light.",
+ "regions": {
+  "background": "Red textured table surface surrounds the bowl, showing subtle grain and slight wear near edges.",
+  "bowl": "White ceramic bowl with blue geometric patterned rim, smooth glossy surface, circular shape.",
+  "soup": "Shoyu ramen broth with noodles, dark amber liquid, glossy surface, thin strands submerged, green garnish visible.",
+  "spoon": "A dark, glossy spoon with a curved bowl and slightly worn surface, reflecting light subtly.",
+  "seaweed": "The nori seaweed is dark green, irregularly shaped, with a rough, slightly curled surface and visible texture.",
+  "meat": "Chashu pork: tender, light brown meat with visible marbling and slightly uneven surface, shaped like a thick, irregular slice.",
+  "menma": "Menma bamboo shoots appear as pale yellow, slightly curved, fibrous pieces with a soft, tender texture."
+ }
+}

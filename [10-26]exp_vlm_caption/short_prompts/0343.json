@@ -1,0 +1,31 @@
+{
+ "image": "0343.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "dark speckled table",
+   "short": "glossy speckled table surface",
+   "detail": "dark speckled glossy table"
+  },
+  "bowl": {
+   "name": "white speckled ramen bowl",
+   "short": "white speckled ceramic bowl",
+   "detail": "white ceramic bowl with speckles"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy red swirling broth",
+   "detail": "spicy red glossy swirling broth"
+  },
+  "meat": {
+   "name": "chashu pork slice",
+   "short": "browned chashu pork slice",
+   "detail": "browned chashu pork with sesame"
+  },
+  "menma": {
+   "name": "menma bamboo shoots",
+   "short": "translucent curved menma",
+   "detail": "pale glossy curved menma"
+  }
+ }
+}

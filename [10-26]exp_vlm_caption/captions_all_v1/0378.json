@@ -1,0 +1,11 @@
+{
+ "image": "0378.png",
+ "soup": "soysauce",
+ "global": "A bowl of shoyu ramen features a rich, dark broth with tender noodles and scattered green onions. The blue-and-white patterned bowl holds the steaming meal, set against a dark surface under soft, warm lighting.",
+ "regions": {
+  "background": "Dark, smooth, slightly reflective surface with subtle grain, oval shape, and faint edge shadows.",
+  "bowl": "White ceramic bowl with blue triangular patterned rim, smooth glossy surface, circular shape, slightly raised edge.",
+  "soup": "Shoyu ramen broth with noodles, garnished with green onions, appears rich, brown, and textured with visible ingredients.",
+  "chopsticks": "Light wooden chopsticks, smooth and slightly tapered, rest diagonally with subtle grain patterns visible."
+ }
+}

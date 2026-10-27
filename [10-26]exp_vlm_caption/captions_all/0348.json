@@ -1,0 +1,14 @@
+{
+ "image": "0348.png",
+ "soup": "porkbone",
+ "global": "This is tonkotsu ramen, its rich, creamy broth glowing warmly. Topped with halved soft-boiled eggs, chopped green onions, and noodles, it sits in a patterned bowl on a wooden table, lit by soft, natural light.",
+ "regions": {
+  "background": "Light brown wooden table with visible grain patterns and smooth surface texture.",
+  "bowl": "The ceramic bowl has a white base, green dragon pattern, and red rim with brown accents.",
+  "soup": "The tonkotsu (pork bone) broth is creamy yellow, glossy, and contains submerged noodles and green onions.",
+  "spoon": "A glossy red spoon with smooth, curved surface and slightly flared bowl shape.",
+  "chopsticks": "Light wooden chopsticks, smooth and slender, tapering to rounded ends with subtle grain patterns visible.",
+  "cut_egg": "A halved boiled egg shows a vibrant orange yolk, creamy white, and smooth surface with slight texture."
+ },
+ "redone": "soup"
+}

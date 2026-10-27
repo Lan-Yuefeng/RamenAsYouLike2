@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down view of a white bowl of ramen on a black textured table. The creamy miso broth glistens with subtle bubbles and golden menma floats gently on top.",
+  "seed": 1047,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Black textured table surface"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The creamy miso broth surface"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Golden menma bamboo shoots"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White bowl with blue rim"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "White spoon with yellow stain"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+ "image": "0388.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "solid red surface",
+   "short": "smooth red textured background",
+   "detail": "uniform smooth red surface with soft shadows"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "white bowl with red rim",
+   "detail": "white ceramic bowl with red geometric pattern and glossy rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "amber miso broth with noodles",
+   "detail": "rich amber miso broth with visible noodles and green onions"
+  },
+  "spoon": {
+   "name": "curved spoon",
+   "short": "glossy pale curved spoon",
+   "detail": "smooth pale curved spoon with rounded tip"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening chashu pork slices",
+   "detail": "tender marbled chashu with charred edges"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "glossy translucent menma",
+   "detail": "pale brown curled fibrous menma"
+  }
+ }
+}

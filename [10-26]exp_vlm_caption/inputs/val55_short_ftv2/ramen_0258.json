@@ -1,0 +1,38 @@
+{
+  "caption": "Spicy red glossy broth with noodles and bean sprouts, green onions, in a white ceramic bowl with blue cartoon characters and red rim. Set on a dark wooden table with grain patterns and subtle reflections.",
+  "seed": 1258,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The spicy broth is vibrant red, glossy, and contains visible noodles and toppings like bean sprouts and green onions."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with blue cartoon characters and a red rim, smooth surface with slight residue along inner edge."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape."
+    }
+  ]
+}

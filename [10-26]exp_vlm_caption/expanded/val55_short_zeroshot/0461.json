@@ -1,0 +1,22 @@
+{
+ "image": "0461.png",
+ "level": "short",
+ "short": {
+  "background": "warm grain wood surface",
+  "bowl": "white bowl with black rim",
+  "soup": "creamy tonkotsu broth",
+  "spoon": "glossy white ceramic spoon",
+  "meat": "marbled chashu pork slice",
+  "menma": "translucent menma shoots"
+ },
+ "parsed": true,
+ "global": "A warm, top-down view of a creamy tonkotsu ramen bowl. The white bowl with black rim holds rich broth, marbled pork, and delicate menma shoots.",
+ "regions": {
+  "background": "Warm grain wood surface",
+  "bowl": "White bowl with black rim",
+  "soup": "The tonkotsu (pork bone) broth",
+  "spoon": "Glossy white ceramic spoon",
+  "meat": "Marbled chashu pork slice",
+  "menma": "Translucent menma shoots"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "image": "0258.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table",
+  "bowl": "blue rim cartoon bowl",
+  "soup": "spicy red ramen broth",
+  "spoon": "glossy white ceramic spoon"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of spicy red ramen sits on a dark wooden table. The rich broth, blue-rimmed cartoon bowl, and glossy spoon create a lively, appetizing scene.",
+ "regions": {
+  "background": "Dark wooden table",
+  "bowl": "Blue rim cartoon bowl",
+  "soup": "The spicy red ramen broth",
+  "spoon": "Glossy white ceramic spoon"
+ }
+}

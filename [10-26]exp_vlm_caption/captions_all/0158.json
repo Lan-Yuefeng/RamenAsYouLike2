@@ -1,0 +1,14 @@
+{
+ "image": "0158.png",
+ "soup": "salt",
+ "global": "This shio ramen boasts a clear, light broth with delicate noodles, topped with menma, naruto fish cake, and a citrus slice. Served in a patterned bowl, it rests on a wooden table under soft, natural light, with chopsticks poised for eating.",
+ "regions": {
+  "background": "Dark wooden table with visible grain patterns and parallel planks, showing natural texture and subtle color variations.",
+  "bowl": "White ceramic bowl with red geometric patterned rim, smooth glossy surface, circular shape, slightly raised edge.",
+  "soup": "The shio (salt) broth is clear, golden, and glossy, gently cradling noodles and toppings with subtle surface ripples.",
+  "chopsticks": "Light beige chopsticks, smooth and slightly glossy, lie parallel with rounded ends and subtle wood grain texture.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with curled, layered shapes and visible fibrous texture.",
+  "naruto": "Naruto fish cake: pink-rimmed, pale white, rectangular slice with smooth, slightly glossy surface and faint speckles."
+ },
+ "redone": "soup"
+}

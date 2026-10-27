@@ -1,0 +1,38 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a warm wooden table. The glossy miso broth and pink fish cake add lively color and texture to the scene.",
+  "seed": 1394,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Warm brown wooden table"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Blue green swirl bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "Pink cartoon fish cake"
+    }
+  ]
+}

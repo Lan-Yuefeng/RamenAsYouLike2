@@ -1,0 +1,12 @@
+{
+ "image": "0546.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen with rich, reddish broth glistens under soft light. Thin chashu pork rests beneath a mound of shredded scallions, all nestled in a textured gray bowl against a plain white background.",
+ "regions": {
+  "background": "The surface is a smooth, light gray, slightly reflective plane with subtle, soft shadows around the bowl's edge.",
+  "bowl": "The bowl is light gray ceramic with subtle textured surface and slightly uneven, matte-finished rim.",
+  "soup": "The spicy broth is deep reddish-brown, glossy, and oily, with visible green herbs and white bean sprouts floating on its surface.",
+  "meat": "The chashu pork is browned, tender-looking, and slightly glistening with sauce, featuring a soft, irregular shape and visible seasoning."
+ },
+ "redone": "soup"
+}

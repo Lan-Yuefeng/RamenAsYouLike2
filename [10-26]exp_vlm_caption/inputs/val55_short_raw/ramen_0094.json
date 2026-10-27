@@ -1,0 +1,38 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: warm brown wooden table, glossy floral rim bowl, clear golden shio broth, translucent pale yellow menma.",
+  "seed": 1094,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "warm brown wooden table"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "clear golden shio broth"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "translucent pale yellow menma"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "glossy floral rim bowl"
+    }
+  ]
+}

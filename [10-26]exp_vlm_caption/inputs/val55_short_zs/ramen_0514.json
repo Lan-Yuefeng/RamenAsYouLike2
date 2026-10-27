@@ -1,0 +1,38 @@
+{
+  "caption": "A top-down view of a glossy black bowl filled with creamy tonkotsu broth and marbled chashu. The warm wooden table adds a cozy, rustic backdrop.",
+  "seed": 1514,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Warm brown wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Glistening marbled chashu"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Glossy black brushstroke bowl"
+    }
+  ]
+}

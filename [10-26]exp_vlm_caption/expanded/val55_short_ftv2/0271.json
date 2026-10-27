@@ -1,0 +1,18 @@
+{
+ "image": "0271.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table",
+  "bowl": "glossy white bowl",
+  "soup": "spicy orange-red broth",
+  "meat": "crispy chashu pork"
+ },
+ "parsed": true,
+ "global": "Spicy orange-red broth with visible noodles and toppings sits in a white ceramic bowl with a glossy, speckled surface and raised rim. Chashu pork features pinkish meat, crispy browned edges, and marbling, set against a dark wooden table with grain patterns and subtle reflections.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, subtle speckled pattern, and slightly raised rim.",
+  "soup": "The spicy broth is vibrant orange-red, glossy, and contains visible noodles and toppings.",
+  "meat": "Chashu pork slice shows layered texture with pinkish meat, crispy browned edges, and visible fat marbling."
+ }
+}

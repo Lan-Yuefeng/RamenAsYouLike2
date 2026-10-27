@@ -1,0 +1,36 @@
+{
+ "image": "0002.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table surface",
+   "detail": "dark wooden table with grain texture"
+  },
+  "bowl": {
+   "name": "floral ceramic bowl",
+   "short": "red bowl with floral pattern",
+   "detail": "red ceramic bowl with white green floral design"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "golden shio broth glossy",
+   "detail": "golden clear shio broth with noodles"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "glossy white ceramic spoon",
+   "detail": "white ceramic spoon with rounded tip"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glistening chashu pork slices",
+   "detail": "tender pale pink chashu with brown edges"
+  },
+  "menma": {
+   "name": "menma bamboo shoots",
+   "short": "translucent menma bamboo",
+   "detail": "pale beige fibrous curved menma"
+  }
+ }
+}

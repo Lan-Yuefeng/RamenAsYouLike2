@@ -1,0 +1,11 @@
+{
+ "image": "0168.png",
+ "soup": "spicy",
+ "global": "A vibrant, spicy ramen broth glows in a white bowl, topped with shredded cabbage and green herbs. The rich red broth and neatly arranged toppings contrast against a dark wooden background under warm, inviting light.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture, appearing smooth and slightly reflective.",
+  "bowl": "White ceramic bowl with smooth, glossy surface and slightly raised rim, showing faint reddish seasoning residue along inner edge.",
+  "soup": "Spicy ramen broth with noodles, garnished with bean sprouts and green herbs, appears rich, red-orange, and textured.",
+  "meat": "Chashu pork slice shows tender, slightly fatty texture with caramelized edges and green herb specks on its surface."
+ }
+}

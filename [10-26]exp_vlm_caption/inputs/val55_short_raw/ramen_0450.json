@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: warm brown wooden table, white ceramic ramen bowl, creamy yellow tonkotsu broth, dark green nori seaweed, glossy marbled chashu pork.",
+  "seed": 1450,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "warm brown wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glossy marbled chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark green nori seaweed"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "creamy yellow tonkotsu broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white ceramic ramen bowl"
+    }
+  ]
+}

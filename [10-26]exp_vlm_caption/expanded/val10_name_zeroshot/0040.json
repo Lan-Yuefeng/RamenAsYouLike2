@@ -1,0 +1,18 @@
+{
+ "image": "0040.png",
+ "level": "name",
+ "short": {
+  "background": "pinkish-red gradient",
+  "bowl": "geometric pattern bowl",
+  "soup": "tonkotsu broth",
+  "meat": "chashu pork"
+ },
+ "parsed": true,
+ "global": "A top-down view of a bowl of ramen with rich tonkotsu broth and tender chashu pork. The pinkish-red background adds a soft, warm ambiance to the scene.",
+ "regions": {
+  "background": "Pinkish-red gradient background",
+  "bowl": "Geometric pattern bowl with smooth, ceramic texture",
+  "soup": "The tonkotsu (pork bone) broth is rich, golden-yellow, and slightly foamy",
+  "meat": "Chashu pork is tender, pink, and thinly sliced with a slightly crispy edge"
+ }
+}

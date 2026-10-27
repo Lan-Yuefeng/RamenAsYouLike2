@@ -1,0 +1,46 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: dark wooden table surface, light beige ceramic bowl, steaming miso broth, glossy white ceramic spoon, frilly dark green nori.",
+  "seed": 1256,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "dark wooden table surface"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "frilly dark green nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "steaming miso broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "light beige ceramic bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "glossy white ceramic spoon"
+    }
+  ]
+}

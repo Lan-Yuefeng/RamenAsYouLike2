@@ -1,0 +1,70 @@
+{
+  "caption": "A vibrant bowl of ramen features golden miso soup, glistening chashu pork, and fresh nori. The blue-white bowl holds a colorful, textured mix of ingredients on a dark speckled granite background.",
+  "seed": 1533,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark speckled granite"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Glistening chashu pork"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Dark green nori"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The golden miso broth swirl"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Glossy menma strips"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "Orange yolk egg half"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Blue white patterned bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "Smooth curved spoon"
+    }
+  ]
+}

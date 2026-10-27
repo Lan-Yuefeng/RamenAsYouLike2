@@ -1,0 +1,46 @@
+{
+  "caption": "This shoyu ramen features an amber-brown, glossy, steaming broth with thin noodles and shredded cabbage. In a white ceramic bowl with a glossy rim, tender pale pink chashu pork with green onion sits beside a curved reddish-brown spoon on a vibrant red table.",
+  "seed": 1247,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "The table is a solid, vibrant red surface with smooth texture and subtle light reflections."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows tender, pale pink meat with slight fat marbling and a small green onion garnish on top."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shoyu (soy sauce) broth is amber-brown, glossy, and steaming, with thin noodles and shredded cabbage floating on its surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, subtly textured rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A curved, glossy reddish-brown spoon with smooth surface and slight wear visible."
+    }
+  ]
+}

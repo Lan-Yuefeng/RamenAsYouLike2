@@ -1,0 +1,38 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: vibrant orange table, white bowl with red rim, thick spicy red broth, caramelized chashu pork.",
+  "seed": 1374,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "vibrant orange table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "caramelized chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "thick spicy red broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with red rim"
+    }
+  ]
+}

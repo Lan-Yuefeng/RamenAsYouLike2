@@ -1,0 +1,31 @@
+{
+ "image": "0411.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table surface",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white ceramic ramen bowl",
+   "detail": "white bowl with red rings"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "amber shoyu ramen broth",
+   "detail": "clear glossy shoyu broth"
+  },
+  "cut_egg": {
+   "name": "boiled egg",
+   "short": "halved boiled egg",
+   "detail": "creamy white and firm yolk"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "marbled chashu pork",
+   "detail": "browned tender pork with fat"
+  }
+ }
+}

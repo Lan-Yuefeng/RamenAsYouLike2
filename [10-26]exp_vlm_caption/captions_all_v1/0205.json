@@ -1,0 +1,14 @@
+{
+ "image": "0205.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy broth with visible pork fat. Toppings—nori, a halved egg, and chashu—are artfully arranged atop the soup in a white bowl, set against a vibrant pink background under warm, inviting light.",
+ "regions": {
+  "background": "Vibrant magenta surface with subtle gradient, smooth texture, and rounded corners visible around the bowl's edge.",
+  "bowl": "Light blue ceramic bowl with glossy finish, red logo on rim, smooth curved surface.",
+  "soup": "The tonkotsu broth is creamy beige, glossy, and rich, with visible bubbles and floating green onions and dark seaweed.",
+  "spoon": "A pale green spoon with smooth, slightly glossy surface and curved, rounded shape.",
+  "cut_egg": "A halved boiled egg shows a creamy white exterior and a vibrant orange yolk with visible speckles and a slightly runny center.",
+  "seaweed": "The nori seaweed is dark purple, textured, and irregularly shaped with visible surface wrinkles and a small brownish speck.",
+  "meat": "Chashu pork slice shows tender, slightly fatty texture with browned surface and visible green onion garnish."
+ }
+}

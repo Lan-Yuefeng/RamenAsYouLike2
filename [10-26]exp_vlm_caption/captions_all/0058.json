@@ -1,0 +1,11 @@
+{
+ "image": "0058.png",
+ "soup": "porkbone",
+ "global": "This is a bowl of tanmen, featuring a clear, light broth with thin noodles, shredded cabbage, and slices of pork. The white bowl has a blue Greek key pattern, set on a wooden table under warm, ambient lighting.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and smooth texture beneath the bowl.",
+  "bowl": "White ceramic ramen bowl with black Greek key pattern and Japanese text along its rim.",
+  "soup": "The tonkotsu (pork bone) broth is light brown, glossy, and contains thin noodles, cabbage, and meat pieces."
+ },
+ "redone": "soup"
+}

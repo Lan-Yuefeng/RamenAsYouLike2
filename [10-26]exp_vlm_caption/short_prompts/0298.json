@@ -1,0 +1,36 @@
+{
+ "image": "0298.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm grain wood surface",
+   "detail": "warm brown wooden table with grain"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "blue green rimmed bowl",
+   "detail": "white bowl with blue green rim"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "creamy yellow tonkotsu soup",
+   "detail": "creamy yellow tonkotsu broth with noodles"
+  },
+  "spoon": {
+   "name": "red spoon",
+   "short": "glossy red curved spoon",
+   "detail": "glossy red spoon with flared bowl"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "fatty chashu pork slice",
+   "detail": "tender fatty chashu with herb garnish"
+  },
+  "naruto": {
+   "name": "naruto fish cake",
+   "short": "pink spiral fish cake",
+   "detail": "pale translucent naruto with green specks"
+  }
+ }
+}

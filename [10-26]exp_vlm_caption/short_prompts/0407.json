@@ -1,0 +1,41 @@
+{
+ "image": "0407.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table surface",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "black ceramic bowl",
+   "short": "glossy black ramen bowl",
+   "detail": "black ceramic bowl with glaze"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "rich amber miso broth",
+   "detail": "glossy miso broth with noodles"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "runny yolk boiled egg",
+   "detail": "creamy white with runny yolk"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark glossy nori sheet",
+   "detail": "dark wrinkled nori texture"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent bamboo strips",
+   "detail": "pale glossy bamboo shoots"
+  },
+  "naruto": {
+   "name": "fish cake",
+   "short": "pinkish fish cake",
+   "detail": "pinkish oval fish cake"
+  }
+ }
+}

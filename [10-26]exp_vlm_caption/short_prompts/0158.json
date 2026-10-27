@@ -1,0 +1,36 @@
+{
+ "image": "0158.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "white bowl with red rim",
+   "detail": "white bowl red geometric rim"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth",
+   "detail": "clear golden glossy shio broth"
+  },
+  "chopsticks": {
+   "name": "wooden chopsticks",
+   "short": "light beige chopsticks",
+   "detail": "light beige glossy chopsticks"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent bamboo shoots",
+   "detail": "pale yellow curled menma"
+  },
+  "naruto": {
+   "name": "fish cake",
+   "short": "pink-rimmed fish cake",
+   "detail": "pink-rimmed pale white naruto"
+  }
+ }
+}

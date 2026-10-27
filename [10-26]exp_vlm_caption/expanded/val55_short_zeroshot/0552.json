@@ -1,0 +1,24 @@
+{
+ "image": "0552.png",
+ "level": "short",
+ "short": {
+  "background": "smooth wooden table",
+  "bowl": "black ceramic bowl",
+  "soup": "spicy amber broth",
+  "spoon": "glossy red spoon",
+  "cut_egg": "halved boiled egg",
+  "seaweed": "dark green nori",
+  "meat": "marbled chashu pork"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a smooth wooden table. Rich flavors and textures highlight the hearty, colorful dish.",
+ "regions": {
+  "background": "Smooth wooden table",
+  "bowl": "Black ceramic bowl",
+  "soup": "The spicy amber broth",
+  "spoon": "Glossy red spoon",
+  "cut_egg": "Halved boiled egg",
+  "seaweed": "Dark green nori",
+  "meat": "Marbled chashu pork"
+ }
+}

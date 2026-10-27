@@ -1,0 +1,13 @@
+{
+ "image": "0189.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, amber broth with tender chashu, crisp menma, and fresh green onions arranged atop. Served in a white bowl with red geometric trim, it rests on a bright, clean surface under soft, even lighting.",
+ "regions": {
+  "background": "The surface is smooth, light-colored, and slightly reflective, with soft shadows and gentle curves visible.",
+  "bowl": "White ceramic ramen bowl with red geometric pattern and blue calligraphy along its rim.",
+  "soup": "The miso broth is rich amber, glossy, and viscous, clinging to noodles and toppings with a savory sheen.",
+  "spoon": "White plastic spoon with smooth surface, slightly curved bowl, and textured grip area visible.",
+  "menma": "Menma bamboo shoots appear pale brown, glossy, and slightly curved with visible fibrous texture and subtle surface striations."
+ },
+ "redone": "soup"
+}

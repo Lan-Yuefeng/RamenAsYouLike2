@@ -1,0 +1,12 @@
+{
+ "image": "0424.png",
+ "soup": "spicy",
+ "global": "A vibrant, spicy ramen broth glows in a white bowl, topped with crisp menma and finely sliced green onions. Warm, ambient lighting highlights the rich red broth against a dark wooden table, with a glass and bottle softly blurred in the background.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture, appearing smooth and slightly reflective.",
+  "bowl": "White ceramic bowl with subtle green floral pattern, smooth surface, and slightly raised, glazed rim.",
+  "soup": "The spicy broth is vibrant orange-red, glossy, and thick, swirling around noodles and toppings with visible oil sheen and floating green onions.",
+  "menma": "Menma bamboo shoots appear as pale orange, thin, slightly curved strips with fibrous texture and faint white striations."
+ },
+ "redone": "soup"
+}

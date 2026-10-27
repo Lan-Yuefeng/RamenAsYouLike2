@@ -1,0 +1,70 @@
+{
+ "caption": null,
+ "seed": 1000,
+ "segments_info": [
+  {
+   "color": [
+    0,
+    0,
+    0
+   ],
+   "text": "background"
+  },
+  {
+   "color": [
+    142,
+    199,
+    32
+   ],
+   "text": "rice"
+  },
+  {
+   "color": [
+    81,
+    248,
+    23
+   ],
+   "text": "croquette"
+  },
+  {
+   "color": [
+    32,
+    194,
+    20
+   ],
+   "text": "miso soup"
+  },
+  {
+   "color": [
+    37,
+    199,
+    210
+   ],
+   "text": "hambarg steak"
+  },
+  {
+   "color": [
+    161,
+    170,
+    33
+   ],
+   "text": "fried shrimp"
+  },
+  {
+   "color": [
+    21,
+    172,
+    228
+   ],
+   "text": "green salad"
+  },
+  {
+   "color": [
+    45,
+    238,
+    222
+   ],
+   "text": "beverage"
+  }
+ ]
+}

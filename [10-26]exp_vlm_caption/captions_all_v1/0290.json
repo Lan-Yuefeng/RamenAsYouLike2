@@ -1,0 +1,11 @@
+{
+ "image": "0290.png",
+ "soup": "spicy",
+ "global": "A vibrant spicy ramen bowl features rich, red broth with tender noodles, a tomato slice, and dark nori seaweed. The patterned white bowl rests on a pale green tray, illuminated by soft, even lighting that highlights the dish’s appetizing textures and colors.",
+ "regions": {
+  "background": "Light green tray with smooth, slightly reflective surface, curved edges, and subtle glossy finish.",
+  "bowl": "The ceramic bowl has a white base, green and blue geometric pattern, and a slightly textured, glossy rim.",
+  "soup": "Spicy ramen broth with noodles, tomato slice, chicken, and dark toppings, showing rich red color and glossy surface.",
+  "seaweed": "The nori seaweed is dark green, slightly curled, with a glossy, uneven surface and visible texture."
+ }
+}

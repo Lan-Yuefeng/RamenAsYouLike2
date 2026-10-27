@@ -1,0 +1,38 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: light brown wooden table, white bowl with red rim, creamy miso broth with noodles, marbled chashu pork slice.",
+  "seed": 1295,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "light brown wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "marbled chashu pork slice"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "creamy miso broth with noodles"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with red rim"
+    }
+  ]
+}

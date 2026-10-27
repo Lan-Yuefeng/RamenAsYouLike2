@@ -1,0 +1,22 @@
+{
+ "image": "0161.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table",
+  "bowl": "white floral bowl",
+  "soup": "golden tonkotsu broth",
+  "spoon": "white ceramic spoon",
+  "seaweed": "dark nori seaweed",
+  "meat": "glistening chashu pork"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a dark wooden table. Golden tonkotsu broth, chashu pork, and nori seaweed create a rich, warm scene with delicate textures and soft lighting.",
+ "regions": {
+  "background": "Dark wooden table with smooth grain and subtle wear",
+  "bowl": "White floral bowl with soft petals and slightly textured surface",
+  "soup": "The tonkotsu (pork bone) broth glows golden with fine bubbles and gentle ripples",
+  "spoon": "White ceramic spoon with smooth edges and a slightly worn handle",
+  "seaweed": "Dark nori seaweed curled into thin, crisp edges with a matte finish",
+  "meat": "Glistening chashu pork with tender, marbled texture and slight sheen"
+ }
+}

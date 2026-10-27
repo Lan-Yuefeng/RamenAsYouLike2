@@ -1,0 +1,54 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a dark reflective surface. Golden miso soup, marbled pork, and fresh menma are arranged neatly with a pink naruto cake adding a sweet touch.",
+  "seed": 1402,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "dark matte reflective surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glossy marbled chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The golden miso broth glossy"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "glossy pale yellow menma"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "glossy white ceramic bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "pink swirl naruto cake"
+    }
+  ]
+}

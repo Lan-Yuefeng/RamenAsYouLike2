@@ -1,0 +1,13 @@
+{
+ "image": "0296.png",
+ "soup": "spicy",
+ "global": "This is a bowl of spicy ramen with a vibrant orange broth, topped with sliced chashu pork, menma, and chopped green onions. It sits in a patterned ceramic bowl on a dark tray, under bright, even lighting that highlights the rich colors and textures.",
+ "regions": {
+  "background": "Black tray surface with subtle texture and slight sheen, rectangular with rounded corners.",
+  "bowl": "The ceramic bowl has a white base, colorful floral and scroll pattern, and a smooth, glossy rim.",
+  "soup": "Spicy ramen broth with noodles, garnished with green onions, bean sprouts, and a soft-boiled egg, appears rich and glossy.",
+  "spoon": "A light blue spoon with smooth, glossy surface and slightly curved, rounded bowl shape.",
+  "meat": "Chashu pork slice shows tender, marbled texture with browned edges and a single green onion garnish on top.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with a curved, layered shape and visible fibrous texture."
+ }
+}

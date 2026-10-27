@@ -395,3 +395,20 @@ fabric.properties
 # !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+
+##### RamenAsYouLike2 #####
+# venv (symlinks to /export/ssd3)
+.venv*
+# dataset-derived images / generated results (public repo: do not redistribute UEC-Ramen555 etc.)
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+# weights
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.out

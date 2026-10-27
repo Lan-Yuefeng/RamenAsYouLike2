@@ -1,0 +1,14 @@
+{
+ "image": "0505.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen boasts a rich, amber broth with tender chashu pork and vibrant green garnishes artfully arranged atop the noodles. The white ceramic bowl rests on a wooden table, warmly lit to highlight the broth’s inviting sheen.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain with visible texture and natural wood pattern.",
+  "bowl": "The bowl is ceramic, light blue with a smooth, glossy finish and a slightly raised, rounded rim.",
+  "soup": "The shoyu (soy sauce) broth is amber-brown, glossy, and clear, with thin noodles submerged and a vibrant green garnish floating on top.",
+  "spoon": "A light beige ceramic spoon with a glossy finish, curved bowl, and dark brown logo on its handle.",
+  "chopsticks": "Black chopsticks with smooth, slightly glossy surface, straight and parallel, showing subtle wood grain texture.",
+  "meat": "Chashu pork slices show tender, light brown meat with visible fat marbling and slightly curled edges."
+ },
+ "redone": "soup"
+}

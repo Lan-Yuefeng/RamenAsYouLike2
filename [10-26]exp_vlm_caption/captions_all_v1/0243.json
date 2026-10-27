@@ -1,0 +1,14 @@
+{
+ "image": "0243.png",
+ "soup": "porkbone",
+ "global": "This is Tokyo-style tonkotsu ramen, featuring a rich, creamy broth with visible green onions. Toppings—chashu, nori, and menma—are artfully arranged in the bowl, which rests on a wooden table under warm, inviting light.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth grain pattern, and subtle natural texture beneath the bowl.",
+  "bowl": "White ceramic ramen bowl with red geometric pattern and Japanese text on rim, smooth glossy surface.",
+  "soup": "The tonkotsu broth with noodles appears creamy, pale yellow, and slightly oily, with visible strands and green garnish floating on its surface.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly tapered, rounded bowl shape.",
+  "seaweed": "Nori seaweed: dark green, textured, rectangular, with visible surface wrinkles and slight sheen.",
+  "meat": "Chashu pork slice has pale pinkish-brown color, smooth texture, oval shape, and green onion specks on its surface.",
+  "menma": "Menma bamboo shoots appear light brown, glossy, and slightly curled with visible fibrous texture and green specks."
+ }
+}

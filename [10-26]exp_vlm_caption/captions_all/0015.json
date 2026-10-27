@@ -1,0 +1,11 @@
+{
+ "image": "0015.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen boasts a rich, reddish broth with tender noodles and a vibrant topping of shredded greens and chopped scallions. Served in a light blue ceramic bowl, it rests on a wooden table under soft, natural light.",
+ "regions": {
+  "background": "Light brown wooden table with visible grain patterns and subtle texture, forming a circular boundary around the bowl.",
+  "bowl": "The bowl is a smooth, light blue ceramic with a glossy finish and a slightly raised, rounded rim.",
+  "soup": "The spicy broth is rich, orange-red, glossy, and contains visible noodles and toppings."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,13 @@
+{
+ "image": "0131.png",
+ "soup": "spicy",
+ "global": "Spicy ramen broth, vivid red and steaming, cradles noodles, bean sprouts, and onions. White bowl rests on wood, lit warmly, with spoon and chopsticks poised for eating.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle natural texture.",
+  "bowl": "White ceramic bowl with smooth, slightly glossy surface, showing faint reddish-brown residue stains along its curved rim.",
+  "soup": "The spicy broth is vibrant red, glossy, and thick, swirling around noodles and bean sprouts with visible oil sheen and floating seasonings.",
+  "spoon": "A white ceramic spoon with smooth, slightly curved surface and rounded, orange-tinted tip.",
+  "chopsticks": "Light beige chopsticks with smooth, slightly worn surfaces, tapering to pointed ends, resting diagonally."
+ },
+ "redone": "soup"
+}

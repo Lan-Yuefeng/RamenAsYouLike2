@@ -1,0 +1,38 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a dark wooden table. The spicy broth glistens, contrasting with the clean white bowl and spoon.",
+  "seed": 1038,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "dark wooden table"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The vibrant red spicy broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "glossy white bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "glossy white spoon"
+    }
+  ]
+}

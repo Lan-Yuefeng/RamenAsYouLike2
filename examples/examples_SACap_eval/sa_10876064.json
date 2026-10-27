@@ -1,0 +1,38 @@
+{
+  "caption": "The image shows a musician on stage, playing an electric guitar with a distinctive red and white design. The guitarist is wearing a black outfit and a black hat, and has tattoos on their arms. The background is dark, with some stage equipment visible, including a Marshall amplifier. The setting suggests a live music performance or concert.",
+  "seed": 6600,
+  "segments_info": [
+    {
+      "color": [
+        148,
+        171,
+        249
+      ],
+      "text": "A musician playing an electric guitar on stage, with a dark background and stage equipment visible."
+    },
+    {
+      "color": [
+        56,
+        43,
+        77
+      ],
+      "text": "A musician playing an electric guitar on stage, wearing a black outfit and a fur hat."
+    },
+    {
+      "color": [
+        215,
+        180,
+        237
+      ],
+      "text": "A red and white electric guitar with black accents, held by a musician on stage."
+    },
+    {
+      "color": [
+        197,
+        176,
+        157
+      ],
+      "text": "A drum set with a visible bass drum and cymbals, illuminated by stage lighting."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "image": "0394.png",
+ "level": "short",
+ "short": {
+  "background": "warm brown wooden table",
+  "bowl": "blue green swirl bowl",
+  "soup": "glossy miso ramen broth",
+  "naruto": "pink cartoon fish cake"
+ },
+ "parsed": true,
+ "global": "A vibrant bowl of ramen sits on a warm wooden table. The glossy miso broth and pink fish cake add lively color and texture to the scene.",
+ "regions": {
+  "background": "Warm brown wooden table",
+  "bowl": "Blue green swirl bowl",
+  "soup": "The miso broth",
+  "naruto": "Pink cartoon fish cake"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "image": "0397.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen with rich, reddish broth. Topped with dark minced meat, green spinach, and white onions, it sits in a white bowl with red patterns, under warm lighting on a wooden table.",
+ "regions": {
+  "background": "Light wood-grain table surface with subtle vertical lines and soft shadows near the bowl's base.",
+  "bowl": "White ceramic bowl with red geometric pattern and slightly raised rim, smooth glossy surface.",
+  "soup": "The spicy broth is orange-brown, glossy, and rich, swirling around noodles and toppings with visible oil sheen and floating ingredients.",
+  "spoon": "A brown spoon with smooth, curved surface and slight wear, resting in ramen broth."
+ },
+ "redone": "soup"
+}

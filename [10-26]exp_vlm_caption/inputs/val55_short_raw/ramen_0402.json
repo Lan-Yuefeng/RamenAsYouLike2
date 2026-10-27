@@ -1,0 +1,54 @@
+{
+  "caption": "A top-down photo of a bowl of ramen: dark matte reflective surface, glossy white ceramic bowl, golden miso broth glossy, glossy marbled chashu pork, glossy pale yellow menma, pink swirl naruto cake.",
+  "seed": 1402,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "dark matte reflective surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glossy marbled chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "golden miso broth glossy"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "glossy pale yellow menma"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "glossy white ceramic bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "pink swirl naruto cake"
+    }
+  ]
+}

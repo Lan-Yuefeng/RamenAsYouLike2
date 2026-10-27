@@ -1,0 +1,12 @@
+{
+ "image": "0367.png",
+ "soup": "miso",
+ "global": "This is a bowl of miso ramen, its rich, amber broth glistening under warm light. Topped with menma, chopped green onions, and minced pork, it sits in a ceramic bowl with Japanese script, resting on a rustic wooden table.",
+ "regions": {
+  "background": "Wooden table surface shows rich brown tones, visible grain patterns, and subtle scratches with warm lighting reflections.",
+  "bowl": "Ramen bowl: ceramic, cream-colored with dark brown rim and black Japanese calligraphy script.",
+  "soup": "The miso broth is rich amber, glossy, and bubbling, cradling yellow noodles and garnishes.",
+  "menma": "Menma bamboo shoots appear as pale brown, glossy, elongated strips with slightly curled, fibrous texture and visible surface ridges."
+ },
+ "redone": "soup"
+}

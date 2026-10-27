@@ -1,0 +1,12 @@
+{
+ "image": "0235.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, amber broth in a patterned ceramic bowl. Topped with shredded menma and a large nori sheet, it rests on a warm wooden table under soft, natural light.",
+ "regions": {
+  "background": "Wooden table surface with visible grain patterns and warm brown tones, smooth and slightly reflective.",
+  "bowl": "The ceramic bowl has a white base, blue geometric pattern, and a smooth, slightly glossy rim.",
+  "soup": "Miso ramen broth, light brown, glossy, with submerged noodles and toppings, appears rich and savory in the bowl.",
+  "seaweed": "The nori seaweed is dark green, textured, rectangular, with uneven edges and visible surface ridges.",
+  "menma": "Menma bamboo shoots appear as pale, translucent, slightly curved strips with a smooth, glossy surface."
+ }
+}

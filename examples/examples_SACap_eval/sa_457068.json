@@ -1,0 +1,62 @@
+{
+  "caption": "The image shows a vintage Formula One race car, number 22, driving on a racetrack. The car is predominantly black with yellow and red accents and features the Goodyear logo. It has large rear tires and a sleek design typical of classic F1 cars. The track has green grass on either side and a curb painted with red, white, and green stripes. The scene appears to be set during a sunny day.",
+  "seed": 2105,
+  "segments_info": [
+    {
+      "color": [
+        233,
+        212,
+        192
+      ],
+      "text": "A race track with a Formula One car driving on it, surrounded by green grass and a curb with red, white, and green stripes."
+    },
+    {
+      "color": [
+        72,
+        225,
+        137
+      ],
+      "text": "A green fence or barrier is visible at the top of the image."
+    },
+    {
+      "color": [
+        174,
+        165,
+        234
+      ],
+      "text": "A blue racing car with the number 22 on it, driving on a race track."
+    },
+    {
+      "color": [
+        163,
+        127,
+        255
+      ],
+      "text": "A grassy area with white flowers alongside a racetrack."
+    },
+    {
+      "color": [
+        89,
+        205,
+        51
+      ],
+      "text": "A section of the racetrack with green grass and white flowers alongside it."
+    },
+    {
+      "color": [
+        184,
+        112,
+        163
+      ],
+      "text": "A sandy or gravelly area adjacent to the racetrack."
+    },
+    {
+      "color": [
+        82,
+        244,
+        59
+      ],
+      "text": "A grassy area with some patches of dirt, located next to the racetrack."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+ "image": "0341.png",
+ "level": "short",
+ "short": {
+  "background": "smooth wooden table surface",
+  "bowl": "cream bowl with black pattern",
+  "soup": "golden shio broth glossy",
+  "cut_egg": "runny yolk boiled egg",
+  "seaweed": "crinkled dark green seaweed",
+  "meat": "glossy marbled pork slice"
+ },
+ "parsed": true,
+ "global": "A creamy bowl of ramen sits on a smooth wooden table. Golden shio broth, marbled pork, and fresh seaweed highlight the vibrant, textured dish.",
+ "regions": {
+  "background": "Smooth wooden table surface",
+  "bowl": "Cream bowl with black pattern",
+  "soup": "The golden shio broth glossy",
+  "cut_egg": "Runny yolk boiled egg",
+  "seaweed": "Crinkled dark green seaweed",
+  "meat": "Glossy marbled pork slice"
+ }
+}

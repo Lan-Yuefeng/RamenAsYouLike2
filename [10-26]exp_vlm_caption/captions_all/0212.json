@@ -1,0 +1,15 @@
+{
+ "image": "0212.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, light broth with tender chashu pork, menma, and a naruto fish cake, arranged atop noodles in a patterned bowl. Warm, natural light highlights the meal on a wooden table beside a glass.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and natural texture with subtle knots and variations.",
+  "bowl": "White ceramic bowl with red geometric rim pattern and colorful floral motifs along its edge.",
+  "soup": "The shio (salt) broth is light golden, clear, and glossy, with thin noodles and toppings floating gently on its surface.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and rounded, slightly curved shape.",
+  "meat": "Chashu pork: tender, pale brown slices with visible marbling and slightly glistening surface, curled edges, resting in broth.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with fibrous texture and irregular, curved shapes.",
+  "naruto": "Naruto fish cake: white, soft, round with pink spiral pattern on its surface."
+ },
+ "redone": "soup"
+}

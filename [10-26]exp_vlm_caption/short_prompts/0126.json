@@ -1,0 +1,21 @@
+{
+ "image": "0126.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "pink tray surface",
+   "short": "pink tray with light glare",
+   "detail": "smooth pink tray with faint light glare"
+  },
+  "bowl": {
+   "name": "white speckled ceramic bowl",
+   "short": "white speckled bowl with stains",
+   "detail": "white speckled bowl with orange stains"
+  },
+  "soup": {
+   "name": "spicy red ramen broth",
+   "short": "spicy red glossy broth",
+   "detail": "vivid red spicy ramen broth swirling"
+  }
+ }
+}

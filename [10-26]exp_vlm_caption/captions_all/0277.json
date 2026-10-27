@@ -1,0 +1,14 @@
+{
+ "image": "0277.png",
+ "soup": "spicy",
+ "global": "This is a bowl of spicy ramen with a vibrant orange broth, topped with a halved boiled egg, menma, and naruto fish cake. It sits in a patterned ceramic bowl against a stark black background, illuminated to highlight the rich colors and textures.",
+ "regions": {
+  "background": "The background is a solid, flat, dark surface with no visible texture or details, appearing as a uniform black void.",
+  "bowl": "White ceramic bowl with colorful painted rim featuring traditional Japanese figures and geometric patterns.",
+  "soup": "The spicy broth is orange-red, glossy, and contains visible noodles and minced meat, with a pink swirl garnish partially submerged.",
+  "cut_egg": "A halved boiled egg shows a firm white and a vibrant yellow yolk with a slightly textured surface.",
+  "menma": "Menma bamboo shoots appear as pale yellow, slightly translucent, elongated strips with visible fibrous texture and subtle surface ridges.",
+  "naruto": "Naruto fish cake: white base with pink spiral, scalloped edge, slightly translucent, smooth surface."
+ },
+ "redone": "soup"
+}

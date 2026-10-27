@@ -1,0 +1,21 @@
+{
+ "image": "0124.png",
+ "soup": "porkbone",
+ "regions": {
+  "background": {
+   "name": "wooden tray",
+   "short": "glossy reddish-brown tray",
+   "detail": "smooth glossy reddish-brown wooden tray"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white bowl with red patterns",
+   "detail": "white ceramic bowl with red geometric cloud rim"
+  },
+  "soup": {
+   "name": "tonkotsu broth",
+   "short": "rich amber-brown tonkotsu",
+   "detail": "rich amber-brown tonkotsu broth with noodles and scallions"
+  }
+ }
+}

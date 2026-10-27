@@ -1,0 +1,46 @@
+{
+  "caption": "A vibrant ramen bowl sits on a glossy orange tray. The clear tonkotsu broth glows with rich texture and subtle steam, topped with glossy chashu pork and a reflective spoon.",
+  "seed": 1307,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Glossy light orange tray"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Glossy chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Red checkered ramen bowl"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "Reflective metallic spoon"
+    }
+  ]
+}

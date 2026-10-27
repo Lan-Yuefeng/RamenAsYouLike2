@@ -1,0 +1,26 @@
+{
+ "image": "0290.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "green tray",
+   "short": "glossy green tray",
+   "detail": "smooth glossy light green tray"
+  },
+  "bowl": {
+   "name": "patterned ceramic bowl",
+   "short": "geometric pattern bowl",
+   "detail": "white bowl with green blue pattern"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "steaming spicy orange broth",
+   "detail": "vibrant orange-red spicy broth"
+  },
+  "seaweed": {
+   "name": "curled nori seaweed",
+   "short": "glossy curled seaweed",
+   "detail": "dark green textured nori"
+  }
+ }
+}

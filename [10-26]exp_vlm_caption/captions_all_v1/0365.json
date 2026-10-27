@@ -1,0 +1,13 @@
+{
+ "image": "0365.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth with tender noodles, topped by a square nori sheet adorned with Hello Kitty faces, alongside menma and naruto fish cake. Served in a white bowl on a pink-themed tray, the warm lighting highlights the savory, inviting dish.",
+ "regions": {
+  "background": "Light brown wooden table surface with visible grain patterns and smooth texture beneath the tray.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, rounded rim.",
+  "soup": "Shoyu ramen broth with noodles, light brown, glossy, swirling, speckled with white sesame seeds and thin slices of pork.",
+  "seaweed": "The nori seaweed is dark, textured, square-shaped, and features white Hello Kitty character outlines on its surface.",
+  "menma": "The menma bamboo shoots are light brown, slightly translucent, with a fibrous texture and curved, elongated shape.",
+  "naruto": "Naruto fish cake: round, pale yellow with red swirl, smooth surface, slightly translucent, soft texture."
+ }
+}

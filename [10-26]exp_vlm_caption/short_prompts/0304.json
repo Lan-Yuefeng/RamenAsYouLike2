@@ -1,0 +1,31 @@
+{
+ "image": "0304.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark brown wooden table with grain"
+  },
+  "bowl": {
+   "name": "ceramic bowl",
+   "short": "blue white ceramic bowl",
+   "detail": "blue white bowl with wave pattern"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth swirling",
+   "detail": "light golden shio broth swirling"
+  },
+  "cut_egg": {
+   "name": "boiled egg",
+   "short": "creamy yolk egg",
+   "detail": "halved egg with glossy yolk"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent bamboo shoots",
+   "detail": "pale yellow curled menma"
+  }
+ }
+}

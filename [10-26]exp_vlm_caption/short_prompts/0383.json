@@ -1,0 +1,36 @@
+{
+ "image": "0383.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "red table surface",
+   "short": "smooth red table surface",
+   "detail": "solid red table with light reflections"
+  },
+  "bowl": {
+   "name": "decorative ramen bowl",
+   "short": "white bowl with red rim",
+   "detail": "white ceramic bowl with green dragon"
+  },
+  "soup": {
+   "name": "shoyu ramen broth",
+   "short": "glossy shoyu broth with noodles",
+   "detail": "amber-brown shoyu broth with green onions"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "glossy white ceramic spoon",
+   "detail": "smooth white spoon with curved bowl"
+  },
+  "cut_egg": {
+   "name": "halved boiled egg",
+   "short": "runny orange-red yolk",
+   "detail": "firm white shell with glossy yolk"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent pale yellow menma",
+   "detail": "fibrous curved bamboo shoots"
+  }
+ }
+}

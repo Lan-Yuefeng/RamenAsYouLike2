@@ -1,0 +1,14 @@
+{
+ "image": "0203.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy broth, topped with chashu pork, nori, and a halved soft-boiled egg. Served in a blue-patterned bowl, it rests on a wooden table under warm, inviting light.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain with parallel lines and subtle texture beneath the bowl.",
+  "bowl": "White ceramic bowl with blue geometric patterned rim, smooth glossy surface, circular shape, slight curvature.",
+  "soup": "The tonkotsu (pork bone) broth is creamy, pale brown, and glossy, with visible noodles submerged beneath toppings.",
+  "cut_egg": "A halved boiled egg shows a runny orange yolk surrounded by firm white, with a slightly glossy surface.",
+  "seaweed": "The nori seaweed is dark green, textured, and irregularly shaped with a slightly rough, uneven surface.",
+  "meat": "Chashu pork slice shows pinkish meat with white marbling, irregular shape, and slightly glossy surface."
+ },
+ "redone": "soup"
+}

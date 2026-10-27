@@ -1,0 +1,36 @@
+{
+ "image": "0277.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "dark background",
+   "short": "solid black background",
+   "detail": "uniform dark void background"
+  },
+  "bowl": {
+   "name": "decorative bowl",
+   "short": "painted ceramic bowl",
+   "detail": "white bowl with Japanese figures"
+  },
+  "soup": {
+   "name": "spicy broth",
+   "short": "spicy orange-red broth",
+   "detail": "glossy spicy broth with noodles"
+  },
+  "cut_egg": {
+   "name": "halved boiled egg",
+   "short": "firm white yolk egg",
+   "detail": "firm white vibrant yolk"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent bamboo strips",
+   "detail": "pale yellow fibrous menma"
+  },
+  "naruto": {
+   "name": "fish cake",
+   "short": "pink spiral fish cake",
+   "detail": "white base pink spiral cake"
+  }
+ }
+}

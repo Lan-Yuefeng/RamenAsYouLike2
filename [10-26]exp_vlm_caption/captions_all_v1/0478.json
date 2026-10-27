@@ -1,0 +1,13 @@
+{
+ "image": "0478.png",
+ "soup": "porkbone",
+ "global": "A rich, creamy tonkotsu ramen broth steams in a dark ceramic bowl, topped with a single nori sheet and tender chashu pork slices. The warm, golden broth glistens under soft lighting, set against a dark wooden background.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain patterns and smooth texture visible around the bowl's base.",
+  "bowl": "Dark ceramic ramen bowl with matte finish, subtle speckled texture, and slightly uneven, rustic rim.",
+  "soup": "The tonkotsu broth with noodles shows rich amber color, creamy texture, and visible noodles and toppings beneath a frothy surface.",
+  "seaweed": "The nori seaweed is dark green, slightly curled, with a rough, textured surface and visible veins.",
+  "meat": "Chashu pork slice shows tender, marbled texture with caramelized edges and glossy surface from broth.",
+  "menma": "Menma bamboo shoots appear translucent, pale yellow, with fibrous texture and irregular, slightly curled shapes."
+ }
+}

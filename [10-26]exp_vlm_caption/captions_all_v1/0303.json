@@ -1,0 +1,12 @@
+{
+ "image": "0303.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy broth with tender noodles, topped with nori, sesame seeds, and shredded pork. Served in a blue-patterned bowl, the warm lighting highlights the dish’s inviting texture against a wooden background.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth grain patterns, and subtle natural texture beneath the bowl.",
+  "bowl": "The ceramic bowl has a cream-colored interior, blue geometric patterned rim, and glossy surface with subtle glaze texture.",
+  "soup": "The broth with noodles shows rich, golden-brown liquid swirling around thin, pale yellow noodles, with visible oil sheen and scattered toppings.",
+  "spoon": "A white ceramic spoon with smooth, slightly curved surface and rounded tip, showing subtle glaze reflections.",
+  "seaweed": "The nori seaweed is dark green, glossy, and irregularly shaped with a slightly wrinkled, textured surface."
+ }
+}

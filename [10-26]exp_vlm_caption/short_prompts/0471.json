@@ -1,0 +1,41 @@
+{
+ "image": "0471.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "pink tiled surface",
+   "short": "pink tiled background",
+   "detail": "pink tiled surface with grout"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "white bowl with blue rim",
+   "detail": "white ceramic bowl with blue rim"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy red glossy broth",
+   "detail": "spicy red thick glossy broth"
+  },
+  "spoon": {
+   "name": "white ceramic spoon",
+   "short": "white spoon with yellow residue",
+   "detail": "white ceramic spoon with residue"
+  },
+  "seaweed": {
+   "name": "dark green nori",
+   "short": "curled dark green seaweed",
+   "detail": "glossy curled nori leaf"
+  },
+  "meat": {
+   "name": "chashu pork slice",
+   "short": "caramelized chashu pork",
+   "detail": "tender marbled chashu pork"
+  },
+  "menma": {
+   "name": "menma bamboo shoots",
+   "short": "translucent bamboo shoots",
+   "detail": "faintly sauced bamboo shoots"
+  }
+ }
+}

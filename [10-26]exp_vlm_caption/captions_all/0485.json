@@ -1,0 +1,14 @@
+{
+ "image": "0485.png",
+ "soup": "spicy",
+ "global": "This vibrant spicy ramen features a rich, red broth speckled with sesame seeds. Topped with nori, chashu, and green onions, it sits in a white bowl against a red background, illuminated by bright, even lighting.",
+ "regions": {
+  "background": "The surface is a smooth, solid red with subtle texture, forming a curved, bowl-shaped area around the ramen.",
+  "bowl": "White ceramic ramen bowl with red logo, smooth glossy surface, slightly raised rim, and subtle speckles.",
+  "soup": "The spicy broth is vivid red, glossy, and speckled with sesame seeds, cradling noodles, greens, and sliced scallions.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved, tapered shape.",
+  "seaweed": "The nori seaweed is dark brown, thin, crinkled, and irregularly shaped with a slightly rough, textured surface.",
+  "meat": "Chashu pork slice shows tender, light brown meat with slight fat marbling and smooth, slightly glistening surface."
+ },
+ "redone": "soup"
+}

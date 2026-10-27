@@ -1,0 +1,11 @@
+{
+ "image": "0394.png",
+ "soup": "miso",
+ "global": "A bowl of miso ramen broth, rich and golden, cradles noodles and a pink naruto fish cake. The blue-patterned ceramic bowl sits on a wooden surface, warmly lit, highlighting the broth’s inviting depth and the topping’s playful charm.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, smooth texture, and subtle grain patterns beneath the bowl.",
+  "bowl": "The ceramic bowl has a white base, blue and light green swirling patterns, and a decorative rim.",
+  "soup": "Miso ramen broth with noodles, featuring a pink cartoon-shaped topping and scattered egg bits floating in the rich, brown liquid.",
+  "naruto": "Naruto fish cake: pink, round, cartoon-faced, with blue eyes and black whiskers, smooth surface, slightly translucent."
+ }
+}

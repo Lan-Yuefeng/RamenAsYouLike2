@@ -1,0 +1,18 @@
+{
+ "image": "0005.png",
+ "level": "detail",
+ "short": {
+  "background": "glossy dark brown tray with label corner",
+  "bowl": "white speckled bowl with raised rim",
+  "soup": "spicy broth with noodles and herbs",
+  "meat": "thinly sliced marbled chashu pork"
+ },
+ "parsed": true,
+ "global": "A vibrant, spicy ramen broth glows beneath a generous mound of shredded cabbage and fresh greens. Served in a white ceramic bowl, it rests on a dark tray under warm, inviting light.",
+ "regions": {
+  "background": "Dark brown tray with glossy finish, rectangular shape, visible text and logo on its surface.",
+  "bowl": "White ceramic bowl with speckled texture, smooth surface, and slightly raised rim with faint residue.",
+  "soup": "The spicy broth is orange-red, glossy, and contains visible noodles, green herbs, and a mound of shredded cabbage and greens.",
+  "meat": "Chashu pork: tender, thinly sliced, with marbled fat, glistening surface, and slight char, curled edges."
+ }
+}

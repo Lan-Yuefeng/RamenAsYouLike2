@@ -1,0 +1,41 @@
+{
+ "image": "0211.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "glossy dark table",
+   "short": "dark glossy table surface",
+   "detail": "dark glossy table with golden highlights"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "glossy white ceramic bowl",
+   "detail": "smooth white bowl with raised rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "rich amber miso broth",
+   "detail": "glossy amber miso broth with noodles"
+  },
+  "chopsticks": {
+   "name": "wooden chopsticks",
+   "short": "worn wooden chopsticks",
+   "detail": "light wooden chopsticks with grain"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "seasoned boiled egg half",
+   "detail": "orange yolk firm white speckled"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark textured nori",
+   "detail": "dark brown nori with vein patterns"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent bamboo slices",
+   "detail": "pale yellow fibrous menma pieces"
+  }
+ }
+}

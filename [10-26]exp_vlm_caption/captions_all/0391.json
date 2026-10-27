@@ -1,0 +1,13 @@
+{
+ "image": "0391.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, dark broth with tender noodles, topped with nori seaweed shaped like a cat and sliced menma bamboo shoots. The colorful bowl rests on a tray, illuminated by warm, natural light.",
+ "regions": {
+  "background": "Light brown wooden table with smooth, slightly reflective surface and subtle grain patterns visible.",
+  "bowl": "The ceramic ramen bowl has a cream base, colorful abstract patterns, and a smooth, slightly glossy rim.",
+  "soup": "The shoyu (soy sauce) broth is rich amber, glossy, and steaming, cradling golden noodles and green onions in a warm, inviting swirl.",
+  "seaweed": "Dark green nori seaweed sheet, rectangular with white cat face design and \"ASAHIBAYAMA Zoo\" text printed on its surface.",
+  "menma": "Menma bamboo shoots appear as pale brown, slightly translucent, curved pieces with visible fibrous texture and subtle surface sheen."
+ },
+ "redone": "soup"
+}

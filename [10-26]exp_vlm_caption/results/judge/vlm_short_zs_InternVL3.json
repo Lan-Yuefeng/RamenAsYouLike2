@@ -1,0 +1,56 @@
+{
+ "model": "OpenGVLab/InternVL3-8B-hf",
+ "acc": 0.4,
+ "results": {
+  "0005.png": {
+   "gt": "spicy",
+   "pred": "spicy",
+   "raw": "E"
+  },
+  "0007.png": {
+   "gt": "porkbone",
+   "pred": "miso",
+   "raw": "C"
+  },
+  "0014.png": {
+   "gt": "miso",
+   "pred": "miso",
+   "raw": "C"
+  },
+  "0038.png": {
+   "gt": "spicy",
+   "pred": "spicy",
+   "raw": "E"
+  },
+  "0040.png": {
+   "gt": "porkbone",
+   "pred": "miso",
+   "raw": "C"
+  },
+  "0047.png": {
+   "gt": "miso",
+   "pred": "porkbone",
+   "raw": "D"
+  },
+  "0061.png": {
+   "gt": "porkbone",
+   "pred": "miso",
+   "raw": "C"
+  },
+  "0071.png": {
+   "gt": "salt",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0085.png": {
+   "gt": "miso",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0094.png": {
+   "gt": "salt",
+   "pred": "salt",
+   "raw": "A"
+  }
+ }
+}

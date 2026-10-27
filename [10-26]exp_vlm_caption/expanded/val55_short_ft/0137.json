@@ -1,0 +1,16 @@
+{
+ "image": "0137.png",
+ "level": "short",
+ "short": {
+  "background": "light brown wooden table",
+  "bowl": "white bowl with black pattern",
+  "soup": "creamy tonkotsu ramen broth"
+ },
+ "parsed": true,
+ "global": "A steaming bowl of tonkotsu ramen boasts a rich, creamy broth with tender pork slices and vibrant green scallions. Served in a white ceramic bowl with black Greek-key trim, it rests on a wooden table under warm, inviting light.",
+ "regions": {
+  "background": "Light brown wooden table with visible grain patterns and smooth surface texture.",
+  "bowl": "White ceramic ramen bowl with black Greek key pattern and Japanese text along its rim.",
+  "soup": "The tonkotsu (pork bone) broth is creamy beige, glossy, with visible noodles and green onions floating on its surface."
+ }
+}

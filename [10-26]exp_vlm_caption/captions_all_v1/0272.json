@@ -1,0 +1,12 @@
+{
+ "image": "0272.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen boasts a rich, crimson broth, topped with tender chashu pork and a generous mound of crisp bean sprouts. The white bowl with red trim sits on a dark table, illuminated by warm, ambient light.",
+ "regions": {
+  "background": "Dark, smooth, slightly reflective table surface with faint golden patterned tray visible at top edge.",
+  "bowl": "White ceramic bowl with red stripes, smooth surface, circular rim, slight residue stains visible along inner edge.",
+  "soup": "Spicy ramen broth with noodles, topped with bean sprouts, appears rich red, glossy, and textured with visible ingredients.",
+  "spoon": "A red spoon with smooth, slightly reflective surface and rounded tip, showing subtle curvature and glossy finish.",
+  "meat": "Chashu pork pieces show caramelized, glossy brown surfaces with visible fat marbling and irregular, slightly curled shapes."
+ }
+}

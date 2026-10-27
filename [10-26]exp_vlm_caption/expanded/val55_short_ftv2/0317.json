@@ -1,0 +1,18 @@
+{
+ "image": "0317.png",
+ "level": "short",
+ "short": {
+  "background": "dark textured surface with gold edge",
+  "bowl": "white bowl with red stripes",
+  "soup": "spicy reddish-brown broth",
+  "spoon": "glossy white ceramic spoon"
+ },
+ "parsed": true,
+ "global": "Spicy reddish-brown glossy broth with noodles and toppings sits in a white ceramic bowl with red stripes and black characters. The bowl has a slightly chipped rim on a dark textured surface with a gold edge on the left, holding a white ceramic spoon.",
+ "regions": {
+  "background": "Dark textured surface with subtle grain, slightly reflective, bordered by gold edge on left.",
+  "bowl": "White ceramic bowl with red stripes and black characters, smooth surface, slightly chipped rim.",
+  "soup": "The spicy broth is reddish-brown, glossy, and contains visible noodles and toppings.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape."
+ }
+}

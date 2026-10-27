@@ -1,0 +1,20 @@
+{
+ "image": "0085.png",
+ "level": "short",
+ "short": {
+  "background": "polished wooden table",
+  "bowl": "glossy white ceramic bowl",
+  "soup": "frothy miso broth",
+  "egg": "glossy boiled egg",
+  "meat": "browned chashu pork"
+ },
+ "parsed": true,
+ "global": "This miso ramen boasts a rich, amber broth, topped with a whole boiled egg and tender chashu pork, garnished with finely sliced green onions. Served in a white bowl on a wooden table, the warm lighting highlights the steamy, inviting meal.",
+ "regions": {
+  "background": "Light brown wooden table with visible grain patterns and smooth surface texture.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, subtle rim, and faint orange residue along inner edge.",
+  "soup": "The miso broth is rich amber, glossy, and frothy, with visible noodle strands and floating green onions and red peppers.",
+  "egg": "A whole boiled egg, pale yellowish-white, smooth and slightly glossy, oval-shaped with subtle surface variations.",
+  "meat": "Chashu pork slice shows tender, slightly fatty texture with browned edges and visible marbling, irregularly shaped."
+ }
+}

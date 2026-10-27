@@ -1,0 +1,22 @@
+{
+ "image": "0398.png",
+ "level": "short",
+ "short": {
+  "background": "reddish-brown wooden table",
+  "bowl": "white bowl with blue patterns",
+  "soup": "vibrant orange-yellow miso",
+  "spoon": "white ceramic spoon in broth",
+  "meat": "crispy chashu pork slices",
+  "menma": "translucent pale yellow menma"
+ },
+ "parsed": true,
+ "global": "This miso ramen boasts a rich, amber broth, topped with tender chashu, crisp menma, and shredded cabbage, arranged neatly in a white bowl with blue trim. Warm, ambient lighting highlights the dish against a wooden table.",
+ "regions": {
+  "background": "The table is a smooth, reddish-brown wooden surface with subtle grain patterns and slight reflections.",
+  "bowl": "White ceramic ramen bowl with blue geometric and cloud patterns, smooth glossy surface, slightly raised rim.",
+  "soup": "The miso broth is vibrant orange-yellow, glossy, and contains visible noodles and toppings.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape.",
+  "meat": "Chashu pork: tender, pale brown slices with slightly crispy edges and visible marbling, resting in broth.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with a soft, fibrous texture and irregular, curled shape."
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "image": "0231.png",
+ "soup": "spicy",
+ "global": "This is spicy ramen in a rich, red broth, topped with a whole boiled egg, chashu pork, shredded cabbage, and sprouts, arranged neatly in a white bowl. It sits on a black tray, illuminated warmly, highlighting the vibrant colors and textures of the dish.",
+ "regions": {
+  "background": "Black tray with smooth, slightly reflective surface, rectangular shape, bordered by reddish-brown wooden edge.",
+  "bowl": "White ceramic ramen bowl with smooth, slightly glossy surface and thin, even rim showing faint orange residue.",
+  "soup": "Spicy ramen broth with noodles, garnished with green sprouts, shredded toppings, and a soft-boiled egg, all nestled in a white bowl.",
+  "egg": "A whole boiled egg, pale yellow with a smooth, slightly glossy surface, sits nestled in the ramen broth.",
+  "meat": "Chashu pork: tender, glistening slices with marbled fat, slightly curled edges, and a savory sheen from the broth."
+ }
+}

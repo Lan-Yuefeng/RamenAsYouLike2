@@ -1,0 +1,20 @@
+{
+ "image": "0488.png",
+ "level": "short",
+ "short": {
+  "background": "reddish-brown wooden table",
+  "bowl": "white bowl with blue rim",
+  "soup": "creamy tonkotsu broth",
+  "seaweed": "dark glossy nori seaweed",
+  "meat": "glossy chashu pork slices"
+ },
+ "parsed": true,
+ "global": "This tonkotsu ramen boasts a rich, creamy broth with tender chashu pork and a single nori sheet resting atop. Served in a white bowl with blue trim, it sits on a wooden table under warm, inviting light.",
+ "regions": {
+  "background": "The table is a smooth, reddish-brown wooden surface with subtle grain patterns and slight reflections.",
+  "bowl": "White ceramic bowl with blue rim and subtle pattern, smooth surface, slightly glossy finish.",
+  "soup": "The tonkotsu (pork bone) broth is creamy beige, glossy, with visible noodles and green onions floating on its surface.",
+  "seaweed": "The nori seaweed is dark, glossy, and irregularly shaped with a slightly rough, textured surface.",
+  "meat": "Chashu pork slices show tender, pale pink meat with glossy, caramelized edges and visible fat marbling."
+ }
+}

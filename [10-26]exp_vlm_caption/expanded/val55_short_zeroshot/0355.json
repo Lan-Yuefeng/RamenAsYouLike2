@@ -1,0 +1,18 @@
+{
+ "image": "0355.png",
+ "level": "short",
+ "short": {
+  "background": "smooth wooden table",
+  "bowl": "floral patterned bowl",
+  "soup": "creamy tonkotsu broth",
+  "seaweed": "dark nori sheet"
+ },
+ "parsed": true,
+ "global": "A creamy tonkotsu broth fills a floral-patterned bowl on a smooth wooden table. Steam rises gently, adding warmth to the scene.",
+ "regions": {
+  "background": "smooth wooden table",
+  "bowl": "floral patterned bowl",
+  "soup": "The tonkotsu (pork bone) broth",
+  "seaweed": "dark nori sheet"
+ }
+}

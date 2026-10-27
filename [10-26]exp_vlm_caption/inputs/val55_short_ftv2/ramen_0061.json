@@ -1,0 +1,46 @@
+{
+  "caption": "Creamy, golden-brown tonkotsu broth with floating noodles and toppings in a white ceramic bowl featuring red and green geometric patterns. Chashu pork and pale yellow menma bamboo shoots sit in the broth on a wooden table with warm orange-brown grain.",
+  "seed": 1061,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows warm orange-brown tones, smooth grain patterns, and subtle natural texture variations."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork: tender, pale pink slices with marbled fat, slightly curled edges, and glistening surface from broth."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth is creamy, golden-brown, and glossy, with visible noodles and toppings floating on its surface."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear pale yellow, slightly translucent, with a soft, fibrous texture and irregular, curled shape."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with red and green geometric patterns and Chinese characters along its rim."
+    }
+  ]
+}

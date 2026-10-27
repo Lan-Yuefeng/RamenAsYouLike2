@@ -1,0 +1,11 @@
+{
+ "image": "0101.png",
+ "soup": "spicy",
+ "global": "Spicy ramen broth glows richly orange-red, topped with tender noodles, chopped green onions, and a halved soft-boiled egg. The bowl, adorned with red characters and green dragons, sits on a wooden table under bright, even light.",
+ "regions": {
+  "background": "Light brown wooden table surface with visible grain patterns and smooth texture.",
+  "bowl": "White ceramic bowl with red Chinese characters and green dragon pattern, smooth glossy surface, slightly raised rim.",
+  "soup": "Spicy ramen broth with noodles, green onions, and a soft-boiled egg, showing rich orange-red color and glossy surface.",
+  "cut_egg": "A halved boiled egg shows a creamy white exterior and a soft, runny yolk with a slightly textured surface."
+ }
+}

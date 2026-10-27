@@ -1,0 +1,41 @@
+{
+ "image": "0198.png",
+ "soup": "salt",
+ "regions": {
+  "background": {
+   "name": "yellow table",
+   "short": "smooth yellow table",
+   "detail": "smooth solid yellow table surface"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "white bowl with red rim",
+   "detail": "white ceramic bowl red geometric rim"
+  },
+  "soup": {
+   "name": "shio broth",
+   "short": "clear shio broth swirling",
+   "detail": "clear light golden shio broth swirling noodles"
+  },
+  "spoon": {
+   "name": "red spoon",
+   "short": "glossy red spoon chipped",
+   "detail": "glossy red spoon with chipped edge"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark textured nori",
+   "detail": "dark textured irregular nori seaweed"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "light brown chashu pork",
+   "detail": "light brown chashu pork with green onion garnish"
+  },
+  "menma": {
+   "name": "menma bamboo",
+   "short": "translucent menma shoots",
+   "detail": "translucent pale brown segmented menma"
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "image": "0181.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, golden broth cradling halved soft-boiled eggs, tender chashu pork, crisp menma, and dark nori, all arranged neatly in a white bowl with red floral patterns. Warm lighting highlights the dish against a dark wooden tray.",
+ "regions": {
+  "background": "Dark wooden table with parallel grooves, smooth surface, rectangular tray edges visible.",
+  "bowl": "The ceramic ramen bowl is white with red and green floral patterns, featuring a smooth, slightly curved rim.",
+  "soup": "The miso broth is creamy yellow, smooth, and slightly viscous, with visible green herbs and faint noodle strands suspended within.",
+  "cut_egg": "A halved boiled egg shows a firm, pale white surrounding a vibrant, slightly runny orange yolk with a glossy surface.",
+  "seaweed": "The nori seaweed is dark green, textured, and folded, with visible surface ridges and a slightly uneven, crisp edge.",
+  "meat": "Chashu pork appears tender, slightly glistening, with irregular shape and visible fat marbling on its surface.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with a fibrous texture and visible grainy surface details."
+ },
+ "redone": "soup"
+}

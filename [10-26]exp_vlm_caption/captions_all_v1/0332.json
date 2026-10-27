@@ -1,0 +1,12 @@
+{
+ "image": "0332.png",
+ "soup": "porkbone",
+ "global": "This tonkotsu ramen boasts a rich, creamy broth with tender pork slices and vibrant green onions. Served in a patterned bowl, it rests on a red surface under bright light, with a spoon and chopsticks poised for eating.",
+ "regions": {
+  "background": "The table is a smooth, solid red surface with subtle light reflections and faint texture variations.",
+  "bowl": "White ceramic bowl with red geometric pattern and matching red rim, smooth glossy surface.",
+  "soup": "The tonkotsu ramen broth is creamy yellow, thick, and glossy, swirling with noodles and green onions.",
+  "spoon": "White ceramic spoon holds golden broth, smooth surface reflecting light, curved bowl shape.",
+  "chopsticks": "Light wooden chopsticks, smooth and slightly tapered, rest diagonally with rounded tips."
+ }
+}

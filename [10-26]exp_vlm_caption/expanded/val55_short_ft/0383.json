@@ -1,0 +1,22 @@
+{
+ "image": "0383.png",
+ "level": "short",
+ "short": {
+  "background": "smooth red table surface",
+  "bowl": "white bowl with red rim",
+  "soup": "glossy shoyu broth with noodles",
+  "spoon": "glossy white ceramic spoon",
+  "cut_egg": "runny orange-red yolk",
+  "menma": "translucent pale yellow menma"
+ },
+ "parsed": true,
+ "global": "This shoyu ramen features a rich, amber broth with tender chashu, a soft-boiled egg, and crisp menma. Topped with shredded cabbage and green onions, it sits in a white bowl with red trim, resting on a vibrant red surface under bright, even lighting.",
+ "regions": {
+  "background": "The table is a smooth, solid red surface with subtle light reflections and faint texture variations.",
+  "bowl": "White ceramic ramen bowl with red rim, smooth surface, and subtle red pattern near top edge.",
+  "soup": "The shoyu (soy sauce) broth is amber-brown, glossy, and contains visible noodles and green vegetables.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved, tapered shape.",
+  "cut_egg": "A halved boiled egg shows a runny orange-red yolk surrounded by a firm white, with a slightly glossy surface.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with a soft, fibrous texture and irregular, curled shape."
+ }
+}

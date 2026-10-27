@@ -1,0 +1,292 @@
+{
+ "model": "black-forest-labs/FLUX.2-klein-base-4B",
+ "lora": "ckpt/ramen_flux2/checkpoint-3000",
+ "gpu": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition",
+ "resolution": "512x512",
+ "guidance_scale": 4.0,
+ "attention_mask_method": "hard",
+ "summary": {
+  "50": {
+   "mean_sec": 11.71,
+   "min_sec": 10.558,
+   "max_sec": 12.786,
+   "sec_per_step": 0.234
+  },
+  "40": {
+   "mean_sec": 9.383,
+   "min_sec": 8.683,
+   "max_sec": 9.861,
+   "sec_per_step": 0.235
+  },
+  "30": {
+   "mean_sec": 7.248,
+   "min_sec": 6.922,
+   "max_sec": 7.559,
+   "sec_per_step": 0.242
+  },
+  "20": {
+   "mean_sec": 5.008,
+   "min_sec": 4.679,
+   "max_sec": 5.544,
+   "sec_per_step": 0.25
+  },
+  "10": {
+   "mean_sec": 2.603,
+   "min_sec": 2.345,
+   "max_sec": 2.928,
+   "sec_per_step": 0.26
+  }
+ },
+ "per_image": [
+  {
+   "steps": 50,
+   "image": "ramen_0007",
+   "sec": 12.786
+  },
+  {
+   "steps": 50,
+   "image": "ramen_0071",
+   "sec": 12.024
+  },
+  {
+   "steps": 50,
+   "image": "ramen_0085",
+   "sec": 10.558
+  },
+  {
+   "steps": 50,
+   "image": "ramen_0117",
+   "sec": 11.188
+  },
+  {
+   "steps": 50,
+   "image": "ramen_0246",
+   "sec": 11.618
+  },
+  {
+   "steps": 50,
+   "image": "ramen_0338",
+   "sec": 10.895
+  },
+  {
+   "steps": 50,
+   "image": "ramen_0439",
+   "sec": 11.391
+  },
+  {
+   "steps": 50,
+   "image": "ramen_0496",
+   "sec": 11.203
+  },
+  {
+   "steps": 50,
+   "image": "ramen_0533",
+   "sec": 12.683
+  },
+  {
+   "steps": 50,
+   "image": "ramen_0552",
+   "sec": 12.757
+  },
+  {
+   "steps": 40,
+   "image": "ramen_0007",
+   "sec": 9.056
+  },
+  {
+   "steps": 40,
+   "image": "ramen_0071",
+   "sec": 9.237
+  },
+  {
+   "steps": 40,
+   "image": "ramen_0085",
+   "sec": 8.683
+  },
+  {
+   "steps": 40,
+   "image": "ramen_0117",
+   "sec": 9.405
+  },
+  {
+   "steps": 40,
+   "image": "ramen_0246",
+   "sec": 9.512
+  },
+  {
+   "steps": 40,
+   "image": "ramen_0338",
+   "sec": 9.097
+  },
+  {
+   "steps": 40,
+   "image": "ramen_0439",
+   "sec": 9.701
+  },
+  {
+   "steps": 40,
+   "image": "ramen_0496",
+   "sec": 9.861
+  },
+  {
+   "steps": 40,
+   "image": "ramen_0533",
+   "sec": 9.65
+  },
+  {
+   "steps": 40,
+   "image": "ramen_0552",
+   "sec": 9.631
+  },
+  {
+   "steps": 30,
+   "image": "ramen_0007",
+   "sec": 7.559
+  },
+  {
+   "steps": 30,
+   "image": "ramen_0071",
+   "sec": 7.396
+  },
+  {
+   "steps": 30,
+   "image": "ramen_0085",
+   "sec": 6.922
+  },
+  {
+   "steps": 30,
+   "image": "ramen_0117",
+   "sec": 7.338
+  },
+  {
+   "steps": 30,
+   "image": "ramen_0246",
+   "sec": 7.281
+  },
+  {
+   "steps": 30,
+   "image": "ramen_0338",
+   "sec": 7.115
+  },
+  {
+   "steps": 30,
+   "image": "ramen_0439",
+   "sec": 6.978
+  },
+  {
+   "steps": 30,
+   "image": "ramen_0496",
+   "sec": 7.245
+  },
+  {
+   "steps": 30,
+   "image": "ramen_0533",
+   "sec": 7.294
+  },
+  {
+   "steps": 30,
+   "image": "ramen_0552",
+   "sec": 7.349
+  },
+  {
+   "steps": 20,
+   "image": "ramen_0007",
+   "sec": 5.151
+  },
+  {
+   "steps": 20,
+   "image": "ramen_0071",
+   "sec": 5.544
+  },
+  {
+   "steps": 20,
+   "image": "ramen_0085",
+   "sec": 5.005
+  },
+  {
+   "steps": 20,
+   "image": "ramen_0117",
+   "sec": 5.356
+  },
+  {
+   "steps": 20,
+   "image": "ramen_0246",
+   "sec": 4.757
+  },
+  {
+   "steps": 20,
+   "image": "ramen_0338",
+   "sec": 4.725
+  },
+  {
+   "steps": 20,
+   "image": "ramen_0439",
+   "sec": 4.743
+  },
+  {
+   "steps": 20,
+   "image": "ramen_0496",
+   "sec": 4.992
+  },
+  {
+   "steps": 20,
+   "image": "ramen_0533",
+   "sec": 4.679
+  },
+  {
+   "steps": 20,
+   "image": "ramen_0552",
+   "sec": 5.132
+  },
+  {
+   "steps": 10,
+   "image": "ramen_0007",
+   "sec": 2.518
+  },
+  {
+   "steps": 10,
+   "image": "ramen_0071",
+   "sec": 2.533
+  },
+  {
+   "steps": 10,
+   "image": "ramen_0085",
+   "sec": 2.345
+  },
+  {
+   "steps": 10,
+   "image": "ramen_0117",
+   "sec": 2.546
+  },
+  {
+   "steps": 10,
+   "image": "ramen_0246",
+   "sec": 2.498
+  },
+  {
+   "steps": 10,
+   "image": "ramen_0338",
+   "sec": 2.498
+  },
+  {
+   "steps": 10,
+   "image": "ramen_0439",
+   "sec": 2.739
+  },
+  {
+   "steps": 10,
+   "image": "ramen_0496",
+   "sec": 2.632
+  },
+  {
+   "steps": 10,
+   "image": "ramen_0533",
+   "sec": 2.791
+  },
+  {
+   "steps": 10,
+   "image": "ramen_0552",
+   "sec": 2.928
+  }
+ ]
+}

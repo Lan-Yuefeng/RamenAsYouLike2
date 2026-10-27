@@ -1,0 +1,12 @@
+{
+ "image": "0301.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, amber broth with tender noodles and crisp menma bamboo shoots. Topped with shredded cabbage and green garnish, it sits in a white bowl against a dark surface, illuminated by soft, even lighting that highlights the broth’s depth and toppings’ textures.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain patterns and slight sheen, oval-shaped region visible.",
+  "bowl": "White ceramic bowl with smooth, glossy surface and slightly raised, subtly textured rim.",
+  "soup": "The miso broth is amber-orange, glossy, and rich, swirling with thin noodles and floating vegetables, topped with shredded cabbage.",
+  "menma": "Menma bamboo shoots appear as pale, translucent, sliced pieces with slightly curled edges and visible fibrous texture."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,70 @@
+{
+ "caption": null,
+ "seed": 1001,
+ "segments_info": [
+  {
+   "color": [
+    0,
+    0,
+    0
+   ],
+   "text": "background"
+  },
+  {
+   "color": [
+    142,
+    199,
+    32
+   ],
+   "text": "rice"
+  },
+  {
+   "color": [
+    32,
+    194,
+    20
+   ],
+   "text": "miso soup"
+  },
+  {
+   "color": [
+    36,
+    0,
+    252
+   ],
+   "text": "sausage"
+  },
+  {
+   "color": [
+    37,
+    121,
+    187
+   ],
+   "text": "egg sunny-side up"
+  },
+  {
+   "color": [
+    154,
+    245,
+    24
+   ],
+   "text": "cold tofu"
+  },
+  {
+   "color": [
+    21,
+    172,
+    228
+   ],
+   "text": "green salad"
+  },
+  {
+   "color": [
+    43,
+    209,
+    5
+   ],
+   "text": "food"
+  }
+ ]
+}

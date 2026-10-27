@@ -1,0 +1,62 @@
+{
+  "caption": "This shio ramen boasts a clear, light broth with visible noodles and toppings. Nori, chashu, menma, and naruto are artfully arranged atop, in a white bowl on a wooden table under warm, ambient light.",
+  "seed": 1539,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle scratches with glossy reflections."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows tender, slightly fatty texture with golden-brown sear and visible marbling on its surface."
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Dark, crinkled nori seaweed with irregular, frayed edges and a slightly glossy surface."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shio (salt) broth is light golden, clear, and glossy, with visible noodles and scattered green onions floating on its surface."
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Menma bamboo shoots appear pale yellow, slightly translucent, with irregular shapes and visible fibrous texture."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, rounded rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "Naruto fish cake: white, fluted, circular with pink spiral swirl on top."
+    }
+  ]
+}

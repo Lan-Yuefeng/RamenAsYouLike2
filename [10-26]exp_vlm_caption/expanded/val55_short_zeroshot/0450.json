@@ -1,0 +1,20 @@
+{
+ "image": "0450.png",
+ "level": "short",
+ "short": {
+  "background": "warm brown wooden table",
+  "bowl": "white ceramic ramen bowl",
+  "soup": "creamy yellow tonkotsu broth",
+  "seaweed": "dark green nori seaweed",
+  "meat": "glossy marbled chashu pork"
+ },
+ "parsed": true,
+ "global": "A warm, top-down view of a ramen bowl on a wooden table. Creamy yellow broth, marbled pork, and nori sit neatly in a white ceramic bowl.",
+ "regions": {
+  "background": "Warm brown wooden table",
+  "bowl": "White ceramic ramen bowl",
+  "soup": "The tonkotsu (pork bone) broth",
+  "seaweed": "Dark green nori seaweed",
+  "meat": "Glossy marbled chashu pork"
+ }
+}

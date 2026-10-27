@@ -1,0 +1,18 @@
+{
+ "image": "0394.png",
+ "level": "short",
+ "short": {
+  "background": "warm brown wooden table",
+  "bowl": "blue green swirl bowl",
+  "soup": "glossy miso ramen broth",
+  "naruto": "pink cartoon fish cake"
+ },
+ "parsed": true,
+ "global": "This ramen features a rich amber, glossy miso broth with bubbles and submerged noodles. A pink, spiral-shaped Naruto fish cake rests in a white ceramic bowl with blue and green swirls, set on a wooden table with warm brown grain.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle texture variations.",
+  "bowl": "White ceramic bowl with blue and green swirling pattern, smooth surface, slightly raised rim with decorative border.",
+  "soup": "The miso broth is rich amber, glossy, and textured with visible bubbles and submerged noodles.",
+  "naruto": "Naruto fish cake: pink, spiral-shaped, with textured surface and visible white strands."
+ }
+}

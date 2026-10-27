@@ -1,0 +1,13 @@
+{
+ "image": "0321.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, dark broth with tender chashu pork and crisp menma. Generously topped with chopped green onions, it sits in a light blue bowl against a red table, under warm, slightly dim lighting.",
+ "regions": {
+  "background": "The table is a solid, vibrant red surface with smooth texture and slight sheen reflecting ambient light.",
+  "bowl": "Light blue ceramic bowl with subtle glossy finish, smooth curved rim, and faint red floral pattern near top edge.",
+  "soup": "Miso ramen broth with noodles, garnished with green onions and chashu, appears rich, dark brown, and glossy with visible noodle strands and toppings.",
+  "spoon": "A light blue plastic spoon with smooth, curved surface and slightly tapered end.",
+  "meat": "Chashu pork slice appears tender, pale pinkish-brown, with slightly glossy surface and irregular, curved shape.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with a curved, segmented shape and smooth surface."
+ }
+}

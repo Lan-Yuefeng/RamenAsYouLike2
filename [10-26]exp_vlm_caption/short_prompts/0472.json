@@ -1,0 +1,31 @@
+{
+ "image": "0472.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "warm brown wooden table",
+   "detail": "smooth grain wooden table surface"
+  },
+  "bowl": {
+   "name": "blue floral bowl",
+   "short": "white bowl with blue flowers",
+   "detail": "glossy ceramic bowl with floral rim"
+  },
+  "soup": {
+   "name": "shoyu broth",
+   "short": "dark shoyu broth with onions",
+   "detail": "glossy shoyu broth with green onions"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori sheet",
+   "detail": "wrinkled rectangular nori seaweed"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "crispy chashu pork slice",
+   "detail": "caramelized chashu with fat layers"
+  }
+ }
+}

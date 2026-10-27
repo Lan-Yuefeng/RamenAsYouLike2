@@ -1,0 +1,31 @@
+{
+ "image": "0096.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "red woven placemat",
+   "short": "red woven circular placemat",
+   "detail": "red textured woven circular mat"
+  },
+  "bowl": {
+   "name": "white ramen bowl",
+   "short": "white bowl with red logos",
+   "detail": "white ceramic bowl with red WB logos"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "golden miso broth glossy",
+   "detail": "golden-brown glossy miso broth"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "glossy marbled chashu pork",
+   "detail": "pinkish marbled pork slices curled"
+  },
+  "menma": {
+   "name": "menma bamboo",
+   "short": "glossy sliced bamboo shoots",
+   "detail": "golden-brown fibrous sliced menma"
+  }
+ }
+}

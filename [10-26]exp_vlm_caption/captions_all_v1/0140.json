@@ -1,0 +1,10 @@
+{
+ "image": "0140.png",
+ "soup": "spicy",
+ "global": "A bowl of spicy ramen broth, rich and orange-red, glistens with translucent noodles and fresh cilantro. White bean sprouts and green herbs crown the center, all nestled in a white bowl against a warm, yellow background under soft, natural light.",
+ "regions": {
+  "background": "Yellow-orange surface with subtle texture and faint scratches, featuring a small dark screw near the bottom right.",
+  "bowl": "White ceramic bowl with smooth, slightly glossy surface and thin, curved rim stained with orange residue.",
+  "soup": "Spicy ramen broth with translucent noodles, bean sprouts, and fresh cilantro garnish, rich orange-red hue."
+ }
+}

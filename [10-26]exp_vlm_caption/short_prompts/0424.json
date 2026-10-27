@@ -1,0 +1,26 @@
+{
+ "image": "0424.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "floral ceramic bowl",
+   "short": "green floral bowl",
+   "detail": "white bowl with green floral rim"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy orange-red broth",
+   "detail": "spicy broth glossy with oil sheen"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "pale orange menma",
+   "detail": "thin curved bamboo strips"
+  }
+ }
+}

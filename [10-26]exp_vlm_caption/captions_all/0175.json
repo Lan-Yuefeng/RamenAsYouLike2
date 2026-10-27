@@ -1,0 +1,13 @@
+{
+ "image": "0175.png",
+ "soup": "spicy",
+ "global": "This is spicy ramen with a rich, deep-red broth. Topped with shredded bean sprouts and a whole boiled egg, it sits in a white bowl with red trim, under bright, even lighting on a clean white surface.",
+ "regions": {
+  "background": "The table surface appears smooth, light-colored, and slightly reflective with subtle shadows and faint texture.",
+  "bowl": "White ceramic bowl with red stripes, smooth surface, slightly curved rim, and subtle brownish residue along inner edge.",
+  "soup": "The spicy broth is deep red, glossy, and thick, swirling around noodles and topped with white bean sprouts.",
+  "spoon": "A white ceramic spoon with smooth, slightly curved surface and faint water droplets on its rounded tip.",
+  "egg": "A whole boiled egg, pale yellowish-white, smooth surface, oval shape, slightly translucent, resting in rich red broth."
+ },
+ "redone": "soup"
+}

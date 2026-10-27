@@ -1,0 +1,22 @@
+{
+ "image": "0250.png",
+ "level": "short",
+ "short": {
+  "background": "light brown wooden table",
+  "bowl": "white bowl with red rim",
+  "soup": "golden shoyu broth glossy",
+  "spoon": "glossy white ceramic spoon",
+  "seaweed": "dark green nori strip",
+  "meat": "marbled chashu pork slice"
+ },
+ "parsed": true,
+ "global": "This shoyu broth, golden-brown and glossy, floats with noodles and green onions. In a white ceramic bowl with red rim and green speckles, tender chashu pork and dark green nori sit beside a white ceramic spoon on a wooden table.",
+ "regions": {
+  "background": "Wooden table surface shows light brown grain pattern with subtle texture and natural wood finish.",
+  "bowl": "White ceramic bowl with red rim, green speckles, and red \"ARASAKI\" text, smooth surface with slight sheen.",
+  "soup": "The shoyu (soy sauce) broth is golden-brown, glossy, and contains visible noodles and green onions floating on its surface.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape.",
+  "seaweed": "The nori seaweed is dark green, textured, rectangular, with visible surface details and slight curling edges.",
+  "meat": "Chashu pork slice shows tender, pale pink meat with visible fat marbling and slightly uneven surface texture."
+ }
+}

@@ -1,0 +1,38 @@
+{
+  "caption": "Spicy orange-red broth with glossy surface and visible noodles and toppings sits in a white ceramic bowl with a subtly textured rim. A red spoon rests beside it on a dark wooden table with grain patterns and subtle reflections.",
+  "seed": 1422,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The spicy broth is orange-red, glossy, and contains visible noodles and toppings, with a slightly uneven surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with smooth, glossy surface and slightly raised, subtly textured rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A red spoon with smooth, glossy surface and slightly curved bowl shape."
+    }
+  ]
+}

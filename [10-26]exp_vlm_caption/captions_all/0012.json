@@ -1,0 +1,12 @@
+{
+ "image": "0012.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, light broth with delicate noodles, topped with shredded daikon, sesame seeds, and a dark slice of chashu. It rests in a red-trimmed bowl on a metallic surface, under soft, even lighting that highlights the broth’s clarity and toppings’ textures.",
+ "regions": {
+  "background": "The surface is a smooth, metallic gray table with subtle reflections and faint scratches visible.",
+  "bowl": "The bowl is ceramic, white with a red geometric patterned rim, glossy and circular with slight wear visible.",
+  "soup": "The shio (salt) broth is light golden, clear, and glossy, with visible noodles and toppings floating on its surface.",
+  "spoon": "A wooden spoon with a dark, textured, irregularly shaped bowl featuring visible grain and marbled patterns."
+ },
+ "redone": "soup"
+}

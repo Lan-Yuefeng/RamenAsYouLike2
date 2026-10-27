@@ -1,0 +1,12 @@
+{
+ "image": "0534.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, light broth with tender chashu pork centered, topped with chopped green onions and red ginger threads. The white ceramic bowl sits on a dark wooden table, softly lit to highlight the broth’s clarity and toppings’ vibrant colors.",
+ "regions": {
+  "background": "Dark brown wooden table with smooth, slightly reflective surface and subtle grain patterns visible.",
+  "bowl": "White ceramic ramen bowl with smooth, slightly glossy surface and subtle concentric ridges near its rim.",
+  "soup": "The shio (salt) broth is pale yellow, clear, and gently swirling around noodles and toppings.",
+  "meat": "The chashu pork is round, with a seared brown crust, layered white fat, and speckled seasoning on its surface."
+ },
+ "redone": "soup"
+}

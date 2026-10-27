@@ -1,0 +1,31 @@
+{
+ "image": "0350.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "red table surface",
+   "short": "smooth red table surface",
+   "detail": "smooth solid red table with subtle texture"
+  },
+  "bowl": {
+   "name": "gray ceramic bowl",
+   "short": "glossy gray ceramic bowl",
+   "detail": "light gray glossy bowl with red logo"
+  },
+  "soup": {
+   "name": "miso ramen broth",
+   "short": "creamy miso ramen broth",
+   "detail": "light brown creamy miso broth with noodles and greens"
+  },
+  "spoon": {
+   "name": "gray ceramic spoon",
+   "short": "smooth gray ceramic spoon",
+   "detail": "light gray curved ceramic spoon"
+  },
+  "seaweed": {
+   "name": "dark green nori",
+   "short": "textured dark green nori",
+   "detail": "irregular dark green nori with visible folds"
+  }
+ }
+}

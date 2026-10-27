@@ -1,0 +1,31 @@
+{
+ "image": "0051.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "light table surface",
+   "short": "smooth light reflective table",
+   "detail": "smooth light-colored reflective surface"
+  },
+  "bowl": {
+   "name": "ramen bowl",
+   "short": "white bowl with red stripes",
+   "detail": "white ceramic bowl with red concentric stripes"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "deep red spicy broth",
+   "detail": "glossy deep red spicy ramen broth"
+  },
+  "spoon": {
+   "name": "ceramic spoon",
+   "short": "glossy white ceramic spoon",
+   "detail": "white ceramic spoon with glossy finish"
+  },
+  "cut_egg": {
+   "name": "boiled egg half",
+   "short": "halved boiled egg yolk",
+   "detail": "halved boiled egg with firm yolk"
+  }
+ }
+}

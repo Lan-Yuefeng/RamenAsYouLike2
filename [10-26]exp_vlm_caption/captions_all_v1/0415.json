@@ -1,0 +1,12 @@
+{
+ "image": "0415.png",
+ "soup": "porkbone",
+ "global": "A bowl of rich, creamy tonkotsu ramen broth, topped with tender chashu pork and dark nori, sits in a patterned white bowl. The dark table and soft lighting highlight the steaming, inviting meal.",
+ "regions": {
+  "background": "Dark wooden table surface with visible grain patterns and subtle texture, appearing smooth and slightly reflective.",
+  "bowl": "White ceramic ramen bowl with colorful geometric patterned rim, smooth glossy surface, circular shape.",
+  "soup": "The broth with noodles appears creamy, light brown, and glossy, with visible noodles and green onions floating on its surface.",
+  "seaweed": "The nori seaweed is dark green, textured, square-shaped, with a slightly uneven surface and visible speckles.",
+  "meat": "Chashu pork: tender, light brown slices with visible marbling and slightly glistening surface."
+ }
+}

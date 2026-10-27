@@ -1,0 +1,281 @@
+{
+ "model": "Qwen/Qwen3-VL-8B-Instruct",
+ "acc": 0.5272727272727272,
+ "results": {
+  "0005.png": {
+   "gt": "spicy",
+   "pred": "spicy",
+   "raw": "E"
+  },
+  "0007.png": {
+   "gt": "porkbone",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0014.png": {
+   "gt": "miso",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0038.png": {
+   "gt": "spicy",
+   "pred": "spicy",
+   "raw": "E"
+  },
+  "0040.png": {
+   "gt": "porkbone",
+   "pred": "porkbone",
+   "raw": "D"
+  },
+  "0047.png": {
+   "gt": "miso",
+   "pred": "porkbone",
+   "raw": "D"
+  },
+  "0061.png": {
+   "gt": "porkbone",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0071.png": {
+   "gt": "salt",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0085.png": {
+   "gt": "miso",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0094.png": {
+   "gt": "salt",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0102.png": {
+   "gt": "salt",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0105.png": {
+   "gt": "miso",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0117.png": {
+   "gt": "salt",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0124.png": {
+   "gt": "porkbone",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0129.png": {
+   "gt": "soysauce",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0136.png": {
+   "gt": "soysauce",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0137.png": {
+   "gt": "porkbone",
+   "pred": "porkbone",
+   "raw": "D"
+  },
+  "0146.png": {
+   "gt": "soysauce",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0155.png": {
+   "gt": "soysauce",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0161.png": {
+   "gt": "porkbone",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0246.png": {
+   "gt": "porkbone",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0247.png": {
+   "gt": "soysauce",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0250.png": {
+   "gt": "soysauce",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0256.png": {
+   "gt": "miso",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0258.png": {
+   "gt": "spicy",
+   "pred": "spicy",
+   "raw": "E"
+  },
+  "0271.png": {
+   "gt": "spicy",
+   "pred": "spicy",
+   "raw": "E"
+  },
+  "0295.png": {
+   "gt": "miso",
+   "pred": "porkbone",
+   "raw": "D"
+  },
+  "0307.png": {
+   "gt": "porkbone",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0317.png": {
+   "gt": "spicy",
+   "pred": "spicy",
+   "raw": "E"
+  },
+  "0319.png": {
+   "gt": "porkbone",
+   "pred": "porkbone",
+   "raw": "D"
+  },
+  "0324.png": {
+   "gt": "porkbone",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0338.png": {
+   "gt": "miso",
+   "pred": "miso",
+   "raw": "C"
+  },
+  "0341.png": {
+   "gt": "salt",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0349.png": {
+   "gt": "soysauce",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0355.png": {
+   "gt": "porkbone",
+   "pred": "porkbone",
+   "raw": "D"
+  },
+  "0374.png": {
+   "gt": "spicy",
+   "pred": "miso",
+   "raw": "C"
+  },
+  "0383.png": {
+   "gt": "soysauce",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0394.png": {
+   "gt": "miso",
+   "pred": "miso",
+   "raw": "C"
+  },
+  "0398.png": {
+   "gt": "miso",
+   "pred": "miso",
+   "raw": "C"
+  },
+  "0402.png": {
+   "gt": "miso",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0421.png": {
+   "gt": "miso",
+   "pred": "miso",
+   "raw": "C"
+  },
+  "0422.png": {
+   "gt": "spicy",
+   "pred": "spicy",
+   "raw": "E"
+  },
+  "0439.png": {
+   "gt": "soysauce",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0450.png": {
+   "gt": "porkbone",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0461.png": {
+   "gt": "porkbone",
+   "pred": "porkbone",
+   "raw": "D"
+  },
+  "0476.png": {
+   "gt": "soysauce",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0488.png": {
+   "gt": "porkbone",
+   "pred": "porkbone",
+   "raw": "D"
+  },
+  "0496.png": {
+   "gt": "soysauce",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0512.png": {
+   "gt": "salt",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0514.png": {
+   "gt": "porkbone",
+   "pred": "porkbone",
+   "raw": "D"
+  },
+  "0519.png": {
+   "gt": "miso",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0531.png": {
+   "gt": "miso",
+   "pred": "miso",
+   "raw": "C"
+  },
+  "0533.png": {
+   "gt": "miso",
+   "pred": "soysauce",
+   "raw": "B"
+  },
+  "0539.png": {
+   "gt": "salt",
+   "pred": "salt",
+   "raw": "A"
+  },
+  "0552.png": {
+   "gt": "spicy",
+   "pred": "soysauce",
+   "raw": "B"
+  }
+ }
+}

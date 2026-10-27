@@ -1,0 +1,13 @@
+{
+ "image": "0265.png",
+ "soup": "miso",
+ "global": "This miso ramen boasts a rich, amber broth with visible oil sheen. Topped with sliced chashu pork and chopped green onions, it sits in a white bowl on a tray, under warm, slightly dim lighting that enhances the broth’s inviting glow.",
+ "regions": {
+  "background": "The tray is black, glossy, rectangular with rounded corners, reflecting light on its smooth surface.",
+  "bowl": "White ceramic ramen bowl with smooth, slightly glossy surface and thin, subtly stained rim.",
+  "soup": "The miso broth is rich amber, glossy, and oily, with visible swirls and floating green onion slices.",
+  "spoon": "A white ceramic spoon with smooth, slightly curved surface and rounded tip, showing subtle glaze texture.",
+  "meat": "Chashu pork: tender, marbled slices with glistening surface, showing cooked texture and slight fat separation."
+ },
+ "redone": "soup"
+}

@@ -1,0 +1,38 @@
+{
+  "caption": "Spicy red glossy broth with noodles and shredded cabbage fills a white ceramic bowl with a subtle speckled pattern and raised rim. Set on a dark wooden table with grain patterns and subtle reflections near the bowl's edge, a white ceramic spoon rests nearby.",
+  "seed": 1038,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Dark wooden table surface with visible grain patterns and subtle reflections near the bowl's edge."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The spicy broth is vibrant red, glossy, and contains visible noodles and shredded cabbage."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with smooth, glossy surface, subtle speckled pattern, and slightly raised rim."
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "A white ceramic spoon with smooth, glossy surface and slightly curved bowl shape."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+ "image": "0065.png",
+ "soup": "miso",
+ "global": "This miso ramen features a rich, amber broth with tender sliced meat and crisp green onions arranged atop. It sits in a patterned bowl against a red surface, illuminated by warm, even light that highlights the broth’s depth and toppings’ textures.",
+ "regions": {
+  "background": "The table is a solid, deep red surface with smooth texture and subtle sheen reflecting ambient light.",
+  "bowl": "White ceramic bowl with colorful geometric patterned rim, smooth surface, circular shape, and decorative border.",
+  "soup": "Miso ramen broth, rich brown, smooth with visible noodles and toppings, slightly glossy surface reflecting light.",
+  "spoon": "A white ceramic spoon with smooth, slightly curved surface and rounded tip."
+ }
+}

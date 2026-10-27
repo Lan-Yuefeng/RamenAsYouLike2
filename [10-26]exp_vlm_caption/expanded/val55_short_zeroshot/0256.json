@@ -1,0 +1,20 @@
+{
+ "image": "0256.png",
+ "level": "short",
+ "short": {
+  "background": "dark wooden table surface",
+  "bowl": "light beige ceramic bowl",
+  "soup": "steaming miso broth",
+  "spoon": "glossy white ceramic spoon",
+  "seaweed": "frilly dark green nori"
+ },
+ "parsed": true,
+ "global": "A warm, steaming bowl of ramen sits on a dark wooden table. The rich miso broth and fresh nori create a vibrant, comforting scene.",
+ "regions": {
+  "background": "Dark wooden table surface with subtle grain and natural wear",
+  "bowl": "Light beige ceramic bowl with smooth, slightly textured surface",
+  "soup": "The miso broth steams gently, golden-brown with fine bubbles and a velvety texture",
+  "spoon": "Glossy white ceramic spoon with a smooth, polished edge",
+  "seaweed": "Frilly dark green nori curled at the edges, slightly damp and textured"
+ }
+}

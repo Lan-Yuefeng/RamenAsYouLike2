@@ -1,0 +1,54 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a smooth red table. The glossy soup, noodles, and fresh ingredients create a warm, inviting scene.",
+  "seed": 1383,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Smooth red table surface"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shoyu broth glossy with noodles"
+    },
+    {
+      "color": [
+        127,
+        0,
+        255
+      ],
+      "text": "Translucent pale yellow menma"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "Runny orange-red yolk"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White bowl with red rim"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "Glossy white ceramic spoon"
+    }
+  ]
+}

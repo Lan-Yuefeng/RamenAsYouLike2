@@ -1,0 +1,12 @@
+{
+ "image": "0416.png",
+ "soup": "porkbone",
+ "global": "A rich, creamy tonkotsu ramen broth glistens in a blue-and-white “Shin” bowl, topped with vibrant green scallions. The spoon rests in the steaming broth, set against a warm wooden table under soft, inviting light.",
+ "regions": {
+  "background": "Wooden table surface with visible grain patterns and natural texture, showing warm brown tones and subtle variations.",
+  "bowl": "The ceramic ramen bowl has a blue and white patterned rim with repeating \"Shin\" text and small logos.",
+  "soup": "The tonkotsu (pork bone) broth is creamy beige, topped with vibrant green scallions and subtle noodle strands beneath.",
+  "spoon": "A black spoon with smooth, glossy surface and curved handle, partially submerged in ramen broth."
+ },
+ "redone": "soup"
+}

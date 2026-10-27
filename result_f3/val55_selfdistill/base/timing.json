@@ -1,0 +1,6 @@
+{
+ "lora": "/export/ssd3/lan-y/seg2any_ckpt/ramen_flux3/checkpoint-3000",
+ "mode": "base",
+ "gpu": "NVIDIA GeForce RTX 4090",
+ "sec_per_image": 1.2314800651274378
+}

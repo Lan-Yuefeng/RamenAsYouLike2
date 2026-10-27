@@ -1,0 +1,10 @@
+{
+ "image": "0293.png",
+ "soup": "spicy",
+ "global": "A rich, tomato-based ramen broth glistens in a white bowl, topped with shredded cabbage and dark greens. The warm, even lighting highlights the vibrant red broth and fresh toppings against a simple wooden table.",
+ "regions": {
+  "background": "The table is smooth, light brown wood with subtle grain patterns and a dark linear mark near the top edge.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, subtle red mark at rim, and slightly raised, speckled edge.",
+  "soup": "Spicy ramen broth with noodles, garnished with shredded cabbage and greens, appears rich, reddish-brown, and glossy."
+ }
+}

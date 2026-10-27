@@ -1,0 +1,62 @@
+{
+  "caption": "A vibrant red table holds a glossy gray ramen bowl. Clear shio broth with noodles, pork, and seaweed sits in the center, topped with a firm white yolk egg and a translucent spoon.",
+  "seed": 1512,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Vibrant red table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Marbled pink pork slice"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "Dark green curled seaweed"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shio broth is clear with soft noodles"
+    },
+    {
+      "color": [
+        127,
+        255,
+        0
+      ],
+      "text": "Firm white yolk egg"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "Glossy gray bowl with red rim"
+    },
+    {
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "text": "Glossy translucent spoon"
+    }
+  ]
+}

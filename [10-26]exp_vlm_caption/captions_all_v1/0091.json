@@ -1,0 +1,13 @@
+{
+ "image": "0091.png",
+ "soup": "miso",
+ "global": "This is miso ramen, its broth a rich, creamy yellow. Topped with chashu pork, nori, and green onions, it sits in a white bowl with black rim, resting on a warm wooden table under soft, ambient light.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle scratches.",
+  "bowl": "White ceramic bowl with black rim and \"萬珍軒\" characters, smooth surface, slightly chipped edge.",
+  "soup": "Miso ramen broth, creamy yellow, smooth surface with visible noodle strands and green onion garnish.",
+  "spoon": "Black spoon with smooth, glossy surface, slightly tapered handle, rounded bowl, and subtle reflective highlights.",
+  "seaweed": "Nori seaweed, dark green with black speckles, has a rough, irregular shape and slightly curled edges.",
+  "meat": "Chashu pork: tender, thinly sliced with pinkish-white center, browned edges, and visible marbling."
+ }
+}

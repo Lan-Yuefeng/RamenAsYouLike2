@@ -1,0 +1,21 @@
+{
+ "image": "0306.png",
+ "soup": "soysauce",
+ "regions": {
+  "background": {
+   "name": "dark speckled table",
+   "short": "dark speckled table surface",
+   "detail": "smooth dark speckled table surface"
+  },
+  "bowl": {
+   "name": "white ceramic ramen bowl",
+   "short": "white ceramic bowl with red text",
+   "detail": "glossy white bowl with red Japanese characters"
+  },
+  "soup": {
+   "name": "shoyu ramen broth",
+   "short": "amber shoyu ramen broth",
+   "detail": "glossy amber shoyu ramen broth"
+  }
+ }
+}

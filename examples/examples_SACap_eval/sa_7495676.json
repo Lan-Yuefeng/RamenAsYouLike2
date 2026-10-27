@@ -1,0 +1,38 @@
+{
+  "caption": "The image depicts a large, abstract sculpture resembling a fish made from numerous smaller fish-like elements. The sculpture is mounted on a stone base and set against a backdrop of a partly cloudy sky. The design is intricate, with each fish element contributing to the overall shape of the larger fish. The sculpture appears to be made of metal or a similar material, giving it a reflective quality.",
+  "seed": 2789,
+  "segments_info": [
+    {
+      "color": [
+        216,
+        184,
+        40
+      ],
+      "text": "A large sculpture of a fish made from metal fish scales, set against a cloudy sky."
+    },
+    {
+      "color": [
+        125,
+        225,
+        159
+      ],
+      "text": "A large sculpture of a fish made from numerous smaller fish shapes, set against a cloudy sky."
+    },
+    {
+      "color": [
+        47,
+        205,
+        197
+      ],
+      "text": "A large, textured stone structure with a fish sculpture on top, set against a cloudy sky."
+    },
+    {
+      "color": [
+        160,
+        241,
+        99
+      ],
+      "text": "A large fish sculpture with detailed scales and fins, positioned at the top of the structure."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+ "image": "0217.png",
+ "soup": "soysauce",
+ "global": "This shoyu ramen features a rich, amber broth with visible bubbles, topped with chashu pork, menma, and chopped green onions, alongside a large nori sheet. Served in a white bowl with red-trimmed tray, the warm lighting highlights the steam rising from the hot noodles.",
+ "regions": {
+  "background": "Light wood-grain table surface with subtle texture and natural finish, showing grain patterns and slight variations in tone.",
+  "bowl": "White ceramic ramen bowl with smooth, glossy surface, slightly curved rim, and red Japanese text near the top edge.",
+  "soup": "The shoyu (soy sauce) broth is amber-brown, glossy, and bubbly, swirling around noodles and garnishes.",
+  "seaweed": "The nori seaweed is dark green, textured, triangular, with visible veins and slightly curled edges.",
+  "meat": "The chashu pork is a thick, juicy slice with marbled texture, glazed surface, and garnished with green scallions.",
+  "menma": "Menma bamboo shoots appear pale yellow, slightly translucent, with fibrous texture and irregular, curled shape."
+ },
+ "redone": "soup"
+}

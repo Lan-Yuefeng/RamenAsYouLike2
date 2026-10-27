@@ -1,0 +1,18 @@
+{
+ "image": "0295.png",
+ "level": "short",
+ "short": {
+  "background": "light brown wooden table",
+  "bowl": "white bowl with red rim",
+  "soup": "creamy miso broth with noodles",
+  "meat": "marbled chashu pork slice"
+ },
+ "parsed": true,
+ "global": "A creamy miso broth fills a white bowl with a red rim. Marbled chashu pork sits beside tender noodles on a light brown wooden table.",
+ "regions": {
+  "background": "Light brown wooden table with smooth grain and natural wear",
+  "bowl": "White bowl with a red rim, smooth and slightly glossy surface",
+  "soup": "The creamy miso broth with soft, velvety texture and subtle swirls",
+  "meat": "Marbled chashu pork slice with rich, fatty streaks and slight sheen"
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "image": "0120.png",
+ "soup": "porkbone",
+ "global": "A bowl of tonkotsu ramen features a rich, cloudy broth with tender noodles and chopped green onions. Served in a simple gray bowl, it rests on a pink surface under soft, even lighting.",
+ "regions": {
+  "background": "The surface is a smooth, solid pink tabletop with a subtle sheen and faint shadow near the bowl's edge.",
+  "bowl": "Light gray ceramic bowl, smooth matte finish, circular shape with slightly raised, subtly curved rim.",
+  "soup": "The tonkotsu ramen broth is opaque, creamy-brown, with thin noodles and chopped green onions floating on its surface.",
+  "spoon": "A white plastic spoon with a smooth, slightly curved surface and rounded bowl shape."
+ }
+}

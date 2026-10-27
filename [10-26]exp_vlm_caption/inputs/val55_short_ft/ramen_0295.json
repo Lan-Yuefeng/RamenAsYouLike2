@@ -1,0 +1,38 @@
+{
+  "caption": "A bowl of miso ramen features a rich, amber broth with tender chashu pork and vibrant green scallions. Served in a white bowl with red trim, it rests on a wooden table under warm, inviting light.",
+  "seed": 1295,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Light brown wooden table with visible grain patterns and smooth surface texture."
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Chashu pork slice shows tender, marbled texture with browned edges and glistening surface."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The miso broth is creamy yellow, with visible noodles and green onions floating on its surface."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic bowl with red rim, smooth surface, and subtle red pattern near edge."
+    }
+  ]
+}

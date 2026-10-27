@@ -1,0 +1,18 @@
+{
+ "image": "0038.png",
+ "level": "name",
+ "short": {
+  "background": "wooden table",
+  "bowl": "ceramic bowl",
+  "soup": "spicy ramen broth",
+  "spoon": "ceramic spoon"
+ },
+ "parsed": true,
+ "global": "A vibrant, spicy ramen broth glows in a white ceramic bowl, topped with shredded cabbage and green onions. A spoon rests beside it, all set against a warm wooden table under soft, ambient lighting.",
+ "regions": {
+  "background": "Wooden table surface shows warm brown tones, visible grain patterns, and subtle light reflections.",
+  "bowl": "White ceramic bowl with smooth, glossy surface, subtle rim, and faint orange residue along inner edge.",
+  "soup": "The spicy broth is orange-red, glossy, and contains visible noodles, green vegetables, and shredded toppings.",
+  "spoon": "A white ceramic spoon with smooth, glossy surface and slightly curved, tapered shape."
+ }
+}

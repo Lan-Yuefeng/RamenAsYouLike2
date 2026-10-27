@@ -1,0 +1,31 @@
+{
+ "image": "0393.png",
+ "soup": "spicy",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "light brown wooden table",
+   "detail": "light brown wood grain texture"
+  },
+  "bowl": {
+   "name": "white ceramic bowl",
+   "short": "glossy white ceramic bowl",
+   "detail": "smooth white bowl with yellow residue"
+  },
+  "soup": {
+   "name": "spicy ramen broth",
+   "short": "spicy reddish-brown broth",
+   "detail": "glossy spicy broth swirling noodles"
+  },
+  "cut_egg": {
+   "name": "halved boiled egg",
+   "short": "runny yolk egg half",
+   "detail": "runny orange yolk pale white"
+  },
+  "menma": {
+   "name": "menma bamboo shoots",
+   "short": "translucent bamboo strips",
+   "detail": "pale yellow fibrous menma"
+  }
+ }
+}

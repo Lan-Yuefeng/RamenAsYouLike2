@@ -1,0 +1,12 @@
+{
+ "image": "0194.png",
+ "soup": "porkbone",
+ "global": "A steaming bowl of tonkotsu ramen boasts a rich, creamy broth with tender chashu pork and vibrant green scallions artfully arranged on top. The white ceramic bowl with blue accents rests on a red surface, illuminated by warm, inviting light.",
+ "regions": {
+  "background": "The table is a smooth, solid red surface with subtle texture and faint shadows near the bowl's edge.",
+  "bowl": "White ceramic bowl with blue floral pattern and slightly chipped rim, showing glossy surface and subtle glaze texture.",
+  "soup": "The tonkotsu (pork bone) broth is creamy beige, glossy, and bubbling, with submerged noodles and green onions floating on its surface.",
+  "meat": "Chashu pork: brown, tender, irregularly shaped, with visible fat marbling and slightly glistening surface."
+ },
+ "redone": "soup"
+}

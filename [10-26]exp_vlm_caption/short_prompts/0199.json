@@ -1,0 +1,36 @@
+{
+ "image": "0199.png",
+ "soup": "miso",
+ "regions": {
+  "background": {
+   "name": "wooden table",
+   "short": "dark wooden table",
+   "detail": "dark wooden table with grain"
+  },
+  "bowl": {
+   "name": "ceramic ramen bowl",
+   "short": "blue rimmed ramen bowl",
+   "detail": "white bowl with blue geometric rim"
+  },
+  "soup": {
+   "name": "miso broth",
+   "short": "glossy miso broth",
+   "detail": "amber-brown miso broth with noodles"
+  },
+  "seaweed": {
+   "name": "nori seaweed",
+   "short": "dark green nori",
+   "detail": "textured dark green nori"
+  },
+  "meat": {
+   "name": "chashu pork",
+   "short": "pinkish chashu pork",
+   "detail": "tender marbled chashu slice"
+  },
+  "menma": {
+   "name": "bamboo shoots",
+   "short": "translucent menma",
+   "detail": "pale brown layered menma"
+  }
+ }
+}

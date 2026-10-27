@@ -1,0 +1,15 @@
+{
+ "image": "0339.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, light broth with delicate noodles, topped with chashu pork, spinach, and a halved soft-boiled egg. Served in a white bowl with blue trim, it rests on a wooden surface under soft, natural light.",
+ "regions": {
+  "background": "Light wood-grain table surface, smooth texture, subtle grain pattern, warm beige tone, slightly reflective finish.",
+  "bowl": "White ceramic bowl with blue rim and black calligraphy, smooth glossy surface, circular shape with slight raised edge.",
+  "soup": "The shio (salt) broth is clear, golden-brown, and glossy, with thin noodles and green vegetables floating in it.",
+  "spoon": "A light blue ceramic spoon holds translucent broth with floating specks, its smooth surface reflecting soft light.",
+  "chopsticks": "Chopsticks are light-colored, smooth, slightly worn wooden sticks with rounded tips and natural grain patterns.",
+  "cut_egg": "A halved boiled egg shows vibrant orange yolk, creamy white, and smooth surface with small specks.",
+  "meat": "Chashu pork: tender, slightly glistening slices with soft, pale pink meat and visible fat marbling, curved in shape."
+ },
+ "redone": "soup"
+}

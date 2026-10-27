@@ -1,0 +1,78 @@
+{
+  "caption": "The image shows a person wearing a light-colored suit, bow tie, and hat, holding a framed photo of another individual. The background features trees and other people, suggesting an outdoor event or gathering. The overall scene appears to be formal or commemorative in nature.",
+  "seed": 195,
+  "segments_info": [
+    {
+      "color": [
+        124,
+        229,
+        69
+      ],
+      "text": "A person wearing a hat, suit, and tie, holding a photo of another person in formal attire."
+    },
+    {
+      "color": [
+        221,
+        188,
+        192
+      ],
+      "text": "There are trees in the background."
+    },
+    {
+      "color": [
+        41,
+        66,
+        41
+      ],
+      "text": "A man wearing a white shirt and a beige jacket stands next to another person."
+    },
+    {
+      "color": [
+        122,
+        139,
+        255
+      ],
+      "text": "A poster with a blurred face and text."
+    },
+    {
+      "color": [
+        95,
+        172,
+        205
+      ],
+      "text": "A blurry photograph of a man in a suit and tie."
+    },
+    {
+      "color": [
+        188,
+        245,
+        180
+      ],
+      "text": "A woman with long hair wearing a light blue jacket and holding a sign."
+    },
+    {
+      "color": [
+        213,
+        251,
+        121
+      ],
+      "text": "A blurry image of a person wearing a suit and tie."
+    },
+    {
+      "color": [
+        184,
+        153,
+        179
+      ],
+      "text": "A blurry image of a person wearing a suit and tie."
+    },
+    {
+      "color": [
+        165,
+        195,
+        222
+      ],
+      "text": "A person with dark hair wearing a white shirt."
+    }
+  ]
+}

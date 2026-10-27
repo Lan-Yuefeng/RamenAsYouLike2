@@ -1,0 +1,46 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a smooth wooden table. Clear broth swirls with pink fish cake and tender chashu, all set against a clean, rustic background.",
+  "seed": 1102,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Smooth wooden table surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Glistening sliced chashu"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shio (salt) broth clear and swirling"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White bowl with red rim"
+    },
+    {
+      "color": [
+        255,
+        0,
+        191
+      ],
+      "text": "Pink swirl fish cake"
+    }
+  ]
+}

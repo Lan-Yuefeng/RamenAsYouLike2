@@ -1,0 +1,30 @@
+{
+  "caption": "A vibrant bowl of ramen sits on a glossy reddish-brown tray. The rich amber-brown tonkotsu broth glistens with subtle foam and floating noodles.",
+  "seed": 1124,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Glossy reddish-brown tray"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White bowl with red patterns"
+    }
+  ]
+}

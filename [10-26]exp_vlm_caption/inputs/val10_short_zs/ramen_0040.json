@@ -1,0 +1,38 @@
+{
+  "caption": "A vibrant bowl of ramen features creamy tonkotsu broth and marbled chashu pork. The white bowl with colorful rim sits on a smooth pinkish-red surface.",
+  "seed": 1040,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Smooth pinkish-red surface"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "Glossy marbled chashu pork"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The tonkotsu (pork bone) broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White bowl with colorful rim"
+    }
+  ]
+}

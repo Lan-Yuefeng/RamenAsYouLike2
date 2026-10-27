@@ -1,0 +1,30 @@
+{
+  "caption": "A steaming bowl of shoyu ramen features a rich, amber broth with tender noodles, a soft-boiled egg, shredded cabbage, and chopped green onions. Served in a white ceramic bowl with a black mark, it rests on a wooden table under warm, inviting light.",
+  "seed": 1349,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "Light wood grain table surface with visible texture and natural wood coloration."
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The shoyu (soy sauce) broth is golden-brown, glossy, and contains visible noodles, egg, and toppings."
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "White ceramic ramen bowl with subtle black mark near rim, smooth surface, circular shape, slightly glossy finish."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+ "image": "0429.png",
+ "soup": "salt",
+ "global": "This shio ramen features a clear, light broth with tender chashu pork and a whole boiled egg nestled among crisp cabbage. Served in a white bowl with blue Greek key trim, it rests on a red surface under soft, even lighting.",
+ "regions": {
+  "background": "The table is a solid, smooth, deep red surface with no visible texture or pattern.",
+  "bowl": "White ceramic bowl with blue geometric pattern and Japanese text, featuring a slightly chipped rim.",
+  "soup": "The shio (salt) broth is clear, golden-brown, and glossy, with thin noodles and green cabbage leaves floating on its surface.",
+  "egg": "A whole boiled egg, pale cream-colored, smooth and glossy surface, perfectly round shape.",
+  "meat": "Chashu pork slice shows browned, slightly fatty texture with irregular edges and visible marbling on its surface."
+ },
+ "redone": "soup"
+}

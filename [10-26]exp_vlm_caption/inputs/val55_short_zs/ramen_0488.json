@@ -1,0 +1,46 @@
+{
+  "caption": "A creamy tonkotsu broth fills a white bowl with blue rim. Fresh nori and glossy chashu pork sit atop, on a reddish-brown wooden table.",
+  "seed": 1488,
+  "segments_info": [
+    {
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "text": "reddish-brown wooden table"
+    },
+    {
+      "color": [
+        0,
+        63,
+        255
+      ],
+      "text": "glossy chashu pork slices"
+    },
+    {
+      "color": [
+        0,
+        255,
+        255
+      ],
+      "text": "dark glossy nori seaweed"
+    },
+    {
+      "color": [
+        64,
+        32,
+        32
+      ],
+      "text": "The creamy tonkotsu (pork bone) broth"
+    },
+    {
+      "color": [
+        226,
+        128,
+        128
+      ],
+      "text": "white bowl with blue rim"
+    }
+  ]
+}
